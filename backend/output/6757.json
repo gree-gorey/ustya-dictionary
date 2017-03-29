@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "сапаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сапаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "расса́паться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "рассапаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грызться, царапать друг друга (о животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кошки во дворе са́паются.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошки во дворе сапаются."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") ругаться; драться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "переса́паться)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пересапаться)"
+        }, 
+        {
+          "content": "О как они там са́паются, даже здись слышно. Что вы как кошка с собакой росса́пались!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о как они там сапаются, даже здись слышно. что вы как кошка с собакой россапались!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

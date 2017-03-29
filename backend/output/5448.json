@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "пацаненок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пацанё́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пацаненок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мальчик примерно до 15 лет, затем", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́рень", 
+          "tag": "quote", 
+          "normalized_content": "парень"
+        }, 
+        {
+          "content": ", женатых называют", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мужика́ми", 
+          "tag": "quote", 
+          "normalized_content": "мужиками"
+        }, 
+        {
+          "content": "Помню, я тогда ещё пацанё́нком был, как война началась, и батька забрали на фронт. Я уж па́рнём был, в колхозе робил, ковды он вернулся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "помню, я тогда еще пацаненком был, как война началась, и батька забрали на фронт. я уж парнем был, в колхозе робил, ковды он вернулся."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́рень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "парень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мужи́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мужик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

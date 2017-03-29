@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "разостилать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разостила́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разостилать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстилать, расскладывать, расправлять на поверхности (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разостели́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разостелить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "розосла́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "розослать"
+        }, 
+        {
+          "content": "Ложись спать, я постелю разостели́ла", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ложись спать, я постелю разостелила"
+        }, 
+        {
+          "content": "Севодня весь лён розосла́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодня весь лен розослали."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стлать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стлать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

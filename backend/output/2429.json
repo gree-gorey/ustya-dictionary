@@ -1,0 +1,84 @@
+{
+  "field_for_sorting": "закомить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закоми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закомить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скоми́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скомить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смять, замять, скомкать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грязну-ту станови́ну закоми́ла да в у́гоў бросила. Всю рубаху скоми́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грязну-ту становину закомила да в угоу бросила. всю рубаху скомил."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "побороть, свалить с ног, задавить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Медвидица ево закоми́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "медвидица ево закомила."
+        }, 
+        {
+          "content": "Как я де́́́вку молоду́́́ю закоми́́́л в траву́́́ густу́́́ю", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из частушки).", 
+          "normalized_content": "как я девку молодую закомил в траву густую"
+        }, 
+        {
+          "content": "Хватит ево коми́́́́́ть, он ведь тебя моло́же", 
+          "translation": "(о детях).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит ево комить, он ведь тебя моложе"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коми́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "комить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

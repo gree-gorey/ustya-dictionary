@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "вовсю", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вовсю́́́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вовсю"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дожь на улице льёт вовсю́. Коло́́́тят па́́́рня вовсю́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дожь на улице льет вовсю. колотят парня вовсю."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "совсем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до-то бы́́́ло мне вовсю́́́ отка́́́зываться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо-то было мне вовсю отказываться."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "во́все", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вовсе"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "во́́всё", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вовсе"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "открыто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гринька-та за Сафе́той вовсю́ забе́гал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гринька-та за сафетой вовсю забегал."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

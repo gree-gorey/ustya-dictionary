@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "подтыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подтыка́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подтыкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "потыка́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "потыкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поддразнивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Санька опеть Ваньку подтыка́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "санька опеть ваньку подтыкает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

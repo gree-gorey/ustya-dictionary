@@ -1,0 +1,37 @@
+{
+  "field_for_sorting": "пряженки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пряженки", 
+        "place": [
+          "Кырканда"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "пряженки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пироги́ ходе́лые", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пироги ходелые"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

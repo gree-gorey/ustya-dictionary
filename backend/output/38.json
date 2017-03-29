@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "антересный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Антере́сный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "антересный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "интересный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Антере́сная кни́жка, антере́сноё кино́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "антересная книжка, антересное кино."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") преследующий корыстные цели, свою выгоду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ишь он како́й антере́́сной, ну-ко отда́й ёму́ де́дковы инструме́нты.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ишь он какой антересной, ну-ко отдай ему дедковы инструменты."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

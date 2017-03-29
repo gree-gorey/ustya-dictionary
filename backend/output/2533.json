@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "запахнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запахну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запахнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрыть ворота, двери, створки чего-либо, соединить полы одежды. Протиивоположное", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "распахну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "распахнуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

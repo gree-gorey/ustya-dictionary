@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ссать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ссать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ссать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сосать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́ссать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выссать"
+        }, 
+        {
+          "content": "Телёнок-от ма́тку-ту ро́ду ссать не хоцёт! За́мёр весь. Ско́́́ко ещо́́́ сса́́́ть-то ма́́́тку бу́́́дёшь, веть уш два го́́́да тебе́́́ ско́́́ро?!", 
+          "translation": "(ребёнку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теленок-от матку-ту роду ссать не хоцет! замер весь. скоко ещо ссать-то матку будешь, веть уш два года тебе скоро?!"
+        }, 
+        {
+          "content": "Ягнята всё вымя вы́ссали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ягнята все вымя выссали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

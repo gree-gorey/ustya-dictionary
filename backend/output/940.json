@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "воротца", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воро́тца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воротца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воро́тьця", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "воротьця"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "калитка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прикрой воро́тьця-те! Опе́ть воро́тьця в садо́вник настежь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прикрой воротьця-те! опеть воротьця в садовник настежь!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отверстие в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "езу", 
+          "tag": "quote", 
+          "normalized_content": "езу"
+        }, 
+        {
+          "content": "́ для установки", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мо́рды", 
+          "tag": "quote", 
+          "normalized_content": "морды"
+        }, 
+        {
+          "content": "Лихачево", 
+          "tag": "place"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ез", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ез"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мо́рда", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "морда"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отверстие в ловушке на боровую дичь", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шаткурга", 
+          "tag": "place"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "копылы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копылы́", 
+        "place": [
+          "Кустовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "копылы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянные санки, перемещаемые по снежной дороге усилием человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Копылы́ больше чу́нок, на них перевозили разные грузы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копылы больше чунок, на них перевозили разные грузы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

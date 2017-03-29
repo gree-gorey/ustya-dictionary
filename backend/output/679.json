@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "верховодка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верхово́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "верховодка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уклея (рыба).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "награблять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Награбля́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "награблять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собирать, нагребать: набирать руками картошку; грести с помощью грабель сено; разравнивать, сгребать", 
+          "tag": "def"
+        }, 
+        {
+          "content": "тори́лом", 
+          "tag": "quote", 
+          "normalized_content": "торилом"
+        }, 
+        {
+          "content": "на гумне кучи зерна (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "награ́бить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "награбить"
+        }, 
+        {
+          "content": "Награбля́й зерно в кучу. В покле́т бабушка отправляла за голанкой и награ́́́бить картови.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "награбляй зерно в кучу. в поклет бабушка отправляла за голанкой и награбить картови."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

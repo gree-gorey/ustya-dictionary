@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перепираться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перепира́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перепираться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возражать, отказываться, стараться переложить обязанности на других.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит вам перепира́тьце, взелись за дело, дак ро́бьте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вам перепиратьце, взелись за дело, дак робьте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

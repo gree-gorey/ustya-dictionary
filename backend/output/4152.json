@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "меевник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ме́евник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "меевник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ме́ёвник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "меевник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог с меевами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Приходи́́́-ко ме́́́ёвник-то и́́́сь, мя́́́ккая ры́́́пка-та, мо́́́жно и с костя́́́ми съи́́́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приходи-ко меевник-то ись, мяккая рыпка-та, можно и с костями съись."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

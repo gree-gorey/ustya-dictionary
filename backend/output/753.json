@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вздуматься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взду́маться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вздуматься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "придти на ум.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И надо же такому взду́маться! Взду́малось тибе идти в экую погоду!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и надо же такому вздуматься! вздумалось тибе идти в экую погоду!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "приду́малось", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "придумалось"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

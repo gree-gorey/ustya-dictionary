@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зачасывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зача́сывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачасывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зачесывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Волосьё-то нужно лучше зача́сывать, растрё́па!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волосье-то нужно лучше зачасывать, растрепа!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

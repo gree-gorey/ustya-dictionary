@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "мостки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мостки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мостки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "моски", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "моски"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мостики через маленькие ручьи или овраги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Стри́тились-то ну́ко у довгих моско́в.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стритились-то нуко у довгих москов."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "деревянный помост, один конец которого на берегу, а другой в воде для набора воды, полоскания белья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Моски́́́-то опе́́́ть весно́́́й снесло́́́, отку́́́ль тепе́́́ре полоска́́́ть-то нам!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "моски-то опеть весной снесло, откуль тепере полоскать-то нам!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "деревянные тротуары.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

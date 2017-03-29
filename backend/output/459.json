@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "буди", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́ди", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "буди"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бу́дечи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "будечи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бу́деча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "будеча"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ввод. слово.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "может быть, наверное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бу́ди я пойду? А давай, бу́ди, у Олё́ксы спро́сим?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "буди я пойду? а давай, буди, у олексы спросим?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тогда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На, бу́́ди, возьми на дорогу-ту ша́нёшку! Бу́дечи, оставайсе на́ ночь, уже тё́мно. Бу́дечи побежи́м на перегонки́? Бу́дечи по этой дорошке подём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на, буди, возьми на дорогу-ту шанешку! будечи, оставайсе на ночь, уже темно. будечи побежим на перегонки? будечи по этой дорошке подем."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

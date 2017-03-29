@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "ситчик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́тчик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ситчик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ситечо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ситечок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ситец.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

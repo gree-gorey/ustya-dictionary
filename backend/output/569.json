@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вбродь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вбродь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вбродь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вброд.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Летом за ричку всё вбродь ходим.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "летом за ричку все вбродь ходим."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

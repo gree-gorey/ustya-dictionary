@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скумекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скуме́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скумекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сообразить, догадаться, придумать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он во́время скуме́кал. Дава́́́й-ко вми́́́сте-то покуме́́́каём, дак чево́́́-нибу́́́ть и скуме́́́каём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он вовремя скумекал. давай-ко вмисте-то покумекаем, дак чево-нибуть и скумекаем."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "куме́кать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кумекать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

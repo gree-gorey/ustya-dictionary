@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "повезай", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Повеза́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повезай"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повези.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Повеза́й давай, а то отёмна́ёшь. Повеза́́́й пальто́́́-то, ро́́́ду не жа́́́ль, я и ф куфа́́́йке похожу́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "повезай давай, а то отемнаешь. повезай пальто-то, роду не жаль, я и ф куфайке похожу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

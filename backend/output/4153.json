@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "межень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ме́жень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "межень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "меже́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "межень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сезонно низкий уровень воды в колодцах и реках (в марте и августе).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "межо́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "межонь"
+        }, 
+        {
+          "content": "Э́́́кая ме́́́жонь-то наста́́́ла, у люде́́́й ф коло́дце воды́́́ не ста́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экая межонь-то настала, у людей ф колодце воды не стало."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нормальный уровень воды в водоеме, установившийся после весеннего половодья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Река стала на меже́нь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "река стала на межень."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

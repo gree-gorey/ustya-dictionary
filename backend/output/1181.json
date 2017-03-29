@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выпад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́пад", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпад"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устье речки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На вы́паде Кочкурги сейчас рыба хорошо ловится.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на выпаде кочкурги сейчас рыба хорошо ловится."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

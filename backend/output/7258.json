@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "спучить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спу́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вздуть живот (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пу́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пучить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

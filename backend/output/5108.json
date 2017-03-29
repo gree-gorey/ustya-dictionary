@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "он", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "он"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́́́но", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "частица указания и усиления", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "вот (как) (сокр. от «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "во́́́н", 
+          "tag": "quote", 
+          "normalized_content": "вон"
+        }, 
+        {
+          "content": "во́́́но", 
+          "tag": "quote", 
+          "normalized_content": "воно"
+        }, 
+        {
+          "content": "Он как купается! Он как колет, токо поленья летят. О́́́но как де́́́ло-то оберну́́́лосе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он как купается! он как колет, токо поленья летят. оно как дело-то обернулосе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

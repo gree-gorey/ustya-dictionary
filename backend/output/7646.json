@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "топотушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топоту́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топотушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ласковое название начинающего ходить ребенка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

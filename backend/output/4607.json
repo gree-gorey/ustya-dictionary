@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наспех", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́спех", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наспех"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "торопливо, небрежно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сделал на́спех, курам на́ смех", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "сделал наспех, курам на смех"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

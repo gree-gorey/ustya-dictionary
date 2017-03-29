@@ -1,0 +1,205 @@
+{
+  "field_for_sorting": "студить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Студи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "студить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "охлаждать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "застуди́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "простуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "простудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отстуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отстудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "остуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "остудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отсту́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отстуживать"
+        }, 
+        {
+          "content": "Холодя́нкой горло застуди́л. Остуди́ парное-то молоко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "холодянкой горло застудил. остуди парное-то молоко."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "морозить, подвергать воздействию низкой температуры (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "застуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "простуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "простудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "застужа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застужать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "засту́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застуживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "простужа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "простужать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "просту́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "простуживать"
+        }, 
+        {
+          "content": "Всево ребёнка-то на улице застуди́ла, а то так и простуди́ть можно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всево ребенка-то на улице застудила, а то так и простудить можно."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "делать холодным помещение (избу, баню, хлев, погреб и т. д.), выпуская из него тепло (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́студить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выстудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "настуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выстужа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выстужать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "высту́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выстуживать"
+        }, 
+        {
+          "content": "Не студи́ избу, закрой дверь. Всю баню вы́студили. Севодня в избе сильно настуди́ли. Нечево тепло высту́живать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не студи избу, закрой дверь. всю баню выстудили. севодня в избе сильно настудили. нечево тепло выстуживать!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

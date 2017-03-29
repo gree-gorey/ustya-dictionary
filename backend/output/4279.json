@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "мотыляться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мотыля́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мотыляться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мота́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мотаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить вразвалку; слоняться без дела (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "промотыля́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "промотыляться"
+        }, 
+        {
+          "content": "И не надое́́́ло уш мотыля́́́тьце-то сто́́́ко вре́́́мя? Пора́́́ робо́́́ту иска́́́ть. Промотыля́́лсе весь день, а теперь ись про́сишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и не надоело уш мотылятьце-то стоко время? пора роботу искать. промотылялсе весь день, а теперь ись просишь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "олотьязыком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оло́ть языко́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "олоть языком"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болтать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мя́лка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мялка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

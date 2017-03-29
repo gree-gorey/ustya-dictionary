@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "уписывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упи́сывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уписывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро, много и с аппетитом есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наголода́ўсе на чужо́й стороне́, дак до́ма упи́сываёт за о́бе щё́ки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наголодаусе на чужой стороне, дак дома уписывает за обе щеки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

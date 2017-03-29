@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "беспонятный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беспоня́тный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беспонятный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестолковый, недогадливый, несообразительный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да що ты тако́й беспоня́тной, у́повод объесне́ю, а всё не по́няў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да що ты такой беспонятной, уповод объеснею, а все не поняу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

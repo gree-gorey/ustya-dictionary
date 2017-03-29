@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "колпачить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колпачи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колпачить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коўпачи́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коупачить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "колотма́шить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колотмашить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бить, ударять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наколпачи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наколпачить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отколпачи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отколпачить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наколоба́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наколобашить"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "наколпа́чиэть)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "наколпачиэть)"
+        }, 
+        {
+          "content": "Наколоба́шила я кота за то, что неладно делаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наколобашила я кота за то, что неладно делает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

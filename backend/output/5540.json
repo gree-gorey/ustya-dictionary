@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пересыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пересыка́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пересыкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно менять положение тела и конечностей, пребывать в нетерпении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты ногами пересыка́ёшь, болят що́ ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты ногами пересыкаешь, болят що ли?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ска́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

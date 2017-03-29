@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "карапет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Карапе́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карапет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький ростом, не по возрасту низкорослый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он в сравнеии с ровесниками – карапе́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он в сравнеии с ровесниками – карапет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

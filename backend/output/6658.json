@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "заростить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заро́стить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заростить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "долго не следить за чистотой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь дом грезью заро́стила!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь дом грезью заростила!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ро́стить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ростить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "отро́стить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отростить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

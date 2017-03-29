@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "распутка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распу́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распутка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "название самого первого весеннего насекомого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уже распу́тки на снегу на реке появились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже распутки на снегу на реке появились."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

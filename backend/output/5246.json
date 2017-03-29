@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отелепок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отелё́пок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отелепок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спокойный, упитанный, тяжеловатый человек, увалень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Какой отелё́пок ростёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "какой отелепок ростет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

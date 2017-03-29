@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сматываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сма́тываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сматываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немедленно уходить, убираться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо сма́тыватьсе и́з лесу, пока гроза не начала́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо сматыватьсе из лесу, пока гроза не началасе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ума́тываться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уматываться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

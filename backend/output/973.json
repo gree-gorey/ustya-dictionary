@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "восча", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Восча́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "восча"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воща́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "воща"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "восся́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "восся"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "название девочки–непоседы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты и воща́, сядь хоть, посиди немного-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и воща, сядь хоть, посиди немного-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бойкая, проворная женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эта восча́ кажной день по ноше ягод носит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эта восча кажной день по ноше ягод носит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "стреженье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стреже́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стреженье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "стреже́ньё", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "стреженье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелкие стеклянные осколки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чё с рукой сро́била? – Да́ве стакан разбила, дак порезалась стреже́ньём–то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "че с рукой сробила? – даве стакан разбила, дак порезалась стреженьем–то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

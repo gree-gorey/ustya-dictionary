@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вздых", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вздых", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вздых"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отдых, передышка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С весны до осени с роботой взды́ху нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с весны до осени с роботой вздыху нет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

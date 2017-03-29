@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лобан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лоба́́́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лобан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высокое возвышенное место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По-другому это место называлось Крутая гора. Красивый лоба́н, открытый ясному солнышку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по-другому это место называлось крутая гора. красивый лобан, открытый ясному солнышку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

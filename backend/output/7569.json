@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "теребилки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тереби́лки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "теребилки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособления для чесания и растеребливания шерсти.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "допетать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Допе́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "допетать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дотащить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Еле допе́тал этот мешок до дома.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "еле допетал этот мешок до дома."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пе́тать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "петать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

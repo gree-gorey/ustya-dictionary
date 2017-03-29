@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "америкупостроить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аме́рику постро́ить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "америку построить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наговорить, наобещать невозможного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она тибе Аме́рику постро́ит, ты токо ие слушай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она тибе америку построит, ты токо ие слушай!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

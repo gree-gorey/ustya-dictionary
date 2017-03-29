@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "любушко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лю́бушко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "любушко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уменьшительно-ласковое обращение к ребенку или любимому человеку.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "нелюби́ще", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нелюбище"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

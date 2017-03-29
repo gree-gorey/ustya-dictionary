@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заведенье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заведе́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заведенье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имущество.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У их заведе́нья-то назаво́жонось, да ой!", 
+          "translation": "всего много.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у их заведенья-то назавожонось, да ой!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

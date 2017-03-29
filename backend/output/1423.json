@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "головач", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голова́ч", 
+        "place": [
+          "Максимовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "головач"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полевое растение с большими синими цветами, используют для лечения головной боли.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

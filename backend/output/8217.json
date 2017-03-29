@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "хрушко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хру́шко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрушко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хрушко́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хрушко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вхрушку́ю", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вхрушкую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крупными частями, крупно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хру́шко колёшь сахар", 
+          "translation": "крупными кусками.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хрушко колешь сахар"
+        }, 
+        {
+          "content": "Не хрушко́ ли бу́́дёт?", 
+          "translation": "не слишком ли крупно?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не хрушко ли будет?"
+        }, 
+        {
+          "content": "Шщо уш хру́́́шко карто́́́шку-ту кро́́́шишь в суп? На за́спу зёрно мололи вхрушку́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо уш хрушко картошку-ту крошишь в суп? на заспу зерно мололи вхрушкую."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

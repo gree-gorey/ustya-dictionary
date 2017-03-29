@@ -1,0 +1,108 @@
+{
+  "field_for_sorting": "сдеребанивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сдереба́нивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сдеребанивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сдирать, стаскивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё сено с повети-то сдерба́нили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все сено с повети-то сдербанили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") «стаскивать», красть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты эту бабу́шку-ту сдерьбаниý?", 
+          "translation": "где стащил игрушку-то?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты эту бабушку-ту сдерьбаниý?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "удирать", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посдереба́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посдеребанивать"
+        }, 
+        {
+          "content": "Собрались да посдерьба́нили на рицьку!", 
+          "translation": "удрали на речку купаться.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собрались да посдерьбанили на рицьку!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро есть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насдереба́ниваться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насдеребаниваться"
+        }, 
+        {
+          "content": "Супу насдереба́́нивалсе одново и сыт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "супу насдеребанивалсе одново и сыт."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "долгий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́лгий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долгий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "до́лгой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "долгой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "долго́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "долгой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́лгие доски", 
+          "translation": "длинные.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долгие доски"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "высокий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну у тебя мужик и до́лгой! Как жерди́на.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну у тебя мужик и долгой! как жердина."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

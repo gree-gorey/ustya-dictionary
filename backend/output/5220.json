@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "острога", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Острога", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "острога"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рыболовная снасть, используемая при охоте на рыб «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "с лучо́м", 
+          "tag": "quote", 
+          "normalized_content": "с лучом"
+        }, 
+        {
+          "content": "»: небольшие вилы, насаженные на деревянный черен", 
+          "tag": "def"
+        }, 
+        {
+          "content": "острогови́ще", 
+          "tag": "quote", 
+          "normalized_content": "остроговище"
+        }, 
+        {
+          "content": ". Наконечники (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "рога́", 
+          "tag": "quote", 
+          "normalized_content": "рога"
+        }, 
+        {
+          "content": ") остроги имеют зазубрины, предотвращающие сход рыбы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лучить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лучить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

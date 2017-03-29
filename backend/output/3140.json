@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "кантоваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кантова́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кантоваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пребывать какое-то время в выгодном, приемлемом для себя положении (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перекантова́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перекантоваться"
+        }, 
+        {
+          "content": "Есть любители кантова́ться за чужой счет. Ему бы эту зиму где перекантова́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "есть любители кантоваться за чужой счет. ему бы эту зиму где перекантоваться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

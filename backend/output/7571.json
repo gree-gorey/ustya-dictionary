@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "теривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Те́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "теривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неоднократно терять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уте́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "утеривать"
+        }, 
+        {
+          "content": "Я эту стамеску уж не раз те́ривал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я эту стамеску уж не раз теривал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

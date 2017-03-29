@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "послезавтрия", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Послеза́втрия", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "послезавтрия"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "послезавтра.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

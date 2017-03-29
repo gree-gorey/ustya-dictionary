@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "раз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Раз", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "раз"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "однажды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Помню раз, коней вы́пустили, они розыгра́лись, ска́чут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "помню раз, коней выпустили, они розыгрались, скачут."
+        }, 
+        {
+          "content": "В давние времена был дьячок, сильный пьяница. Раз шёл с праздника", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Угощенье». М.И. Шалаурова.", 
+          "normalized_content": "в давние времена был дьячок, сильный пьяница. раз шел с праздника"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

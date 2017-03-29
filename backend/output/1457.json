@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "гоны", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́ны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гоны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "части поля: длинные полосы земли делили на более короткие", 
+          "tag": "def"
+        }, 
+        {
+          "content": "го́ны", 
+          "tag": "quote", 
+          "normalized_content": "гоны"
+        }, 
+        {
+          "content": "из-за неодинакового состава почвы в разных концах поля.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

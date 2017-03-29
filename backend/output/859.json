@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "водохлеб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Водохлё́б", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "водохлеб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек или домашнее животное, пьющие много воды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нас вся семья водохлё́бы, самовар кипятку выпиваём зара́з.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нас вся семья водохлебы, самовар кипятку выпиваем зараз."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

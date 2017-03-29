@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "цака-цака-цака", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ца́ка-ца́ка-ца́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "цака-цака-цака"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "це́ка-це́ка-це́ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "цека-цека-цека"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ча́ки-ча́ки-ча́́́ки!", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чаки-чаки-чаки!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для овец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Помани́́́ хле́́́бушком ове́́́ць-то, да говори́́́ ешщо́́́: «Ча́́́ки-ча́́́ки-ча́́́ки!» – оне́́́ и пойду́́́т за хле́́́бом-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "помани хлебушком овець-то, да говори ешщо: «чаки-чаки-чаки!» – оне и пойдут за хлебом-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́ка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чака"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

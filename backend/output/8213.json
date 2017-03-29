@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "хрумкнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хру́мкнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрумкнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хрустнуть едой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лошадь смешно хру́мкнула морковкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лошадь смешно хрумкнула морковкой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "съесть с хрустом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схру́мкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрумкнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нако хру́мкни репку-то. Я бросил собаке сухарь, она токо схру́мкнула.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нако хрумкни репку-то. я бросил собаке сухарь, она токо схрумкнула."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хру́мкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хрумкать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

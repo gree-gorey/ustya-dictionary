@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "баситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баси́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "красиво одеваться, наряжаться; наводить на себя красоту (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́баситься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выбаситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "избаси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "избаситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набаси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набаситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перебаси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебаситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "побаси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побаситься"
+        }, 
+        {
+          "content": "А́хти мне́ченьки, куды эдак, дева, вы́басилась-то? Вся избаси́лась! Экак набаси́лась-то, опеть куды-то пошла-то? Охота дефкам-то побаси́ться, приду́мали волосы марганцо́вкой красить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ахти мнеченьки, куды эдак, дева, выбасилась-то? вся избасилась! экак набасилась-то, опеть куды-то пошла-то? охота дефкам-то побаситься, придумали волосы марганцовкой красить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

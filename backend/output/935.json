@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "вороньявша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воро́нья вша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воронья вша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воро́нья вошь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "воронья вошь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кровососущий, впивающийся в тело животных и человека клещ, иногда энцефалитный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

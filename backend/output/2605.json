@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "засалить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заса́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засалить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запачкать жиром, нефтепродуктами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жидомор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жидомо́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жидомор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скряга, скупердяй.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эте жидомо́ры чем бога́че, тем жадня́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эте жидоморы чем богаче, тем жадняе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

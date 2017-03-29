@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вдоволь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдо́воль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдоволь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вволю, сколько хочешь, много.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наелся вдо́воль.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наелся вдоволь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

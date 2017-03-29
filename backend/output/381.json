@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "борщовка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Борщо́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "борщовка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "большо́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "большовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "растение борщевик.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

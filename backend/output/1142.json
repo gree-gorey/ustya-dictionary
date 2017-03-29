@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выйтивживоты", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выйти в животы́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выйти в животы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жениться на женщине и поселиться жить в ее доме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Петька к Марье в животы́ вышёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "петька к марье в животы вышел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "коровники", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коро́вники", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коровники"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коровя́та", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коровята"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коровяки́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коровяки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "моховики: губчатые грибы желтого цвета, при прикосновениях и на изломах быстро синеют.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А шщо́́́? Коровеки́́́ – грибы́́́ не худы́́́е, до́́́ўго не по́́́ртятце, не черви́́́вы и сушы́́́ть добро́́́ их.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а шщо? коровеки – грибы не худые, доуго не портятце, не червивы и сушыть добро их."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

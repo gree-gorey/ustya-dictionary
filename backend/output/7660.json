@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "торкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́ркаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "торкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стучаться в дверь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто там то́ркаетсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто там торкаетсе?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "толкаться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

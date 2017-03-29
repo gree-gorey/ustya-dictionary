@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "лупыши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лу́пыши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лупыши"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лупе́тки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лупетки"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево лу́пыши-то вы́лупи́ў? Смотри, лупыши не вы́тычь!", 
+          "translation": "осторожней при ходьбе по лесу!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево лупыши-то вылупиу? смотри, лупыши не вытычь!"
+        }, 
+        {
+          "content": "Що лупе́тки-то пре́чёшь, чово опеть нела́дно сробиў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що лупетки-то пречешь, чово опеть неладно сробиу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

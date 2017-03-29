@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "будьтынедаром", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Будь ты не́даром", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "будь ты недаром"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "будь ты нела́́́ден", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "будь ты неладен"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выражения огорчения, возмущения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будь ты не́даром, опеть снегу навалило!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будь ты недаром, опеть снегу навалило!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "скоромиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скоро́миться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скоромиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поесть чего-либо скоромного в пост (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оскоро́миться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскоромиться"
+        }, 
+        {
+          "content": "Веть не на́́́до бы скоро́́́митьце-то, ещо по́́́с не ко́́́нциўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "веть не надо бы скоромитьце-то, ещо пос не конциусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

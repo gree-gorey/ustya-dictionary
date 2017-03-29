@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изгвоздаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгвозда́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгвоздаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устать от тяжелой работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь изгвозда́ўсе сево́дня, до того́ доро́биў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь изгвоздаусе севодня, до того доробиу!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

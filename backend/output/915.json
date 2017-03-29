@@ -1,0 +1,101 @@
+{
+  "field_for_sorting": "вольняя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вольня́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вольняя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вольня́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вольняе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вольне́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вольнее"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "повольня́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "повольняя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свободнее и/или проще (в отношении поведения).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У бабушки-то в деревне им вольня́я", 
+          "translation": "(о детях).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у бабушки-то в деревне им вольняя"
+        }, 
+        {
+          "content": "Зимой пряли. Собирались в избе, у кого повольня́е, со своей лучи́ной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зимой пряли. собирались в избе, у кого повольняе, со своей лучиной."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "просторнее (в отношении размера одежды).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этой-то рубахе мне вольня́е ро́бить. Пойдёшь сено-то косить, дак одень эту-ту рубаху, она повольня́я.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этой-то рубахе мне вольняе робить. пойдешь сено-то косить, дак одень эту-ту рубаху, она повольняя."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свежее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бо́льно жарко в бане-то, пойду посижу в си́нцах, там вольня́я (повольня́я).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "больно жарко в бане-то, пойду посижу в синцах, там вольняя (повольняя)."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

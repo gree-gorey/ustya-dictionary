@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "добер", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Добё́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "добер"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "добр, хорош, годится.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конь добёр у тебя", 
+          "translation": "хорош.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конь добер у тебя"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "карга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Карга́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ворона.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") старая некрасивая женщина, старуха ( финское", 
+          "tag": "def"
+        }, 
+        {
+          "content": "karhy", 
+          "tag": "quote", 
+          "normalized_content": "karhy"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

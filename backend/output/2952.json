@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "излежать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Излежа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "излежать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "излежа́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "излежаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испортиться, разрушиться от длительного хранения (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "лежа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "лежать"
+        }, 
+        {
+          "content": "В сундуке всё полотно́ излёжа́ло(сь), на сги́бах уж рвё́тце. Не на́до до́лго дава́ть оде́жде лежа́ть, а то вы́бросишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в сундуке все полотно излежало(сь), на сгибах уж рветце. не надо долго давать одежде лежать, а то выбросишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

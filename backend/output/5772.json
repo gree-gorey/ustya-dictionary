@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "подлаживаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подла́живаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подлаживаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прила́живаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прилаживаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспосабливаться, подстраиваться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заподла́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заподлаживаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заприла́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заприлаживаться"
+        }, 
+        {
+          "content": "Нечево подла́живатьсе, ты меня обидел", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево подлаживатьсе, ты меня обидел"
+        }, 
+        {
+          "content": "Дефка будёшь прила́живаться-то, дак и проживёшь с мужиком в любви да в согласии всю жизнь. Ишь опеть заподла́живалсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дефка будешь прилаживаться-то, дак и проживешь с мужиком в любви да в согласии всю жизнь. ишь опеть заподлаживалсе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "подла́диться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подладиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

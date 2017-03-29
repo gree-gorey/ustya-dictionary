@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "избродки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Избро́дки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "избродки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "худая, изношенная обувь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Около дому в избро́дках ходили, ковды сухо было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "около дому в избродках ходили, ковды сухо было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

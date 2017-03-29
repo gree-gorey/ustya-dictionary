@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "барс", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Барс", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "барс"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ба́рсик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "барсик"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой деревянный молот (из чурки), применяемый плотниками для осаживания брёвен.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сади́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "садить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "посади́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "посадить"
+        }, 
+        {
+          "content": "(бревно), (бревно).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

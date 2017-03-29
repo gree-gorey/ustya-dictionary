@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смиренно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смирё́нно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смиренно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смирно, спокойно, скромно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подё́шь в гости-то дак веди́ себя смирё́нно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подешь в гости-то дак веди себя смиренно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

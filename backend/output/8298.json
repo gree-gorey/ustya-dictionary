@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "чащевина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чащеви́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чащевина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "густой лес, заросли деревьев и кустарников.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "чащо́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чащоба"
+        }, 
+        {
+          "content": "В жару коровы спасаютце от о́воду в чащо́бе. Через эту чащеви́ну прямо не пройти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в жару коровы спасаютце от оводу в чащобе. через эту чащевину прямо не пройти."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

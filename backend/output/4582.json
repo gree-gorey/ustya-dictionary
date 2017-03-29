@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "наряжать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наряжа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наряжать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "давать наряд на работу, посылать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "нареди", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нареди"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ть"
+        }, 
+        {
+          "content": "́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }, 
+        {
+          "content": "Бригадир наряди́́л сегодня жито жать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бригадир нарядил сегодня жито жать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

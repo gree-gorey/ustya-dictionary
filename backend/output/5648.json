@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "плотик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пло́тик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плотик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький плот для одного-двух человек.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "плот", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "плот"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

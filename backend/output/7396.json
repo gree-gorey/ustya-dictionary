@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "суе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "всу́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "всуе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напрасно, даром, тщетно, попусту.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

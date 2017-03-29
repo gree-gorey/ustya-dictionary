@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "головнаяполоса", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Головна́я полоса́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "головная полоса"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "головни́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "головница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "головну́ха", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "головнуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полоса надела земли, расположенная поперечно остальным.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

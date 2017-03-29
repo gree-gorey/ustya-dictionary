@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вредной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вре́дной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вредной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недоброжелательный, намеренно делающий плохое назло, во вред.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вре́дён", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вреден"
+        }, 
+        {
+          "content": "Ну и вре́дная старуха, до чево вредна́-то дак!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и вредная старуха, до чево вредна-то дак!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

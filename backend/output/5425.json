@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "паска", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́ска", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паска"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "Пасха один из главных христианских праздников.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пасхальный сдобный пирог, кулич.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

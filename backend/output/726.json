@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вжитье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вжитье́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вжитье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в хозяйстве, в наличии.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бензопилы у меня вжитье́ не бывало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бензопилы у меня вжитье не бывало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

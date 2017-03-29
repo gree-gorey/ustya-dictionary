@@ -1,0 +1,150 @@
+{
+  "field_for_sorting": "гумно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гумно́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гумно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гувно́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гувно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинное строение под двухскатной крышей, с земляным глинянным полом", 
+          "tag": "def"
+        }, 
+        {
+          "content": "(доло́нью)", 
+          "tag": "quote", 
+          "normalized_content": "(долонью)"
+        }, 
+        {
+          "content": "и пристроенным к нему", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ови́ном", 
+          "tag": "quote", 
+          "normalized_content": "овином"
+        }, 
+        {
+          "content": ", предназначенное для сушки зерна в овине и обмолачивания снопов. Молотили зерно вручную", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кичи́гами", 
+          "tag": "quote", 
+          "normalized_content": "кичигами"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "цепа́ми", 
+          "tag": "quote", 
+          "normalized_content": "цепами"
+        }, 
+        {
+          "content": ", позднее машинами-молотилками. В нем также хранили солому,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "хиву́", 
+          "tag": "quote", 
+          "normalized_content": "хиву"
+        }, 
+        {
+          "content": "(мякину),", 
+          "tag": "def"
+        }, 
+        {
+          "content": "горо́ховину", 
+          "tag": "quote", 
+          "normalized_content": "гороховину"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "льнотресту́", 
+          "tag": "quote", 
+          "normalized_content": "льнотресту"
+        }, 
+        {
+          "content": ". При единоличном хозяйстве иногда два-три хозяйства пользовались одним гумном, в основном, родственники.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "доло́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "долонь"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ови́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "овин"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кичи́га", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кичига"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́чеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очеп"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "цеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "цеп"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "скупо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ску́по", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скупо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедно, в нужде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне ску́по живут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне скупо живут."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в малом количестве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мучки-то ску́по осталосе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мучки-то скупо осталосе."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "медленно, тонкой струйкой, маленькими порциями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кипяток ску́по из крана бежит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кипяток скупо из крана бежит."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тесно, мал размер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пальто тебе ску́по.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пальто тебе скупо."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

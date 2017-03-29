@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "огниво", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Огни́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огниво"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старинное приспособление для добычи огня, до массового появления спичек широко использовалось в нашей местности. Состояло из трех частей:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "креса́ло", 
+          "tag": "quote", 
+          "normalized_content": "кресало"
+        }, 
+        {
+          "content": "пла́шка", 
+          "tag": "quote", 
+          "normalized_content": "плашка"
+        }, 
+        {
+          "content": "кре́мень", 
+          "tag": "quote", 
+          "normalized_content": "кремень"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "трут", 
+          "tag": "quote", 
+          "normalized_content": "трут"
+        }, 
+        {
+          "content": ", хранившиеся вместе в специальном непромокаемом кожаном мешочке наподобие кисета. Ударяя резко кресалом о кремень, высекали искру, которая попадала на трут и воспламеняла его.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "креса́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кресало"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пла́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "плашка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кре́мень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кремень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трут", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трут"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

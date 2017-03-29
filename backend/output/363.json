@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "бормотало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бормота́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бормотало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "невнятно говорящий, бормочущий человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Вирине́йки – бормота́ла не поймё́шь, що ба́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у виринейки – бормотала не поймешь, що бает."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "бормоту́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бормотун"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

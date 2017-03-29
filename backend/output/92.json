@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "баклажка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бакла́жка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баклажка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бакла́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баклашка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "фляжка или аналогичный сосуд под воду, квас или другие напитки, который носили на поясе и брали с собой в дорогу или на работу в поле, в лесу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где моя рубаха, где мои штаны, где моя бакла́жка с левой стороны?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где моя рубаха, где мои штаны, где моя баклажка с левой стороны?"
+        }, 
+        {
+          "content": "(частушка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

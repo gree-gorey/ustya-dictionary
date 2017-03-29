@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сарапина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сара́пина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сарапина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "царапина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Откуль взелись сара́пины на щёках?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "откуль взелись сарапины на щеках?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

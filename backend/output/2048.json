@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ехитник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ехи́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ехитник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ехи́да", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ехида"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ехи́дина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ехидина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ехи́дник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ехидник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хитрый, вредный, злой, пакостливый, унижающий, склонный к насмешкам, язвительный, ехидный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ехи́дину такую никто не любит. Ну и ехи́тник жо ты, обери́ тя ле́шой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ехидину такую никто не любит. ну и ехитник жо ты, обери тя лешой!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

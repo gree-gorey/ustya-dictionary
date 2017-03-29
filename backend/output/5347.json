@@ -1,0 +1,57 @@
+{
+  "field_for_sorting": "очур", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очу́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очур"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "граница. На подходах, границах селений в языческой Руси ставили столбы с останками предков", 
+          "tag": "def"
+        }, 
+        {
+          "content": "чу́ров", 
+          "tag": "quote", 
+          "normalized_content": "чуров"
+        }, 
+        {
+          "content": "или", 
+          "tag": "def"
+        }, 
+        {
+          "content": "щу́ров", 
+          "tag": "quote", 
+          "normalized_content": "щуров"
+        }, 
+        {
+          "content": "(отсюда «пращур»). Они «охраняли» селение от злых духов. Покидаешь очур лишаешься их защиты.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "чур", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чур"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

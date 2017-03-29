@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "норовить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Норови́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "норовить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удовлетворять чьим-либо интересам, угождать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снорови́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сноровить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "унорови́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уноровить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сноровле́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сноровлеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "уноровле́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уноровлеть"
+        }, 
+        {
+          "content": "Надо-то ведь людям норови́ть (уноровле́ть)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо-то ведь людям норовить (уноровлеть)!"
+        }, 
+        {
+          "content": "Сго́нит он меня в могилу, куды деваться? Мужу ничем унорови́ть не могу", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "сгонит он меня в могилу, куды деваться? мужу ничем уноровить не могу"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "стремиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И твои дочери, куды не вы́даны, все они живут людям на за́висть, нахвалиться на них не мо́жут. Вот и мы норови́м к вам в поро́ду", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "и твои дочери, куды не выданы, все они живут людям на зависть, нахвалиться на них не можут. вот и мы норовим к вам в породу"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

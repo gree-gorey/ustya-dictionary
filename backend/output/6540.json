@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "рассошки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рассо́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рассошки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "россо́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "россошки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росо́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "росошки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разлад.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она со мной не разговариваёт, у нас росо́шки", 
+          "translation": "мы в ссоре.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она со мной не разговаривает, у нас росошки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

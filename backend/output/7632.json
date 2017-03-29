@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "толстой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Толсто́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толстой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тоўсто́́́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тоустой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толстый, объемный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До тово́́́ мужы́́́к-от тоўсто́́́й стаў. – Добро́́́ жыть стаў или боли́́́ёт? Лес – толсто́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до тово мужык-от тоустой стау. – добро жыть стау или болиет? лес – толстой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

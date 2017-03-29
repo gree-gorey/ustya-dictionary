@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "солоница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Солони́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "солоница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянная или берестяная солонка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Насы́пь соли в солони́цу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "насыпь соли в солоницу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

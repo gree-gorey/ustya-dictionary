@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "волосинка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волоси́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волосинка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинный тонкий стебель травы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На пёнтуси́не травка – одне волоси́нки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на пентусине травка – одне волосинки."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "волоси́нник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "волосинник"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

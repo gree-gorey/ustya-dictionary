@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "мослы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мослы́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мослы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крупные кости и суставы конечностей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

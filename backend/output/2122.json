@@ -1,0 +1,84 @@
+{
+  "field_for_sorting": "жердь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Же́рдь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жердь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жердьё́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жердье"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "же́рди", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "жерди"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обработанный длинный тонкий ствол дерева, используемый для разных нужд. Например, жердями в изгороди огораживали поля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рубили жердьё́ да па́сву, городи́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рубили жердье да пасву, городили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в отличие от «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "остро́ви", 
+          "tag": "quote", 
+          "normalized_content": "острови"
+        }, 
+        {
+          "content": "», гладкий, ровный и тонкий ствол деревца с заостренным концом, втыкаемый в землю и служащий опорой копны, зарода («", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стожа́р", 
+          "tag": "quote", 
+          "normalized_content": "стожар"
+        }, 
+        {
+          "content": "кол", 
+          "tag": "quote", 
+          "normalized_content": "кол"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

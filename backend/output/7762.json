@@ -1,0 +1,137 @@
+{
+  "field_for_sorting": "турнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́рнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "турнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "турну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "турнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгнать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́турнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытурнуть"
+        }, 
+        {
+          "content": "Турну́ла его из избы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "турнула его из избы."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свалить, опрокинуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Турну́л ево в снег.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "турнул ево в снег."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "толкнуть с силой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так турну́́́ў (ту́́́рнуў) с крыльца́́́, дак фсе ступе́́́ньки цють за́́́дним ме́́́стом не пересцита́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так турнуу (турнуу) с крыльца, дак фсе ступеньки цють задним местом не пересцитала."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бросить, кинуть, небрежно положить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́турнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытурнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зату́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затурнуть"
+        }, 
+        {
+          "content": "Ту́рнул рукавицы как попало, вот они за ночь и не вы́сохли, одевай такие! Зату́рнул ка́танцы за печку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "турнул рукавицы как попало, вот они за ночь и не высохли, одевай такие! затурнул катанцы за печку."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "у́рнуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "урнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тури́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "турить"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

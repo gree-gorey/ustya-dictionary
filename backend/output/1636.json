@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "двоиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двои́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двоиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздваиваться, искажаться изображению в глазах человека при разных нарушениях зрения и снижении его остроты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не вижу без очков, буквы двоя́тце в глазах.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не вижу без очков, буквы двоятце в глазах."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

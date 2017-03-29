@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "горсть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Горсть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горсть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "горсь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "горсь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрытая ладонь сжатыми вместе пальцами рук.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мера чего-либо рыхлого, сыпучего, вмещающегося в ладонь и согнутые пальцы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Горсть муки́, горсь со́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "горсть муки, горсь соли."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пучок стеблей хлеба, травы, захваченных рукой и срезанных серпом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ищо две го́́рсти и будёт сноп.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ищо две горсти и будет сноп."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мера обработки льна при тереблении, мятье, трепании, чесании.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В пове́сме две го́рсти чё́саного льноволокна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в повесме две горсти чесаного льноволокна."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

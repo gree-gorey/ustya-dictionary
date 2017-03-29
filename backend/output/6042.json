@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "посолонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посолони́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посолонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предложить, дать поесть соленого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Посолони́сь", 
+          "translation": "поешь солененького.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "посолонись"
+        }, 
+        {
+          "content": "Мо́жёт вас посолони́ть? Пое́шьте-ко солё́ной трески́, то́лько что кипятко́м зава́рёна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "может вас посолонить? поешьте-ко соленой трески, только что кипятком заварена."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

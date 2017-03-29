@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "балда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Балда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "балда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестолковый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот балда́ какой, всё напу́тал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот балда какой, все напутал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") голова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Балда́-та видно нечово́ не соображаёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "балда-та видно нечово не соображает?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

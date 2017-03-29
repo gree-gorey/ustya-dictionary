@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "эко(й)ничево–то", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́ко(й) ничево́–то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "эко(й) ничево–то"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "что–либо маленькое, неприметное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что-то э́ко ничево-то наросло́ сейгод.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что-то эко ничево-то наросло сейгод."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ирон.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") маленький, хлюпенький, неприметный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́кой ничево́-то, а ищо заеда́ется. Эко ничево-то, а лаёт!", 
+          "translation": "(о собачке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой ничево-то, а ищо заедается. эко ничево-то, а лает!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

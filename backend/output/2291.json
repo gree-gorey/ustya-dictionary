@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заворот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заворо́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заворот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поворот, разворот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там река-то какой большой заворо́т делаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там река-то какой большой заворот делает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

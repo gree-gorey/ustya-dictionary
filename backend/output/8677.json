@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "юркнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ю́ркнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юркнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро скрыться из виду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скворец весело прочири́кал и ю́ркнул в скворе́шник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скворец весело прочирикал и юркнул в скворешник."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

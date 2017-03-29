@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "мартовсийкот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ртовсий кот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мартовсий кот"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гуляка, усиленно ухаживающий за противоположным полом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

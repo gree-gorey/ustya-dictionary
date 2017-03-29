@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "извикивичные", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изви́ки ви́чные", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "извики вичные"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рано.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да оне уже изви́ки ви́чные в лес убежали!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да оне уже извики вичные в лес убежали!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "давно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да ево уже изви́ки ви́чные как нет", 
+          "translation": "давно умер.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да ево уже извики вичные как нет"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

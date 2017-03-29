@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "байкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́йкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "байкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убаюкивать малого ребенка (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поба́йкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побайкать"
+        }, 
+        {
+          "content": "Поба́йкай-ко робё́ночка-та в зы́бке, дак скоря́е уснё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "побайкай-ко робеночка-та в зыбке, дак скоряе уснет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

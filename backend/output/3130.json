@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "камаши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кама́ши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "камаши"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гама́ши", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гамаши"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обувь, приспособленная для ходьбы около дома и для выполнения хозяйственных и огородных работ.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Одень гама́ши, что на крыльце стоят, и поди́ вы́рви па́ру гнё́зд лу́ку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одень гамаши, что на крыльце стоят, и поди вырви пару гнезд луку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "примать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прима́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "примать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принимать работу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завтра пойдём сено прима́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра пойдем сено примать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "принимать гостей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне добро гостей прима́ют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне добро гостей примают."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "часть трудового процесса, при котором один принимает что-то у другого работника.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прима́ть сено на зароде. Прима́ть снопы при вы́садке с ови́на.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "примать сено на зароде. примать снопы при высадке с овина."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "взять в руки то, что подают.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прими́ ребёнка. Прими́ пилу с крыши.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прими ребенка. прими пилу с крыши."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "принимать решение, ответственность, критику, замечания, предложения и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё обсудили, давай прима́ть решение.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все обсудили, давай примать решение."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

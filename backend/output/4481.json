@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "накоровкахходить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На коро́вках ходи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на коровках ходить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ползать на четвереньках.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "на кара́чках", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "на карачках"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

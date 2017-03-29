@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "набалакаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Набала́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набалакаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наговориться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как будто давно не вида́лись, набала́катьсе не могут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как будто давно не видались, набалакатьсе не могут."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "наба́яться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "набаяться"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бала́кать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "балакать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "забала́каться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "забалакаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

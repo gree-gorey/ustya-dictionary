@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "налаживатьостожье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нала́живать осто́жье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "налаживать остожье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сооружать каркас будущего зарода или копны (втыкать в землю стожары, делать подстилку (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "подсто́жье", 
+          "tag": "quote", 
+          "normalized_content": "подстожье"
+        }, 
+        {
+          "content": ") для изоляции сена от земли, подготавливать подпоры).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сходи́в, осто́жье изла́див, да обкоси́в вокруг", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сходив, остожье изладив, да обкосив вокруг"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": ".", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "осто́жье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остожье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

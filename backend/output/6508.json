@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "расклевить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расклеви́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расклевить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "раскливи́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "раскливить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росклеви́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "росклевить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "довести до слез.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Расклеви́ли у меня дефку всю!", 
+          "translation": "довели до слез, напомнив о родителях (жила у бабушки, но хотела домой).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "расклевили у меня дефку всю!"
+        }, 
+        {
+          "content": "Фсю росклеви́́́ли меня́́́ э́́́тим разгово́́́ром – лу́́́тше бы не зна́́́ть ницево́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фсю росклевили меня этим разговором – лутше бы не знать ницево."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "клеви́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "клевить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "хаеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ха́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хаеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "осуждать, бранить, порочить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заха́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "захаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исха́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оха́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "охаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поха́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похаеть"
+        }, 
+        {
+          "content": "Тебе́́́ бы то́́́ко фсех ха́́́еть! На себя́́́ погледи́́́ снаця́́́ла! Не́́́цево ма́́́терь ха́́́еть! Што это ты Пара́ня мою дефку-то заха́яла? Бе́́́дные же́́́нщины, вся́́́ко-то их искастя́́́т – исха́́́ют! Любительница она поха́еть-то. Всево мужика оха́ела.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе бы токо фсех хаеть! на себя погледи снацяла! нецево матерь хаеть! што это ты параня мою дефку-то захаяла? бедные женщины, всяко-то их искастят – исхают! любительница она похаеть-то. всево мужика охаела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

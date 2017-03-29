@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "иктаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Икта́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "иктаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "клыкта́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "клыктаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "икаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заикта́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заиктаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обыка́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обыкаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обыкта́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обыктаться"
+        }, 
+        {
+          "content": "Мне севодни що-то икта́лось, наверно кто-то вспоминаёт. Робёночок-то що-то весь заикта́лсе. Чисто вся обыка́лась (обыкта́лась). Що-то начало клыкта́тце, и остановитце не могу. Мне сегодня целый день що-то и́кта́́ется.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мне севодни що-то икталось, наверно кто-то вспоминает. робеночок-то що-то весь заикталсе. чисто вся обыкалась (обыкталась). що-то начало клыктатце, и остановитце не могу. мне сегодня целый день що-то иктается."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "и́кчится", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "икчится"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

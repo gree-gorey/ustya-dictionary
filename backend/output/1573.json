@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "гуменник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гуме́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гуменник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мифическое существо, обитающее в гумне.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большой бурак, пестерь из голтины, используемый на гумне.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гуме́нница", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гуменница"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

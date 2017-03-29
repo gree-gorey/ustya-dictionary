@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "болтать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Болта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болтать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разговаривать о незначимом, вести разговор ни о чем (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заболта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заболтать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наболта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наболтать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проболта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проболтать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уболта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уболтать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "болтану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "болтануть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит болта́ть, делом займитесь. Он хоть ково заболта́ет", 
+          "translation": "надоест своей болтовней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит болтать, делом займитесь. он хоть ково заболтает"
+        }, 
+        {
+          "content": "Она тебе всево наболта́ет, ты только слушай. Давайте ро́бить, а то вы и целой день можете проболта́ть. Он меня всю уболта́л", 
+          "translation": "замучил болтовней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она тебе всево наболтает, ты только слушай. давайте робить, а то вы и целой день можете проболтать. он меня всю уболтал"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

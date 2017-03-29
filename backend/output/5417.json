@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "паренка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́ренка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паренка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́ренца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "паренца"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сушеная, высушенная в печи морковная, репная", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́́́рница", 
+          "tag": "quote", 
+          "normalized_content": "парница"
+        }, 
+        {
+          "content": "Ну и робя́́́тки, уш фсю па́́́ренку-ту вы́́́таскали да иссоса́́́ли! На́́́до опе́́́ть наде́́́лать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и робятки, уш фсю паренку-ту вытаскали да иссосали! надо опеть наделать."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "па́рница", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "парница"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

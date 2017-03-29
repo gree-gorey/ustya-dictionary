@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "неоткуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́откуль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неоткуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́́́откуля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "неоткуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "неотку́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "неоткуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неоткуда: нет места.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́откуль взеть", 
+          "translation": "неоткуда взять.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неоткуль взеть"
+        }, 
+        {
+          "content": "Не́́́откуль тепе́́́ре и взе́́́ть молока́́́-та дома́́́шнево: одна́́́ коро́́́ва на фсю́́́ дере́́́вню.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неоткуль тепере и взеть молока-та домашнево: одна корова на фсю деревню."
+        }, 
+        {
+          "content": "нет причин, оснований.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́́́откуля ему́́́ ко́́́сарём-то ста́́́ть, веть не в дере́́́вне рос.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неоткуля ему косарем-то стать, веть не в деревне рос."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

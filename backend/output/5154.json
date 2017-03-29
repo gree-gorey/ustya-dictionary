@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "опрахотило", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опрахо́тило", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опрахотило"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опрохо́тило", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опрохотило"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорят, когда человек потерял равновесие и упал («обнесло» и «повалило»).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, меня-та сегодня опрахо́тило со стула.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, меня-та сегодня опрахотило со стула."
+        }, 
+        {
+          "content": "Также о себе в таком случае могут сказать", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опрахо́тился", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опрахотился"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опрахо́тилась", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опрахотилась"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

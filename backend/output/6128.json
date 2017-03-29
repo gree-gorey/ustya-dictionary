@@ -1,0 +1,100 @@
+{
+  "field_for_sorting": "пресница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пре́сница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пресница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пря́слина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пряслина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прялка. Состав:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пря́сло", 
+          "tag": "quote", 
+          "normalized_content": "прясло"
+        }, 
+        {
+          "content": "гу́зно", 
+          "tag": "quote", 
+          "normalized_content": "гузно"
+        }, 
+        {
+          "content": "сидение прялки,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "копы́л", 
+          "tag": "quote", 
+          "normalized_content": "копыл"
+        }, 
+        {
+          "content": "ла́пасть", 
+          "tag": "quote", 
+          "normalized_content": "лапасть"
+        }, 
+        {
+          "content": "гре́бень", 
+          "tag": "quote", 
+          "normalized_content": "гребень"
+        }, 
+        {
+          "content": "гребь", 
+          "tag": "quote", 
+          "normalized_content": "гребь"
+        }, 
+        {
+          "content": "широкая часть вертикальной стойки, к которой прикреплялась куделя,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ше́йка", 
+          "tag": "quote", 
+          "normalized_content": "шейка"
+        }, 
+        {
+          "content": "соединяет прясло с лапастью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зи́́́му-ту за пре́́́сьницей де́́́фки-те проводи́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зиму-ту за пресьницей дефки-те проводили."
+        }, 
+        {
+          "content": "Жонишок, що мотылёк, где хочет, поколо́тится, а девка сиди у пря́слины да жди жониха", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(пословица). Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "жонишок, що мотылек, где хочет, поколотится, а девка сиди у пряслины да жди жониха"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

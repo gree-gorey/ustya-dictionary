@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вить", 
+        "place": [
+          "Бываловская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "канва.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По ви́ти с всякими узорами раньше вышивали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по вити с всякими узорами раньше вышивали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "искон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Иско́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "искон"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "и́скони", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "искони"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "испоко́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "испокон"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издавна, с очень старых времен.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "испоко́н ве́ку", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "испокон веку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

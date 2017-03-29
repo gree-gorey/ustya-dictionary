@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "овчина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Овчи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "овчина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "овечья шкура.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

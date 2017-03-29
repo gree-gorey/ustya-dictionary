@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "изгибулина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгибу́лина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгибулина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "изги́бина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "изгибина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно изогнутое, искривленное дерево, заготовка, деталь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из такой изгибу́лины че́рен к вилам не вы́йдёт. На серёдке доски изги́бина, надо притяну́ть гвоздё́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из такой изгибулины черен к вилам не выйдет. на середке доски изгибина, надо притянуть гвоздем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "собачина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соба́чина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "собачина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всякий несъедобный гриб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не тронь это соба́чина ростёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не тронь это собачина ростет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

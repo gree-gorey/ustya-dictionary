@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "уйма", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́йма", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уйма"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "множество.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У́йма грибов (ягод) наросло́! У́́́йма наро́́́ду в клу́́́бе-то собрало́́́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уйма грибов (ягод) наросло! уйма народу в клубе-то собралосе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

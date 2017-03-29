@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "шамшура", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шамшу́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шамшура"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "самшу́ра", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "самшура"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "головной убор замужней женщины платок завязанный сзади; старинный женский головной убор наподобие колпака, носится под платком. В бассейне средней Волюги есть ручей Самшу́рный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

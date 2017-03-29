@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "катко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́тко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "катко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скользко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уж до чево ка́тко на дороге-то! Ка́тко здись под угор-от, осторожно, не пади́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уж до чево катко на дороге-то! катко здись под угор-от, осторожно, не пади!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

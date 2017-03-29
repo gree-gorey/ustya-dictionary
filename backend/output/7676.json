@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тот-тамраз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́́т-там раз", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тот-там раз"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в прошлый раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То́́́т-там раз мы собира́́́ли церни́́́ку за по́́́лём, а сево́́́дни пойдё́́́м в боло́́́то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тот-там раз мы собирали цернику за полем, а севодни пойдем в болото."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

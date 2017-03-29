@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "настрогать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Настрога́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "настрогать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарезать", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стро́галом", 
+          "tag": "quote", 
+          "normalized_content": "строгалом"
+        }, 
+        {
+          "content": ", наточить косу.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "строга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "строгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стро́гун", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "строгун"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "пододвинуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пододви́нуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пододвинуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подвинуться.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "отодви́нуться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отодвинуться"
+        }, 
+        {
+          "content": "Пододви́ньсе (отодви́нься-ко), а то негде сесть, всё место за́нял.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пододвиньсе (отодвинься-ко), а то негде сесть, все место занял."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подойти, приблизиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пододви́ньсе токо ко мне, да как дам по роже!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пододвиньсе токо ко мне, да как дам по роже!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

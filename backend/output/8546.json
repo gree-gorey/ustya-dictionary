@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шишькаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́шькаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шишькаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "излишне воспитывать, обращать внимание.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит с им ши́́шькатьсе, ишь какой, токо бы на ёво внимание обращали", 
+          "translation": "(о ребенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит с им шишькатьсе, ишь какой, токо бы на ево внимание обращали"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "задается", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Задаё́тся", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задается"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удаётся, получается (о человеке, который имеет склонность, способность к какому-либо делу, занятию).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Задаё́тся ему столярным делом заниматься. У нево это задаё́тся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задается ему столярным делом заниматься. у нево это задается."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Задава́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "задаваться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 4
+}

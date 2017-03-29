@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "мурыжить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Муры́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мурыжить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "промуры́жить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "промурыжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длительно утомлять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измуры́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измурыжить"
+        }, 
+        {
+          "content": "Хватит робёнка муры́жить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит робенка мурыжить!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "канителить, волокитить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё дело промуры́жили, ничево не получилось.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все дело промурыжили, ничево не получилось."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

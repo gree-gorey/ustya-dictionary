@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "судник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́дник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "судник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "посу́́́дник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "посудник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настенная полка для посуды. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "наблю́́́дник", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "наблюдник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

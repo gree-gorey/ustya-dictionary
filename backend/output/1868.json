@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "дощанка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доща́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дощанка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лодка, изготовленная из плотно пригнанных друг к другу досок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "оси́новка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "осиновка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вывязать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вывяза́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вывязать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "создавать вязанием.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вышива́ли кресто́м и вывяза́ли удивительной красоты покрывала, скатерти, поднаве́сы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вышивали крестом и вывязали удивительной красоты покрывала, скатерти, поднавесы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

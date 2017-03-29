@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "жереб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жере́б", 
+        "place": [
+          "Неклюдовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "жереб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уде́лаўсе в пё́нтусе как жере́б.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уделаусе в пентусе как жереб."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

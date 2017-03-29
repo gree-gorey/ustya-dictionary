@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вряд", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вряд", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вряд"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "близко, рядом, возле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лес-от у нас вряд. Оне вряд с нами живут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лес-от у нас вряд. оне вряд с нами живут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

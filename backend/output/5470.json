@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "пендевщина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пендевщи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пендевщина"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "пендевя́та", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "пендевята"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прозвище", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "жителей деревень Большое и Малое Пенье.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

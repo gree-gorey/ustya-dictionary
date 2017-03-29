@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "напекено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напекё́но", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напекено"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "напекёно́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напекено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напечё́но (обычно со смыслом «много», но иногда и с самим словом «много»).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поешь-ко шанёг-то, у мня много напекё́но. У ие к празнику всево напекёно́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поешь-ко шанег-то, у мня много напекено. у ие к празнику всево напекено."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

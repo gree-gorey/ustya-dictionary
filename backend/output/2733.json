@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "збаламутить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Збаламу́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "збаламутить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстроить, взволновать, встревожить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "баламу́тить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "баламутить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

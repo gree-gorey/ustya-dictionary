@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "четвертной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Четвертно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "четвертной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "денежная купюра достоинством 25 рублей. Была в обращении до начала 90-х годов.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На четвертно́й много можно было товару купить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на четвертной много можно было товару купить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,112 @@
+{
+  "field_for_sorting": "навои", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наво́и", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "навои"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крутящаяся на треноге крестовина из двух планок длиной около 3 метров каждая, на четырех концах которых фиксировался", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мот", 
+          "tag": "quote", 
+          "normalized_content": "мот"
+        }, 
+        {
+          "content": "напряденных нитей; из мота пряжа перематывалась на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "тюри́к", 
+          "tag": "quote", 
+          "normalized_content": "тюрик"
+        }, 
+        {
+          "content": ". Далее с тюрика нити переносились на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "снова́льно", 
+          "tag": "quote", 
+          "normalized_content": "сновально"
+        }, 
+        {
+          "content": "в качестве", 
+          "tag": "def"
+        }, 
+        {
+          "content": "осно́вы", 
+          "tag": "quote", 
+          "normalized_content": "основы"
+        }, 
+        {
+          "content": "для ткачества на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кро́снах", 
+          "tag": "quote", 
+          "normalized_content": "кроснах"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "воро́бы", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "воробы"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мот", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мот"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тюри́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тюрик"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "снова́льно", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сновально"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кро́сна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кросна"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

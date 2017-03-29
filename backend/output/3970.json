@@ -1,0 +1,103 @@
+{
+  "field_for_sorting": "ломиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ломи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ломиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "наломи́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "наломиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "поломи́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поломиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "усердно работать, «вкалывать», «пахать».", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лома́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ломаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "налома́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наломаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "полома́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поломаться"
+        }, 
+        {
+          "content": "Хватит одному ломи́ться! Ох и поломи́лись мы в лесу! Дом строил один, пришлось немало полома́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит одному ломиться! ох и поломились мы в лесу! дом строил один, пришлось немало поломаться."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шалить: бегать, прыгать, бороться, шуметь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Переста́ньте ломи́тце в избе́, по́тте на у́лицу", 
+          "translation": "(указание детям).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перестаньте ломитце в избе, потте на улицу"
+        }, 
+        {
+          "content": "Робя́та за́ день так наломи́лись, що ми́гом усну́ли. Им бы только поломи́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робята за день так наломились, що мигом уснули. им бы только поломиться."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

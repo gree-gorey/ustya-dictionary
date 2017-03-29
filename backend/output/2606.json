@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "засалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заса́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засалиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрыться слоем жира, пропитаться жиром, нефтепродуктами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

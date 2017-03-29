@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "объеди", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́бъеди", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "объеди"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́бъиди", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "объиди"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́бъедь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "объедь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "объе́дье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "объедье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "объе́дьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "объедье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "объедки, остатки сена в кормушке скота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во как хорошо – о́бъедей почти нету. Поме́́́не се́́́на вали́́́ть, дак и фсе о́́́бъеди схру́́́мкаёт. Колька, вы́чисти-ко кормушку-то у коровы да о́бъедь собери́, да на наво́з вы́неси!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "во как хорошо – объедей почти нету. помене сена валить, дак и фсе объеди схрумкает. колька, вычисти-ко кормушку-то у коровы да объедь собери, да на навоз вынеси!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "зимнина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зимни́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зимнина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зимняя шерсть, снятая с овец.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

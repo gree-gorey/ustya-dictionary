@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "шпынять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шпыня́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шпынять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ругать, придираться, делать замечания (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зашпыня́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашпынять"
+        }, 
+        {
+          "content": "Прекрати ты постоянно-то парня шпыня́ть, всево зашпыня́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прекрати ты постоянно-то парня шпынять, всево зашпыняла!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "долготье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долготьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долготье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "относительно длинные лесопродукты, например, дрова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мой-то вчера вы́писал пять кубов долготья́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мой-то вчера выписал пять кубов долготья."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "коротьё́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коротье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

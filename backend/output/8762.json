@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "правитьзастолье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пра́вить засто́лье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "править застолье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "организовать и провести праздник.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Засто́лье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "застолье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 10
+}

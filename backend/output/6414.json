@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "пшеничник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пшени́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пшеничник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хлеб разной формы, испеченный из пшеничной муки своего производства.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

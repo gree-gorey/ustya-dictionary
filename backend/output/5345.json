@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "очумелой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очуме́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очумелой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чумно́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чумной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерявший временно рассудок, одуревший, перестающий соображать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

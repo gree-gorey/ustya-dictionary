@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "впритруску", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впритру́ску", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впритруску"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "идти быстрым шагом, переходя на бег трусцой человеку или лошади.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вася был спортсменом и всегда ходил и бегал впритру́ску.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вася был спортсменом и всегда ходил и бегал впритруску."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вподбе́жку", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вподбежку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

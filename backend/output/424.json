@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "бровка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бро́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бровка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бро́вки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бровки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "невспаханная полоска в поле, на краю поля, огорода.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "края дороги с нагребённым снегом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Маши́на на ско́рости че́рез бро́вку съе́хала в кюве́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "машина на скорости через бровку съехала в кювет."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "несусветный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Несусве́тный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "несусветный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нелепый, бессмысленный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ще ты несёшь чушь несусве́тную!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ще ты несешь чушь несусветную!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "катыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́тыш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "катыш"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ка́тышек", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "катышек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "катышо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "катышок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шарик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ка́тышом из шерсти играли как мечиком.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катышом из шерсти играли как мечиком."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "комок снега.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На дороге сплошные снежные ка́тыши, неловко идти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на дороге сплошные снежные катыши, неловко идти."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прыщ, чирей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На шее вырос катышо́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на шее вырос катышок."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "круглый валик, подкладываемый под что-либо тяжелое, для облегчения его перемещения, перекатывания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шкап перекатили в другое место на ка́тышах.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шкап перекатили в другое место на катышах."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

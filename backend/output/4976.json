@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обувистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обу́вистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обувистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удобный для ноги (об обуви).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ка́танцы-то Олё́кса ската́л обу́вистые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катанцы-то олекса скатал обувистые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

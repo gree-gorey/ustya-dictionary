@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "жона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жо́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жона"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жё́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "женка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жонка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жена.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сегодня одна жо́нка в магазине всех рассмешила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сегодня одна жонка в магазине всех рассмешила."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

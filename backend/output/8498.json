@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шатко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́тко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шатко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неустойчиво, непрочно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ходи, здись ша́тко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи, здись шатко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

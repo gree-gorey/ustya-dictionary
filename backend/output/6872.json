@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "семянки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Семя́нки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "семянки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "семечки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У миня поўной корман симя́нок, всех угощаю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у миня поуной корман симянок, всех угощаю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

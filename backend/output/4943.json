@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "оболоцька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оболо́цька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оболоцька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхняя одежда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севогоды лето студё́ноё, всё времё оболо́чку с собой брали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севогоды лето студеное, все време оболочку с собой брали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "повяртываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Повя́ртываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повяртываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поворачиваться, оборачиваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не повя́ртывайсе, дёржись крипча́е, а то падёшь с волочу́ги.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не повяртывайсе, держись крипчае, а то падешь с волочуги."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

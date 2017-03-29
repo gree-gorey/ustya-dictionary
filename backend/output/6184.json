@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прикривить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прикриви́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прикривить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "после долгого отсутствия появиться, побывать, навестить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скоко годов к дому не прикривля́ў. Не́що прикриви́ў к своим родителям.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко годов к дому не прикривляу. нещо прикривиу к своим родителям."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

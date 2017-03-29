@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "рассапаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расса́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рассапаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росса́паться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "россапаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росца́́́паться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "росцапаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "росса́пнуться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "россапнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подраться: погрызть, исцарапать друг друга (о животных).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") поссориться, разругаться, войдя в конфликт; подраться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́́́ўго ли росса́́́патьце-то, веть дурно́́́ё де́́́ло не хи́́́тро! Оне́́́-то веть росца́́́палисе, дак шщо ко́́́шки!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доуго ли россапатьце-то, веть дурное дело не хитро! оне-то веть росцапалисе, дак шщо кошки!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́паться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сапаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "оглашенный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оглашё́нный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оглашенный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерявший контроль над своей речью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты орё́шь как оглашё́нной!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты орешь как оглашенной!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

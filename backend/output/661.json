@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "веревкивить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верё́вки вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "веревки вить"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безраздельно командовать кем-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она из нево верё́вки вьёт", 
+          "translation": "что скажет, то он и делает.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она из нево веревки вьет"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

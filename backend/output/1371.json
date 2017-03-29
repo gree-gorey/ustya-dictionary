@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "глызкой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глызко́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глызкой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слизкий, скользкий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осторожно иди-то, камни глызки́е, упадёшь ещё!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осторожно иди-то, камни глызкие, упадешь еще!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

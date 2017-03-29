@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "красныесопли", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кра́сные со́пли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красные сопли"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кровь из носа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я вот тибе сичас как дам дак, кра́сные со́пли потеку́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я вот тибе сичас как дам дак, красные сопли потекут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

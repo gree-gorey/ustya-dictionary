@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "жаровник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́ровник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаровник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жа́реница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жареница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жарё́ха", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "жареха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сковорода нажаренного мяса, рыбы, грибов.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рыбы на жа́ровник наловил. Поймал рыбки на жарё́ху да на уху. Грибов немного в лисе – так, на жарё́ху только принёс.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рыбы на жаровник наловил. поймал рыбки на жареху да на уху. грибов немного в лисе – так, на жареху только принес."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

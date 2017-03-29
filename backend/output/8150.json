@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "хлынькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлы́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлынькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хныкать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "захлы́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "захлынькать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похлы́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похлынькать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расхлы́нькаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расхлынькаться"
+        }, 
+        {
+          "content": "У тебя робёнок в зыбке захлы́нькал. Ну, паре, опеть расхлы́нькалсе, ведь большой уш!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у тебя робенок в зыбке захлынькал. ну, паре, опеть расхлынькалсе, ведь большой уш!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

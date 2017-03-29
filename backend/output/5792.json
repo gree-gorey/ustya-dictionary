@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подобраться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подобра́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подобраться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сдружиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подобрали́сь два сапога пара, один лентяй, другой ещё ленивей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подобрались два сапога пара, один лентяй, другой еще ленивей."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

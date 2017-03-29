@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выгон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́гон", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выгон"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "топленое молоко.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "парно́е молоко", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "парное молоко"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

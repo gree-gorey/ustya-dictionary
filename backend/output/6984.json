@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скользом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́льзом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скользом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вскользь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Суши́на упала, хорошо что ско́льзом по плечу попа́ло, дак не пора́то уши́бло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сушина упала, хорошо что скользом по плечу попало, дак не порато ушибло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

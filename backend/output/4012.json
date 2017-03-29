@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "лучинитьподеревне", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лучи́нить по дере́вне", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лучинить по деревне"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить по гостям, где наливают сто грамм.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где у тебя мужик-то? – Где-где – по деревне лучи́нит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где у тебя мужик-то? – где-где – по деревне лучинит."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лучи́нить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лучинить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

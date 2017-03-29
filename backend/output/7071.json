@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "смастачить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смаста́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смастачить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделать, сработать, смастерить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "маста́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "мастачить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "смастра́чить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "смастрачить"
+        }, 
+        {
+          "content": "Смотри какую я коляску смастра́чиў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "смотри какую я коляску смастрачиу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

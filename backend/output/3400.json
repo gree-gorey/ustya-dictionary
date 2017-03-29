@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "закомолить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закомоли́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закомолить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затупить острие инструмента неправильной заточкой или в процессе эксплуатации. Также о тупом (сильно затупившемся) топоре могут сказать:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "закомолё́н", 
+          "tag": "quote", 
+          "normalized_content": "закомолен"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "комоли́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "комолить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

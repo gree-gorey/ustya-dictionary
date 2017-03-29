@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "головешка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Головё́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "головешка"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "го́ловни", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "головни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непрогоревшая часть полена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ваня, ты трубку-то только прикро́й, совсем не закрывай, а то угори́м – го́ловней-то ещё много в печи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ваня, ты трубку-то только прикрой, совсем не закрывай, а то угорим – головней-то еще много в печи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

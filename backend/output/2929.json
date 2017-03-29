@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изгинаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгина́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгинаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издеваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит над кошкой изгина́тьсе, Бог накажет за животи́ну-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит над кошкой изгинатьсе, бог накажет за животину-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

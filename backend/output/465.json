@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "буженье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Буже́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "буженье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побудка, пробуждение от сна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он тяжо́лой на буже́нье", 
+          "translation": "трудно разбудить.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он тяжолой на буженье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

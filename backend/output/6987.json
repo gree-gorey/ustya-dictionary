@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скондачка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С кондачка́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с кондачка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "без подготовки, самоуверенно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С кондачка́ серьёзные дела не делаются.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с кондачка серьезные дела не делаются."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

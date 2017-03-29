@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "саннаявязка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́нная вя́зка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "санная вязка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "представляет собой жгуты из виц и вязы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Вя́зка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вязка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 11
+}

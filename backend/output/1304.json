@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "галиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "галиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "изгаля́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "изгаляться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издеваться, кривляться с издевкой, грубостью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хва́тит изгаля́тце-то над ма́терью, бессо́вестные!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит изгалятце-то над матерью, бессовестные!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

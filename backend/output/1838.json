@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "досвадьбызаживет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До сва́дьбы заживё́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до свадьбы заживет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шутливое утешение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не плачь давай, до сва́дьбы заживё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не плачь давай, до свадьбы заживет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

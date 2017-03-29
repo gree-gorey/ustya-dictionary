@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "малоздоровый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Малоздо́ровый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малоздоровый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болезненный, хилый, слабый человек или животное.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "курья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́рья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "курья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "курья́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "курья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яма, водоворот, омут.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ниже перебо́ра в ри́чке ку́рья, остерега́йтесь заплыва́ть туды́, мо́жно не вы́плыть обра́тно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ниже перебора в ричке курья, остерегайтесь заплывать туды, можно не выплыть обратно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

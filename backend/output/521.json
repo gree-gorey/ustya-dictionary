@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "бычок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бычо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бычок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "теленок в возрасте до года, после того уже бык.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бы́чка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бычка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

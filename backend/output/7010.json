@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скраю", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скра́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скраю"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сначала, поочередно, подряд.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бери скраю. Бай скраю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бери скраю. бай скраю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

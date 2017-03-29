@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "лесовозник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лесово́зник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лесовозник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водитель лесовоза.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

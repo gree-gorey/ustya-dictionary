@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "упакаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упа́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "упакаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замараться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "устать от кропотливой работы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́каться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пакаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

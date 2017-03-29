@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "хрямкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хря́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрямкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громко чавкать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схря́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрямкать"
+        }, 
+        {
+          "content": "Хватит тебе хря́мкать! Вы́лила еду свишке, она только схря́мкала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит тебе хрямкать! вылила еду свишке, она только схрямкала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

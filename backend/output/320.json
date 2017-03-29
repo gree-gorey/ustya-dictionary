@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "бодет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бодё́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бодет"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "будё́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "будет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "«бодает» (как правило, о корове) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забодё́т", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забодет"
+        }, 
+        {
+          "content": "Не ходи в стайку-ту, дитя́, корова забудё́т (забодё́т)!", 
+          "translation": "предостережение: «забодает!»", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи в стайку-ту, дитя, корова забудет (забодет)!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "середноватое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Середнова́тое", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "середноватое"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "середова́тое", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "середоватое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так себе, среднее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Житьё середнова́тое.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "житье середноватое."
+        }, 
+        {
+          "content": "У них было житьё не бедное, не богатое, середова́тое", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Тетёра». М.И. Шалаурова.", 
+          "normalized_content": "у них было житье не бедное, не богатое, середоватое"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чирей", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чи́рей", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чирей"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "«ве́ред», нарыв.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Така́́́я худа́́́я боле́́́сь напа́́́ла: чи́́́рей на чи́́́рее сиди́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такая худая болесь напала: чирей на чирее сидит!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "напластаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напласта́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напластаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уработаться, сильно устать, утомиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так напласта́́́ласе на сеноко́́́се-то, дак ру́́́ки не подыма́́́ютце уш.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так напласталасе на сенокосе-то, дак руки не подымаютце уш."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

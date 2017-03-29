@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "запряжень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́пряжень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запряжень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сочленение конца дуги, гужа и оглобли.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

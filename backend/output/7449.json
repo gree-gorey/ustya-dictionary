@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "сухорос", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сухоро́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сухорос"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отсутствие утренней росы на траве летом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сегодня сухоро́с, значит днём будёт дождь", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сегодня сухорос, значит днем будет дождь"
+        }, 
+        {
+          "content": "(примета).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

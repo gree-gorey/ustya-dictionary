@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "возмогать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Возмога́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "возмогать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "возмогчи́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "возмогчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иметь силу, смочь что-либо делать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо как-то возмога́ть, нехто за нас не сробит этово.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо как-то возмогать, нехто за нас не сробит этово."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

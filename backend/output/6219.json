@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "присест", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Присе́ст", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "присест"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раз (о приеме пищи).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "прися́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "присяд"
+        }, 
+        {
+          "content": "О как проголода́лсе-то, чугу́нник картови за один присе́ст съел.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о как проголодалсе-то, чугунник картови за один присест съел."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "раз, прием (о работе).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут роботы-то оста́лосе на один присе́ст.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут роботы-то осталосе на один присест."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

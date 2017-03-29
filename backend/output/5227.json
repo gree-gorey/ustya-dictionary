@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "ось", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ось", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ось"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ость.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "о́стица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остица"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ости́́́ца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остица"
+        }, 
+        {
+          "content": "Са́́́шенька-та окриве́́́ла на оди́́́н глаз – ости́́́ца попа́́́ла, ковды́́́ ро́́́ш выжина́́́ла. У ржи́́́-то дли́́́нная ось, у жы́́́та – поме́́́не.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сашенька-та окривела на один глаз – остица попала, ковды рош выжинала. у ржи-то длинная ось, у жыта – помене."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отходы при обработке ячменя, остатки от колоса, «усы».", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "о́стица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остица"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ости́́́ца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остица"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "грубые шерстины в массе овечьей шерсти, снижающие ее качество.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

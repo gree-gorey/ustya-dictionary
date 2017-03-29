@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "леглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лё́глый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "леглый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полё́глый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полеглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полегший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лё́глый клевер тяжёло косить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "леглый клевер тяжело косить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "полегло́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полегло"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "просифонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Просифо́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "просифонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дуть, сквозить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сифо́нить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сифонить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "просвиста́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "просвистать"
+        }, 
+        {
+          "content": "Не стой на ветру́, а то просифо́нит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стой на ветру, а то просифонит!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

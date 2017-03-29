@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "каюк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Каю́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "каюк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конец чему-либо или всему сразу, например, конец работе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну вот, урожай со́бран, всем полевым работам сейгод каю́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну вот, урожай собран, всем полевым работам сейгод каюк."
+        }, 
+        {
+          "content": "погибель.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ходи тыды, там лёд тонкой, проло́мишьсе, тут тибе и каю́к!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи тыды, там лед тонкой, проломишьсе, тут тибе и каюк!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

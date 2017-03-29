@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "побранка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Побра́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "побранка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "перебра́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "перебранка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ругань, ссора.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

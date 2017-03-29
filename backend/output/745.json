@@ -1,0 +1,99 @@
+{
+  "field_for_sorting": "взбздавать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взбздава́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взбздавать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бздава́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бздавать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вздава́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вздавать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взбдава́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взбдавать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вбздава́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вбздавать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поддавать пару в бане (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "навзбздава́́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навзбздавать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "бздану́́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "бздануть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне как навзбдаю́т, дак я роду не могу сиди́ть!", 
+          "translation": "пожилая женщина сетует, что вместе с молодыми своими родственницами не может париться, слишком жарко, многовато поддают пару.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне как навзбдают, дак я роду не могу сидить!"
+        }, 
+        {
+          "content": "Оне́ как навздава́ли па́ру!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне как навздавали пару!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

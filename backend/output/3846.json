@@ -1,0 +1,256 @@
+{
+  "field_for_sorting": "ладить2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́дить 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ладить 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собираться, намереваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он ла́дит лодку делать. Я ла́жу съездить завтра в район.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он ладит лодку делать. я лажу съездить завтра в район."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изготовлять, строить, чинить, поправлять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "нала́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "налаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отла́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отлаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "перела́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перелаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подла́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подлаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прила́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прилаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зала́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нала́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отла́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перела́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подла́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прила́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приладить"
+        }, 
+        {
+          "content": "Сосед взялся баню ла́́́́́́́дить. Он лодку нала́живаёт. Пойду сани отла́живать. Подла́живай-ко давай в этом мисте, а то некрасиво смотрится. Перела́жива́й-ко давай. Завтра надо дровни нала́дить. Кри́во висит, надо перела́дить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сосед взялся баню ладить. он лодку налаживает. пойду сани отлаживать. подлаживай-ко давай в этом мисте, а то некрасиво смотрится. перелаживай-ко давай. завтра надо дровни наладить. криво висит, надо переладить."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "П", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "п"
+        }, 
+        {
+          "content": "одла́дь-ко тут, чтоб ди́льнее было.", 
+          "tag": "quote", 
+          "normalized_content": "одладь-ко тут, чтоб дильнее было."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "готовить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "нала́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "налаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изла́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нала́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поприла́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поприладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сла́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сладить"
+        }, 
+        {
+          "content": "Ладить на стол", 
+          "translation": "собирать на стол.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ладить на стол"
+        }, 
+        {
+          "content": "Всю неделю ла́дили: пекли, варили, жарили", 
+          "translation": "к свадьбе готовились.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю неделю ладили: пекли, варили, жарили"
+        }, 
+        {
+          "content": "Корове ведро нала́дить", 
+          "translation": "приготовить пойло корове.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корове ведро наладить"
+        }, 
+        {
+          "content": "Мать нёвесты: Уж в чём я тебе покона́юсь, не откажи! Приди попричита́ть да поприла́дить, щобы совет-то у молодых, лучше па́лся", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "мать невесты: уж в чем я тебе поконаюсь, не откажи! приди попричитать да поприладить, щобы совет-то у молодых, лучше пался"
+        }, 
+        {
+          "content": "Скоро мужики с роботы приду́т, надо ужин сла́дить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоро мужики с роботы придут, надо ужин сладить."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

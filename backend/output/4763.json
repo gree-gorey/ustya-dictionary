@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "необыка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Необы́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "необыка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "неубы́ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "неубыка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неуживчивый, недовольный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты и неубы́ка! Что бы тебе не сделай, всё не так.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и неубыка! что бы тебе не сделай, все не так."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

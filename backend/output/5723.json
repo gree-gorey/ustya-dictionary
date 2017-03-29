@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подветреннаясторона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подве́тренная сторона́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подветренная сторона"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сторона за домом, лесом, противоположная ветру.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойдём на подве́тренную-то сто́рону, хоть не так холодно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдем на подветренную-то сторону, хоть не так холодно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

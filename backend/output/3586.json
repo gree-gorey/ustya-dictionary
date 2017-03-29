@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "краля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кра́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "краля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарядная, отличающаяся от других одеждой, внешним видом и поведением женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нас в деревне есть одна кра́ля.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нас в деревне есть одна краля."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

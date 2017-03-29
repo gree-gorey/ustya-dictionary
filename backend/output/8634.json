@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "щигорить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щи́горить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щигорить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "защи́горить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "защигорить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щебетаь (о птицах).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "щи́гориться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щигориться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расщи́гориться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расщигориться"
+        }, 
+        {
+          "content": "Сороки-то щи́горяться, вишь как расщи́горились, тёпла ждут, весну чуют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сороки-то щигоряться, вишь как расщигорились, тепла ждут, весну чуют."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") быстро и громко болтать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, що вы тут щи́горите как соро́ки!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, що вы тут щигорите как сороки!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

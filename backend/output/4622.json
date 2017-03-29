@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "стаскивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ста́скивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стаскивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снимать (одежду, обувь).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ста́скивай-ко давай ка́танцы-то, а то все сыры́е!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стаскивай-ко давай катанцы-то, а то все сырые!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ната́скивать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "натаскивать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

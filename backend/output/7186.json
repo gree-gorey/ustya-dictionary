@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сотской", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Со́тской", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сотской"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "со́цкой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "соцкой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выборное лицо от крестьян, обычно от 100 хозяев.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

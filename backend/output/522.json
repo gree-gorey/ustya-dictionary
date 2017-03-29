@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "бычка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бы́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бычка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бы́ченька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "быченька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ласковое название бычка. Подзывая его, кричат: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бы́чка-бы́чка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бычка-бычка!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бы́чок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бычок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

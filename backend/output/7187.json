@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сотуга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соту́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сотуга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тонкая проволока для связки чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мото́́́к соту́́́ги-то виси́́́т на по́́́дволоке, сыми́́́ ево́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "моток сотуги-то висит на подволоке, сыми ево."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

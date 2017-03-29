@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "оскоромиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оскоро́миться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оскоромиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поесть скоромного после поста.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пост кончиўсе, топерь можно и оскоро́митце, пои́сь свиных сморчко́́в.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пост кончиусе, топерь можно и оскоромитце, поись свиных сморчков."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скоро́миться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скоромиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

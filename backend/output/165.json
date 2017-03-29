@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "батько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́тько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "батько"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ба́тюшко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "батюшко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ба́тя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "батя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отец, муж, хозяин, свекор.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

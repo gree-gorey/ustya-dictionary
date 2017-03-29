@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жидок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́док", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жидок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слаб, уступающий по силе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жи́док больно, тибе этого дерева не поднеть, не бери́́́сь за ко́́́мель, бери́́́ся за вершы́́́ну.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жидок больно, тибе этого дерева не поднеть, не берись за комель, берися за вершыну."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

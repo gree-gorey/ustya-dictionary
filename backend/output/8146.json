@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "хлобысь!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлобы́сь!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлобысь!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "междометие, путем звукоподражания выражающее удар о землю при падении, вообще удар, хлопок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он зашёл в избу и хлобы́сь головой о ма́тицу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он зашел в избу и хлобысь головой о матицу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

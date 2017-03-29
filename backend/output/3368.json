@@ -1,0 +1,99 @@
+{
+  "field_for_sorting": "колонуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колону́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колонуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стукнуть, легко ударить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наколону́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наколонуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "околону́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "околонуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "приколону́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приколонуть"
+        }, 
+        {
+          "content": "Колони́́́-ко о́́́бухом-то, дак зайдё́́́т дви́́́рь-то", 
+          "translation": "(закроется дверь)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колони-ко обухом-то, дак зайдет двирь-то"
+        }, 
+        {
+          "content": ", вишь, как розбу́́́хла от дожже́́́й!", 
+          "tag": "quote", 
+          "normalized_content": ", вишь, как розбухла от дожжей!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "расколоть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сколону́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сколонуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Колони́́́ вон те́́́-то чу́́́рки, оне́́́ веть ко́́́ўкие!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колони вон те-то чурки, оне веть коукие!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "колобье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коло́бье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колобье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "застывшее сено на верху зарода.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ове́́́ршье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "овершье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отвальное", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отва́льное", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отвальное"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отва́льная", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отвальная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "застолье, угощение отъезжающих.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Молодые завтра уезжают, дак приходите вечером на отва́льную.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молодые завтра уезжают, дак приходите вечером на отвальную."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

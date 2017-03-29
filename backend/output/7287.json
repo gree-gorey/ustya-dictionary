@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стакашик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стака́шик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стакашик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стаканчик, небольшой стакан.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Выпей лекарство из этово стака́шка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выпей лекарство из этово стакашка."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

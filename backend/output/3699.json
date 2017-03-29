@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "крыситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кры́ситься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крыситься"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "закры́ситься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "закрыситься"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "окры́ситься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "окрыситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сердиться, ругаться, нелестно отзываться о ком-то.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть начала кры́ситься.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть начала крыситься."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

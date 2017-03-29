@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ложбина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ложби́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ложбина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "желоби́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "желобина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшое углубление с ровными отлогими краями вдоль ровной поверхности: на пашне, сенокосе, в лесу и т. д., на теле животного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конь-от какой упитанной, аш по спине ложби́на заметна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конь-от какой упитанной, аш по спине ложбина заметна."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

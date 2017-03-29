@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "жатники", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́тники", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жатники"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жа́льщики", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жальщики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работники, занятые на жатве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жа́тников-то надо па́ужной кормить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жатников-то надо паужной кормить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

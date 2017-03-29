@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "разболокаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разболока́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разболокаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "разболокчи́сь", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "разболокчись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздеваться, снимать одежду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Розболока́́́йсе скоря́́́е да за сто́́́ў сади́́́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "розболокайсе скоряе да за стоу садисе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "оболока́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оболокаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

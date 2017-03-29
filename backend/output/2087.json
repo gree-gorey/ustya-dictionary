@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "жаровня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жаро́вня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаровня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высокая чугунная сковорода с крышкой для жарения, тушения продуктов; противень.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "жа́́ровень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жаровень"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

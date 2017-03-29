@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вовнутрь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вовну́трь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вовнутрь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутрь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шубы из овчины шьют шерстью вовну́трь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шубы из овчины шьют шерстью вовнутрь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "уточиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уточи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уточиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закапаться, замочиться каплями, струйками жидкости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, вся уточи́ласе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, вся уточиласе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "точи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "точиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

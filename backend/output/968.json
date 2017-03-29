@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воходить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воходи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воходить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "входить, помещаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нога́́́ в сапо́́́г не вохо́́́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нога в сапог не воходит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

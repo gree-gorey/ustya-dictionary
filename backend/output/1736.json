@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "добром", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Добро́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "добром"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "по-хорошему.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поговорю с им добро́м. Добро́м чтоб всё было сделано!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поговорю с им добром. добром чтоб все было сделано!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

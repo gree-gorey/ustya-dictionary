@@ -1,0 +1,124 @@
+{
+  "field_for_sorting": "брякать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бря́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брякать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стучать, звенеть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забря́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забрякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбря́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбрякать"
+        }, 
+        {
+          "content": "Что ты ковшиком бря́каёшь, не можешь тихо воды налить? Бря́кает в моторе", 
+          "translation": "стучит в моторе.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты ковшиком брякаешь, не можешь тихо воды налить? брякает в моторе"
+        }, 
+        {
+          "content": "Ле́шо сбря́́кало, как па́́ла", 
+          "translation": "упала так, что было слышно удар при падении.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лешо сбрякало, как пала"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "говорить; болтать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набря́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набрякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перебря́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебрякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пробря́́́кать)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пробрякать)"
+        }, 
+        {
+          "content": "Хватит нещо́-то бря́кать", 
+          "translation": "перестань болтать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит нещо-то брякать"
+        }, 
+        {
+          "content": "Это она опеть набря́кала", 
+          "translation": "наговорила.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это она опеть набрякала"
+        }, 
+        {
+          "content": "А уж Дарья-то брякоту́ха такая, всех перебря́кает. Стри́́́тила Коши́́́рку, дак и пробря́́́кали с е́́́й ци́́́лой у́́́повод", 
+          "translation": "проболтали в течение длительного промежутка времени.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а уж дарья-то брякотуха такая, всех перебрякает. стритила коширку, дак и пробрякали с ей цилой уповод"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

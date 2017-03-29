@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "оночи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́ночи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оночи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "се́ночи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сеночи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "этой, сей ночью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О́ночи река стала. Се́́́ноци так голова́́́ боле́́́ла, а у́́́тром сне́́́к вы́́́паў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оночи река стала. сеноци так голова болела, а утром снек выпау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

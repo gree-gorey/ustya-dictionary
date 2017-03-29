@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "шаванчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́ванчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шаванчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ша́́́ванцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шаванцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обувь, «обу́ток» бо́льшего размера.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кие ша́́́ванци-то оде́́́ў, дак ведь оста́́́вишь в грезе́́́, а но́́́ги-то вы́́́скоцят из их!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экие шаванци-то одеу, дак ведь оставишь в грезе, а ноги-то выскоцят из их!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наокруг", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наокру́г", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наокруг"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вокруг, кругом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ри́чка розлила́сь, спре́ми не протти́, подё́м наокру́г.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ричка розлилась, спреми не протти, подем наокруг."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

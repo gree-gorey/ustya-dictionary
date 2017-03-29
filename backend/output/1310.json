@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "гамзить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́мзить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гамзить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взять без спросу то, что плохо лежит, украсть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сга́мзить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сгамзить"
+        }, 
+        {
+          "content": "Оста́вил топо́р на у́лице, и кто-то его сга́мзил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оставил топор на улице, и кто-то его сгамзил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

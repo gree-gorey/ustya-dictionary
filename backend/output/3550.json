@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "которо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кото́ро", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "которо"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "кото́ры", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "которы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "которое; какое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кото́ро полено короче, дак то и бери. Кото́́́ро пла́́́тьё мне наде́́́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "которо полено короче, дак то и бери. которо платье мне надеть?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

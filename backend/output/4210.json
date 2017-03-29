@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "мисяц", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ми́сяц", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мисяц"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ми́сец", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мисец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "месяц.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мисяц на молоду, мисяц на исходе, мисяц на переходе, мисяц на межонных", 
+          "translation": "фазы луны.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мисяц на молоду, мисяц на исходе, мисяц на переходе, мисяц на межонных"
+        }, 
+        {
+          "content": "Ми́́́сець-то опе́́́ть уш пролете́́́ў", 
+          "translation": "прошел месяц.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мисець-то опеть уш пролетеу"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

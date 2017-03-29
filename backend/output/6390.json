@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "пупыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пу́пыш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пупыш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пуп.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пу́пыш болит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пупыш болит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прыщик (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "уменьш.", 
+          "tag": "style"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пупышо́к", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пупышок"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пупы́рышок", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пупырышок"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пупырышо́к", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пупырышок"
+        }, 
+        {
+          "content": "Не надо давить пу́пыши-то на лице, а то сильняе разболя́тся. Пупы́рышо́к вскочил у меня що-то на щоке́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо давить пупыши-то на лице, а то сильняе разболятся. пупырышок вскочил у меня що-то на щоке."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

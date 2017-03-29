@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "здышот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зды́шот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здышот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дышит.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я наклонилсе к нему послушать, зды́шот или нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я наклонилсе к нему послушать, здышот или нет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "здых", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "здых"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "здыша́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "здышать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

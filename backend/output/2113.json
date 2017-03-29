@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жемпер", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Же́мпер", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жемпер"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "джемпер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жемпера́-та молодица умиёт вязать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жемпера-та молодица умиет вязать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

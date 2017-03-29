@@ -1,0 +1,172 @@
+{
+  "field_for_sorting": "копыл", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копы́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копыл"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "торчащая вверх передняя часть полоза дровней (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "множ.", 
+          "content": "копы́льё", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "копылье"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Всё копыльё поломал!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все копылье поломал!"
+        }, 
+        {
+          "content": "вертикальный стояк на связках или в узлах крепления саней,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "дро́́́вень", 
+          "tag": "quote", 
+          "normalized_content": "дровень"
+        }, 
+        {
+          "content": "чу́́́нок", 
+          "tag": "quote", 
+          "normalized_content": "чунок"
+        }, 
+        {
+          "content": "(санок). Одним концом устанавливается в выдолбленное сквозное отверстие в полозе, средняя со специальным упором часть огибается вокруг вязом, на верхнюю четырехугольную часть одевается", 
+          "tag": "def"
+        }, 
+        {
+          "content": "наще́п", 
+          "tag": "quote", 
+          "normalized_content": "нащеп"
+        }, 
+        {
+          "content": ". Дровни изготовлялись на три или четыре пары копылов (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "множ.", 
+          "content": "копы́льё", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "копылье"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "style": [], 
+          "ana": "множ.", 
+          "content": "копылки́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "копылки"
+        }, 
+        {
+          "content": "уменьш.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Ерети́к, все чу́нки нару́шиў, нали́ копы́лки отвалились!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "еретик, все чунки нарушиу, нали копылки отвалились!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "по́лоз", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полоз"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вяз", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вяз"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наще́п", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нащеп"
+        }, 
+        {
+          "content": ". Вообще копыл это стояк, свободно торчащая часть чего-либо. жердь, втыкаемая в землю, являющаяся опорой копны или зарода, то же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "стожа́́́р", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "стожар"
+        }, 
+        {
+          "content": "Добро́́́, добро́́́ он се́́́но-то подаё́́́т ф копну́́́: фсё ро́́́вными пласта́́́ми, пласто́́́цьками – так вокру́́́к копыла́́́ и ходи́́́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "добро, добро он сено-то подает ф копну: фсе ровными пластами, пластоцьками – так вокрук копыла и ходим."
+        }, 
+        {
+          "content": "жердь, с помощью натяжения которой закрепляется сверху воз с сеном. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "бастрю́к", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "бастрюк"
+        }, 
+        {
+          "content": "вертикальная стойка пресницы, швейки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

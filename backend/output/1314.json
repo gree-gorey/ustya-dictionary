@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "гарем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гаре́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гарем"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нищий", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подгорная", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Гаре́мы ходили по деревням и просили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гаремы ходили по деревням и просили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") плохой человек", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Юрятинская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Хорошего человека гаре́мом не назовут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошего человека гаремом не назовут."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

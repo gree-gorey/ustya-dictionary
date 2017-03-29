@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "краник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кра́ник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "краник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кра́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кранник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кра́нтик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крантик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кран, запорное устройство, например, у самовара.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подставь блю́дцо под кра́ник, а то ка́плет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подставь блюдцо под краник, а то каплет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

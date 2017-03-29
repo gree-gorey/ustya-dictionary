@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "волосье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воло́сье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волосье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воло́сьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "волосье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") волосы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Воло́сье до́лго", 
+          "translation": "длинные волосы.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волосье долго"
+        }, 
+        {
+          "content": "Воло́сьё-то расчёши́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волосье-то расчеши."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "верхняя часть снопа, колосья.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "голова́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "голова"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "коло́сье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колосье"
+        }, 
+        {
+          "content": "Снопы ставят в сусло́ны воло́сьём вверх, а кладут в груду воло́сьём в серёдку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снопы ставят в суслоны волосьем вверх, а кладут в груду волосьем в середку."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

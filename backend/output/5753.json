@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подё́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подем"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пойдём.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подё́м дава́й", 
+          "translation": "давай пойдём.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подем давай"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

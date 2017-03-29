@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "подговенник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подгове́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подговенник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "малая", 
+          "tag": "def"
+        }, 
+        {
+          "content": "волочу́га", 
+          "tag": "quote", 
+          "normalized_content": "волочуга"
+        }, 
+        {
+          "content": "сена, что ниже головок полозьев саней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сена-та сколь мало нагребло́сь, ничево одно – экой подгове́нник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сена-та сколь мало нагреблось, ничево одно – экой подговенник."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "гове́нник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "говенник"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "маленький", 
+          "tag": "def"
+        }, 
+        {
+          "content": "заро́дик", 
+          "tag": "quote", 
+          "normalized_content": "зародик"
+        }, 
+        {
+          "content": "копё́шка", 
+          "tag": "quote", 
+          "normalized_content": "копешка"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

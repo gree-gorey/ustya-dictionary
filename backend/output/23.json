@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "але", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Алё́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "але"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "междом. в значении", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "убежать, скрыться, исчезнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Токо здись показа́ўсе и алё́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "токо здись показаусе и але."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "аля́-улю́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "аля-улю"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

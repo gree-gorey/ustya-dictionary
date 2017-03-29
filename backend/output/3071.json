@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "исть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Исть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ись", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ись"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "и́сти", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "исти"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "йи́сть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "йисть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "есть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пои́сь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поись"
+        }, 
+        {
+          "content": "Ись будёшь? И́сти хочу! И́́́сти-то ковды́́́ ся́́́дём, а то давно́́́ кишка́́́ кишке́́́ куки́́́шку ка́́́жот! Весь в роботе, пои́сь недосу́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ись будешь? исти хочу! исти-то ковды сядем, а то давно кишка кишке кукишку кажот! весь в роботе, поись недосук."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

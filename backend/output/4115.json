@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "маркой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ркой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маркой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "маркова́той", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "марковатой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "марова́той", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мароватой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легко марающийся, легко впитывающий грязь (обычно об одежде светлых тонов).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уш пошщо́́́ ему́́́ таку́ю ма́ркую-ту руба́ху-те купи́́́ла? Веть за́́́ день фсю́́́ изволо́́́цит, вы́́́мажот!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уш пошщо ему такую маркую-ту рубаху-те купила? веть за день фсю изволоцит, вымажот!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

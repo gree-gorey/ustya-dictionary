@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "жолезной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жоле́зной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жолезной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "золе́зной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "золезной"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильный, очень выносливый, неустающий.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

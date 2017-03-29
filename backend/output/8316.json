@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "червочик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Черво́чик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "червочик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "цёрво́цик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "цервоцик"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "черво́чки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "червочки"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "цёрво́цьки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "цервоцьки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "червяк, червячок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Принесла грибов – ни черво́чка нету. Черво́чек по грибу ползаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "принесла грибов – ни червочка нету. червочек по грибу ползает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

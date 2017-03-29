@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "крестить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крести́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крестить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старинный обычай заваливать чем-либо, закрывать в чужих домах двери снаружи в святки (с Рождества до Крещения).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

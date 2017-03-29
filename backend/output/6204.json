@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "принудиловка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Принуди́ловка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "принудиловка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принудительные работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо ему принуди́ловку отрабатывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо ему принудиловку отрабатывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

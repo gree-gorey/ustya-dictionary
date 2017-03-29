@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "врозмет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Врозмё́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "врозмет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бросая во все стороны.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зёрно си́ели из си́тева врозмё́т по па́хоте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зерно сиели из ситева врозмет по пахоте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

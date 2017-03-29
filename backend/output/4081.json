@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "малава", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мала́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малава"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "видение, наваждение, мираж.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это тибе опеть мала́ва пригре́зиласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это тибе опеть малава пригрезиласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

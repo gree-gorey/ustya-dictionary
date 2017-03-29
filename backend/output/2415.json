@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "закипливать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заки́пливать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закипливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закипать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чигу́н в пече́ заки́пливаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чигун в пече закипливает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

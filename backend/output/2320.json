@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заговинье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загови́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заговинье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́говенье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заговенье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "последний день перед постом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До За́говенья теперь тебе хватит", 
+          "translation": "много еще (дела).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до заговенья теперь тебе хватит"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

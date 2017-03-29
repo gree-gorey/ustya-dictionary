@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "щурик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щу́рик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щурик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щур́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щур"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "щуры́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "щуры"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелкая и нераскрывшаяся ягода (морошки).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Моро́́́шке-то веть и дозри́́́ть не даду́́́т, фсю щура́́́ми ещо́́́ унесу́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "морошке-то веть и дозрить не дадут, фсю щурами ещо унесут."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "цветок морошки, пользующийся в народной медицине как отхаркивающее, мочегонное средство.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зава́́́ривай-ко щуры́́́-то да пей бо́́́ле, дак ско́́́ро и попра́́́виссе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заваривай-ко щуры-то да пей боле, дак скоро и поправиссе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

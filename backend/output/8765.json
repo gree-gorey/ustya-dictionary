@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "всяизсебя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вся из себя́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вся из себя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "демонстративно, хвастливо выставляющая себя перед людьми манерой поведения, одеждой и т. п., показывающая, что у нее что-то лучше, чем у других.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Из себя́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "из себя"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 1
+}

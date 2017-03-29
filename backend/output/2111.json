@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "желтушник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Желту́шник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "желтушник"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "многообразие луговых и сорных растений с желтыми цветами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кокаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кокаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударяться, соударяться, стукаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В Па́́́ску е́́́ицами ко́́́кались: чьё кри́́́пче.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в паску еицами кокались: чье крипче."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

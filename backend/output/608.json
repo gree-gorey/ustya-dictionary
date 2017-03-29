@@ -1,0 +1,164 @@
+{
+  "field_for_sorting": "ведать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́дать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ведать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "знать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я и не ве́даю, что там ди́ится", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я и не ведаю, что там диится"
+        }, 
+        {
+          "content": "(делается).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А где жил змей, про то никто не ве́дал", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой перстень». М.И. Шалаурова.", 
+          "normalized_content": "а где жил змей, про то никто не ведал"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "узнавать, разузнавать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́ведать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выведать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изве́дать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изведать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отве́дать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отведать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разве́дать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разведать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "све́дать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сведать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выве́дывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выведывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "разве́дывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разведывать"
+        }, 
+        {
+          "content": "Уж она-то не может, чтобы не ве́дать", 
+          "translation": "не узнавать обо всем.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уж она-то не может, чтобы не ведать"
+        }, 
+        {
+          "content": "Она всё в ли́се изве́дала, нигде груздей нету. Отве́дай, каково́ мясо, увари́лось ли?", 
+          "translation": "попробуй (узнай), сварилось ли мясо?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она все в лисе изведала, нигде груздей нету. отведай, каково мясо, уварилось ли?"
+        }, 
+        {
+          "content": "Сейчас ты у меня берёзовой каши отве́даешь", 
+          "translation": "будешь безобразничать нахлещу березовой вицей (ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейчас ты у меня березовой каши отведаешь"
+        }, 
+        {
+          "content": "Пойду в лес разве́даю, есть ли грибы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду в лес разведаю, есть ли грибы."
+        }, 
+        {
+          "content": "Стала баба выспра́шивать, да выве́дывать: где это так мужик упива́ется да угоща́ется?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «У водяного в гостях». М.И. Шалаурова.", 
+          "normalized_content": "стала баба выспрашивать, да выведывать: где это так мужик упивается да угощается?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "пове́дать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поведать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

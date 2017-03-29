@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кое-как, лениво, небрежно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо ево ни заста́́́фь – фсё це́́́рес пе́́́нь-коло́́́ду сро́́́бит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо ево ни застафь – фсе церес пень-колоду сробит."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Коло́да", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колода"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "шелевись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шелеви́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шелевись"
+      }
+    ], 
+    "style": [
+      "прост."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шевелись.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

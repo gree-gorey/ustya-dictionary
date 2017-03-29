@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "махонькой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́хонькой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "махонькой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень малый, крошечный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́хонькую рыбку поймал, ну совсем малюстю́нную.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "махонькую рыбку поймал, ну совсем малюстюнную."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

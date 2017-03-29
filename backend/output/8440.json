@@ -1,0 +1,106 @@
+{
+  "field_for_sorting": "чуть2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чуть 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чуть 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слышать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зачу́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зачуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "почу́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "учу́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "учуть"
+        }, 
+        {
+          "content": "Говори тиша́е, а то ребёнок можот чуть. Кошка мышку почу́ла опеть. Собака издалека можот учу́ть. Вишь, она ково-то там зачу́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "говори тишае, а то ребенок можот чуть. кошка мышку почула опеть. собака издалека можот учуть. вишь, она ково-то там зачула."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пахнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то уга́ром стало чуть, рано трубку закрыла, наверно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то угаром стало чуть, рано трубку закрыла, наверно."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "узнать из разговоров (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прочу́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прочуть"
+        }, 
+        {
+          "content": "Я прочу́ла, що Овдоки́м жони́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я прочула, що овдоким жонилсе."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

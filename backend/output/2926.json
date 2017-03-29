@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изгвоздать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгвозда́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгвоздать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "избить, исколотить изо всех сил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так изгвозда́ў ба́бу-ту – гла́з не ви́дно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так изгвоздау бабу-ту – глаз не видно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

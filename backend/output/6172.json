@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прижить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прижи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прижить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родить ребенка, будучи незамужем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От ково это она ребёнка прижила́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от ково это она ребенка прижила?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

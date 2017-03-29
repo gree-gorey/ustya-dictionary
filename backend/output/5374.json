@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "пазгань", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́згань", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пазгань"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пазгани́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пазганина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пазгани́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пазганица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пазготня́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пазготня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "драка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наказание за проступки физическое или моральное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если не сти́хните, я вам зада́м сичас пазгани́цу!", 
+          "translation": "(ребятишкам).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если не стихните, я вам задам сичас пазганицу!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ссора, ругань, брань.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть началась у них пазготня́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть началась у них пазготня."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

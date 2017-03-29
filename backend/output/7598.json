@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "титя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ти́тя", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "титя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "материнская грудь, вскармливающая ребенка.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ти́́́тки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "титки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

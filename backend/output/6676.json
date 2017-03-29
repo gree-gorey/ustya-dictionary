@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "шестиручка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шестиру́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шестиручка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коса с длиной лезвия в шесть рук, использовалась при косьбе преимущественно женщинами и подростками.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рука́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рука"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

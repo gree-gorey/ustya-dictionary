@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "середь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сере́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "середь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "посере́дь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "посередь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "середи́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "середи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "осерё́дке", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "осередке"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "посередине.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Встал (по)сере́дь но́чи", 
+          "translation": "проснулся посередине ночи.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "встал (по)середь ночи"
+        }, 
+        {
+          "content": "Куды́́́ э́́́дак вста́́́ў – посере́́́дь доро́́́ги – ни прое́́́хать, ни объе́́́хать тебя", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак встау – посередь дороги – ни проехать, ни объехать тебя"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }, 
+        {
+          "content": "Не на ми́́́сте ку́́́стик вы́́́рос – середи́́́ поля́́́ноцьки, ох, вове́́́ки не забы́́́ти ста́́́рые гуля́́́ноцьки", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "не на мисте кустик вырос – середи поляноцьки, ох, вовеки не забыти старые гуляноцьки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

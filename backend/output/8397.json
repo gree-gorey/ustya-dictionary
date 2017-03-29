@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "чисть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чи́сть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чисть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чись", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болото (как правило, большое, где мало деревьев, много света); чистое место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я на у́повод сбе́гала на чи́сь, набрала́ набиру́ху журавли́цы", 
+          "translation": "я на короткий промежуток времени сходила на болото, насобирала корзинку клюквы.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я на уповод сбегала на чись, набрала набируху журавлицы"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "есколько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́сколько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "есколько"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́сколь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "есколь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот сколько, вон сколько, такое количество.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Погледи, вон е́сколь дров-то привезли. Е́сколько ёму годов, а всё нежонатой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "погледи, вон есколь дров-то привезли. есколько ему годов, а все нежонатой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

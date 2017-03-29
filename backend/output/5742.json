@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "поддевка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подде́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поддевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поддё́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поддевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подё́нок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поденок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поддё́́́нок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подденок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одежда, которую можно одеть (пододеть) вниз по другую одежду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Без поддё́вки это пальто «как на коле».", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "без поддевки это пальто «как на коле»."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жилетка без рукавов под шубу или пальто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поддё́́́вок нема́́́ло нашы́́́ла на́́́ша сестра́́́ Мари́́́я Петро́́́вна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поддевок немало нашыла наша сестра мария петровна."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

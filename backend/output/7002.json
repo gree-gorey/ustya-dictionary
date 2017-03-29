@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скостить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скости́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скостить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделать скидку, простить часть долга, пойти на уступку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скости́ долг, я отро́блю пото́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скости долг, я отроблю потом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

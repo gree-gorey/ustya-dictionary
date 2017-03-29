@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наджабрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наджа́брить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наджабрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надломить, надрубить, надорвать, растянуть, повредить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эта доска́ наджа́брена, не ступа́й на ие́, прова́лиссе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эта доска наджабрена, не ступай на ие, провалиссе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "поправить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попра́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поправить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исправить, привести в порядок, сделать лучше:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "огоро́д попра́вить", 
+          "tag": "quote", 
+          "normalized_content": "огород поправить"
+        }, 
+        {
+          "content": "забо́р попра́вить", 
+          "tag": "quote", 
+          "normalized_content": "забор поправить"
+        }, 
+        {
+          "content": "заро́д попра́вить", 
+          "tag": "quote", 
+          "normalized_content": "зарод поправить"
+        }, 
+        {
+          "content": "ове́ршье", 
+          "tag": "quote", 
+          "normalized_content": "овершье"
+        }, 
+        {
+          "content": "ветром сдуло или", 
+          "tag": "def"
+        }, 
+        {
+          "content": "промё́жек", 
+          "tag": "quote", 
+          "normalized_content": "промежек"
+        }, 
+        {
+          "content": "просел сильно, исправить наклон;", 
+          "tag": "def"
+        }, 
+        {
+          "content": "топо́р или ко́су попра́вить", 
+          "tag": "quote", 
+          "normalized_content": "топор или косу поправить"
+        }, 
+        {
+          "content": "го́лову попра́вить", 
+          "tag": "quote", 
+          "normalized_content": "голову поправить"
+        }, 
+        {
+          "content": "попра́виться", 
+          "tag": "quote", 
+          "normalized_content": "поправиться"
+        }, 
+        {
+          "content": "после пьянки опохмелиться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "гонка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гонка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плотик из бревен.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон, гледи двое мужиков на го́нке в Шангалу плывут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон, гледи двое мужиков на гонке в шангалу плывут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скордать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скорда́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скордать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрыться с головой в воде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там нельзя маленьким купатьсе, скорда́ёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там нельзя маленьким купатьсе, скордаешь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "корда́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кордать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

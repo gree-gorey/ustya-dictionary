@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "домовейко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Домове́йко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "домовейко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "домове́юшко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "домовеюшко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "домовой, мифическое существо, обитающее в доме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Домове́йко по ночам волосы путает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "домовейко по ночам волосы путает."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "суседко", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "суседко"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

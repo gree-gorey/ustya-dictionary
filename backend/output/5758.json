@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "подзуживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подзу́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подзуживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстрекать, пытаться внести раздор, поссорить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подзуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подзудить"
+        }, 
+        {
+          "content": "Не надо дочь подзу́живать, и так она со свекровью не больно ладит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо дочь подзуживать, и так она со свекровью не больно ладит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

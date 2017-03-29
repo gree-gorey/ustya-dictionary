@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "тучить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оттеснить, сдвинуть с места (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сту́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стучить"
+        }, 
+        {
+          "content": "Ты пощо́ мало́во с ла́вки сту́чил, що тот паў? – з", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты пощо малово с лавки стучил, що тот пау? – з"
+        }, 
+        {
+          "content": "ачем сдвинул с лавки малого ребенка, что тот упал?", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "понуждать к обильной еде; откармливать животных.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

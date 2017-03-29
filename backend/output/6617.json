@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рисковатик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рискова́тик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рисковатик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рискованный, отчаянный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экий ты рискова́тик, ничего не бои́сся!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экий ты рисковатик, ничего не боисся!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гненой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гнё́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гненой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изогнутой, кривой, гнутый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это дерево пора́то гнё́ноё, в стену не гожо. Стены тёсали топорами с гнё́ными топори́щами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это дерево порато гненое, в стену не гожо. стены тесали топорами с гнеными топорищами."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

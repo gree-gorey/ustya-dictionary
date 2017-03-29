@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "по-всяковски", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По-вся́ковски", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "по-всяковски"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по-вся́коськи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "по-всякоськи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "по-всякому.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По-вся́коськи ие окасти́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по-всякоськи ие окастила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

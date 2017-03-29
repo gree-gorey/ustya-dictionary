@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "обсев", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обсе́в", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обсев"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обсе́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обсевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обсе́вина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обсевина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пропущенный при посеве участок пашни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обсе́в – большой брак в работе сеяльщика.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обсев – большой брак в работе сеяльщика."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

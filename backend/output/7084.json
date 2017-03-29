@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смоина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смо́ина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смоина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глубокое место у подводного обрыва в реке. Любимое место для купания, очень удобное для ныряния.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робя́́́т-то со смо́́́ины навеку́́́ не вы́́́гонишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робят-то со смоины навеку не выгонишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

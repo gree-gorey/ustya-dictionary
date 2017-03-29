@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сноха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сно́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сноха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сноше́ница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сношеница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жена сына, невестка; жена деверя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На э́́́ту-ту сноху́́́ я пожа́́́литьце не могу́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на эту-ту сноху я пожалитьце не могу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

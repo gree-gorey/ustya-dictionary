@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "внаброс", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Внабро́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "внаброс"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "внаки́дку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "внакидку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ ручной вязки на спицах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я не привыкла внабро́с вязать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я не привыкла внаброс вязать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

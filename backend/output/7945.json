@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "урева", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уре́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "урева"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "урё́ва", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "урева"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень холмистая местность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Такие уре́вы", 
+          "translation": "овраги с ямами.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такие уревы"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

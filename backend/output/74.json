@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "багрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́грить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "багрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "продвигать лес багром (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сба́грить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбагрить"
+        }, 
+        {
+          "content": "Ба́гри вон те брё́вна-то, а то насе́ли. Брёвна под Зыко́вой все сба́грили, ничево там не осталось", 
+          "translation": "все стащили с обоих берегов в реку.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "багри вон те бревна-то, а то насели. бревна под зыковой все сбагрили, ничево там не осталось"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

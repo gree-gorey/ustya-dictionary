@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "водацветет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вода́ цветё́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вода цветет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорят о речной воде в августе, когда плывет множество водорослей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "цвести́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "цвести"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

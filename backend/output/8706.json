@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "ярой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́рой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ярой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "я́рый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ярый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сердитый, весь такой из себя, горячий, гневливый, полный ярости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не вели́́́ка ра́́́дось с я́́́рым мужико́́́м-то ве́́́к кукова́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не велика радось с ярым мужиком-то век куковать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "крайне работоспособный, упорный, напористый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я́рый на рабо́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ярый на работу."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хмельной, забористый (о бражке, реже самогоне, который гонили нечасто).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "затурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зату́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "засунуть куда-то, спрятать, задевать, затерять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зату́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затурнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть рукавицы куды-то зату́рил! Зату́рнул куды-то ону́чи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть рукавицы куды-то затурил! затурнул куды-то онучи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

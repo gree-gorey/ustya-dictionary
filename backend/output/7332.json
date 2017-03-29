@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "стольно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сто́льно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стольно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сто́йно", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "стойно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как кто-либо, глядя на кого-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она сто́льно Опро́шки в любую бочку заты́чка", 
+          "translation": "везде суётся.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она стольно опрошки в любую бочку затычка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

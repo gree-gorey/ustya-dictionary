@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "хробыско", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хро́быско", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хробыско"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хро́боско", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хробоско"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро, удало, уверенно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И куды она так хро́боско побежала?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и куды она так хробоско побежала?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

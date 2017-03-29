@@ -1,0 +1,117 @@
+{
+  "field_for_sorting": "грести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Грести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грести"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгребать сено, сенокосить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "загрести", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "загрести"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "́ нагрести́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": " нагрести"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подгрести́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подгрести"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сгрести́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сгрести"
+        }, 
+        {
+          "content": "Шчо завтра робите? – Гребё́м. Вот здись осталось загрести́, да у зарода подгрести́. До обеда удалось зарод сена нагрести́. Не удалось сено сгрести́, дождь пошёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо завтра робите? – гребем. вот здись осталось загрести, да у зарода подгрести. до обеда удалось зарод сена нагрести. не удалось сено сгрести, дождь пошел."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разгребать снег, освобождать поверхность от снега (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нагрести́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нагрести"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сгрести́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сгрести"
+        }, 
+        {
+          "content": "За эту снежную зиму надоело снег грести́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за эту снежную зиму надоело снег грести."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "передвигать веслом (веслами) по воде лодку, гонку, плотик, плот.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

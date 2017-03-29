@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "забрюхатеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забрюха́теть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забрюхатеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забереметь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Девка заставлет его жониться. Она о него забрюха́тела", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Клад». М.И. Шалаурова.", 
+          "normalized_content": "девка заставлет его жониться. она о него забрюхатела"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

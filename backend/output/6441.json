@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "радеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Раде́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "радеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ради́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "радить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "радоваться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обради́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обрадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зради́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зрадить"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мно́́́го ли раде́́́ть-то пришло́́́се, ту́́́т жо и война́́́ нацяла́́́се. Ради́й и этому!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много ли радеть-то пришлосе, тут жо и война нацяласе. радий и этому!"
+        }, 
+        {
+          "content": "Во́ўк зради́ў, схвати́ў овцю-ту да и поволо́́к в лес", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из сказки «Жилець»).", 
+          "normalized_content": "воук зрадиу, схватиу овцю-ту да и поволок в лес"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

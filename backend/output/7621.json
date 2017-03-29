@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "толк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́лк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смысл, польза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что то́лку-то?", 
+          "translation": "риторический вопрос, утверждающий отсутствие смысла что-либо делать, говорить и т. д.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что толку-то?"
+        }, 
+        {
+          "content": "Есть толк от парня-то?", 
+          "translation": "есть ли польза от ребенка в какой-то работе, учебе, и есть ли смысл ему этим заниматься?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "есть толк от парня-то?"
+        }, 
+        {
+          "content": "Бе́́́з толку, бе́столку", 
+          "translation": "без пользы, бесполезно.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "без толку, бестолку"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "понимание, мысль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не знать то́лку возверну́ться домой", 
+          "translation": "не понимать, что надо вернуться домой, не иметь такой мысли.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не знать толку возвернуться домой"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

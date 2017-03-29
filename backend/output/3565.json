@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "кочок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кочо́к", 
+        "place": [
+          "Крыловская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кочок"
+      }
+    ], 
+    "style": [
+      "уменьш."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кочка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Запнулсе за кочо́к и зобе́ньку просы́пал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "запнулсе за кочок и зобеньку просыпал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

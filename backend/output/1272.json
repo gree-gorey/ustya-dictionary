@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "выше", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́ше", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выше"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вверх по течению.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да, вон там выше Боровка́ рыба хорошо ло́витсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да, вон там выше боровка рыба хорошо ловитсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "проходи́те вы́ше", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "проходите выше"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "проходи́те вы́ше", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "проходите выше"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

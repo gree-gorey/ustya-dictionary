@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "отвело", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отвело́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отвело"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "что-то вмешалось в планы, заняло место того, что хотел сделать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сла́́́ва Бо́́́гу, хоть отвело́́́ меня́́́ за и́́́м пое́́́хать – фсё равно́́́ сця́́́сья бы не́ было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слава богу, хоть отвело меня за им поехать – фсе равно сцясья бы не было."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "отводи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отводить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "загибуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загибу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загибуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загибу́лина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загибулина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "искривленная часть ствола дерева.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На поде́лки специально искали в лесу загибу́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на поделки специально искали в лесу загибули."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

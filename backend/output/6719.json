@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "садистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сади́стый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "садистый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "са́дкий", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "садкий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгодный для посадки, занимающий при посадке большую площадь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Семенной лук не хру́шок", 
+          "translation": "(не крупный)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "семенной лук не хрушок"
+        }, 
+        {
+          "content": ", дак сади́стой.", 
+          "tag": "quote", 
+          "normalized_content": ", дак садистой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

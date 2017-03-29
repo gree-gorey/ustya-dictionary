@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поманя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поманя́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поманя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "через некоторое время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сено грести будём поманя́, пока ищо сырова́то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сено грести будем поманя, пока ищо сыровато."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

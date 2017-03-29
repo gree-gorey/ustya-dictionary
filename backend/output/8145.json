@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "хлобыстать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлобыста́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлобыстать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хлобы́́́стать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хлобыстать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хлестать, хлопать, ударять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахлобыста́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахлобыстать"
+        }, 
+        {
+          "content": "Как на́́́цеў ево́́́ хлобы́́́стать, дак веть ухло́́́паў бы па́́́рня – хорошо́́́ мужыки́́́ отне́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как нацеу ево хлобыстать, дак веть ухлопау бы парня – хорошо мужыки отнели."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хлобы́снуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хлобыснуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

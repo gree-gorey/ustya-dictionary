@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "парга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́рга", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "парга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кровь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Па́рга с носу пошла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парга с носу пошла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

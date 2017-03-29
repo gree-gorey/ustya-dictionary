@@ -1,0 +1,126 @@
+{
+  "field_for_sorting": "перехватить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перехвати́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перехватить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "перехва́тывать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "перехватывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остановить идущего или едущего, двигаясь вдогонку или по более короткой дороге.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поидём скоря́е, дак мы их в дороге перехва́тим.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поидем скоряе, дак мы их в дороге перехватим."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "по-быстрому, на ходу утолить голод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То́лком пообе́дать было не́ковды, по́́ходя немного перехвати́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "толком пообедать было нековды, походя немного перехватили."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ухватиться в другом месте.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "перехвати́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перехватиться"
+        }, 
+        {
+          "content": "Теперь перехвати́сь с другово конца.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теперь перехватись с другово конца."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заморозить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ричку перехвати́ло, жердин накида́ть и можно перейти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ричку перехватило, жердин накидать и можно перейти."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "взять взаймы небольшую сумму.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Денёк нет, у ково бы перехвати́ть на первое время?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "денек нет, у ково бы перехватить на первое время?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хвати́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хватить"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "надоедно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Надое́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надоедно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надоедливо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надое́дно-жо все вечора́ с пре́сницей сиди́ть, да на́до.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надоедно-жо все вечора с пресницей сидить, да надо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

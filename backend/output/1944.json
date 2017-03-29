@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "душина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Души́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "душина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "запаши́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "запашина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запах (дурной), смрад, вонь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В бане гарью души́на. Ну и души́на жо от тебя́ – насо́псе вина́-та! В избе такая запаши́на чем-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в бане гарью душина. ну и душина жо от тебя – насопсе вина-та! в избе такая запашина чем-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

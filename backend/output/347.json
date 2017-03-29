@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "больно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́льно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "больно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бо́льно добро эдак-то", 
+          "translation": "очень хорошо.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "больно добро эдак-то"
+        }, 
+        {
+          "content": "Не бо́льно он старается на роботе-то. Не бо́́́льно он подро́́́с за́́́ зиму-ту – фсё тако́́́й ши́́́бзик бе́́́гаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не больно он старается на роботе-то. не больно он подрос за зиму-ту – фсе такой шибзик бегает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "слишком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бо́льно умён!", 
+          "translation": "(", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "больно умен!"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ", осудительное) слишком умный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бо́льно круто идё́шь. Бо́льно много хочешь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "больно круто идешь. больно много хочешь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

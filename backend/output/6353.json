@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "прохамкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Проха́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прохамкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "проа́мкать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "проамкать"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прозевать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну что – опеть всё проха́мкали?!", 
+          "translation": "опоздали, пропустили, прозевали.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну что – опеть все прохамкали?!"
+        }, 
+        {
+          "content": "Проха́́́мкали, дак типе́́́ре и не жа́́́льтесь! Суп-от уплыл, проа́мкала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прохамкали, дак типере и не жальтесь! суп-от уплыл, проамкала!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "а́мкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "амкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ха́мкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хамкать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

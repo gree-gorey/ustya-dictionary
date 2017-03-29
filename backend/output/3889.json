@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "ленуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лену́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ленуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обильно лить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "левану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "левануть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ливану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ливануть"
+        }, 
+        {
+          "content": "Ну, ночью и дождя ленуло! Ну, ты уж левану́́́ла дак левану́́́ла – не пожале́́́ла! Дожжь как ливану́л!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ночью и дождя ленуло! ну, ты уж леванула дак леванула – не пожалела! дожжь как ливанул!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "налить немного, плеснуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну-ко, давай, лени́", 
+          "translation": "налей.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, давай, лени"
+        }, 
+        {
+          "content": "Лени́-ко на́ руки", 
+          "translation": "полей воды, чтобы помыть руки.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лени-ко на руки"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

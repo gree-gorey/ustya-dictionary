@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "обрядиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обряди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обрядиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обреди́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обредиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закончить какую-либо работу, например, сделать выпечку хлеба, приготовить завтрак семье, угоить корову (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "обряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дообря́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дообряживаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наобряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наобряжаться"
+        }, 
+        {
+          "content": "). (Не путать со", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сряжаться"
+        }, 
+        {
+          "content": "Я севодни рано обреди́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я севодни рано обредилась."
+        }, 
+        {
+          "content": "Упра́вившись на колхозном дворе, подои́в 16 коров, вдова Анна убегала на весь день на сенокос. А дома оставляла дообря́живаться Зою с братом", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Зоя. Татьяна Илясова. Газ. «Устьянские вести», 11.05.2013 г.", 
+          "normalized_content": "управившись на колхозном дворе, подоив 16 коров, вдова анна убегала на весь день на сенокос. а дома оставляла дообряживаться зою с братом"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

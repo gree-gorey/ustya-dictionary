@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "женихаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жениха́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "женихаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "считать и показывать себя женихом, выбирать невесту, долго не жениться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Доўго ли ищо́ жониха́тце-то бу́дёшь, годы-те идут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доуго ли ищо жонихатце-то будешь, годы-те идут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

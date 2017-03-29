@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "опруги", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опру́ги", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опруги"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "упру́ги", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "упруги"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянные дугообразные заготовки, прикрепляемые изнутри к днищу и бортам поперек корпуса лодки, карбаза, лодки-долблёнки (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "оси́новки", 
+          "tag": "quote", 
+          "normalized_content": "осиновки"
+        }, 
+        {
+          "content": "). Придают жесткость конструкции и препятствуют ее деформации.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "оси́новка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "осиновка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

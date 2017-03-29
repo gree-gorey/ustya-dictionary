@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "выхерить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́херить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выхерить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "выхе́ривать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выхеривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исключить вычеркиванием, вычеркнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из очереди на квартиру вы́херили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из очереди на квартиру выхерили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выгнать, заставить уйти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А как с роботы вы́херят, дак що делать будёшь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а как с роботы выхерят, дак що делать будешь?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

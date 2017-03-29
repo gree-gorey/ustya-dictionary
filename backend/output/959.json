@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "востряк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Востря́к", 
+        "place": [
+          "Березник"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "востряк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "топкое место в болоте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Берегитесь востряко́в на болотах.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "берегитесь востряков на болотах."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,196 @@
+{
+  "field_for_sorting": "очеп", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́чеп", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очеп"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́чепь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "очепь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́чап", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "очап"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление для ручной молотьбы, состоящее из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́дцы", 
+          "tag": "quote", 
+          "normalized_content": "кадцы"
+        }, 
+        {
+          "content": "(рукоятки),", 
+          "tag": "def"
+        }, 
+        {
+          "content": "би́ла", 
+          "tag": "quote", 
+          "normalized_content": "била"
+        }, 
+        {
+          "content": "(рабочей части в виде палки) и соединяющих их", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пу́тцы", 
+          "tag": "quote", 
+          "normalized_content": "путцы"
+        }, 
+        {
+          "content": "(кожаного ремня). Служит для выколачивания (молочения) зерна из снопов на гумне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На гувне́́́ о́́́чепом-то до тово́́́ добря́́́каёшь – ру́́́ки фсе́́́ отва́́́ливаютце к ве́́́цёру.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на гувне очепом-то до тово добрякаешь – руки фсе отваливаютце к вецеру."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "цеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "цеп"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ка́дца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кадца"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "би́ло", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "било"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пу́тца", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "путца"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шест с ведром у колодца с журавлем.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подвижная качающаяся перекладина, к одному из концов которой крепится шест с ведром.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "небольшая гибкая жердь, к которой крепилась", 
+          "tag": "def"
+        }, 
+        {
+          "content": "зы́бка", 
+          "tag": "quote", 
+          "normalized_content": "зыбка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ча́повица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаповица"
+        }, 
+        {
+          "content": "И о́́́чеп, и зы́́́пка фсё пе́́́ред глаза́́́ми стоя́́́т, как бу́́́тто фчера́́́ де́́́тство-то бы́́́ло да ня́́́ньканье на́́́шо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и очеп, и зыпка фсе перед глазами стоят, как бутто фчера детство-то было да няньканье нашо."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зы́бка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зыбка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́повица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаповица"
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

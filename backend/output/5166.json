@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "опруженный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опру́женный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опруженный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "перепру́женный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "перепруженный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перевернутый, опрокинутый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там лодка опру́женная (перепру́женная) лежит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там лодка опруженная (перепруженная) лежит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

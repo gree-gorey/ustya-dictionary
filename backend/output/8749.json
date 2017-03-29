@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "уйтивживоты", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уйти в животы́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уйти в животы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перейти на жительство в дом женщины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мой прадед ушёл в животы́ в Заберёзово.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мой прадед ушел в животы в заберезово."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Живо́тник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "животник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 13
+}

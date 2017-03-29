@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "шкандыбать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шкандыба́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шкандыбать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хромать, переваливаться с ноги на ногу, передвигаться с трудом, ковылять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошкандыба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошкандыбать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пришкандыба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пришкандыбать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ушкандыба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ушкандыбать"
+        }, 
+        {
+          "content": "До́ўго ёму́ придё́тце до́ дому шкандыба́ть. Вон оне́ пошкандыба́ли. Сево́дни сило́м с робо́ты пришкандыба́ў. Где го́сья-та, ушкандыба́ла що́ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доуго ему придетце до дому шкандыбать. вон оне пошкандыбали. севодни силом с роботы пришкандыбау. где госья-та, ушкандыбала щоли?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

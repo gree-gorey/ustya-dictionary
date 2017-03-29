@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "досталь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́сталь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "досталь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдо́сталь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдосталь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вконец, вовсе, окончательно без остатка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он вдо́сталь коня измотал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он вдосталь коня измотал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "достаточно, достаточно много.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я тут всё одна, до́сталь дожила́", 
+          "translation": "прожила достаточно в одиночестве.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я тут все одна, досталь дожила"
+        }, 
+        {
+          "content": "У него всего вдо́сталь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у него всего вдосталь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "голубица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голуби́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голубица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "голубе́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "голубель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голубика.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На Боровихе голуби́ца созрела. Церни́ки-то не пора́то мно́го в боло́те, а вот голубе́ли-то нава́лом!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на боровихе голубица созрела. церники-то не порато много в болоте, а вот голубели-то навалом!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

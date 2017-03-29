@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "налеушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Налеу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "налеушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полеву́́́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полевушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шаньга, политая, намазанная сверху сметаной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наполё́́́ванные (ша́́́ньги)", 
+          "translation": "шаньги с запекшейся сверху корочкой из сметаны или молока с яйцом.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наполеванные (шаньги)"
+        }, 
+        {
+          "content": "Да́́́й-ко, ма́́́ма, наполё́́́ванную ша́́́нешку, уш бо́́́льно они́́́ скусны́́́ у тебя́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дай-ко, мама, наполеванную шанешку, уш больно они скусны у тебя!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

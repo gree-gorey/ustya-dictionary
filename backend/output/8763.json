@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "(и)званья-танет!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(И) званья́-та нет!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "(и) званья-та нет!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нет и в помине. Могли подтвердить утверждение собеседника о том, что чего-то нет или нет в помине, или не слыхать простым:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "званья́!", 
+          "tag": "quote", 
+          "normalized_content": "званья!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Зва́нья", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "званья"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

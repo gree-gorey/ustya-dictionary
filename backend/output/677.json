@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "верховицы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верхови́цы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "верховицы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "верхо́нки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "верхонки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "простые, тонкие холщовые рукавицы, одеваемые поверх теплых рукавиц. Их одевали также для защиты рук от травм (ссадин, мозолей, заноз).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "матюгальник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Матюга́́́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "матюгальник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "матюга́́́льница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "матюгальница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "матерщинник.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

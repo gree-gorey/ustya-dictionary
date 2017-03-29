@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "зауголок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зауго́лок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зауголок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выступающая часть бревна в стене деревенского дома, срубленного «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "в ча́шу", 
+          "tag": "quote", 
+          "normalized_content": "в чашу"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") незаконнорожденный, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нагу́лянный", 
+          "tag": "quote", 
+          "normalized_content": "нагулянный"
+        }, 
+        {
+          "content": "», ребенок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сколо́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сколот"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

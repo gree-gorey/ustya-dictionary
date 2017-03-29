@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "чистыйугол", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чи́стый у́гол", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чистый угол"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ рубки стен построек, при котором концы бревен в углах не выступают за пределы сруба (нет зауголков), и ряды бревен скрепляются между собой", 
+          "tag": "def"
+        }, 
+        {
+          "content": "в замо́к", 
+          "tag": "quote", 
+          "normalized_content": "в замок"
+        }, 
+        {
+          "content": "непосредственно в углу.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "в ла́пу", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "в лапу"
+        }, 
+        {
+          "content": "Нынче дома рубят из лафе́та и бруса в чи́стый у́гол.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нынче дома рубят из лафета и бруса в чистый угол."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ла́па", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лапа"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ча́ша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаша"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

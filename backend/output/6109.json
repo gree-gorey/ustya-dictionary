@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пошохнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пошохну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пошохнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгнать, прогнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошохни́ ты этих кур с огоро́тца, а то всю карто́вь вы́порхают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошохни ты этих кур с огоротца, а то всю картовь выпорхают."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,247 @@
+{
+  "field_for_sorting": "манить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мани́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "манить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ждать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "домани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перемани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "помани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поманить"
+        }, 
+        {
+          "content": "Не надо его мани́ть, подём давай, и так уж времени сколько", 
+          "translation": "время уже вышло.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо его манить, подем давай, и так уж времени сколько"
+        }, 
+        {
+          "content": "Домани́ли до потёмок, надо было раньше выходить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доманили до потемок, надо было раньше выходить."
+        }, 
+        {
+          "content": "Она переоболочё́тся в своё платье и сразу, не маня́ времени, уедут на свою Усью. Нищий согласился", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Нищая купчиха». М.И. Шалаурова.", 
+          "normalized_content": "она переоболочется в свое платье и сразу, не маня времени, уедут на свою усью. нищий согласился"
+        }, 
+        {
+          "content": "Перемани́ть надо непого́ду-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "переманить надо непогоду-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "звать, подзывать, привлекать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́манить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подмани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смани́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выма́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выманивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зама́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заманивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "перема́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переманивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подма́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подманивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прима́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приманивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сма́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сманивать"
+        }, 
+        {
+          "content": "Не надо котёнка мани́ть, а то за нами побежи́т, по дороге потеряетсе. Что это ты всё Ваську к себе в гости зама́́ниваёшь? Зачем ты столько на празник народу намани́л? Опять Настю к себе перемани́ла. Ну зачем ты собачёнка смани́л, не надо ёво с нами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо котенка манить, а то за нами побежит, по дороге потеряетсе. что это ты все ваську к себе в гости заманиваешь? зачем ты столько на празник народу наманил? опять настю к себе переманила. ну зачем ты собаченка сманил, не надо ево с нами."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "просить голосом, манерой поведения (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́манить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выманить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выманивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выманивать"
+        }, 
+        {
+          "content": "Тебе бы только мани́ть у других", 
+          "translation": "(о малыше).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе бы только манить у других"
+        }, 
+        {
+          "content": "Он как приста́нёт, дак уж вы́манит", 
+          "translation": "(выпросит)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он как пристанет, дак уж выманит"
+        }, 
+        {
+          "content": "що ему надо, вот какой! Это собачка так лаем кусочек хлеба выма́нивает.", 
+          "tag": "quote", 
+          "normalized_content": "що ему надо, вот какой! это собачка так лаем кусочек хлеба выманивает."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ступистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ступи́стый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ступистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имеющий широкий шаг, хорошую ступь (о коне).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ры́жко был ступи́стый конь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рыжко был ступистый конь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сту́пь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ступь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

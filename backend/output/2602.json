@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "зарыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зары́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зарыкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зарыча́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зарычать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зареветь, замычать (о животных), заорать, закричать (о человеке).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

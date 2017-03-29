@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "юк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Юк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебель гороха, вырванный с корнем.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

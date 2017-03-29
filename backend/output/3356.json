@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "олобень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́лобень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "олобень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень большой колоб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон какой ко́лобень снега наката́ли, во весь рост.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон какой колобень снега накатали, во весь рост."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́лоб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колоб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

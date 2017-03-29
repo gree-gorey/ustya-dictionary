@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "краса", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Краса́", 
+        "place": [
+          "Кононовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "краса"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хорошая солнечная погода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дни длинные, погода – краса́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дни длинные, погода – краса."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

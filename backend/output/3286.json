@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "кобыла", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кобы́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кобыла"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устройство из двух высоко поднятых треугольных конструкций (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кобы́лин", 
+          "tag": "quote", 
+          "normalized_content": "кобылин"
+        }, 
+        {
+          "content": "ко́злов", 
+          "tag": "quote", 
+          "normalized_content": "козлов"
+        }, 
+        {
+          "content": ") с настилом между ними для продольной распиловки бревен маховой пилой («", 
+          "tag": "def"
+        }, 
+        {
+          "content": "шве́дкой", 
+          "tag": "quote", 
+          "normalized_content": "шведкой"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

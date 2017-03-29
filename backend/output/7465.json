@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сцять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сцять", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сцять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сцеть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сцеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мочиться, пи́сать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

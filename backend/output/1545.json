@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "грудно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гру́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грудно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кучно, близко друг к другу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грузди обычно растут гру́дно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грузди обычно растут грудно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

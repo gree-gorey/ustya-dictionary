@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "окосячка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окося́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окосячка"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "косяки двери, окна.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кривулистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Криву́листый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кривулистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно изогнутый лес.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "петляющий ручей, речка, река, тропинка, дорога.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

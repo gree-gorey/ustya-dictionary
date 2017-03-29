@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "заростель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́ростель", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заростель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесные и кустарниковые заросли.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По берегу ивовой за́ростель, к воде не подойдёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по берегу ивовой заростель, к воде не подойдешь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "старое речное русло, заросшее кустами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше тут ричка текла, а тепере за́ростель.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше тут ричка текла, а тепере заростель."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

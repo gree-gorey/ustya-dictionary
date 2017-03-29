@@ -1,0 +1,128 @@
+{
+  "field_for_sorting": "издить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́здить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "издить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ездить", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́издить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выиздить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переи́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переиздить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пои́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поиздить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съи́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съиздить"
+        }, 
+        {
+          "content": "Снаряди́ли подво́ды да сами и́здили за солью. Петилетку вы́издиў в лес. Скоко гостей к нам за лето переи́здило. Много за жись-то пришлось пои́здить. Надо бы в район съи́здить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снарядили подводы да сами издили за солью. петилетку выиздиу в лес. скоко гостей к нам за лето переиздило. много за жись-то пришлось поиздить. надо бы в район съиздить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ударить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съи́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съиздить"
+        }, 
+        {
+          "content": "Ёму там по ро́же съи́здили за що-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему там по роже съиздили за що-то."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") хлебать ложкой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съи́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съиздить"
+        }, 
+        {
+          "content": "И на́чели все дружно в блюдо со штями ложками и́здить. Эка семья, дак не все успи́ли и по разу ложкой съи́здить по кашу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и начели все дружно в блюдо со штями ложками издить. эка семья, дак не все успили и по разу ложкой съиздить по кашу."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осоть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осо́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осоть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крупная, сорная, быстроразмножающаяся трава.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ско́́́ко осо́́́ти-то опе́́́ть вы́́́лезло ф карто́́́шке!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко осоти-то опеть вылезло ф картошке!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

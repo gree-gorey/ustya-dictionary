@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "дрочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дро́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дрочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "баловать, нежить, холить. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Печка дро́чит, а дорожка у́чит", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "печка дрочит, а дорожка учит"
+        }, 
+        {
+          "content": "(пословица).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

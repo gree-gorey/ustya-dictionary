@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "филонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фило́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "филонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лентяйничать, не утруждать себя работой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Роди́тели баже́нили с де́тства, и он привы́к фило́нить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "родители баженили с детства, и он привык филонить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

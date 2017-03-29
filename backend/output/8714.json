@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ятно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́тно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ятно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "четко, хорошо видно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да я ещо́́́ я́́́тно и без очко́́́в ви́́́жу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да я ещо ятно и без очков вижу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

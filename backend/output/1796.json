@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "долоньсково", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долоньско́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долоньсково"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в позапрошлом году.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Долоньсько́во зимой порато много снегу было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долоньськово зимой порато много снегу было."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "долони́шный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "долонишный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

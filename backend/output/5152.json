@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "опояска", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опоя́ска", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опояска"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опоя́сочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опоясочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "все, чем можно опоясаться (подпоясаться) пояс, ремень, кушак и т. п. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кафтан-то бархатный на нём только шумит, золото на опоя́сочке на нём що жар-то горит", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "кафтан-то бархатный на нем только шумит, золото на опоясочке на нем що жар-то горит"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

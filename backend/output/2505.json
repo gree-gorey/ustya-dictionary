@@ -1,0 +1,130 @@
+{
+  "field_for_sorting": "замять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замя́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "замять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заме́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заметь"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "замина́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заминать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испортить, погнуть, затоптать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "изомя́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "изомять"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "изоме́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "изометь"
+        }, 
+        {
+          "content": "Траву-ту всю заме́ли – как косить-то! Всю ботву у картоф(в)и изоме́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "траву-ту всю замели – как косить-то! всю ботву у картоф(в)и изомели."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "задавить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не стой на дороге, машиной замну́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стой на дороге, машиной замнут."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сделать мягким, растереть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коптяевская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Толокно с водой замну́т, получается тяпушка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "толокно с водой замнут, получается тяпушка."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перебить в разговоре болтовней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Влезла в разговор и всё замя́ла своей болтовнёй.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "влезла в разговор и все замяла своей болтовней."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мять", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мять"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

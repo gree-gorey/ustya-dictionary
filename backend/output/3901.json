@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "летник3", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ле́тник 3", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "летник 3"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ле́тняя изба", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "летняя изба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помещение для проживания в теплое время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди́́́те-ко в ле́́́тнюю-то и́́́збу спа́́́ть – ме́́́ста та́́́моки поўно́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идите-ко в летнюю-то избу спать – места тамоки поуно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "перё́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перед"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

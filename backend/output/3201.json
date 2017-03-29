@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "качало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́чало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "качало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинная веревка, тесьма или ремень, которые привязывались к", 
+          "tag": "def"
+        }, 
+        {
+          "content": "зы́бке", 
+          "tag": "quote", 
+          "normalized_content": "зыбке"
+        }, 
+        {
+          "content": "(люльке с ребенком) и позволяли качать зыбку ногой во время выполнения другой работы или издали.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

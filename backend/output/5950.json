@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "полынь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́лынь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полынь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полы́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полынь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полынья нерукотворная, большой незамерзший участок реки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Через реку не пройти, по́лынь велика. Полы́нь-то ещё ши́рше стала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "через реку не пройти, полынь велика. полынь-то еще ширше стала!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

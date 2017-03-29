@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "рад-радешенек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рад-радё́шенек", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рад-радешенек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень обрадовался.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рад-радё́шенек, што в гости зашли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рад-радешенек, што в гости зашли."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Раде́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "радеть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 11
+}

@@ -1,0 +1,189 @@
+{
+  "field_for_sorting": "скыркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скы́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скыркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ско́́́ркать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скоркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ска́́́ркать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скаркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрести, скоблить; тереть, отчищая грязь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́скоркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выскоркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наскы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наскыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оска́́́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскаркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отскы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отскыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поскы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поскыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "соскы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "оска́ркивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскаркивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отска́ркивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отскаркивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "соска́ркивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскаркивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отскы́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отскырнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "соскы́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскырнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я скы́ркала, скы́ркала, еле отскы́ркала", 
+          "translation": "терла, терла, еле оттерла.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я скыркала, скыркала, еле отскыркала"
+        }, 
+        {
+          "content": "Стол-от ране без клеёнки был, ножом отско́ркашь, да и опеть живёшь. Надо лучше сковородку-то ска́ркать. Я вон ножиком-то скоко грези наскы́ркала на полу. Поскы́ркала, поскы́ркала, ничево не могла отскы́ркать. Соскы́́́ркать пятно́́́-то на́́́до. Лопату-то надо от земли оска́ркивать. С сапогов-то грезь надо соска́ркивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стол-от ране без клеенки был, ножом отскоркашь, да и опеть живешь. надо лучше сковородку-то скаркать. я вон ножиком-то скоко грези наскыркала на полу. поскыркала, поскыркала, ничево не могла отскыркать. соскыркать пятно-то надо. лопату-то надо от земли оскаркивать. с сапогов-то грезь надо соскаркивать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тереть на тёрке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наско́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наскоркать"
+        }, 
+        {
+          "content": "Я моркови наско́ркала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я моркови наскоркала."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

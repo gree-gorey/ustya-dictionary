@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "двухкантный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двухка́нтный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двухкантный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вид пиломатериала большого сечения (бруса), у которого обрезан по всей длине горбыль только с двух противоположных сторон (два, а не четыре канта).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лафе́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лафет"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

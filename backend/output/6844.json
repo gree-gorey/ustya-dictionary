@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сиверно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́вёрно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сиверно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "холодно от северного ветра.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́вёрно севодни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сиверно севодни."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "севери́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "северить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

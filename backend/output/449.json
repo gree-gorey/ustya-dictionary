@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "брякнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бря́кнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брякнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбря́кнуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбрякнуться"
+        }, 
+        {
+          "content": "Коль ни ка́́́тко-то сево́́́дни, хоть бы не бря́́́кнутьце! Он снег сгребал и с крыши сбря́кнулсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль ни катко-то севодни, хоть бы не брякнутьце! он снег сгребал и с крыши сбрякнулсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

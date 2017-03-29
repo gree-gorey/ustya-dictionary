@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "лежень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лё́жень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лежень"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "лё́жни", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "лежни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бревно, лежащее в воде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На мельнице вода с шумом стекала с верхних лё́жней на нижние.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на мельнице вода с шумом стекала с верхних лежней на нижние."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бревно, брус для лежневки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большой камень, валун, скрытый полностью или частично землей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "за́лежень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "залежень"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нижний неподвижный каменный жернов на мельнице.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

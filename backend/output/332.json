@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "болегузовый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Болегу́зовый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болегузовый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень восприимчивый к боли человек.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "белягу́́зоватый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "белягузоватый"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "придирчивый человек («необыка»).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

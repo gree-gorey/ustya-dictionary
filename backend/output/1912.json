@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "дубдрать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дуб драть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дуб драть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заготавливать кору ивы, которая в дальнейшем использовалась для дубления кожи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дуб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дуб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

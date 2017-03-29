@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "потуда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поту́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потуда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поту́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "потуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поту́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "потуль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тем путем, той дорогой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди поту́ля и выйдёшь на ричку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди потуля и выйдешь на ричку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

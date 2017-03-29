@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "бадьек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бадьё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бадьек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обод женского головного убора.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

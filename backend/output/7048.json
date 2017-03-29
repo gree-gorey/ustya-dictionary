@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "слету", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слё́ту", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слету"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сходу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль не крута́-та, дак нали́ слё́ту рвёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль не крута-та, дак нали слету рвет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гололедь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гололе́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гололедь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гололед, гололедица.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надоела гололе́дь, хоть бы снегу напа́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надоела гололедь, хоть бы снегу напало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

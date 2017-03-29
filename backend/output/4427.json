@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "надоумить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Надоу́мить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надоумить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "навести на мысль, посоветовать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хорошо що сват меня́ надоу́миў, как сде́лать про́ще и скоря́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошо що сват меня надоумиу, как сделать проще и скоряе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

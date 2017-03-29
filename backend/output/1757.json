@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "дожж", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́жж", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дожж"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "до́жжык", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дожжык"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дождь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эвон дожжа́-то сколько!", 
+          "translation": "какой сильный дождь! «", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эвон дожжа-то сколько!"
+        }, 
+        {
+          "content": "Дошш – лентя́ям гош, ло́дырям – в по́льзу", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "дошш – лентяям гош, лодырям – в пользу"
+        }, 
+        {
+          "content": "Тихий когда до́жжык идёт, дак грибы будут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тихий когда дожжык идет, дак грибы будут."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "до́жжычок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дожжычок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

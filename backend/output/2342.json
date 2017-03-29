@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "задавливать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зада́вливать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задавливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прижимать, придавливать воз сена к дровням с помощью специальной жерди и веревок.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

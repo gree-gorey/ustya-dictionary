@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "корежиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корё́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корежиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "искорё́житься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "искорежиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгибаться, горбиться, искривляться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закорё́житься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закорежиться"
+        }, 
+        {
+          "content": "Тёс надо ро́вно ложить на прокла́дки, а то искорё́жится.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тес надо ровно ложить на прокладки, а то искорежится."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "надрываться, выполняя тяжелую работу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все искорё́жились на экой роботе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все искорежились на экой роботе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

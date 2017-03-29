@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "гарь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́рь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гарь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесной участок, выгоревший при пожаре.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

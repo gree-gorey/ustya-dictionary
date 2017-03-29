@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "нажиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нажи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нажиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пожить, побыть какое-то время, до той поры, пока не надоест. Если молодым, скажем, надоело жить с родителями, и они решили организовать свое хозяйство могут сказать: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит, нажили́се мы тут", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Гостья может сказать: «", 
+          "normalized_content": "хватит, нажилисе мы тут"
+        }, 
+        {
+          "content": "Всё, нажила́сь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все, нажилась!"
+        }, 
+        {
+          "content": "погостила («", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нагости́лась", 
+          "tag": "quote", 
+          "normalized_content": "нагостилась"
+        }, 
+        {
+          "content": "») и пора домой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я уш нажила́се в гостях-то, домой пора.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я уш нажиласе в гостях-то, домой пора."
+        }, 
+        {
+          "content": "Или об умирающем человеке могли сказать: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да, видно, Усти́ниха-та нажила́се!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да, видно, устиниха-та нажиласе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "маракотье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Марако́тьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маракотье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький ростом, незаметный, никчемный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ие́ мужичо́к-от такоё марако́тьё, а живу́т добро́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у ие мужичок-от такое маракотье, а живут добро."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

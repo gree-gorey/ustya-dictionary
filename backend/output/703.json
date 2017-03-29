@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ветрина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ветри́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ветрина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильный ветер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и ветри́на сёдни, того и гледи опеть свету не будёт, провода где замкнёт…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и ветрина седни, того и гледи опеть свету не будет, провода где замкнет…"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ви́тёр", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "витер"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

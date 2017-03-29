@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выветрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́ветрить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выветрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "продуть, просушить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зарод нето́птаной, вы́ветриёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зарод нетоптаной, выветриет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

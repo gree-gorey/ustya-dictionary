@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осолить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осоли́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осолить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "засолить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Придё́́́тце осоли́́́ть оста́́́ток мя́́́са, шщоб не пропа́́́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "придетце осолить остаток мяса, шщоб не пропал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

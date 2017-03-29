@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "забусеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забусе́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забусеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заплесневеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Варе́́́ньё-то забусе́́́ло под кры́́́шкой, мо́́́жот перевари́́́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "варенье-то забусело под крышкой, можот переварить?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бусе́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бусеть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

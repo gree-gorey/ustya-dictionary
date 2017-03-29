@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "защипнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Защипну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "защипнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрепить, соединить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "защипи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "защипить"
+        }, 
+        {
+          "content": "Надо бельё заще́пкой защипну́ть. Пуговица оторваласе, надо булавкой пока защипну́ть (защипи́ть).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо белье защепкой защипнуть. пуговица оторваласе, надо булавкой пока защипнуть (защипить)."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "соединить пальцами верхние и нижние края пирога из теста.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я защипну́ла края-то у ягодника.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я защипнула края-то у ягодника."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

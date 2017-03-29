@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "мезга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мезга́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мезга"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мездра", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мездра"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не растворившиеся в воде частицы солода.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кожица после молотьбы гороха, овса.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мезгу́́́-ту соберё́́́м, да скоту́́́ запа́́́рим – фсё нае́́́да бу́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мезгу-ту соберем, да скоту запарим – фсе наеда будет."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

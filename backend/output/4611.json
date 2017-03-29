@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "настамик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Настами́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "настамик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ставить вертикально, на ребро, не аккуратно, кое-как, сложить не укладно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Плуг худо пашёт, ставит пласты земли настами́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "плуг худо пашет, ставит пласты земли настамик."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

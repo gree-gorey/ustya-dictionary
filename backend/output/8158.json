@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "ходары", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хода́ры", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходары"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ноги.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "хода́ра", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ходара"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

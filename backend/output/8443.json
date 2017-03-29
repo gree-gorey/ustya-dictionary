@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "чучкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́чкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чучкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пачкаться в грязи (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зачу́чкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зачучкаться"
+        }, 
+        {
+          "content": "Поросёнок в ляге чу́чкаетсе. Выпустила сви́шку на улицу, дак она в грезе́ зачу́чкалась. Где ты сумел так зачу́чкатьсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросенок в ляге чучкаетсе. выпустила свишку на улицу, дак она в грезе зачучкалась. где ты сумел так зачучкатьсе?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "возиться, опекать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит с им чу́чкатьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит с им чучкатьсе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "начу́чкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "начучкаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

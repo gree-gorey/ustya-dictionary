@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "напостоянно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напостоя́нно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напостоянно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на все время подряд, без перерыва.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёво перевели в ско́тники напостоя́нно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ево перевели в скотники напостоянно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "дожин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дожи́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дожин"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дожи́нки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дожинки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "последний день жатвы; последний сжатый сноп, который приносят с поля домой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "окончание работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дожи́н или не дожи́н?", 
+          "translation": "успеем или не успеем?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дожин или не дожин?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "борода́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "борода"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

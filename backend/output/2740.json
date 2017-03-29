@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "збрызнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Збры́знуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "збрызнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "увлажнить, разбрызгивая воду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пол-от сперва збры́зни, а после паши́, а то ко́поти много поды́мёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пол-от сперва збрызни, а после паши, а то копоти много подымешь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "снять", 
+          "tag": "def"
+        }, 
+        {
+          "content": "уро́ки", 
+          "tag": "quote", 
+          "normalized_content": "уроки"
+        }, 
+        {
+          "content": ", порчу путем прыскания водой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если збры́знуть врасплох человека водой, пропущенной через дверную дугу – помогает снять уро́ки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если збрызнуть врасплох человека водой, пропущенной через дверную дугу – помогает снять уроки."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уро́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "урок"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

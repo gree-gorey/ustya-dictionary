@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "молоденька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моло́денька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "молоденька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "молоде́нька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "молоденька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодая.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Баба-та овдовела, а ведь молоде́нька ищо, замуж бы ей…", 
+          "translation": "еще не стара, слишком молода (чтобы быть одной), достаточно молода, не состарилась.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баба-та овдовела, а ведь молоденька ищо, замуж бы ей…"
+        }, 
+        {
+          "content": "Ты ешщо́́́ моло́́́денька бо́́́льно, шщо́́́бы меня́́́, стару́́́ху, уци́́́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты ешщо молоденька больно, шщобы меня, старуху, уцить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

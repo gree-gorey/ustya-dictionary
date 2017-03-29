@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тычинка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тычи́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тычинка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тонкий колышек, прут, длиной около двух метров.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наруби́́́-ко тычи́́́нок, дак мали́́́ну к им привя́́́жом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наруби-ко тычинок, дак малину к им привяжом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

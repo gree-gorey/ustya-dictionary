@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "рубить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Руби́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рубить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "в ла́пу", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "в лапу"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в плотницком деле соединять бревна в срубе особым образом. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "в лапу", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "в лапу"
+        }, 
+        {
+          "content": "Сру́бленная в ча́шу изба краси́вше, чем в в ла́пу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "срубленная в чашу изба красивше, чем в в лапу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́па", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лапа"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зару́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заруба"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рубить в зару́бу", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рубить в зарубу"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́ша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаша"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

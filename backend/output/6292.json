@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "прогалызина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прогалы́зина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прогалызина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая полынья между плывущими по воде льдинами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Направляй лодку вон в ту прогалы́зину", 
+          "translation": "(между льдинами).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "направляй лодку вон в ту прогалызину"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "небольшая полянка, безлесый участок в лесу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там дальше в лесу просве́т, наверно есть прогалы́зина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там дальше в лесу просвет, наверно есть прогалызина."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

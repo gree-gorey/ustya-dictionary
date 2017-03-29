@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "аборабки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Абора́бки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аборабки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обара́бки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обарабки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "апора́бки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "апорабки"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дети, детишки (часто непослушные).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нарожа́ла обара́бков, а у самой голова не в том конце, бегают да дра́знятся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нарожала обарабков, а у самой голова не в том конце, бегают да дразнятся."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "жердка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жё́рдка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жердка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жё́рдочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жердочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ловушка на боровую дичь с силком на конце.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

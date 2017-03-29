@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "забатывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заба́тывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забатывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замешивать, творить тесто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завтра у нас именинник, пойду заба́тывать тесто, надо шанё́г напекчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра у нас именинник, пойду забатывать тесто, надо шанег напекчи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бо́тать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ботать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

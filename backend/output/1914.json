@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "дубасить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дуба́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дубасить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бить, колотить кого-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отдуба́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отдубасить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "колотить, ударять по чему-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чтобы расколоть эту чурку, надо долго дуба́сить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чтобы расколоть эту чурку, надо долго дубасить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "присобачить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Присоба́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "присобачить"
+      }
+    ], 
+    "style": [
+      "вульг."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небрежно прибить, приделать, присоединить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що доску-ту ко́со присоба́чиў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що доску-ту косо присобачиу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

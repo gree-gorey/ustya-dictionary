@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "страмить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Страми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "страмить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "срамить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "застрами́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застрамить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "острами́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "острамить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пострами́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пострамить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пристрами́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пристрамить"
+        }, 
+        {
+          "content": "Мать ста­ла ругать Марью, що Иван уж с другой сосва́тан, а що ты с ним дру́жишься. Пора перестать себя страми́ть, людей смешить", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «Иван-да Марья». М.И. Шалаурова.", 
+          "normalized_content": "мать ста­ла ругать марью, що иван уж с другой сосватан, а що ты с ним дружишься. пора перестать себя страмить, людей смешить"
+        }, 
+        {
+          "content": "Хватит тибе, всево парня застрами́ла, сама-то не лучше!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит тибе, всево парня застрамила, сама-то не лучше!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

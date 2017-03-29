@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "чевокать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чёво́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чевокать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смешивать буквы", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ц", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ц"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ч", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ч"
+        }, 
+        {
+          "content": "в разговорной речи, что является характерным для устьяков.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

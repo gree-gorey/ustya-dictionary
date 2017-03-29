@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "агличанка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аглича́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "агличанка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень своенравная.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "непослушная (о ребенке).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "учительница английского языка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В школу новая аглича́нка приехала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в школу новая агличанка приехала."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "не́мка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "немка"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

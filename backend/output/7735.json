@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "трынькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тры́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трынькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тренькать, бренчать по струнам (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затры́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрынькать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потры́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потрынькать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") разбазаривать деньги, добро (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "растры́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "растрынькать"
+        }, 
+        {
+          "content": "Токо знают деньги тры́нькать! Скоко уж ростры́нькали не нащо́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "токо знают деньги трынькать! скоко уж рострынькали не нащо!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

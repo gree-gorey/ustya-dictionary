@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "красивобольно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Краси́во бо́льно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красиво больно"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень некрасиво, нехорошо, неприлично.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что реви́шь, краси́во бо́льно!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ревишь, красиво больно!"
+        }, 
+        {
+          "content": "Эко натворил, краси́во бо́льно!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко натворил, красиво больно!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

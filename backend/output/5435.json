@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "патлы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́тлы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "патлы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "космы, пряди волос.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экие па́тлы-то роспустил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экие патлы-то роспустил!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

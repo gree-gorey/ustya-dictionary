@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ошибтись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оши́бтись", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ошибтись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ошибиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этом диле нельзя оши́бтись.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этом диле нельзя ошибтись."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

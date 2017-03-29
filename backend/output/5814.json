@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "подрост", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подро́ст", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подрост"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подро́с", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подрос"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подса́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подсад"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодая поросль хвойных деревьев, растущая под пологом высокорослого леса, как правило, лиственного.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

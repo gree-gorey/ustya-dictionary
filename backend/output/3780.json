@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "купить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Купи́ть", 
+        "place": [
+          "Туриха"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "купить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родить ребенка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Одново только купи́ла, боле неково нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одново только купила, боле неково нет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

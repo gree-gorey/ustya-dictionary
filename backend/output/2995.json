@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "икреница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́креница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "икреница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голень, икра, икроножная мышца.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчара экой во́лок прошли, дак севодни и́креницы болят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчара экой волок прошли, дак севодни икреницы болят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

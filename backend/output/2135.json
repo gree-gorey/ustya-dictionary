@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "женка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жё́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "женка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жонка"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "правый ральник (сошник) у сохи, отваливающий подрезанный резаком (левым сошником) пласт почвы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "соха́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "соха"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ра́льник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ральник"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "реза́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "резак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

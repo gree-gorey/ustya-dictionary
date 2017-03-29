@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "жечьсвет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жечь свет", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жечь свет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пользоваться электроприборами (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наже́чь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажечь"
+        }, 
+        {
+          "content": "Нечево жечь свет, выключай лампочку. Вон сколько свету нажё́г!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево жечь свет, выключай лампочку. вон сколько свету нажег!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

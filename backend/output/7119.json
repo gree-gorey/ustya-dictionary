@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "сныреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сныре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сныреть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шныре́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шныреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шнырять, усердно что-то искать; соваться, бегать и высматривать, выспрашивать; выискивать что-то тайком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сныре́ёт", 
+          "translation": "усердно что-то ищет, шныряет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сныреет"
+        }, 
+        {
+          "content": "Недавно йи́ли, а опе́ть сныре́ют, то кусок отло́мят, то глы́зку сахару уволоку́т!", 
+          "translation": "недавно ели (о детях), а опять норовят утащить то кусок хлеба, то кусок сахара.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недавно йили, а опеть сныреют, то кусок отломят, то глызку сахару уволокут!"
+        }, 
+        {
+          "content": "Што ты тут шныре́ёшь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што ты тут шныреешь?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лы́ндать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лындать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

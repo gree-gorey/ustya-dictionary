@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "повесмо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пове́смо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повесмо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "горсть,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пук", 
+          "tag": "quote", 
+          "normalized_content": "пук"
+        }, 
+        {
+          "content": "(пучок) льна, обработанного в процессе трепания; горсть,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пук", 
+          "tag": "quote", 
+          "normalized_content": "пук"
+        }, 
+        {
+          "content": "кудели. Лен после обработки в октябре измеряли повесмами (мера льна для изготовления ткани).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну шщо́́́, во́́́сем пове́́́см виси́́́т – э́́́тово ма́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну шщо, восем повесм висит – этово мало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

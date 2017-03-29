@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "двойни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дво́йни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двойни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изба-зимовка, разделенная капитальной стеной на две половины.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

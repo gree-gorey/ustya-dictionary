@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "сморозить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сморо́зить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сморозить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отморо́зить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отморозить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сказать нелепицу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "моро́зить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "морозить"
+        }, 
+        {
+          "content": "Ну, що эко и сморо́зиў? Нечево ерунду моро́зить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, що эко и сморозиу? нечево ерунду морозить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

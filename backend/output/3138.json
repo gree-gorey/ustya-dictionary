@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "камчатка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Камча́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "камчатка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "задняя парта в школьном классе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В старших классах я любил сидеть на камча́тке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в старших классах я любил сидеть на камчатке."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

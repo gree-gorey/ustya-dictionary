@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "недайбог", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не дай Бог", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не дай бог"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не дай-то Бог", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "не дай-то бог"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "изба́ви Бог", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "избави бог"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в значении сказуемого", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "очень неприятно, плохо, лучше не надо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не дай Бог в такую те́мень идти! Ведь как свекро́́́вка-та с молоди́́́цей не сойду́́́тце, дак э́́́то – не да́́́й-то Бо́́́г!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не дай бог в такую темень идти! ведь как свекровка-та с молодицей не сойдутце, дак это – не дай-то бог!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

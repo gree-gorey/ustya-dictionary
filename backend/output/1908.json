@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "дряблый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дря́блый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дряблый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подгнивший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пень-от дря́блый.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пень-от дряблый."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "старый, больной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дря́блые кости-то стали на старости. Афроси́нья-то совсем дря́блая стала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дряблые кости-то стали на старости. афросинья-то совсем дряблая стала."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

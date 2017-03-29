@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "головастой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голова́стой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "головастой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умный, сообразительный, начитанный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парень голова́стой, с малых лет много знаёт и добро учитце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парень головастой, с малых лет много знает и добро учитце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

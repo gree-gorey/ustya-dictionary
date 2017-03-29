@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "куржавина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́ржавина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куржавина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "куржа́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "куржа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "куржева́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "куржева"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "куржова́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "куржова"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кружева́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кружева"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кружова́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кружова"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иней, изморозь в местах выхода тепла из помещения, на деревьях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и мороз севодня! Вон все дерё́ва в ку́ржавине стоят. Дом старой, зимой во всех углах куржова́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и мороз севодня! вон все дерева в куржавине стоят. дом старой, зимой во всех углах куржова."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "за́йцы", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зайцы"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "за́йчики", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зайчики"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

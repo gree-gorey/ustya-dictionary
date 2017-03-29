@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "отсаривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отса́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отсаривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отделять мусор.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отса́ривай мусор-то в сторону от ягод.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отсаривай мусор-то в сторону от ягод."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отстранять, отдалять, не привечать, не желать присутствия и отношений.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заходите к нам в любоё времё, я неково из родни не отса́риваю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заходите к нам в любое време, я неково из родни не отсариваю."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

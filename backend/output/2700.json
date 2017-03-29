@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "захлынчить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Захлы́нчить", 
+        "place": [
+          "Коптяевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "захлынчить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "захворать, заболеть, потерять здоровье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На серодо́йке наму́чилась, и с тех пор захлы́нчила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на серодойке намучилась, и с тех пор захлынчила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

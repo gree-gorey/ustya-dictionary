@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "ахти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ахти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ахти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "очень. Чаще используется как отрицание не очень, немного, не очень хорошо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ахти́ там ягод-то сево́годы. Сделано-то не ахти́ как.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ахти там ягод-то севогоды. сделано-то не ахти как."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "о́хти", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "охти"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

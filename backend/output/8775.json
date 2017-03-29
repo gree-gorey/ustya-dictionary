@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "К кобы́́́ле на труды́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к кобыле на труды!"
+        }, 
+        {
+          "content": "(присказка, приговорка) не любопытствуй, не твоего ума дело.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Куды́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "куды"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

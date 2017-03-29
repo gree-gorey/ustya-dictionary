@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "всоку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всоку́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всоку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в состоянии повышенного накопления жидкости, сокодвижения (о деревьях).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лы́ко дерут ковды берёзы всоку́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лыко дерут ковды березы всоку."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выросший, физически развитый, здоровый молодой человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Девка всоку́, пора взамуж.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "девка всоку, пора взамуж."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

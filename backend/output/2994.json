@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "икра", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Икра́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "икра"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "серные кристаллы из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "живи́цы", 
+          "tag": "quote", 
+          "normalized_content": "живицы"
+        }, 
+        {
+          "content": ", образующиеся при ее затвердевании на открытом воздухе.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

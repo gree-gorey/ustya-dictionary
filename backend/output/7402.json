@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "сузем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сузём", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сузем"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сузё́мко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "суземко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "персонаж местных преданий: человек, живущий далеко, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "на отши́бе", 
+          "tag": "quote", 
+          "normalized_content": "на отшибе"
+        }, 
+        {
+          "content": "», находящийся мало на виду, поэтому, по поверью, обладающий сверхъестественными способностями.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

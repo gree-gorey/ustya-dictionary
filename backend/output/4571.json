@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "наровень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́ровень", 
+        "place": [
+          "Мяткурга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "наровень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на одном уровне.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вро́вень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вровень"
+        }, 
+        {
+          "content": "Налил-то пора́то скля́но – с краями на́ровень.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "налил-то порато скляно – с краями наровень."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вро́вень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вровень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скля́но", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скляно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

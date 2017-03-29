@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "полуда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полу́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полуда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "эмаль (на посуде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не скы́́́ркай пора́́́то костру́́́лю-ту, фсю полу́́́ду соскы́́́ркаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не скыркай порато кострулю-ту, фсю полуду соскыркаешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

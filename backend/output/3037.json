@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "испить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпить, глотнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Испи́ть чаю. Дай-ко хоть испи́ть води́цы-то, весь упре́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "испить чаю. дай-ко хоть испить водицы-то, весь упрел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

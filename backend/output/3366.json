@@ -1,0 +1,114 @@
+{
+  "field_for_sorting": "колоколо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колоколо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колоколо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́локоло", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колоколо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "колоко́лышко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колоколышко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колокол.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон на це́́́ркви-то уш ко́́́локоло пови́́́сили. Колоко́́́лышко-то это сигна́́́льноё, знак людя́́́м подаё́́́т, ковды́́́ шщо нела́́́дно сди́́́етця.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон на церкви-то уш колоколо повисили. колоколышко-то это сигнальное, знак людям подает, ковды шщо неладно сдиетця."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "колокольчик, вешаемый на шею животным («", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бо́тало", 
+          "tag": "quote", 
+          "normalized_content": "ботало"
+        }, 
+        {
+          "content": "борку́н", 
+          "tag": "quote", 
+          "normalized_content": "боркун"
+        }, 
+        {
+          "content": "Даве чу́ла за малой ри́чкой на борти́не колоколо́ брякало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "даве чула за малой ричкой на бортине колоколо брякало."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") болтливый человек. О ребенке, который уже достал своей болтовней, особенно если голос у него звонкий, могут сказать: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот колоколо́́́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот колоколо-то!"
+        }, 
+        {
+          "content": "Ну, ты па́́́ре и колоколо́́́ жо!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты паре и колоколо жо!"
+        }, 
+        {
+          "content": "Ну и колоко́́́лышко!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и колоколышко!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "облучки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́блучки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "облучки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинные ручки (обычно из черемухи), за которые зыбка подвешивалась к концу", 
+          "tag": "def"
+        }, 
+        {
+          "content": "о́чепа", 
+          "tag": "quote", 
+          "normalized_content": "очепа"
+        }, 
+        {
+          "content": ". Во время сна ребенка зыбка с облучками завешивались тканью.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

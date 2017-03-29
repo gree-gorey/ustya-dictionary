@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "большичнять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́льшичнять", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "большичнять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бо́льшичать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "большичать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть главой в доме, распоряжаться всем в доме, вести домашнее хозяйство (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забо́льшичнять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забольшичнять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "побо́льшичнять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побольшичнять"
+        }, 
+        {
+          "content": "В дому было три семьи, дак б́о́льшичнеть было непросто. Как пришла к ним в семью, так и стала бо́льшичать в доме.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в дому было три семьи, дак большичнеть было непросто. как пришла к ним в семью, так и стала большичать в доме."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

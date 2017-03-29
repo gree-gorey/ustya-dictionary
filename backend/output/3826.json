@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кучмень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кучме́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кучмень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая куча чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нагрёб снегу экую кучме́нь посерёдке улицы, и дёвать некуды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нагреб снегу экую кучмень посередке улицы, и девать некуды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

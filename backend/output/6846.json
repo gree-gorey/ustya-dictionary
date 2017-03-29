@@ -1,0 +1,112 @@
+{
+  "field_for_sorting": "севогоду", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сево́году", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "севогоду"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сево́гуды", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "севогуды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сево́годы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "севогоды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сё́году", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сегоду"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "севу́годы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "севугоды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "се́йгод", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сейгод"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в этом году.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "С", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "с"
+        }, 
+        {
+          "content": "ево́году собиралась в гости к сестре съиздить, да не вы́шло. Сё́году снегу много будёт. Капусты се́йгод наросло́ дак шибко много.", 
+          "tag": "quote", 
+          "normalized_content": "евогоду собиралась в гости к сестре съиздить, да не вышло. сегоду снегу много будет. капусты сейгод наросло дак шибко много."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") в настоящее время, сейчас.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́́йгод лето какое жаркое, всё пересо́хло. Шчо ро́́́бить бу́́́дёшь? – Да я се́́́йгод", 
+          "translation": "(сегодня)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейгод лето какое жаркое, все пересохло. шчо робить будешь? – да я сейгод"
+        }, 
+        {
+          "content": "по грибы́́́ собра́́́ўсе.", 
+          "tag": "quote", 
+          "normalized_content": "по грибы собраусе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

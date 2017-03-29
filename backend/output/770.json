@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "взъерепениться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взъерепе́ниться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взъерепениться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рассердиться, начать спорить, разгорячиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо взъерепе́ниўсе-то так? Ницёво́ и не сказа́ла тебе́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо взъерепениусе-то так? ницево и не сказала тебе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ерепе́ниться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ерепениться"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "взъери́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "взъерить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

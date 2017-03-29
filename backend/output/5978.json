@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "понос", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́нос", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "понос"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поклажа, носимый груз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гости завтре уезжают, дак надо сбегать на конюшню, лошадь запрегци́, а то по́носу-то много.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гости завтре уезжают, дак надо сбегать на конюшню, лошадь запрегци, а то поносу-то много."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

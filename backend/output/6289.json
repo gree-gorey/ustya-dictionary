@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "провянуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Провя́нуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "провянуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высохнуть сену на солнышке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "попровя́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "попровянуть"
+        }, 
+        {
+          "content": "Сенцо́-то ещо сырова́тое, пусь попровя́нёт ищо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сенцо-то ещо сыроватое, пусь попровянет ищо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

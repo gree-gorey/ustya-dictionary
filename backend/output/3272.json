@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "клон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клон", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клон"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклонная поверхность.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "земельный участок пашня или сенокос, расположенные на склоне холма, угора.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

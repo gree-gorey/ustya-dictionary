@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "прищелнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прищё́лнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прищелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пришчо́лкнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пришчолкнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пришчо́унуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пришчоунуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно ударить, убить (кого-то небольшого), например:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "муху пришчо́унуть", 
+          "tag": "quote", 
+          "normalized_content": "муху пришчоунуть"
+        }, 
+        {
+          "content": "или кролика.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "добавить, прибавить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пенсию пришчо́унули", 
+          "translation": "добавили. (Видимо, от того, что раньше считали на счётах).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пенсию пришчоунули"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "щелка́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щелкать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

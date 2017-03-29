@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "восьминка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Восьми́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "восьминка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "восьму́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "восьмушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "осьму́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "осьмушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пачка махорки, табаку, чаю и т. п. весом 50 граммов, или одна восьмая фунта.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завари́-ко чайку́-то, вон восьми́нка на по́ўке стои́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завари-ко чайку-то, вон восьминка на поуке стоит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

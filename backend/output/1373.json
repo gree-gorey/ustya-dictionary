@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "глызовье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глызо́вьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глызовье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "глыбо́вник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глыбовник"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "почва, состоящая из комков, неровная, трудная для проезда или обработки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В садовнике-то одно глызо́вьё. В угоро́дце было сыро, и после па́хоты наго́льной глыбо́вник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в садовнике-то одно глызовье. в угородце было сыро, и после пахоты нагольной глыбовник."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "глызо́вья", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "глызовья"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

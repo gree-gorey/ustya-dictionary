@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "лодыга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лоды́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лодыга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "костяная шишка в конце голени, над ступнею, с наружной и внутренней стороны щиколотки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "палка (бита) для игры в лодыжку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошли играть в лоды́шку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошли играть в лодышку."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

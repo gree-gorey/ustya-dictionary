@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "обрестанить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обреста́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обрестанить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обреста́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обрестать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оборвать, раскомплектовать, изломать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "обреста́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обрестанивать"
+        }, 
+        {
+          "content": "Ноне все постройки совхозные обреста́нёны. И когды ты эдак успел щаны́ обреста́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ноне все постройки совхозные обрестанены. и когды ты эдак успел щаны обрестать?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "деркой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дерко́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "деркой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "царапающий тело.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Но́вая моча́лка дерка́я, от ие́ нали́ вся спи́на гори́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "новая мочалка деркая, от ие нали вся спина горит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обжигающий полость рта и горло.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Све́жой-от пе́рец пора́́то дёрко́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свежой-от перец порато деркой."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

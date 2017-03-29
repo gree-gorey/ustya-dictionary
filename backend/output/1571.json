@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гумажник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гума́жник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гумажник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бумажник, карманный кошель для хранения и ношения с собой документов и денег.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гума́жник хранили и носили в потайном кармане.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гумажник хранили и носили в потайном кармане."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

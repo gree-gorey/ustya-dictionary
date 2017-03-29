@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чигать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чига́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чигать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударять, бить битой, подбрасывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чигану́ как сейчас, дак улетишь к порогу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чигану как сейчас, дак улетишь к порогу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

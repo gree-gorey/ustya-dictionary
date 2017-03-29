@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "закалежить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зака́лежить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закалежить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закале́жить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закалежить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завалить толстым слоем снега.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За одну ночь всю землю закале́жило втолстую.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за одну ночь всю землю закалежило втолстую."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пойти снегу с дождем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Видно надолго зака́лежило, экая непогода.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "видно надолго закалежило, экая непогода."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сгнить, сопреть, испортиться (о сене).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Когда сено смочит да подсушит не один раз, говорят – сено закале́жило.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "когда сено смочит да подсушит не один раз, говорят – сено закалежило."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "несоленый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Несолё́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "несоленый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "несолёной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "несоленой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́соль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "несоль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так когда в шутку, когда всерьез говорили о неуклюжем, нерасторопном человеке, который допустил оплошность. Например, что-либо пролил, опрокинул", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Несолё́ной!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "несоленой!"
+        }, 
+        {
+          "content": "-растяпа!", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кринку опру́жиў! Вот несолё́ный-то!", 
+          "translation": "неуклюжий, невнимательный, неаккуратный.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кринку опружиу! вот несоленый-то!"
+        }, 
+        {
+          "content": "Иди несолё́ной, що стоишь-то без дела!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди несоленой, що стоишь-то без дела!"
+        }, 
+        {
+          "content": "То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "неварё́ной", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "невареной"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "неплетё́ной", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "неплетеной"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

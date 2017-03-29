@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "завы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": ""
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "соко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "соко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "за"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": ""
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "высоко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "высоко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высоковато, слишком высоко.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

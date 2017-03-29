@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "сивоймерин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́вой ме́рин", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сивой мерин"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глуповатый человек, враль, выдумщик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Врёт как си́вой ме́рин.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "врет как сивой мерин."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

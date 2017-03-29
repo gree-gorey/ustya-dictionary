@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "гвоздок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гвоздо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гвоздок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гвозо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гвозок"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "гвоздьё", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "гвоздье"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "гвозьё", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "гвозье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гвоздь, гвоздик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль не ди́льно-то сколо́чёно, е́дново гвозка́ не заметно. Куды не ступи́ – наголо́ гвозьё́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль не дильно-то сколочено, едново гвозка не заметно. куды не ступи – наголо гвозье!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "пристатки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приста́тки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пристатки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "присту́пки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "приступки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выступающие сзади саней части полозьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На приста́тках приехать", 
+          "translation": "стоя на продолжениях полозьев саней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на пристатках приехать"
+        }, 
+        {
+          "content": "Нет уш ме́́́ста в саня́́́х! – Да я и на приста́́́тках дое́́́ду. – Ну, дёржы́́́сь то́́́ко кри́́́пце за спи́́́нку сане́́́й-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нет уш места в санях! – да я и на пристатках доеду. – ну, держысь токо крипце за спинку саней-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

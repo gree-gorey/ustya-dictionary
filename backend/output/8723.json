@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "доболести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До бо́лести", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до болести"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": ",", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": ","
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "до за́боли", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "до заболи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно, всерьёз, до боли, «досыта».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В праздник ходила в гости к Маньке, баб у ие много собралось, ох, и посидели мы, пи́сён (песен) попели до за́боли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в праздник ходила в гости к маньке, баб у ие много собралось, ох, и посидели мы, писен (песен) попели до заболи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "на́́ болесь!", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "на болесь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Бо́лесть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "болесть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 3
+}

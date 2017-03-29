@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "хабчик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ха́бчик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хабчик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ха́пчик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хапчик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "окурок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́чево тибе́ ха́бчики собира́ть, не втя́гивайсе в дурну́ю привы́чку смо́лоду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево тибе хабчики собирать, не втягивайсе в дурную привычку смолоду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

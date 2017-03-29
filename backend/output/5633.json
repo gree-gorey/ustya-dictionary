@@ -1,0 +1,182 @@
+{
+  "field_for_sorting": "пластать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пласта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пластать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резать на куски, пласты; разрубать на части (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "испласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "испластать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "распласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "распластать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отпластну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отпластнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зачем платье пласта́ёшь, ведь ево можно было ещё поноси́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зачем платье пластаешь, ведь ево можно было еще поносить?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") делать какой-то очень большой объем работы по косьбе, расколке, распилке и т. п. (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напластать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "распласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "распластать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спластать"
+        }, 
+        {
+          "content": "И пошёл он косой пласта́ть. Сколь ни много дров распласта́в! До обеда целую по́жню спласта́л", 
+          "translation": "скосил.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и пошел он косой пластать. сколь ни много дров распластав! до обеда целую пожню спластал"
+        }, 
+        {
+          "content": "Вон ско́́́ко дё́́́рну пласта́́́ть на́́́до, нема́́́ло и напаласта́́́ли уш", 
+          "translation": "заготовили дерна: накопали, нарезали на куски.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон скоко дерну пластать надо, немало и напаластали уш"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напластать"
+        }, 
+        {
+          "content": "У клуба робята друг дружку пласта́ют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у клуба робята друг дружку пластают."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гореть большим пламенем (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запласта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запластать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запласта́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запластаться"
+        }, 
+        {
+          "content": "О, как огонь-от пласта́ёт! Ноне не ко́сится, дак страшно весной: как загорит ве́тошь, дак и в деревне всё запла́стаёт. Если крыша запласта́ется, постройку от огня не спасти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о, как огонь-от пластает! ноне не косится, дак страшно весной: как загорит ветошь, дак и в деревне все запластает. если крыша запластается, постройку от огня не спасти."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

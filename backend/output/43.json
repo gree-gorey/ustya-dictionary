@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "арапко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ара́пко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "арапко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грязный, замазанный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как ара́пко, весь в саже.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как арапко, весь в саже."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "чили́сник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чилисник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

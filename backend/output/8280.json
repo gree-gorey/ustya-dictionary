@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чалый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чалый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "о шерсти и масти: серый, с примесью другой шерсти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я дак на Ча́́́ўке ро́́́била, так ево́́́ зва́́́ли, ча́́́лово коня́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я дак на чауке робила, так ево звали, чалово коня."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

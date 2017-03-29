@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "заекиваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зае́киваться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заекиваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зая́киваться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заякиваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высказываться о чем-то остром, проявлять необдуманную инициативу, обещать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заякну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заякнуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заикну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заикнуться"
+        }, 
+        {
+          "content": "Никто тебя не заставлял, сам заякну́лся что можёшь сделать, вот и делай. Нечево было зая́киваться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "никто тебя не заставлял, сам заякнулся что можешь сделать, вот и делай. нечево было заякиваться!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "говорить с заиканием.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лукерья с детства зае́киваитце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лукерья с детства заекиваитце."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

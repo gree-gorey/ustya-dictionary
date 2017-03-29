@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "ситнаямука", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́тная мука", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ситная мука"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "просеянная (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "би́тая", 
+          "tag": "quote", 
+          "normalized_content": "битая"
+        }, 
+        {
+          "content": ") сквозь сито пшеничная мука.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́́́тной-то муки́́́ по́́́ўная си́́́тница.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ситной-то муки поуная ситница."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

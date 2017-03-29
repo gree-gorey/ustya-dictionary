@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "комом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́мом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "комом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кое-как, как попало, небрежно, все в куче.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Розу́лсе, ону́чи бросил комо́м, вот тепере они и не вы́сохли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "розулсе, онучи бросил комом, вот тепере они и не высохли!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

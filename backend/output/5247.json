@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "отерпнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оте́рпнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отерпнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "временно потерять чувствительность участкам тела, конечностям, появляться неприятным ощущениям (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "те́рпнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "терпнуть"
+        }, 
+        {
+          "content": "Пальцы оте́рпли. Что-то рука стала те́рпнуть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пальцы отерпли. что-то рука стала терпнуть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

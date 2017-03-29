@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "богохульничать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Богоху́льничать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "богохульничать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "богоху́льствовать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "богохульствовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "словом или делом оскорблять Божественную святыню, ругаться над тем, что свято.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

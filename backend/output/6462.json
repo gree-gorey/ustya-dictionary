@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "разжареть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разжаре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разжареть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вспотеть, перегреться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

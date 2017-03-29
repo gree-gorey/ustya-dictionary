@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "злаеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зла́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "злаеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зла́ять", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "злаять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внезапно по какому-то поводу залаять (о собаке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо́́́-то соба́́́ка зла́́́яла – мо́́́жот хто идё́́́т? Вы́́́йди-ко на́́́ мос", 
+          "translation": "(мост)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то собака злаяла – можот хто идет? выйди-ко на мос"
+        }, 
+        {
+          "content": ", взглени́́́!", 
+          "tag": "quote", 
+          "normalized_content": ", взглени!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сковырнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сковырну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сковырнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть, соскользнуть (с чего-либо).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Смотри сковырнё́шьсе с копны!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "смотри сковырнешьсе с копны!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ковырну́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ковырнуться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

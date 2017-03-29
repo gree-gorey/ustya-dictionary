@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "тысинка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ты́синка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тысинка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ты́сенька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тысенька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ласковое обращение к ребенку и взрослому.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой ты, моя ты́синка, иди́́́-ко ко мне́́́-то, пре́ницок-то я тибе дам!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой ты, моя тысинка, иди-ко ко мне-то, преницок-то я тибе дам!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

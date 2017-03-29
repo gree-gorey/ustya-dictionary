@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "пястаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пя́статься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пястаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пе́́́статься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пестаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяжело, долго идти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколько нам ищё пя́статьсе по такому дождю?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколько нам ище пястатьсе по такому дождю?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "возиться, заниматься надоедливой работой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Долго там ещё будёшь пя́статьсе? Ох, и надое́́́ло мне с э́́́кой робо́́́той пе́́́статьце, конца́́́ и кра́́́ю не́́́ту!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долго там еще будешь пястатьсе? ох, и надоело мне с экой роботой пестатьце, конца и краю нету!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

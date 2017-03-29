@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "крикуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крику́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крикуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "крику́ша", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крикуша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крикливый человек. Так чаще говорят о беспокойных, часто плачущих детях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Худо ночью спит робёнок, уж такой крику́ля.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "худо ночью спит робенок, уж такой крикуля."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

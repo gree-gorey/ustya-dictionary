@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жито", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жито"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ячмень, реже всякий яровой хлеб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́тьки жи́та обада́лись", 
+          "translation": "куры объелись ячменя.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кутьки жита обадались"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

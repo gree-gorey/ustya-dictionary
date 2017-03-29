@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "седаной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Седа́́́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "седаной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "седа́той", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "седатой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "седой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Встри́́́тила Витька́́́, весь седа́́́ной, нали не узна́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "встритила витька, весь седаной, нали не узнала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

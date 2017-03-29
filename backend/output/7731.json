@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "трухлявой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трухля́вой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трухлявой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гнилой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В погребу́ все стены и потолок трухля́вые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в погребу все стены и потолок трухлявые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

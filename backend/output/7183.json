@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "сотная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Со́тная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сотная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выписка из переписной книги или иного документа.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

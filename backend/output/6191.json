@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "приложить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приложи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приложить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прило́жить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "приложить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "положить для сохранности в укромное место что-либо. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пода́льше прило́жишь, побли́же возьмё́шь", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подальше приложишь, поближе возьмешь"
+        }, 
+        {
+          "content": "(поговорка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

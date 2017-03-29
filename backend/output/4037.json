@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "льномялка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Льномя́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "льномялка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мя́лка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мялка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление для того, чтобы мять лен. Состоит из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стани́ны", 
+          "tag": "quote", 
+          "normalized_content": "станины"
+        }, 
+        {
+          "content": "отве́рстия", 
+          "tag": "quote", 
+          "normalized_content": "отверстия"
+        }, 
+        {
+          "content": ", в которое помещается пучок льна, и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "прижимно́й ра́мки-ру́чки", 
+          "tag": "quote", 
+          "normalized_content": "прижимной рамки-ручки"
+        }, 
+        {
+          "content": ". Целью было размягчение льна, отделение", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ко́́́стры", 
+          "tag": "quote", 
+          "normalized_content": "костры"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

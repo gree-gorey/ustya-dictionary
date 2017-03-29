@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кошелек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кошелё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кошелек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "берестяный или из другого материала футляр для ношения на поясе бруска или лопатки для точки косы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

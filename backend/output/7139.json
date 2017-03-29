@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "созданье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Созданьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "созданье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обращение к человеку: «чудо»; неумелый, неловкий (тот, у кого все валится из рук).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

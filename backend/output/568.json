@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вбоку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вбоку́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вбоку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в стороне, сбоку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Та деревушка от дороги вбоку́ стоит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "та деревушка от дороги вбоку стоит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

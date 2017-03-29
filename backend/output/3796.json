@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "куроносой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куроно́сой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куроносой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "курносый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Девчушка-та какая куроно́сая у их, красивая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "девчушка-та какая куроносая у их, красивая."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

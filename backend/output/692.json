@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "веснодельник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Весноде́льник", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "веснодельник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дрова, лес, заготовленные и распиленные весной.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

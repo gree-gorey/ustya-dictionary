@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "заклад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закла́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заклад"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закла́дка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закладка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутренний дверной запор в виде отрезка доски, бруска, закладываемых в парные приспособления (скобы), укрепленные в дверных косяках.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "зало́жка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заложка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

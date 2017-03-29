@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "прополоскать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прополоска́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прополоскать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно пролить (о дожде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, меня́́́ сево́́́дня и прополоска́́́ло, ни одно́́́й ни́́́тки сухо́́́й не́́́ту!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, меня севодня и прополоскало, ни одной нитки сухой нету!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "полоска́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полоскать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прослабить, «пронести» (о поносе).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, меня́́́ сево́́́дня и прополоска́́́ло жо, с цево́́́ бы э́́́то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, меня севодня и прополоскало жо, с цево бы это?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

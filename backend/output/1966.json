@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "евоно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́воно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "евоно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́вона", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "евона"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вон, вот там.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Посмотри е́воно туды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "посмотри евоно туды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

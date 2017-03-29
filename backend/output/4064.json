@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лясыточить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́сы точи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лясы точить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "судить, обсуждать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит ля́сы точи́ть, ро́бить пора!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит лясы точить, робить пора!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

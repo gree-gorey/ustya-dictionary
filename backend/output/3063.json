@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заесть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зае́сть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заесть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно бранить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Свекру́ха-то всю молоди́цу зае́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свекруха-то всю молодицу заела!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "и́стись", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "истись"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

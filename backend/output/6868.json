@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "семидыра", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Семиды́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "семидыра"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькая речная рыбка минога, живет в иле, на голове у неё семь темных пятен.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И заки́дыши я ставил на семиды́ру, всё равно ничево не поймал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и закидыши я ставил на семидыру, все равно ничево не поймал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

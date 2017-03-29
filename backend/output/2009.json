@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "елушки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Елу́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "елушки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "елу́шечки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "елушечки"
+      }
+    ], 
+    "style": [
+      "уменьш."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодые ели.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь косого́р елу́шечки за́нели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь косогор елушечки занели."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ели́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "елина"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

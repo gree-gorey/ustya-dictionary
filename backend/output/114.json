@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "балясина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баля́сина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "балясина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "точеная деталь деревянной мебели, изделий из дерева, строений (например, крыльца).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

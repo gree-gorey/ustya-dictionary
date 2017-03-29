@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опоместиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опомести́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опоместиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разместиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опомести́вса наконец-то!", 
+          "translation": "нашел место, где лечь или сесть.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опоместивса наконец-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

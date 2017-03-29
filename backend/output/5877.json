@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поздо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́здо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поздо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поздно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что-то вы так по́здо с робо́ты идите́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что-то вы так поздо с роботы идите?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

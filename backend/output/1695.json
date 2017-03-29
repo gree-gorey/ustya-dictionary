@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "десятка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Деся́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "десятка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "банкнота номиналом в 10 рублей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "черво́нец", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "червонец"
+        }, 
+        {
+          "content": "Васька Лисой давно деся́тку заняў и не отдаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "васька лисой давно десятку заняу и не отдает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

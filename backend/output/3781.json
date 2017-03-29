@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "куражиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кура́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куражиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "закура́житься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "закуражиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "искура́житься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "искуражиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "покура́житься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "покуражиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вести себя высокомерно, надменно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во дворец звать станут – не ходи! А кура́жься, а уж потом иди", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Тетёра». М.И. Шалаурова.", 
+          "normalized_content": "во дворец звать станут – не ходи! а куражься, а уж потом иди"
+        }, 
+        {
+          "content": "Зря покура́жилсе-то Олёкса: не поехал с нами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зря покуражилсе-то олекса: не поехал с нами."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "насмехаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що опеть закура́жилсе-то? Весь искура́жилсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що опеть закуражилсе-то? весь искуражилсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

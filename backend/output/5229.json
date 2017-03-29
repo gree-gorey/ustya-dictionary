@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "осямать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ося́мать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осямать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обессилеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, ося́мала вся!", 
+          "translation": "обессилела.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, осямала вся!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "потерять сознание. Если больной терял сознание, тоже говорили", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ося́маў", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "осямау"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ся́мать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сямать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

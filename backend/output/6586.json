@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "резнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ре́знуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "резнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно стукнуть, ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ре́знул ему по загри́вку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "резнул ему по загривку."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "появиться кратковременной острой боли.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У́ серца ре́знуло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у серца резнуло!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "гостить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гости́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гостить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гостева́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гостевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "находиться в гостях (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́гостить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выгостить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отгости́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отгостить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "погости́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "погостить"
+        }, 
+        {
+          "content": "Я вчера́сь у сва́тьи в Бу́дрине вы́гостила. Она у дочери целую неделю отгости́ла. Приехала к вам на два денёчка погости́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я вчерась у сватьи в будрине выгостила. она у дочери целую неделю отгостила. приехала к вам на два денечка погостить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

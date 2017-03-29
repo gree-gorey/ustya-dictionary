@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "вдвырядку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдвы́рядку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдвырядку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдвы́ретку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдвыретку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдви́редь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдвиредь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдви́рядку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдвирядку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в два ряда, в две нитки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да не надо вдвы́ретку, хватит и водны́рядку. – Вдви́́рядку-то кри́пче", 
+          "translation": "о нитках.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да не надо вдвыретку, хватит и воднырядку. – вдвирядку-то крипче"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

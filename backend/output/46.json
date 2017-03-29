@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "аржаной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аржано́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аржаной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ржаной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Два мешка аржано́й муки на Игнашкиной мельнице намолола.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "два мешка аржаной муки на игнашкиной мельнице намолола."
+        }, 
+        {
+          "content": "Ах, солома аржана́я, аржана́я, белая…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из частушки).", 
+          "normalized_content": "ах, солома аржаная, аржаная, белая…"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

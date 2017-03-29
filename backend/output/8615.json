@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "щеперить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щепе́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щеперить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "расщепе́рить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "расщеперить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "расщепе́ривать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "расщеперивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздвигать перья, крылья (о птице), плавники (о рыбе), раскрывать когти (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ощепе́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ощеперить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ощепе́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ощеперивать"
+        }, 
+        {
+          "content": "Вишь птица-то как крылья щепе́рит. Кошка когти щепе́рит (ощепе́рила, расщепе́рила).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вишь птица-то как крылья щеперит. кошка когти щеперит (ощеперила, расщеперила)."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разделять на части, раскрывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо стручки", 
+          "translation": "(гороха)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо стручки"
+        }, 
+        {
+          "content": "щепе́рить-то вот так. Расщепе́рь-ко чеснок-то, скоро сади́ть надо", 
+          "tag": "quote", 
+          "normalized_content": "щеперить-то вот так. расщеперь-ко чеснок-то, скоро садить надо"
+        }, 
+        {
+          "content": "Расщепе́рь все стручки, поло́жим горо́х сушить", 
+          "translation": "раскрой все стручки, высыпли горошины.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "расщеперь все стручки, положим горох сушить"
+        }, 
+        {
+          "content": "Давай расщепе́рим ра́кушку-ту, посмотрим, що там", 
+          "translation": "раскроем ракушку и посмотрим, что в ней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай расщеперим ракушку-ту, посмотрим, що там"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

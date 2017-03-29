@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "позабрать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Позабра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "позабрать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забрать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коней всех позабра́ли, народу понае́хало", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой перстень». М.И. Шалаурова.", 
+          "normalized_content": "коней всех позабрали, народу понаехало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "нитпрунину", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ни тпру́, ни ну́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ни тпру, ни ну"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(ни кукаре́́́ку)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "(ни кукареку)"
+      }
+    ], 
+    "style": [
+      "шутл."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорится, когда ничего не получается, не выходит, не делается.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ему́́́ говорю́, говорю́, а он ни тпру́́́, ни ну́́́, ни кукаре́́́ку!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему говорю, говорю, а он ни тпру, ни ну, ни кукареку!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

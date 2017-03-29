@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "балун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Балу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "балун"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "склонный к баловству, шалостям.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он с малоле́тства такой и есть балу́н.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он с малолетства такой и есть балун."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

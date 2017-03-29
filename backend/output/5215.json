@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "остепениться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Остепени́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "остепениться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одуматься, изменить свое поведение к лучшему.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зеть-то но́не остепени́ўсе, дак всем лу́чше ста́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зеть-то ноне остепениусе, дак всем лучше стало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

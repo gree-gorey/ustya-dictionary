@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "маевка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́евка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ма́ёвка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "маевка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "цветок хохлатка (цветет в мае), лекарственное растение, все части которого используются для лечения женских заболеваний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́ёвка – женская трава.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "маевка – женская трава."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

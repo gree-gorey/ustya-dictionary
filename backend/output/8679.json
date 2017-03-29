@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ютить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Юти́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ютить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "давать приют, пристанище; укрывать, прятать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабка-то наша бывало всех юти́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка-то наша бывало всех ютила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

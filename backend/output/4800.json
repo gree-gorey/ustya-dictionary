@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "нето", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нето́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нето"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нетоли", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нетоли"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "натоли", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "натоли"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настолько; так (уж).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нетоли́ па́рече ли́хи!", 
+          "translation": "настолько надоели!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нетоли парече лихи!"
+        }, 
+        {
+          "content": "Натоли́́́ неба́́́ско но́́́не ба́́́ёт, ф своё́́́м ли уме́́́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натоли небаско ноне бает, ф своем ли уме?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

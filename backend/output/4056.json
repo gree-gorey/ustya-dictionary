@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "лянной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лянно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лянной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ленно́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ленной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льняной, изготовленный из льна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дана́ наго́му руба́ха, да не лянна́я", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "дана нагому рубаха, да не лянная"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

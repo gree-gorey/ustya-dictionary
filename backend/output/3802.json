@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "курьевить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Курьеви́ть", 
+        "place": [
+          "Михалево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "курьевить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закручивать воду на глубине.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где воду курьеви́т, там большая глубь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где воду курьевит, там большая глубь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

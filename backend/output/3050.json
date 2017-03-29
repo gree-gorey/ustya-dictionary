@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "испотворить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испотво́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испотворить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень сильно избаловать, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "исте́шить", 
+          "tag": "quote", 
+          "normalized_content": "истешить"
+        }, 
+        {
+          "content": "Ты ведь так парня испотво́ришь. Не потво́рь парня-то. У их робята-те до тово испотво́рёны, шчо и воды в избу не принесут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты ведь так парня испотворишь. не потворь парня-то. у их робята-те до тово испотворены, шчо и воды в избу не принесут!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "потво́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потворить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

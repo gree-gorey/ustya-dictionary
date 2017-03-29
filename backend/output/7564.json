@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "тепере", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тепе́ре", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тепере"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тепе́реча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тепереча"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тепе́́́рича", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "теперича"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "топе́́́ре", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топере"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "топе́рь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топерь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "топе́ря", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топеря"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "топе́рече", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топерече"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "топе́́́рича", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топерича"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "теперь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ви́́́жу, что зажи́́́лиў мой топо́́́р-от, как и верну́́́ть-то тепе́́́ре? Тепереча никому ничево не надо, никто робить на поле не хочёт, до тово доучи́ли, что людей робить отучи́ли. Я тепе́́́рича на пе́́́нзии сижу́́́. Я тепе́риця – не то што да́веця! Ну, топе́́́ре верши́́́ть бу́́́дём заро́́́д-от.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вижу, что зажилиу мой топор-от, как и вернуть-то тепере? тепереча никому ничево не надо, никто робить на поле не хочет, до тово доучили, что людей робить отучили. я теперича на пензии сижу. я тепериця – не то што давеця! ну, топере вершить будем зарод-от."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

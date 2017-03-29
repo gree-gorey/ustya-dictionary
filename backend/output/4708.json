@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "недокука", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недоку́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недокука"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отсталый в умственном развитии, не имеющий нужных знаний и навыков.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот какой недоку́ка-то урождё́н!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот какой недокука-то урожден!"
+        }, 
+        {
+          "content": "Возможно то же самое, что и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "недоку́нок", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "недокунок"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "недоку́нок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "недокунок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

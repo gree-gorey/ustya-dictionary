@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "выхожено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́хожено", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выхожено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "употребляется для обозначения места, где в результате сбора уже нет грибов, ягод. У нас про такие места говорят: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё вы́хожено", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все выхожено"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вы́брано", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выбрано"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вы́брожено", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выброжено"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "осби́рки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "осбирки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

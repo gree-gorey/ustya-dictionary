@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "стригало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стри́гало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стригало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большие пружинные металлические ножницы с треугольными лезвиями для стрижки шерсти с овец.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

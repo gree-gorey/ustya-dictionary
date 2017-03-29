@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "льзя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Льзя́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "льзя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "можно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́зе так льзя делать?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "разе так льзя делать?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

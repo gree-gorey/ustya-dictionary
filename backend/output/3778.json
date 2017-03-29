@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "кунь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кунь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кунь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́нка", 
+        "place": [
+          "Армино"
+        ], 
+        "type": "variant", 
+        "normalized_content": "кунка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "куница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́нка прячется на деревьях в снежной ку́хте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кунка прячется на деревьях в снежной кухте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

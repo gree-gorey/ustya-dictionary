@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "забегать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забега́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забегать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заходить, появляться на короткое время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забега́й, как будёшь свободна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забегай, как будешь свободна."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бе́гать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бегать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

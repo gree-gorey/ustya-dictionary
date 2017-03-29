@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "насошивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насошива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насошивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "соединить швами одно с другим, сшить несколько деталей друг с другом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Насошива́ла я из лоску́тьев одеяло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "насошивала я из лоскутьев одеяло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

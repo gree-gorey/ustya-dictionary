@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тошнехонько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тошнё́хонько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тошнехонько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяжело, тоскливо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох и тошнё́хонько мне...", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох и тошнехонько мне..."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

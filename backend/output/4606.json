@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "наспевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наспева́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наспевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "становиться спелым, созреть в большой массе (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наспе́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наспеть"
+        }, 
+        {
+          "content": "Малины опеть наспе́ло, а брать нековды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "малины опеть наспело, а брать нековды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "по-тамошнему", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По-та́мошнему", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "по-тамошнему"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как в той (другой) местности.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поживёшь в другой местности и будёшь говорить и вести себя по-та́мошнёму.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поживешь в другой местности и будешь говорить и вести себя по-тамошнему."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

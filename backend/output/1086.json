@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вчислах", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вчи́слах", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вчислах"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непреходящие религиозные праздники.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчи́слах – всегда в одно и то же число.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчислах – всегда в одно и то же число."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

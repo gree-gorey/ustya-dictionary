@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "магарыч", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Магары́ч", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "магарыч"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "макары́ч", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "макарыч"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плата в основном в натуральной форме за выполненную разовую работу, оказанную услугу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я это сделаю, но с тебя магары́ч.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я это сделаю, но с тебя магарыч."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

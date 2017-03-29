@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "цепить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Це́пить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "цепить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "че́пить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чепить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклонять, лишать равновесия, устойчивости (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наце́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нацепить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оце́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оцепить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переце́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перецепить"
+        }, 
+        {
+          "content": "Не надо столе́шницу це́пить, седь добро́м!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо столешницу цепить, седь добром!"
+        }, 
+        {
+          "content": "Не сади́́́се на коне́́́ц-то скамьи́́́, до́́́ўго ли оцепи́́́ть да повали́́́тце! Не чепь, вишь скамейку переце́пил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не садисе на конец-то скамьи, доуго ли оцепить да повалитце! не чепь, вишь скамейку перецепил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

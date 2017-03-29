@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "спас", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спас", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "терпение, покой, защита.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От о́воду спа́су нету.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от оводу спасу нету."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скорчить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́рчить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скорчить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стянуть, искривить, деформировать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мокрые кожаные изделия нельзя подвергать жаркой сушке, их может ско́рчить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мокрые кожаные изделия нельзя подвергать жаркой сушке, их может скорчить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сволокчи́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сволокчи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

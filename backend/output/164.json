@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "батожье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Батожьё́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "батожье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тонкий недоспевший лес.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отвели ди́лянку, а в ей одно батожьё́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отвели дилянку, а в ей одно батожье."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

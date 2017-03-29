@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сводить(лишай", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Своди́ть (лиша́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сводить (лишай"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "борода́вку)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бородавку)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вылечивать знахарскими средствами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сходи к Они́сье, она умиёт лиша́й своди́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сходи к онисье, она умиет лишай сводить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

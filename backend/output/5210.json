@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "осочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осочи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осочить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оскобли́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оскоблить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "содрать, стесать кору с дерева, ошкурить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сочи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сочить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "поцарапать, повредить, содрать кожу.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

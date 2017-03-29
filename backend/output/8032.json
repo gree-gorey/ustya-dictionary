@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ухозаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухо́заться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухозаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно устать от работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́́́ўго ли ухо́́́затьце на тако́́́й робо́́́те – це́́́лой день меж лопа́́́тками сы́́́ро!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доуго ли ухозатьце на такой роботе – целой день меж лопатками сыро!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "замараться в грязи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То́́́ко вы́́́шеў на у́́́лицу – и уш весь ухо́́́заўсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "токо вышеу на улицу – и уш весь ухозаусе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "дерибаниться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дериба́ниться", 
+        "place": [
+          "Анциферовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "дерибаниться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить, бродить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Перестань дериба́нитце, сеть на место!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перестань дерибанитце, сеть на место!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

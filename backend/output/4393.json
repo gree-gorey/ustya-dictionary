@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наворачивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Навора́чивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наворачивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "аппетитно есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О как, он щи-то навора́чиваёт – то́́́ко за уша́́́ми трещы́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о как, он щи-то наворачивает – токо за ушами трещыт!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

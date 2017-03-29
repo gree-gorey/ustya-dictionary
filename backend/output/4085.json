@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "малехо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Малё́хо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малехо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "малё́хонько", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "малехонько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного (в отношении продуктов питания).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лени́ малё́хонько", 
+          "translation": "налей немного.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лени малехонько"
+        }, 
+        {
+          "content": "Ско́́́ко я́́́год-то та́́́щыте? – Да софсе́́́м малё́́́хонько, то́́́ко дно́́́ скры́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко ягод-то тащыте? – да софсем малехонько, токо дно скрыло."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "малестё́хонько", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "малестехонько"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

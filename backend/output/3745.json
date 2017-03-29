@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "кукишка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куки́́́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукишка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кукиш большой палец руки или комбинация из трех пальцев «фига», главным в которой является большой палец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В ответ он ему куки́шку показал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в ответ он ему кукишку показал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": ") выступающие суставы с внешней стороны ладони у основания пальцев.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "козвонки́́́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "козвонки"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

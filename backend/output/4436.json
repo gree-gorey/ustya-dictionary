@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "надутьгубы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наду́́́ть гу́́́бы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надуть губы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обидеться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо моўчи́́́шь-то, наду́́́ўсе – эх ты́́́, Феду́́́ў, гу́́́бы наду́́́ў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо моучишь-то, надуусе – эх ты, федуу, губы надуу!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наду́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "надуться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

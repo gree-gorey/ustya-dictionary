@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "постилка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пости́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "постилка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстилка для скота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О́бъиди из кормушек шли в пости́лку скоту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "объиди из кормушек шли в постилку скоту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "зголовье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зголо́вье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зголовье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подушка или заменяющие ее вещи, предметы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зголо́вица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зголовица"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

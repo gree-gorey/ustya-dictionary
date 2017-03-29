@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "забрючить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забрю́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забрючить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заправить, спрятать нижние края одежды за пояс брюк.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́ть спи́на гола́, забрю́чь руба́ху и сви́тёр в щаны́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть спина гола, забрючь рубаху и свитер в щаны."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

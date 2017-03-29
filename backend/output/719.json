@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вещина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вещи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вещина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вещи́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вещинка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вещь, предмет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В подарок сватье купила вещи́нку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в подарок сватье купила вещинку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

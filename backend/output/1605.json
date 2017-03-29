@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "далина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Далина́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "далина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дали́ща", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "далища"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "даль, отдаленность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В такую далину́ ехать по сено надо ранним утром. После учёбы отправили на работу в экую дали́щу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в такую далину ехать по сено надо ранним утром. после учебы отправили на работу в экую далищу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

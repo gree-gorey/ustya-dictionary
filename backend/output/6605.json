@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "решить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Реши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "решить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пореши́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "порешить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "репрессировать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А не сведёшь скотину-ту в обци́ну – дак и реша́т тебя не за грош как кулака́́!", 
+          "translation": "раскулачат, вышлют или посадят.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а не сведешь скотину-ту в обцину – дак и решат тебя не за грош как кулака!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нарушить, сломать, ликвидировать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "пору́шить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "порушить"
+        }, 
+        {
+          "content": "Тако́́́ё-то хозя́́́йство одни́́́м ма́́́хом реши́́́ли (пору́шили)! Фсё в коўхо́́́з взе́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такое-то хозяйство одним махом решили (порушили)! фсе в коухоз взели."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

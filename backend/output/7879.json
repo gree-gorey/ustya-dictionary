@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "уймись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уйми́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уймись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перестань, остановись, прекрати.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уйми́сь давай! Уйми́́́сь, уйми́́́сь! Него́́́жо э́́́дак-то выде́́́лыватьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уймись давай! уймись, уймись! негожо эдак-то выделыватьце!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

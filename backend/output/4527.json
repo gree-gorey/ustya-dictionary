@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "напереде", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напереде́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напереде"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "впереди чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон, напереде́ дровё́н во́жжи-то лёжат, чево, не ви́дишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон, напереде дровен вожжи-то лежат, чево, не видишь!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быть во всем первым, быть на виду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он во всём привык быть напереде́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он во всем привык быть напереде."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

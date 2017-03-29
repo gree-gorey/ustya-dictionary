@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "груде", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гру́де", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "груде"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состояние беременности у женщины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Валька опеть в гру́де.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "валька опеть в груде."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "положе́нии", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "положении"
+        }, 
+        {
+          "content": "в", 
+          "tag": "quote", 
+          "normalized_content": "в"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "высмолить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́смолить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высмолить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрыть смолой, просмолить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весной надо лодку вы́смолить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весной надо лодку высмолить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") искурить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть уж всю пачку папирос вы́смолиў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть уж всю пачку папирос высмолиу?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

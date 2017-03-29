@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "шестистенок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шестисте́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шестистенок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревенская изба с двумя внутренними стенами из бревен.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́́́м-от большо́́́й бы́́́ў – шестисте́́́нок, в серё́́́дке – пець с ку́́́хнёй.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дом-от большой быу – шестистенок, в середке – пець с кухней."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пятисте́нок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пятистенок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

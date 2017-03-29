@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "гнилетина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гниле́тина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гнилетина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гниль", 
+          "tag": "def"
+        }, 
+        {
+          "content": ",", 
+          "tag": "quote", 
+          "normalized_content": ","
+        }, 
+        {
+          "content": "гнильё, а также всё то, что содержит признаки гниения и порчи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Привезли сухое дерево на дрова, а оказалась внутри одна гниле́тина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "привезли сухое дерево на дрова, а оказалась внутри одна гнилетина."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "из-под ове́́́чьего хво́́́стика", 
+          "tag": "quote", 
+          "normalized_content": "из-под овечьего хвостика"
+        }, 
+        {
+          "content": "» (дразнилка).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ме́́́зонька", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мезонька"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Ты́синка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тысинка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

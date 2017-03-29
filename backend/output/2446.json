@@ -1,0 +1,57 @@
+{
+  "field_for_sorting": "закулисок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закули́сок", 
+        "place": [
+          "Дубровская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "закулисок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая сенокосная поляна,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кули́га", 
+          "tag": "quote", 
+          "normalized_content": "кулига"
+        }, 
+        {
+          "content": ", примыкающая к основной площади.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осталось скосить закули́сок, где трава ко́сится легко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осталось скосить закулисок, где трава косится легко."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кули́га", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кулига"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

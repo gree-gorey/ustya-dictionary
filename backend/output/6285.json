@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "проводины", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Проводи́ны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "проводины"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проводы в армию, обычно сопровождаемые", 
+          "tag": "def"
+        }, 
+        {
+          "content": "засто́льем", 
+          "tag": "quote", 
+          "normalized_content": "застольем"
+        }, 
+        {
+          "content": "Проводи́́́ны-то каки́́́е отгро́́́хали, вот таки́́́е бы встречи́́́ны бы́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "проводины-то какие отгрохали, вот такие бы встречины были."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "костыль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косты́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "костыль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "качающаяся деталь ловушки на польников, садясь на которую к приманке, птица проваливается в ловушку и не может вылететь обратно.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "садо́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "садок"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кош", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кош"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рукоятка, вдеваемая в ручку", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бурака́́", 
+          "tag": "quote", 
+          "normalized_content": "бурака"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "костылё́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "костылек"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

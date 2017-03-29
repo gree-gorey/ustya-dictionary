@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "солныша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Со́лныша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "солныша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "со́вныша", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "совныша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чистая комната, спальня в избе-пятистенке. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "го́рница", 
+          "tag": "form", 
+          "place": [
+            "Крылово"
+          ], 
+          "type": "lemma", 
+          "normalized_content": "горница"
+        }, 
+        {
+          "content": "Иди́те-ко в со́внышу, посте́ль нала́жона уж.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идите-ко в совнышу, постель налажона уж."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "место между печью и стеной", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "помещение перед устьем печи, кухня.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шо́ўныша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шоуныша"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

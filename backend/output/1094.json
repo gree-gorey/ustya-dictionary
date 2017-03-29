@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выбурдывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выбу́рдывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выбурдывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "выбу́ркивать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выбуркивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбиваться жидкости на верх, бить ключом, выливаться через край.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Много воды в самовар нали́то, как закипело, дак через верх выбу́рдываёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много воды в самовар налито, как закипело, дак через верх выбурдывает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

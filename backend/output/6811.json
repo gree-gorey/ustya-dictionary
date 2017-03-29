@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "свитляе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Свитля́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свитляе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "светлее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На улице свитля́е стало, день прибыва́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на улице свитляе стало, день прибывает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

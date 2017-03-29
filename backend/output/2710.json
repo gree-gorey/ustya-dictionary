@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зачастую", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачасту́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачастую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нередко, частенько.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да в это лето зачасту́ю дожь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да в это лето зачастую дожь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

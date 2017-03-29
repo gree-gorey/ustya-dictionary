@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "опрахотиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опрахо́титься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опрахотиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опрохо́титься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опрохотиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды́́́ ли́́́зите-то – веть недо́́́ўго и опрохо́́́титьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды лизите-то – веть недоуго и опрохотитьце!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ошибиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, паре, девки. Как я вчера опрохо́тилась-то. Чузых ку́тек во двор загонила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, паре, девки. как я вчера опрохотилась-то. чузых кутек во двор загонила."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "прихватило", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прихвати́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прихватило"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорят о состоянии организма, когда начался или происходит приступ болезни: не человек «схватил» болезнь, а болезнь как бы «схватила» человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, как прихвати́ло-то! Еле отляга́лась!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, как прихватило-то! еле отлягалась!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "прихвати́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "прихватить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

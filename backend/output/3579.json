@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кошуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кошу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кошуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шуба с оборами в поясе, покрытая сукном.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

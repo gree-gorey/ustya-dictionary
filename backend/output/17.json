@@ -1,0 +1,109 @@
+{
+  "field_for_sorting": "аккурат", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аккура́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аккурат"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "в аккура́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "в аккурат"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вокура́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вокурат"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "в уккура́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "в уккурат"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "уккура́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "уккурат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "точно, как раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Аккура́т около твоего дома", 
+          "translation": "рядом с домом.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "аккурат около твоего дома"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "точь-в-точь, в самый раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он пришёл, аккура́т как я вернулась", 
+          "translation": "как только я вернулась.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он пришел, аккурат как я вернулась"
+        }, 
+        {
+          "content": "Пальто в аккура́т мне подходит", 
+          "translation": "пальто идеально на мне сидит, точно по мне (угадали с размером).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пальто в аккурат мне подходит"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сейчас, как бы не так!", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уккура́т! Ох, ты какой?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уккурат! ох, ты какой?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

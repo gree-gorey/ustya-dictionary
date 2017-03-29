@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "мошкара", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мошкара́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мошкара"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелкие кровососущие насекомые.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вечерами мошка́ра на улице не даёт покою.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вечерами мошкара на улице не дает покою."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "кукать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "куковать (о кукушке) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заку́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поку́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "покукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ску́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ку́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "кукнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Слышишь, кукушка ку́кает. Кукушка-то всево два раза ску́кнула.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слышишь, кукушка кукает. кукушка-то всево два раза скукнула."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

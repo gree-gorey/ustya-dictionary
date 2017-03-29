@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "нарвать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нарва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нарвать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "натереби́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "натеребить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надергать за волосы или уши в качестве наказания.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тереби́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "теребить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

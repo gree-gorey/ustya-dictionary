@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "всема", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всема́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всема"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "все́ми", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "всеми"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "всемя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "всемя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сразу всеми, совместно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сенокос ставили всема́. Всемя́ ие на разу́ вы́толнем", 
+          "translation": "вытолкнем машину (из грязи, снега) совместно, общими усилиями.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сенокос ставили всема. всемя ие на разу вытолнем"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "ходкий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хо́дкий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходкий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хо́́́дкой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ходкой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легко передвигающийся.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лошадка-та хоть и мала да ходка́!", 
+          "translation": "быстро едет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лошадка-та хоть и мала да ходка!"
+        }, 
+        {
+          "content": "Лыжи у тебя какие хо́дкие", 
+          "translation": "хорошо скользящие.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лыжи у тебя какие ходкие"
+        }, 
+        {
+          "content": "Ты-то ходка́ – дак поди́, а мне-то пе́ша дак и не попа́сь, можот пои́дёт хто!", 
+          "translation": "две очень пожилые женщины говорят о том, что надо бы на Троицу посетить довольно далеко находящееся кладбище.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты-то ходка – дак поди, а мне-то пеша дак и не попась, можот поидет хто!"
+        }, 
+        {
+          "content": "Чунки нехо́дкие стали, видно поло́зьё подмё́рзло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чунки неходкие стали, видно полозье подмерзло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

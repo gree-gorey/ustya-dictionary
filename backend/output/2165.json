@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жижа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́жа", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жижа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полугустая консистенция какого–либо вещества.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нету дороги-то, одна жи́жа! Што одну жи́жу хлёба́ёшь, зача́ливай ло́шкой гу́щу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нету дороги-то, одна жижа! што одну жижу хлебаешь, зачаливай лошкой гущу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

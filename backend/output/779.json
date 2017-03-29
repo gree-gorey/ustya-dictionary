@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "видко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ви́дко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "видко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "видно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зале́с на е́ль-то, дак и дере́вню ви́тко ста́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "залес на ель-то, дак и деревню витко стало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "олашка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ола́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "олашка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оладья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́́́ма, испеки́́́ нам ола́́́шок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мама, испеки нам олашок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

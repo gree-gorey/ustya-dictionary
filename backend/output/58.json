@@ -1,0 +1,150 @@
+{
+  "field_for_sorting": "баба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ба", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женщина (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "бабьё́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "бабье"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабё́нка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабенка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабё́ха", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабеха"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабё́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабешка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабё́шечка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабешечка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ба́бица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабица"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "баби́ща", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабища"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "баби́що", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабищо"
+        }, 
+        {
+          "content": "В деревне осталось одно бабьё́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в деревне осталось одно бабье."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чья эта ба́ба?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чья эта баба?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "особый статус деревенской женщины, приобретаемый в ходе замужества. Бабой начинают называть не сразу, когда вышла замуж. Сначала она будет «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "молоди́цей", 
+          "tag": "quote", 
+          "normalized_content": "молодицей"
+        }, 
+        {
+          "content": "». А «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ба́бой", 
+          "tag": "quote", 
+          "normalized_content": "бабой"
+        }, 
+        {
+          "content": "» станет, когда в замужестве родит ребенка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

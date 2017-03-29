@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "беркулес", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беркулё́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беркулес"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "туберкулез.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше звали чахоткой, а топере беркулё́с.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше звали чахоткой, а топере беркулес."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

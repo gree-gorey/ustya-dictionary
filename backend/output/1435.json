@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "голоруч", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голору́ч", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голоруч"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голыми руками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чугуны голору́ч из печи выма́ў", 
+          "translation": "чугуны голыми руками вынимал из печи.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чугуны голоруч из печи вымау"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

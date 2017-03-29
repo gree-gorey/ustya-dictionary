@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "давайкоте", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дава́йкоте", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "давайкоте"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дава́ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давако"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побудительные частицы давайте-ка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дава́йкоте подём домой. Дава́ко это сперва́ сро́бим.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давайкоте подем домой. давако это сперва сробим."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вздумать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взду́мать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вздумать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запланировать, собраться; неожиданно захотеть что-то сделать, решить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Взду́мал баню поднять. И не взду́май на́ реку итти!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вздумал баню поднять. и не вздумай на реку итти!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

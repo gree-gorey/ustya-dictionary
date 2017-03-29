@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вековенка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Веко́венка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вековенка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умершая женщина-долгожительница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот Марья веко́венка ищо гова́ривала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот марья вековенка ищо говаривала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

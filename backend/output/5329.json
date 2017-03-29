@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "охлануться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Охлану́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "охлануться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "искупаться (охладиться).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду охлану́сь", 
+          "translation": "пойду искупаюсь (охлажусь).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду охланусь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

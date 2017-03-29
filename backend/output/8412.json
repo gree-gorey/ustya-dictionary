@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "чувырла", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чувы́рла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чувырла"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "горделивая, высокомерная, зазнающаяся, вздорная женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Никто с этой чувы́рлой не хочет свя́зыватьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "никто с этой чувырлой не хочет связыватьсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

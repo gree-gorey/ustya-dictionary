@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "будоражить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Будора́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "будоражить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ворошить, приводить в беспорядок (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "взбудора́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взбудоражить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перебудора́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебудоражить"
+        }, 
+        {
+          "content": "Всё взбудора́жил в чулане, эстоко пыли поднял, а ничего не прибрал. Что ты всё в сундуке перебудора́жил?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все взбудоражил в чулане, эстоко пыли поднял, а ничего не прибрал. что ты все в сундуке перебудоражил?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "слепиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слепи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слепиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать при скудном освещении, напрягая зрение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево в потё́мках слепи́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево в потемках слепиться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

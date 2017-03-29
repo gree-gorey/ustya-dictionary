@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "горловина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Горлови́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горловина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхняя выемка у одежды, воротник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не гле́нитце мне это пла́тьё, горлови́на ко́со соши́та.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не гленитце мне это платье, горловина косо сошита."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

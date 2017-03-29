@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "вертук", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верту́к", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вертук"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вертлюжо́к", 
+        "place": [
+          "Сабуровская"
+        ], 
+        "type": "variant", 
+        "normalized_content": "вертлюжок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "флюгер.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

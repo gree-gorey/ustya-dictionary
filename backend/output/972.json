@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "вошкорица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́шкорица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вошкорица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́щкорица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вощкорица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́шькориця", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вошькориця"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень маленькая рыбка, малёк.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") мелкий, маленький кто-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эка во́шькориця, а заида́ицце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эка вошькориця, а заидаицце!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

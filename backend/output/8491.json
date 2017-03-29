@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "шарнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́рнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шарнуть"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стукнуть, ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как ша́рну счас по башке́-то дак, будёшь знать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как шарну счас по башке-то дак, будешь знать!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бросить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заша́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашарнуть"
+        }, 
+        {
+          "content": "Заша́рнул ме́чик вон аш куды!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зашарнул мечик вон аш куды!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

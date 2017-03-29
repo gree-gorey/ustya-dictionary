@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "перебиватьзубы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перебива́ть зу́бы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перебивать зубы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "появляться зубной боли от холодной или горячей еды, питья, от кислого, соленого и др. (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переби́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебить"
+        }, 
+        {
+          "content": "Попила́ бы воды из родника, да зубы перебива́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "попила бы воды из родника, да зубы перебивает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

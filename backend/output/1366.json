@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "глухой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глухо́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глухой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не имеющий выхода, сквозного прохода или проезда, тупиковый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Этот проу́лок глухо́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот проулок глухой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "водоем, не имеющий протока воды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Глухо́е озеро.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глухое озеро."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закрытый, облегающий, имеющий малый вырез (об одежде, обуви).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У платья глухо́й ворот.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у платья глухой ворот."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пик, середина временного отрезка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды сичас подёшь-то, ведь глуха́я ночь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды сичас подешь-то, ведь глухая ночь!"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "необразованный, малограмотный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В деревнях-то народ глухо́й был ра́не.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в деревнях-то народ глухой был ране."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выбиранный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выби́ранный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выбиранный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тканый узорами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Красики́ шили из выби́ранной ткани.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "красики шили из выбиранной ткани."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "брать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "брать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

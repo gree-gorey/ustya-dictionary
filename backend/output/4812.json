@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "нечистаясила", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нечи́стая си́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нечистая сила"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нечи́стой дух", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нечистой дух"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "злой дух.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бранное обращение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот нечи́стая сила! Всё испортил! Ух ты, нечи́стая сила! Ух, ты нечи́стой дух, опеть залез в огоро́дец!", 
+          "translation": "(о петухе).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот нечистая сила! все испортил! ух ты, нечистая сила! ух, ты нечистой дух, опеть залез в огородец!"
+        }, 
+        {
+          "content": "Вот, нечи́стой дух, я тибе дам!", 
+          "translation": "(о козле).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот, нечистой дух, я тибе дам!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "знать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Знать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "знать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уметь колдовать, лечить, наводить и снимать", 
+          "tag": "def"
+        }, 
+        {
+          "content": "уро́ки", 
+          "tag": "quote", 
+          "normalized_content": "уроки"
+        }, 
+        {
+          "content": ", порчу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К старухе, которая зна́ла, обращалась вся деревня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к старухе, которая знала, обращалась вся деревня."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

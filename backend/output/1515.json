@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "гребеука", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гребё́ўка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гребеука"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гребё́лка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гребелка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гребенка, женская полукруглая расческа с длинными волнистыми зубьями, с помощью которой расчесывали и закрепляли волосы на голове.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

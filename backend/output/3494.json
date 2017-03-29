@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "коротье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коротьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коротье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "относительно короткие продукты лесопиления, например, короткие дрова", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": ""
+        }, 
+        {
+          "content": "Из соснового коротья́ хозяин начал рубить сруб для погреба", 
+          "translation": "из коротких бревен.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из соснового коротья хозяин начал рубить сруб для погреба"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

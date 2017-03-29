@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "гузно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гу́зно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гузно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зад, задница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подыми́-ко гу́зно-то, россе́все тут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подыми-ко гузно-то, россевсе тут!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сидение у прялки. Также", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пря́сло", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "прясло"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

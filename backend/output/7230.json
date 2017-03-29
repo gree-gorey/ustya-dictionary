@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сподрядить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сподряди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сподрядить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "назначить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да сподряди́ла меня маменька да на несчастный день, на среду", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Припевки жениху. М.И. Шалаурова.", 
+          "normalized_content": "да сподрядила меня маменька да на несчастный день, на среду"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

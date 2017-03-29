@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "катон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Като́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "катон"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "катушка ниток.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тюри́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тюрик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "внутре", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Внутре́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "внутре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "внутря́х", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "внутрях"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутри.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поеду в больницу, чово-то внутре́ болит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поеду в больницу, чово-то внутре болит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

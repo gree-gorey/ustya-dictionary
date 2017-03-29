@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "какизгвоздя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Как из гвоздя", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "как из гвоздя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "степень расстройства пищеварительной системы, очень сильный понос.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чем-то видно отравилсе, второй день понос как из гвоздя́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чем-то видно отравилсе, второй день понос как из гвоздя."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

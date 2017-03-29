@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "балахонистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Балахо́нистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "балахонистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень просторный, свободно висящий (об одежде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Но́не у молодёжи в моде балахо́нистая одё́жа.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ноне у молодежи в моде балахонистая одежа."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

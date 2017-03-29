@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "бурлачить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бурла́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бурлачить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "побурлачить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "побурлачить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "пробурлачить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "пробурлачить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать на стороне, на других людей, на отхожих промыслах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёму с молоду пришлось нема́ло побурла́чить в людях.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему с молоду пришлось немало побурлачить в людях."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") бродить без цели, шататься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Половину ночи севодни пробурла́чиў, не мог уснуть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "половину ночи севодни пробурлачиу, не мог уснуть."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

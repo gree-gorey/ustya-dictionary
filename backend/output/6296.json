@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "прогон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прого́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прогон"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обезжиренное молоко.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обра́́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обрат"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

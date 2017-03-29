@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ухвостать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухвоста́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухвостать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забить до смерти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да он ево вчера чуть не ухвоста́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да он ево вчера чуть не ухвостал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "далеко уйти, убежать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон он куды от нас ухвоста́л, поди́ его тепери догони́ попробуй.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон он куды от нас ухвостал, поди его тепери догони попробуй."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хвоста́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хвостать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

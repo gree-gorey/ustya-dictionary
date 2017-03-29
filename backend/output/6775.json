@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "сбагрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сба́грить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сбагрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зба́грить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "збагрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сдвинуть, стащить (бревно и т. п.), зацепив багром.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо брё́вна-то с берега сба́грить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо бревна-то с берега сбагрить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ба́грить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "багрить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") стянуть, стащить, украсть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кошка рыбку со стола сба́грила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка рыбку со стола сбагрила."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отдать, избавиться от чего-то, что не нужно самому.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

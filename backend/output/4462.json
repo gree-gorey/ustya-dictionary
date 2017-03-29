@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "наискосок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наискосо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наискосок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наискоси́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наискосик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наискось.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "на́кось", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "накось"
+        }, 
+        {
+          "content": "Пили́ вот тут, наискосо́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пили вот тут, наискосок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

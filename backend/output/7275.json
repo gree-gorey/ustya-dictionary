@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сряд", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сряд", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сряд"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сря́́́ды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сряды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сборы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сря́ду-ту у вас, дак не дождё́шьсе! У тебя есть день на сря́ды", 
+          "translation": "на сборы.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сряду-ту у вас, дак не дождешьсе! у тебя есть день на сряды"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

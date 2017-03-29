@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "сколь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сколь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сколь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мест", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "сколько.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ско́́́ко", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скоко"
+        }, 
+        {
+          "content": "Сколь надо?", 
+          "translation": "сколько?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь надо?"
+        }, 
+        {
+          "content": "Ско́́́ко снопо́́́в навяза́́́ла? Сколь пла́́́тят-то? Да ниско́́́ко поцьти́́́шщо!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко снопов навязала? сколь платят-то? да нискоко поцьтишщо!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "очень, насколько, как.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколь баски́́́ половики́́́-те у тебя́́́! Сколь грязё́н!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь баски половики-те у тебя! сколь грязен!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

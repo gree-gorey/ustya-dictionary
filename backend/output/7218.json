@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "списываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спи́сываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "списываться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "списа́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "списаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "регистрировать брак.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "расписа́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "расписаться"
+        }, 
+        {
+          "content": "Оне вчера расписа́лись в сельсовете.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне вчера расписались в сельсовете."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обменяться письмами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

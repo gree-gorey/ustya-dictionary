@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "выжарки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́жарки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выжарки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелко нарезанное сало, испеченное в русской печи. Если отделить жир, то останутся вы́жарки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сморчки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сморчки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

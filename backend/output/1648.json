@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "двухручка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двухру́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двухручка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "двуру́чка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "двуручка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поперечная ручная пила с двумя рукоятками по концам, которой работают, как правило, вдвоем.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сорто́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сортовка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большой рубанок (стружка с широким лезвием), галтерник с двумя парами рукояток для строгания вдвоем досок и бруса для пола и потолка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

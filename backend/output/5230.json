@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "от", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "От", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "от"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О́т как!", 
+          "translation": "вот как!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от как!"
+        }, 
+        {
+          "content": "О́т ведь дурак-от какой! О́т ведь, Колька-та какой удалой быв!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от ведь дурак-от какой! от ведь, колька-та какой удалой быв!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "постпозитивная частица", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "для выделения в предложении слова, к которому относится.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зарод-от порато велик получи́ўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зарод-от порато велик получиусе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

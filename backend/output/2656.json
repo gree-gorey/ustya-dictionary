@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "затесаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Затеса́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затесаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "влезть в чужую компанию, зайти без приглашения туда, где никто не ждет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера́ неча́янно затеса́лся на сва́дьбу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера нечаянно затесался на свадьбу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "естолько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́столько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "естолько"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́стоко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "естоко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот столько, вон столько, такое количество.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Е́столько-то время она с ими промаялась. Е́стоко мы вас дожидались, а зря.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "естолько-то время она с ими промаялась. естоко мы вас дожидались, а зря."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

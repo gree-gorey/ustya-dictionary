@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "вертоватый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вертова́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вертоватый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бойкий, подвижный, шустрый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тяжоло́ с парнёко́м-то води́тце, больно уж он вертова́той.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тяжоло с парнеком-то водитце, больно уж он вертоватой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "непостоянный, непредсказуемый, ненадежный, легкомысленный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опасаюсь с таким вертова́тым дело имить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опасаюсь с таким вертоватым дело имить."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неустойчивый, склонный к потере равновесия и опрокидыванию.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сиди и не верти́сь, лодка-та пора́то вертова́тая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сиди и не вертись, лодка-та порато вертоватая."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "верту́чий", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вертучий"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вертя́чий", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вертячий"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

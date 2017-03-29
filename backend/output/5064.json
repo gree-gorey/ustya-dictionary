@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "окладной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окладно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окладной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обложно́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обложной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затяжной дождь, когда небо со всех сторон закрыто плотными малоподвижными дождевыми облаками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодни целой день окладно́й дождь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни целой день окладной дождь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

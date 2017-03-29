@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "съиздить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Съи́здить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "съиздить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "съездить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "и́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "издить"
+        }, 
+        {
+          "content": "Опе́ть съи́здила в Бесту́́́жеву. Не надое́́́ло тебе́́́ туды́́́-сюды́́́ и́́́зьдить?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть съиздила в бестужеву. не надоело тебе туды-сюды изьдить?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она ёму по ро́же съи́здила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она ему по роже съиздила."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "тряхомудь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тряхому́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тряхомудь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тряхому́дьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тряхомудье"
+      }
+    ], 
+    "style": [
+      "собир.", 
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ненужное домашнее тряпьё, разное барахло.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забира́́́й-ко своё́́́ тряхому́́́дьё да ума́́́тывай отсю́́́дова!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забирай-ко свое тряхомудье да уматывай отсюдова!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "одежда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тряхому́́́дья-та у ей доле́́́шево назаво́́́жоно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тряхомудья-та у ей долешево назавожоно."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

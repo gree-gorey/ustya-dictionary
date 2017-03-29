@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "всевды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всевды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всевды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всегда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нужно всевды́ жону в страхе Божьем держать, после венца жона – покорная мужу раба", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "М.И. Шалаурова.", 
+          "normalized_content": "нужно всевды жону в страхе божьем держать, после венца жона – покорная мужу раба"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

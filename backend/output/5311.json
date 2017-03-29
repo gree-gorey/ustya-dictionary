@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "отстукать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отсту́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отстукать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отту́кать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оттукать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "провести где-либо какое-то время не по своей воле в больнице, в местах лишения свободы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

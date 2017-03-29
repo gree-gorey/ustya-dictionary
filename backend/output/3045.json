@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "исподница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испо́дница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исподница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женская нательная рубаха.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "станови́́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "становина"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "испо́дки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "исподки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

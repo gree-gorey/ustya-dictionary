@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отшиньгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отши́ньгать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отшиньгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настегать, нахлестать чем-либо (наказать).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Взял ремень да так отши́ньгал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "взял ремень да так отшиньгал."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ши́ньгать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шиньгать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

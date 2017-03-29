@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "болькой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Болько́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болькой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болезненный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эте уко́лы пора́то больки́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эте уколы порато болькие."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бо́лько", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "болько"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

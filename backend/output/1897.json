@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "дрожки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дро́жки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дрожки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легкая одноосная конная тележка на рессорах, служит для перевозки одного-двух человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

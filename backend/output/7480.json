@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сыздоволь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сы́здоволь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сыздоволь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заранее, заблаговременно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К посевной готовились сы́здоволь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к посевной готовились сыздоволь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

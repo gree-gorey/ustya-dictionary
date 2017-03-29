@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "из-подрешета", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Из-под решета́", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "из-под решета"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "о маленьких детях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эй, вы, из-под решета́, чево росшумились?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эй, вы, из-под решета, чево росшумились?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

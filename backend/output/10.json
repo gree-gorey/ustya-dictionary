@@ -1,0 +1,113 @@
+{
+  "field_for_sorting": "адать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ада́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "адать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жада́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жадать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́́дать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жодать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жода́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жодать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сада́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "садать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́адать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выадать"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ада́ть только гора́зд. Ада́й що тибе по́дано! Ада́ет э́вон, только уши лягаются", 
+          "translation": "сравнение с поросенком.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "адать только горазд. адай що тибе подано! адает эвон, только уши лягаются"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пить (вино). Обычно употребляется по отношению к другому, когда критикуется чье-то поведение (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проада́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проадать"
+        }, 
+        {
+          "content": "Всё вино́ из буты́лки но́чью вы́адал. Все деньги проада́л, дак живи́ на чево хо́чешь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все вино из бутылки ночью выадал. все деньги проадал, дак живи на чево хочешь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "жра́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жрать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

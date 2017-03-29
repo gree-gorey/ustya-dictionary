@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "наголо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наголо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наголо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всегда, постоянно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как ни зайдёшь к Петьке наголо́ пьяной", 
+          "translation": "всегда пьяный.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как ни зайдешь к петьке наголо пьяной"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "всё, полностью, совсем, только лишь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наголо́ одних белых грибов принёс. Шаньги наголо́ на молоке", 
+          "translation": "полностью, без добавления воды. Или «", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наголо одних белых грибов принес. шаньги наголо на молоке"
+        }, 
+        {
+          "content": "наголо́ сметана", 
+          "tag": "quote", 
+          "normalized_content": "наголо сметана"
+        }, 
+        {
+          "content": "сверху одна только сметана.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наголо́ устала, присяду", 
+          "translation": "совсем устала.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наголо устала, присяду"
+        }, 
+        {
+          "content": "Наголо́́́ но́́́не лёжу́́́ – но́́́ги заболе́́́ли дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наголо ноне лежу – ноги заболели дак."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "житьблудно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жить блу́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жить блудно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вести разгульный образ жизни.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

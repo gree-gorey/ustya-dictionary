@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "забела", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забе́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забела"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сметана в супе, борще и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то ма́ло сево́дни в щи забе́лы поло́жили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то мало севодни в щи забелы положили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

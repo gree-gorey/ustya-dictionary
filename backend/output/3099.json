@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кажет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́́́жет", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кажет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кажется.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мне ка́́́жет, он туды́́́ пошё́́́ў. Ка́́́жот, до́́́ш бу́́́дёт – со́́́нцо в ту́́́цю зашло́́́, да и завола́́́киваёт не́́́бо-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мне кажет, он туды пошеу. кажот, дош будет – сонцо в туцю зашло, да и заволакивает небо-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "каза́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "казать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

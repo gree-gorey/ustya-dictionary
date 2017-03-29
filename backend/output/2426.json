@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "заковать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заковать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подковать лошадь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо лошадь закова́ть, а то копыта может по такой дороге сбить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо лошадь заковать, а то копыта может по такой дороге сбить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заморозить (реку, речку).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О как за ноць-то реку-то закова́ло, добро, типерь можно ходить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о как за ноць-то реку-то заковало, добро, типерь можно ходить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "скова́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сковать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

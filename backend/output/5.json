@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "аванец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ава́нец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аванец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "аванс.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ава́нец невели́к, дак полу́чка бо́ле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "аванец невелик, дак получка боле."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

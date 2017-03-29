@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кинщик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ки́нщик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кинщик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "киномеханик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Са́нко-то до пе́нзии ки́нщиком ро́биў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "санко-то до пензии кинщиком робиу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

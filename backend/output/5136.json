@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опознать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опозна́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опознать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узнать (человека).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Никак не могла опозна́ть, кто прошёл. Он меня́́́ опозна́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "никак не могла опознать, кто прошел. он меня опознау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

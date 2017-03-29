@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "кутуз1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куту́з 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кутуз 1"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коту́з", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "котуз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коту́с", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "котус"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "куту́с", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кутус"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхняя часть спины и плечи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пестерь на куту́с и пошол.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пестерь на кутус и пошол."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́ево", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пойло для скота с мукой или отрубями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наладила корове два ведра по́ева, снеси и подай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наладила корове два ведра поева, снеси и подай."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

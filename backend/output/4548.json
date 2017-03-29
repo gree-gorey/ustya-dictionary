@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наприпасе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наприпа́се", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наприпасе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в запасе, наготове.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На припа́се у меня сахарку немного есть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на припасе у меня сахарку немного есть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

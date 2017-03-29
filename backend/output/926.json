@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "вор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мошенник, хитрец, обманщик. Вора того, кто крадет, раньше бы назвали", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "мазу́риком", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "мазуриком"
+        }, 
+        {
+          "content": "Иди то́ром, так не назовут во́ром", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди тором, так не назовут вором"
+        }, 
+        {
+          "content": "делай открыто, а не", 
+          "tag": "def"
+        }, 
+        {
+          "content": "во́роськи", 
+          "tag": "quote", 
+          "normalized_content": "вороськи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

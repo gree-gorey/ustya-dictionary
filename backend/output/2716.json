@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "зачинка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачи́нка", 
+        "place": [
+          "Березник"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "зачинка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исток реки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зачи́нка реки – из болота.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зачинка реки – из болота."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

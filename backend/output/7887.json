@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "укотошить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Укото́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "укотошить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В войну фашисты много мирных жителей укото́шили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в войну фашисты много мирных жителей укотошили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") уложить (спать).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ребята хоть и убе́гались за день, но не скоро их спать укото́шишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребята хоть и убегались за день, но не скоро их спать укотошишь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

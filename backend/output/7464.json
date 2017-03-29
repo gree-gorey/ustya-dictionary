@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сцюлья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сцю́лья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сцюлья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "счу́лья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "счулья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женский половой орган.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

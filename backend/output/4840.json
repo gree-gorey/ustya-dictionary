@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ноне", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Но́не", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ноне"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "но́нче", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нонче"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ны́не", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ныне"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ны́нче", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нынче"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "теперь, в настоящее время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ба́ско живут но́не, да я и раньше шибко хорошо жила – мужик-от хорошой попалсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баско живут ноне, да я и раньше шибко хорошо жила – мужик-от хорошой попалсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

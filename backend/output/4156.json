@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "межуумок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Межуу́мок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "межуумок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "юродивый, отставший в умственном развитии человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше в кажной деревне был свой межуу́мок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше в кажной деревне был свой межуумок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

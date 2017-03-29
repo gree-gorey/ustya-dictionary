@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "запросто", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́просто", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запросто"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень просто, легко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ницёво́́́ тру́́́дново тут и нет, мо́́́жно за́́́просто э́́́то зде́́́лать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ницево трудново тут и нет, можно запросто это зделать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

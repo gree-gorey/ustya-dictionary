@@ -1,0 +1,110 @@
+{
+  "field_for_sorting": "кулем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кулё́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кулем"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кулё́ма", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кулема"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кулё́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кулешка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "охотничья ловушка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рассеянный, несобранный, неряшливо одетый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што жо ты всё теряешь-то, кулё́ма!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што жо ты все теряешь-то, кулема!"
+        }, 
+        {
+          "content": "Среди́лась как кулё́ма", 
+          "translation": "оделась некрасиво, несуразно, закуталась.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "средилась как кулема"
+        }, 
+        {
+          "content": "Э́́́кой моро́́́з, дак как кулё́ма наздева́́́лсе, и гла́́́с не ви́́́тко!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой мороз, дак как кулема наздевалсе, и глас не витко!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "склад для продуктов ящик, поднятый на столбах у охотничьей избушки", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бритвино", 
+          "tag": "place"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неудачная выпечка", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шеломечко", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Ой, севодни напекла́ такие кулё́мы, розорвались в пече.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, севодни напекла такие кулемы, розорвались в пече."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

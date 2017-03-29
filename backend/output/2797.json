@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зленный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зле́нный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зленный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зле́нной-презле́нной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зленной-презленной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень злой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон Сенька-то зле́нной-презле́нной сёдни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон сенька-то зленной-презленной седни."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чурбак с длинной ручкой, использовался при битье печи «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "биту́хи", 
+          "tag": "quote", 
+          "normalized_content": "битухи"
+        }, 
+        {
+          "content": "», околачивания (обмолота) снопов льна, глушения рыбы под тонким прозрачным льдом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

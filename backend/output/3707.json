@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кряду", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кря́ду", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кряду"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сразу, за один раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сне́́́г-от ва́́́лит и ва́́́лит уж ско́́́ко дён кря́́́ду, – не вы́́́порхатьце бу́́́дёт веть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снег-от валит и валит уж скоко ден кряду, – не выпорхатьце будет веть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

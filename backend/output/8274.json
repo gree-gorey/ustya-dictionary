@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чайно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́йно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чайно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много крепкой чайной заварки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В стакане пора́то ча́йно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в стакане порато чайно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

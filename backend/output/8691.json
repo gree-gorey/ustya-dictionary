@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ягодник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́годник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ягодник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог с ягодами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я́́́годников напекци́́́ хоцю́́́: церни́́́цьку уш запа́́́рила в чигунке́́́, да и с брусни́́́цей сде́́́лаю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ягодников напекци хоцю: церницьку уш запарила в чигунке, да и с брусницей сделаю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

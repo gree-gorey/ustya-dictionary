@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "тонколицый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тонколи́цый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тонколицый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имеющий мелкие, тонкие черты лица.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

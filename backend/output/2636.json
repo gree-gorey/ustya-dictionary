@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "застолье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Засто́лье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "застолье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "праздник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завтра у О́льицы имени́ны, надо засто́лье делать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра у ольицы именины, надо застолье делать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большая семья, в том числе вместе с приехавшими погостить родственниками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Летом как все внуки приедут, дак о́ какое засто́лье получаетсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "летом как все внуки приедут, дак о какое застолье получаетсе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

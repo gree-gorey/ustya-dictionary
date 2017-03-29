@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "баржа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ржа", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баржа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баржа́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баржа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень толстая, неповоротливая женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бадья́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бадья"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

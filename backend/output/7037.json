@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сладунету", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сла́ду не́ту", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сладу нету"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем не слушается.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, што за робёнок, с им никаково сла́ду не́ту!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, што за робенок, с им никаково сладу нету!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

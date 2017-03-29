@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "обваживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обва́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обваживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "складывать сено в копны, зароды.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

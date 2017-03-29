@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "варитьваленок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вари́ть ва́ленок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "варить валенок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одна из операций по ручному изготовлению валенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́кладенную", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выкладенную"
+        }, 
+        {
+          "content": "из шерсти заготовку валенка в большой посуде заливали водой и ставили на несколько часов в горячую русскую печь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "выкла́дывать ва́ленок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выкладывать валенок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

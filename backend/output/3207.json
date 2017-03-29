@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "каша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́́́ша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "каша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "блюдо устьянской кухни: толчёная картошка, залитая взбитым молоком с яйцами и запеченная в русской печи.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

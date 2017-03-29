@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "быза", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бы́за", 
+        "place": [
+          "Малодоры"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "быза"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "? Про человека гордого, необщительного, себе на уме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бы́за какая!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "быза какая!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

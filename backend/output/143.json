@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "басеньки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́сеньки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "басеньки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "овцы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ба́ся–ба́ся", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бася–бася"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

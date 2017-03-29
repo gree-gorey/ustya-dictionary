@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "обурочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обуро́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обурочить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "озева́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "озевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "околдовать, навести порчу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это тебя сме́ло кто-то обуро́чил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это тебя смело кто-то обурочил."
+        }, 
+        {
+          "content": "Варварушка вся перепужа́́́ласе, да потом сама догада́ласе, знать, на девку уро́ки пали, лихие люди озева́ли", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "варварушка вся перепужаласе, да потом сама догадаласе, знать, на девку уроки пали, лихие люди озевали"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сгла́зить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сглазить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "прису́ха", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "присуха"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сухота́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сухота"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уро́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "урок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

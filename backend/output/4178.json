@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "место", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ме́сто", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "место"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постель.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ладь ме́сто, парню спать пора.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ладь место, парню спать пора."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "резиновики", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рези́новики", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "резиновики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резиновые сапоги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Одевай рези́новики, а то ноги будут мокрыми.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одевай резиновики, а то ноги будут мокрыми."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

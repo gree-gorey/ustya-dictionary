@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "подовин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подови́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подовин"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подови́нье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подовинье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нижняя часть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ови́на", 
+          "tag": "quote", 
+          "normalized_content": "овина"
+        }, 
+        {
+          "content": ": яма под сушилом, где разводится огонь; место расположения топки, печи в овине.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

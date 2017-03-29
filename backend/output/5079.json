@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "окорябать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окоря́бать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окорябать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оцарапать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не тронь боле кошку, а то опеть тебя всево окоря́баёт", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не тронь боле кошку, а то опеть тебя всево окорябает"
+        }, 
+        {
+          "content": "Кто тибе лицо-то всё так окоря́бал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто тибе лицо-то все так окорябал?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "зеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зеть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зять. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот зеть, не́чово с ёво́ взеть", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот зеть, нечово с ево взеть"
+        }, 
+        {
+          "content": "(поговорка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "брательник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брате́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брательник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бра́тко", 
+        "place": [
+          "Митинская"
+        ], 
+        "type": "variant", 
+        "normalized_content": "братко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родной брат.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У меня три брате́льника. А это мой младший бра́тко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у меня три брательника. а это мой младший братко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

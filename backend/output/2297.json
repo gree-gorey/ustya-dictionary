@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "завтришный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́втришный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завтришный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́втрешной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завтрешной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завтрашний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это за́втрешный хлеб", 
+          "translation": "хлеб, оставленный на завтра.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это завтрешный хлеб"
+        }, 
+        {
+          "content": "Не оставлей на завтре́шний день, делай севодня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не оставлей на завтрешний день, делай севодня."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

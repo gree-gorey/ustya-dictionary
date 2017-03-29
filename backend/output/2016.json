@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ентот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́нтот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ентот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "этот (тот), вот этот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Возьми е́нтот топор, им ловчае тёсать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "возьми ентот топор, им ловчае тесать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

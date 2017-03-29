@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "труха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Труха́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "труха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "искрошившееся сено. Используется на заварку пойла крупному рогатому скоту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Принеси трухи́ с пови́ти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "принеси трухи с повити."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

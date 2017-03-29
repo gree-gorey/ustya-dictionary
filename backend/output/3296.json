@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ково", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ково", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ково"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он никово́ не слушает, ни на ково́ не глядит, велит им скорее уходить", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "он никово не слушает, ни на ково не глядит, велит им скорее уходить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

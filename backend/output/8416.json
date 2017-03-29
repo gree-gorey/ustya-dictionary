@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "чудик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́дик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чудик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чуди́ло", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чудило"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шутливое название странноватого, отличного от большинства людей человека, в т. ч. и умного, но, как правило, несуразного чудака.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Есть у нас в дере́́́вне оди́́́н тако́́́й чу́́́дик.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "есть у нас в деревне один такой чудик."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

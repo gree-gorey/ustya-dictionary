@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "счестье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сче́стьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "счестье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сче́́́сьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "счесье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сця́́́сьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сцясье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "счастье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот сче́стьё-то какоё! Сця́́́сья-та она́́́ немно́́́го вида́́́ла в жи́́́зни. Не в де́́́ньгах сце́́́сьё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот счестье-то какое! сцясья-та она немного видала в жизни. не в деньгах сцесье."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

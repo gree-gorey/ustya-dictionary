@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сиянец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́янец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сиянец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "посеянное зерно; всходы посеянного зерна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́янец на поле взошё́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сиянец на поле взошел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

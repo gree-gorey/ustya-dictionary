@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "дреслявый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дресля́вый", 
+        "place": [
+          "Плесевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "дреслявый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состоящий из крупного песка и мелких камней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут у нас в реке мелко, дно дресля́воё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут у нас в реке мелко, дно дреслявое."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дресва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дресва"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дресвя́ник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дресвяник"
+        }, 
+        {
+          "content": "́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "ископытиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ископы́титься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ископытиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заупрямиться (о лошади, корове), упереться копытами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Стала да ископы́тилась – и ни тпру, ни ну!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стала да ископытилась – и ни тпру, ни ну!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "захромать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

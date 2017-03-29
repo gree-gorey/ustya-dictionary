@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "двулеток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двуле́ток", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двулеток"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "двуле́тки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "двулетки"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "двуле́ток", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "двулеток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "животное по второму году жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бычок – двуле́ток. Телят – двуле́ток содержали (телята – двуле́тки содержались) обычно на отдельном пастбище.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бычок – двулеток. телят – двулеток содержали (телята – двулетки содержались) обычно на отдельном пастбище."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,82 @@
+{
+  "field_for_sorting": "хряпнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хря́пнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хряпнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хря́пнуть бы тебя самого.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хряпнуть бы тебя самого."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "треснуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Стекло-то по середине и хря́пнуло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стекло-то по середине и хряпнуло."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") выпить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он две стопочки хря́пнул.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он две стопочки хряпнул."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хря́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хряпать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "носовик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Носови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "носовик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "носовичо́́́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "носовичок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "носовой платок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Носовицё́́́к-то су́́́нь ф корма́́́нцик.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "носовицек-то сунь ф корманцик."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

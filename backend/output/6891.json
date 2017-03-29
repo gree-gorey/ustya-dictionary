@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "серодой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Серодо́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "серодой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "серодо́йка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "серодойка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работники, заготавливающие смолу хвойных пород деревьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этой избушке серодо́и жили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этой избушке серодои жили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

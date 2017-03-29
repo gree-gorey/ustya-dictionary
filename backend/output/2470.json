@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "залобанить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залоба́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залобанить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить в лоб или по голове.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как залоба́́́ню в ло́́́п, дак бу́́́дёшь зна́́́ть, как отгова́́́риватьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как залобаню в лоп, дак будешь знать, как отговариватьце!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "косматка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косма́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косматка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "космачи́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "космачиха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женщина с длинными растрепанными волосами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що экая косма́тка ходишь-то, хоть причёши́сь гре́бнём!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що экая косматка ходишь-то, хоть причешись гребнем!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "луценка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Луце́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "луценка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перо лука.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "це́нка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ценка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

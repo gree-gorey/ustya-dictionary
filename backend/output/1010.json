@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "враль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Враль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "враль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") выражение по отношению к тому, кто врет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ай, вра́ль!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ай, враль!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лгун (жен.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "вра́лья", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "вралья"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "врали́ха)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "вралиха)"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

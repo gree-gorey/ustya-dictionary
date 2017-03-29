@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мастак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Маста́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мастак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деловой, умелый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дивья́ Авдо́тье жить, как мужик у ие на всё маста́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дивья авдотье жить, как мужик у ие на все мастак."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

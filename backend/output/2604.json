@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "засадиха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Засади́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засадиха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "черемуха", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

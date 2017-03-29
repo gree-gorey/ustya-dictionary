@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "живность", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́вность", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "живность"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пребывание в живых, существование живых людей (Бестужево, Синики).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из той деревушки уж давно никого в жи́вности нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из той деревушки уж давно никого в живности нет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "улов мелкой рыбы: меев, пескарей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Битончик жи́вности опеть наловил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "битончик живности опеть наловил."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

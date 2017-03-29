@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рекостав", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рекоста́в", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рекостав"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замерзание реки, установление устойчивого ледяного покрова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осене́сь до́ўго было тёпло, и рекоста́в быў в серё́дке декабря.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осенесь доуго было тепло, и рекостав быу в середке декабря."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

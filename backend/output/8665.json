@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "этуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́́́́́туль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "этуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́туля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "этуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "этой дорогой, этим местом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́туля надо идти-то, э́туля!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этуля надо идти-то, этуля!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "доэ́туль", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "доэтуль"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

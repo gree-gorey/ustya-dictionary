@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "выкуриваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выку́риваться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выкуриваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исчезать, закрываться деревням и поселкам (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́куриться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выкуриться"
+        }, 
+        {
+          "content": "По Волюге все деревни давно вы́курились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по волюге все деревни давно выкурились."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вы́живка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выживка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

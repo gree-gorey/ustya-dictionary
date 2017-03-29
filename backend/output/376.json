@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "боронить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Борони́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "боронить"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить невнятно, бессвязно, непонятно что (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заборони́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заборонить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наборони́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наборонить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сборони́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сборонить"
+        }, 
+        {
+          "content": "Бабка опеть что-то заборони́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка опеть что-то заборонила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

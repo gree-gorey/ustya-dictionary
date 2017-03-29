@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "образумиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Образуми́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "образумиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вразуми́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вразумиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одуматься, отказаться от плохого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Образуми́ться не можошь, эстоко воды вы́пил, ты бы чаю лучше налил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "образумиться не можошь, эстоко воды выпил, ты бы чаю лучше налил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

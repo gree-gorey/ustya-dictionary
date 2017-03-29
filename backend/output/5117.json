@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "опарунить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опару́нить", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "опарунить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстричь волосы наголо. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Батько тебе машинку-то доверяет? – Конечно", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "батько тебе машинку-то доверяет? – конечно"
+        }, 
+        {
+          "content": "Ну-ко, опару́нь меня", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, опарунь меня"
+        }, 
+        {
+          "content": "(из воспоминаний детства).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

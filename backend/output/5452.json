@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пашинник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Паши́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пашинник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "паши́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пашина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тонкоствольные деревья любых видов и пород, применяемые (часто вместе с ветками) для настила на дорогу в сырых, болотистых местах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Настила́й тут паши́нника поболе, а то на телёге будёт не проехать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "настилай тут пашинника поболе, а то на телеге будет не проехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

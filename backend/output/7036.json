@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "сладить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слади́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сладить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "положить сахар, сделать сладким, подсластить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наслади́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переслади́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пересладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подслади́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "послади́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посладить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

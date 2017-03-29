@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "изгребное", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгрё́бное", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгребное"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сорт грубого домотканого холста.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

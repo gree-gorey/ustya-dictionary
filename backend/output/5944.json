@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "полохало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поло́хало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полохало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пугало.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поло́хало воро́ньё!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полохало воронье!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неряха; неаккуратно одетый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо ты как поло́хало! Не бе́́́гай-ко ты э́́́ким поло́́́халом-то по дере́́́вне!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо ты как полохало! не бегай-ко ты эким полохалом-то по деревне!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "иззудетья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Иззуде́тья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "иззудетья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "раззуде́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "раззудеться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно саднить, болеть, зудеть, чесаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нога-то дак вся иззуде́лась", 
+          "translation": "болит.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нога-то дак вся иззуделась"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "беспокоиться, тревожиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Долго писем нет от сына, всё сердце иззуде́лось.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долго писем нет от сына, все сердце иззуделось."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "надоесть разговором просьбой об одном и том же.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надоело слушать, весь иззуде́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надоело слушать, весь иззуделсе!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

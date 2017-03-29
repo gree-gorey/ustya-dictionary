@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "неладно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нела́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неладно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плохо, на вред; нехорошо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо робишь нела́дно!", 
+          "translation": "не делай во вред.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо робишь неладно!"
+        }, 
+        {
+          "content": "Не робь нела́дно", 
+          "translation": "не делай плохое.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не робь неладно"
+        }, 
+        {
+          "content": "Нела́дно ро́бят", 
+          "translation": "делают что-то плохое (например, хулиганят).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неладно робят"
+        }, 
+        {
+          "content": "Що-то уж нела́дно купец ро́бит, весь народ смущает, так золотыми швыряет", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "що-то уж неладно купец робит, весь народ смущает, так золотыми швыряет"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ла́дно", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ладно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

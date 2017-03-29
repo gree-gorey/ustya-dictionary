@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "дорожница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доро́жница", 
+        "place": [
+          "Сарбала"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "дорожница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полоса пашни или сенокоса, примыкающая к дороге.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

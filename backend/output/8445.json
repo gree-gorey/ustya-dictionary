@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "чучмек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чучме́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чучмек"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестолковый, непонимающий человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечёво и не поняў он, вот чучме́к-от!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево и не поняу он, вот чучмек-от!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "разымать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разыма́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разымать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "розыма́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "розымать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разделять, разъединять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до по две-цеты́́́ре ни́́́тки розыма́́́ть: цем то́́́ўще, тем ба́́́ще узо́́́р-от бу́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо по две-цетыре нитки розымать: цем тоуще, тем баще узор-от будет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разнимать, разводить силой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там, шщо, мужыки́́́ розодрали́́́се? На́́́до би́́́кци", 
+          "translation": "(бежать)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там, шщо, мужыки розодралисе? надо бикци"
+        }, 
+        {
+          "content": "розыма́́́ть их, лешако́́́ф!", 
+          "tag": "quote", 
+          "normalized_content": "розымать их, лешакоф!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

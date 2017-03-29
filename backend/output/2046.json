@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "етта", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́тта", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "етта"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́ттака", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "еттака"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "здесь, тут.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чово вопите-то, мы все е́тта! Е́ттака яма, не проехать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чово вопите-то, мы все етта! еттака яма, не проехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

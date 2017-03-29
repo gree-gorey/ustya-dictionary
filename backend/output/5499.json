@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "переговоры", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перегово́ры", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "переговоры"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "перегово́рки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "переговорки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплетни, пересуды.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

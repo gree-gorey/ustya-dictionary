@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "вилашки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вила́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вилашки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, где расходятся дороги", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Малодоры", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Из деревни выйдёшь, и там вила́шки", 
+          "translation": "дорога расходится.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из деревни выйдешь, и там вилашки"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "двухрогие деревянные вилы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

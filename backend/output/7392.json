@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сугрев", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сугре́в", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сугрев"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "согревание.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пейте скоряе чай для сугре́ву.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пейте скоряе чай для сугреву."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

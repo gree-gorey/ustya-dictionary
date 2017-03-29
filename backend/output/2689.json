@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "захап", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заха́п", 
+        "place": [
+          "Митинская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "захап"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загнутая часть палки для трепания (взбивания) шерсти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Палку с заха́пом называют помаку́шкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "палку с захапом называют помакушкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

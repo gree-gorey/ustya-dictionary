@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "братовья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Братовья́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "братовья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "братья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как живут твои братовья́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как живут твои братовья?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

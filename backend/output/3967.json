@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "ломаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лома́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ломаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "полома́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поломаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много трудиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "налома́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наломаться"
+        }, 
+        {
+          "content": "О, тут скоко роботы, целой день надо лома́ться. Ох и налома́лись мы севодни, эстоко брёвен с берегов в реку спеха́ли. Ну и пришлось севодни полома́ться, чисто все устали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о, тут скоко роботы, целой день надо ломаться. ох и наломались мы севодни, эстоко бревен с берегов в реку спехали. ну и пришлось севодни поломаться, чисто все устали."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "набивать себе цену, не соглашаться, упрямиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "залома́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заломаться"
+        }, 
+        {
+          "content": "Що залома́лсе, соглашайсе, дело сто́ящее.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що заломалсе, соглашайсе, дело стоящее."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

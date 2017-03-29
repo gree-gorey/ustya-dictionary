@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "архирейка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Архире́йка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "архирейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "травянистое растение с синими цветами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Архире́йку в лесу видяла, так похожа на зверобой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "архирейку в лесу видяла, так похожа на зверобой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

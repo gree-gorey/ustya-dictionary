@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "звякать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Звя́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "звякать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брякать, бренчать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "звя́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "звякнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́́́локоло-то слы́́́шышь, где звя́́́кает – там, ви́́́дно, коро́́́вы-те, пошли́́́ туды́́́. У ворот кольцо звя́кнуло, кто-то идёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колоколо-то слышышь, где звякает – там, видно, коровы-те, пошли туды. у ворот кольцо звякнуло, кто-то идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

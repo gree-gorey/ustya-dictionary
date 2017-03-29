@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "ручей", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ру́чей", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ручей"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ручей. Часто в составе топонимов:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Берёзов ручей", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "березов ручей"
+        }, 
+        {
+          "content": "Глазко́в ручей", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глазков ручей"
+        }, 
+        {
+          "content": "Бестужево", 
+          "tag": "place"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "преник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пре́ник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "преник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пряник.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "пре́́́ницёк", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "преницек"
+        }, 
+        {
+          "content": "Хоть пре́́́ницькоф из мага́́́зина-та принеси́́́ да поду́́́шоцёк – Ду́́́нькину ра́́́дось", 
+          "translation": "(карамель без обёртки, с вареньем).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хоть преницькоф из магазина-та принеси да подушоцек – дунькину радось"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "поле, полянка квадратной формы", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Синики", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Сегодня надо пре́ники сгрести", 
+          "translation": "(о сене).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сегодня надо преники сгрести"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

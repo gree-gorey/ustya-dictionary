@@ -1,0 +1,215 @@
+{
+  "field_for_sorting": "закидка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заки́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закидка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закла́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заклад"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закла́дка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закладка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задви́жка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задвижка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зало́жка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заложка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "забо́йник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "забойник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "завё́ртыш", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завертыш"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "защо́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "защовка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "засо́в", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "засов"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наки́дка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "накидка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "амба́рный (навесно́́й) замо́к на пробо́ях", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "амбарный (навесной) замок на пробоях"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́дорожчатый (вну́́тренний) или врезно́й замо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задорожчатый (внутренний) или врезной замок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щеко́лда", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щеколда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дверной запор.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "забо́йник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "забойник"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "завё́ртыш", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "завертыш"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "задви́жка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "задвижка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "задорожчатый замок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "задорожчатый замок"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "закла́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заклад"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "засо́в", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "засов"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "защо́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "защовка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "заложка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заложка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "амбарный замок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "амбарный замок"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наки́дка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "накидка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пробой", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пробой"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

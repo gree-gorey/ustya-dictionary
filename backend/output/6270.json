@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пришлый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "При́шлый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пришлый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приезжий, неместный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мужык-от этот не наш, при́шлой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужык-от этот не наш, пришлой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

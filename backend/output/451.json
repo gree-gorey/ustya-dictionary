@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "брякотуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брякоту́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брякотуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болтунья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот, брякоту́ха, всёво наговорит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот, брякотуха, всево наговорит!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

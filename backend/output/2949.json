@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "изладить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изла́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изладить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приготовить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я поросю́шке изла́жу, дак ты во двор сходи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я поросюшке излажу, дак ты во двор сходи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́дить 2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ладить 2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

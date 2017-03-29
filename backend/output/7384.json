@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "стырить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сты́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стырить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "украсть, стащить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гледи за им, а то опеть што-нибудь сты́рит, он такой! Кошка рыбку со стола сты́рила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гледи за им, а то опеть што-нибудь стырит, он такой! кошка рыбку со стола стырила."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ты́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тырить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

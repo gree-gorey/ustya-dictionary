@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "приглянуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пригляну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приглянуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "понравиться с виду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да сра́́́зу-ту он мне пригляну́́́ўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да сразу-ту он мне приглянуусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

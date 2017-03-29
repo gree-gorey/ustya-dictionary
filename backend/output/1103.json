@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выволочка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́волочка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выволочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "встряска, трёпка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́ть внук у миня́ провини́ўсе, пришло́сь да́ть вы́волочку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть внук у миня провиниусе, пришлось дать выволочку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

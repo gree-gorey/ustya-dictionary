@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "косоворотка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косоворо́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косоворотка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мужская рубаха из полотна или сатина с", 
+          "tag": "def"
+        }, 
+        {
+          "content": "косы́м во́ротом:", 
+          "tag": "quote", 
+          "normalized_content": "косым воротом:"
+        }, 
+        {
+          "content": "с поясом и тремя пуговицами на во́роте над левым плечом, использовалась в деревне обычно на выход.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "косо́й во́рот", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "косой ворот"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отряхаловка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отряха́ловка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отряхаловка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взбучка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Молодёжь опе́ть отряха́ловку заслужи́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молодежь опеть отряхаловку заслужила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

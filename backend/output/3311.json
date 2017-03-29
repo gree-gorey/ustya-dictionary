@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "козвонок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Козвоно́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "козвонок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "козоно́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "козонок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позвонок, звено, сустав.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "козвонки́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "козвонки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

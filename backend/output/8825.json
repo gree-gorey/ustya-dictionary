@@ -1,0 +1,34 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чистое болото, из которого вытекает река Устья.", 
+          "tag": "quote", 
+          "normalized_content": "чистое болото, из которого вытекает река устья."
+        }, 
+        {
+          "content": "Географическая номенклатура по реке Устье. М.И. Романов.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Чи́сть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чисть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

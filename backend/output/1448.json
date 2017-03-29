@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "гольян", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голья́н", 
+        "place": [
+          "Дубровская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "гольян"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелкая черная речная рыбка без чешуи.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

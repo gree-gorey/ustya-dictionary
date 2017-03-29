@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "фунт", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фу́нт", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "фунт"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мера веса: 410 грамм.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

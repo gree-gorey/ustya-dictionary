@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "розулица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Розу́лица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "розулица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "розу́лиця", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "розулиця"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расширение деревенской улицы перед", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́свой", 
+          "tag": "quote", 
+          "normalized_content": "пасвой"
+        }, 
+        {
+          "content": ", до", 
+          "tag": "def"
+        }, 
+        {
+          "content": "заво́ра", 
+          "tag": "quote", 
+          "normalized_content": "завора"
+        }, 
+        {
+          "content": "или сразу после завора.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́гони корову-то на розу́лицю и иди домой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выгони корову-то на розулицю и иди домой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

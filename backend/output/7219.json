@@ -1,0 +1,124 @@
+{
+  "field_for_sorting": "спица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спи́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянная вешалка для одежды в форме штыря.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды́ я куфа́йку-то заушиў? – Да вон на спи́це виси́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды я куфайку-то заушиу? – да вон на спице висит!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вешалка-сушилка для хозяйственных принадлежностей, например, конюшенных. На спицах висели хомуты, дуги, сбруя.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пробка, затычка. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спи́ца в нос!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спица в нос!"
+        }, 
+        {
+          "content": "шутливое выражение в адрес чихающих, которое означает:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заткни́ нос!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(не что-то острое в нос, а наподобие пробки). Ответ: «", 
+          "normalized_content": "заткни нос!"
+        }, 
+        {
+          "content": "Вынь да себе вложь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вынь да себе вложь!"
+        }, 
+        {
+          "content": "Или: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спаси́бо за мя́гкую заты́чку!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спасибо за мягкую затычку!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "опорные детали колеса, соединяющие обод и втулку, а также стопор, шплинт, не позволяющий колесу сваливаться с оси.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прочная деревянная палочка, на которой вращается", 
+          "tag": "def"
+        }, 
+        {
+          "content": "цивца́", 
+          "tag": "quote", 
+          "normalized_content": "цивца"
+        }, 
+        {
+          "content": "внутри", 
+          "tag": "def"
+        }, 
+        {
+          "content": "челнока́", 
+          "tag": "quote", 
+          "normalized_content": "челнока"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

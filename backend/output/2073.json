@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "жалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жалиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жа́лобиться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жалобиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жаловаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зажа́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зажалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изжа́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изжалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажа́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пожа́литься)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пожалиться)"
+        }, 
+        {
+          "content": "Ну што ты всё жа́лишьсе? Не жа́льсе – сама виновата. Вся изжа́лилась", 
+          "translation": "жалуешься без конца.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну што ты все жалишьсе? не жальсе – сама виновата. вся изжалилась"
+        }, 
+        {
+          "content": "Молоди́ца домой про́сится, да и на тебя жа́лобится, що ты худо с ней живёшь", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "молодица домой просится, да и на тебя жалобится, що ты худо с ней живешь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

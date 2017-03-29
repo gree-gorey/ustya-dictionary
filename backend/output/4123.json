@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мастероватый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мастерова́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мастероватый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деловой, умелый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мастерова́той мужик-от ей попаўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мастероватой мужик-от ей попаусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

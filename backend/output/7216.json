@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "спинывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спи́нывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спинывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скидывать, сбрасывать с себя что-либо, делая движения телом, конечностями, барахтаясь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спинать"
+        }, 
+        {
+          "content": "Дети во сне часто одеяло спи́нывают. Всё одеяло с себя спина́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дети во сне часто одеяло спинывают. все одеяло с себя спинал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перестоять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перестоя́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перестоять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "существовать дольше, чем другое, а также дольше обычного срока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жито-то перестоя́ло, уже на́чало осыпаться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жито-то перестояло, уже начало осыпаться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

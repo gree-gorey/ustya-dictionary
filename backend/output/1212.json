@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выревка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́рёвка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выревка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "детский преднамеренный плач; долгий плач.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Устроила она мне севодни вы́рёвку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "устроила она мне севодни выревку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

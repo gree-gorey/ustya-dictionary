@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кто его знает, никто не знает.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что он ду́́́мает, лешаки́ ево́́́ зна́́́ёт! Как это де́́́лать, ле́шой ево́́́ зна́́́ёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что он думает, лешаки ево знает! как это делать, лешой ево знает!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Леша́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лешак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

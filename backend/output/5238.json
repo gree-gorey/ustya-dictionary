@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отводить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отводи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отводить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарушать или вмешиваться в планы сделать что-либо (в силу каких-то обстоятельств, интуиции, действия неведомых сил).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да що-то меня отводи́ло всё", 
+          "translation": "все что-то мне мешало начать делать что-то.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да що-то меня отводило все"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

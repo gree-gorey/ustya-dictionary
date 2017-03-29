@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "насказать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насказа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насказать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наговорить подробно о чем-либо, правду и неправду (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "наска́зывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насказывать"
+        }, 
+        {
+          "content": "Офи́мья таково про Дорофи́я наска́зывала, што хоть вирь, хоть не вирь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "офимья таково про дорофия насказывала, што хоть вирь, хоть не вирь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "обсказа́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обсказать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

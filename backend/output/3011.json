@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "индева", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Индева́́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "индева"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иней в местах выхода тепла из избы (в пазах или углах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Индева́-то в погребу́ вы́ступили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "индева-то в погребу выступили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "аки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "А́ки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "аки́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "аки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "част.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "как.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Манька-то, аки короле́вошна, разодета", 
+          "translation": "очень нарядно одета.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "манька-то, аки королевошна, разодета"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

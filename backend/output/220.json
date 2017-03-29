@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "белобокий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Белобо́кий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белобокий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недозревший (о ягодах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Брусни́ца ищо белобо́кая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "брусница ищо белобокая."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

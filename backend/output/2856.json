@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "зыбистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зы́бистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зыбистый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зы́бчатый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбчатый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зы́́́бок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зыбкий, неустойчивый, некрепкий, готовый провалиться (о поверхности).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ле́́́д-от ешшо́́́ зы́́́бок, не ступа́́́й туды́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лед-от ешшо зыбок, не ступай туды!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "накидка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наки́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "накидка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дверная запорная планка, щеколда, крючок.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

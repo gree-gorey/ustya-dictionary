@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "поплески", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поплё́ски", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поплески"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "менее качественное, чем основная часть, получемое в последнюю очередь деревенское пиво.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

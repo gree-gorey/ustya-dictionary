@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отмочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отмочи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отмочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сказать неприличное, «сморозить глупость».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну ты и отмочи́л!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну ты и отмочил!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

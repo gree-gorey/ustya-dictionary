@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "полдела", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полде́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полдела"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легко, без хлопот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тебе-то полде́ла как робя́та есь", 
+          "translation": "тебе легко, если есть дети, которые помогут.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе-то полдела как робята есь"
+        }, 
+        {
+          "content": "Полде́ла тебе, у тебя вон мужик-то – золото!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полдела тебе, у тебя вон мужик-то – золото!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

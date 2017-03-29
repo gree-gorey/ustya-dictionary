@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "завизить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завизи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завизить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вонзить (засадить).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так нуко топор-то в чурку завизи́в, дак полдня никак вытащщить не мок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так нуко топор-то в чурку завизив, дак полдня никак вытащщить не мок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "занозить, воткнуть занозу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экую спицу в долонь завизи́ў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экую спицу в долонь завизиу!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

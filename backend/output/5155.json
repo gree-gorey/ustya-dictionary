@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "опрахотить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опрахо́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опрахотить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опрохо́тить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опрохотить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "случайно уронить, перевернуть что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́́́ жо, нелофко́́́ё цю́́́до, не можо́́́ш пройти́́́, шщоп цево́́́ не опрахо́́́тить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну жо, нелофкое цюдо, не можош пройти, шщоп цево не опрахотить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "испатрать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испатра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испатрать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "измазать, загрязнить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ребятам одёжи не напасёссе, хоть тово боле испатра́ют да изволочат.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребятам одежи не напасессе, хоть тово боле испатрают да изволочат."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

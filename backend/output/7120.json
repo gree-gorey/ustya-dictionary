@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "снять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сня́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "снять"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "снима́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "снимать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собрать и удалить из приготавливаемой пищи верхний слой пену, сметану.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грибы-то уже закипе́ли, надо пену из чигуна снима́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грибы-то уже закипели, надо пену из чигуна снимать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "убрать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уже пора шаньги со сковоро́док снима́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже пора шаньги со сковородок снимать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

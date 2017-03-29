@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "спохвату", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С по́хвату", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с похвату"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "с по́хвати", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "с похвати"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на ходу, не прерывая занятия чем-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С по́хвату много не нае́шьсе, садись и поешь це́сью! С по́хвати кусок в зубы и бежать, всё ему нековды!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с похвату много не наешьсе, садись и поешь цесью! с похвати кусок в зубы и бежать, все ему нековды!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

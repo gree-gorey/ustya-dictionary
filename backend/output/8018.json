@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "ухвоить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухво́ить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухвоить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загубить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́ково-то ве́́́прика ухво́́́или, бе́́́столочи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эково-то веприка ухвоили, бестолочи!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "потерять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заухво́ить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заухвоить"
+        }, 
+        {
+          "content": "Ухво́́́или с конца́́́ми таку́́́ю зобе́́́ньку – та́́́тка ро́́́биў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ухвоили с концами такую зобеньку – татка робиу!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "привести в негодность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лисапе́́́т-то совсе́́́м ухво́́́или – э́́́кую «восьмё́́́ру» загну́́́ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лисапет-то совсем ухвоили – экую «восьмеру» загнули!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

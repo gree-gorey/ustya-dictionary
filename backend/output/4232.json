@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "моя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моя́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "моя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сама́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сама"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так муж называет жену.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сама́ севодни жито жать пошла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сама севодни жито жать пошла."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мой", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мой"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

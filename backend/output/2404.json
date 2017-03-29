@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "займовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́ймовать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "займовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брать в долг, занимать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этот раз де́нёг не хватит до пе́нзии, придё́тце у ково-то за́ймовать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этот раз денег не хватит до пензии, придетце у ково-то займовать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

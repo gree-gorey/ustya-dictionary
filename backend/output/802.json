@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "висячей", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вися́чей", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "висячей"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "навесной, подвесной.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "весу́чей", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "весучей"
+        }, 
+        {
+          "content": "Двери запёрты на один вися́чей замочик. Анбар за́пёрт токо на весу́чей замок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двери заперты на один висячей замочик. анбар заперт токо на весучей замок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "навесной, подвесной (в отношении подвесного моста).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На Островце через Волюгу был вися́чей мостик.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на островце через волюгу был висячей мостик."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вельветка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вельве́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вельветка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "куртка, одежда из вельвета.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я в школу всё в вельве́тке ходиў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я в школу все в вельветке ходиу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

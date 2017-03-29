@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бедно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бедно́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бедно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бедно́ жили, нечем уж похвали́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бедно жили, нечем уж похвалитце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

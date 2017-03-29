@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "выпернуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́пернуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпернуть"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родить ребенка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше много робят носили, а топере одново-двух вы́пёрнут, и всё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше много робят носили, а топере одново-двух выпернут, и все."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вы́тряхнуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вытряхнуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

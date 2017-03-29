@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "мараться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мара́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мараться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пачкаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́мараться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вымараться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измара́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измараться"
+        }, 
+        {
+          "content": "Вы́маралсе весь", 
+          "translation": "испачкался.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вымаралсе весь"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") притрагиваться к малому количеству еды, питью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да тут нечево пить, неохота мара́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да тут нечево пить, неохота мараться."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

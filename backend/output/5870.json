@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "позавсе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поза́всё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "позавсе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поза́фсё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "позафсе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повседневно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не бо́льно ба́сок плато́цик-то, да поза́всё-то добро́!", 
+          "translation": "платок не очень красив, но пригоден для повседневной носки. Нарядную одежду предполагалось надевать на выход, а не", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не больно басок платоцик-то, да позавсе-то добро!"
+        }, 
+        {
+          "content": "поза́всё", 
+          "tag": "quote", 
+          "normalized_content": "позавсе"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "всегда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо́́́-то я ево́́́́́́ не узнаю́́́ сево́́́дни! – Да он поза́́́фсё тако́́́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то я ево не узнаю севодни! – да он позафсе такой."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

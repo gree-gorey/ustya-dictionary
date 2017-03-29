@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "ременница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Реме́нница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ременница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "реми́нниця", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "реминниця"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинный ремень, плеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот ужо́́́ как огри́́́ю реме́́́нницей-то, дак побежы́́́ш как ми́́́лая", 
+          "translation": "(разговор с лошадью).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот ужо как огрию ременницей-то, дак побежыш как милая"
+        }, 
+        {
+          "content": "Реме́нницу возьму, да как отстёга́ю!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ременницу возьму, да как отстегаю!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наказание ремнем. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дать реме́нницы", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дать ременницы"
+        }, 
+        {
+          "content": "Матеру́щей реме́нницы закати́ть", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "матерущей ременницы закатить"
+        }, 
+        {
+          "content": "наказать ремнем (очень сильно).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

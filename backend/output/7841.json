@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "угол", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́гол", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "угол"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "уголо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "уголок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свой дом, свое место, жилище.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Под старость надо иметь свой у́гол.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "под старость надо иметь свой угол."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

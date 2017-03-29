@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "промозглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Промо́зглый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "промозглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скисший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Промо́зглое молоко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "промозглое молоко."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ненастный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Промо́зглый день севодни. Промо́зглая погода, никуды итти неохота.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "промозглый день севодни. промозглая погода, никуды итти неохота."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

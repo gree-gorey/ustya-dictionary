@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крычигать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крычига́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крычигать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрипеть, скрежетать зубами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю ночь во сне крычига́ёт зубами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю ночь во сне крычигает зубами."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

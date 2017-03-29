@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "брюшко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брю́шко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брюшко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "брюшко́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "брюшко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подушечка пальца руки человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Перелеза́л через угород и занози́л брюшко́ большого пальца, попробуй-ко вы́неть зано́зу иго́лкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перелезал через угород и занозил брюшко большого пальца, попробуй-ко вынеть занозу иголкой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "название одной из сторон", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ба́бки", 
+          "tag": "quote", 
+          "normalized_content": "бабки"
+        }, 
+        {
+          "content": "ба́бки", 
+          "tag": "quote", 
+          "normalized_content": "бабки"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ба́бки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабки"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

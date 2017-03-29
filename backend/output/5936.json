@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "полой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пустой внутри.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́лой двор", 
+          "translation": "пустой двор, у хозяев нет скота.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полой двор"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "открытый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Две́́́ри по́лые", 
+          "translation": "открыты настежь.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двери полые"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

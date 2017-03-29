@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "наряду", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наряду́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наряду"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одинаково, наравне, вместе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подростки работали в колхозе наряду́ со взрослыми.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подростки работали в колхозе наряду со взрослыми."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "одновременно, вместе с этим.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наряду́ с основной работой приходится подрабатывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наряду с основной работой приходится подрабатывать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

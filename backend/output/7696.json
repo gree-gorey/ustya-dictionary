@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "трепица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трепи́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трепица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тряпка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну-ко возьми трепи́цу-то, да вы́три-ко тут стол-от.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко возьми трепицу-то, да вытри-ко тут стол-от."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

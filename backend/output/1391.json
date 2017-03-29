@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "говинить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гови́нить", 
+        "place": [
+          "Коптяевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "говинить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поститься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В великое говиньё семь нидиль надо гови́нить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в великое говинье семь нидиль надо говинить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

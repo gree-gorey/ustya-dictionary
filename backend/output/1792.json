@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "долина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долина́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длина. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "…испекли мы коровай, вот такой долины́, вот такой ширины́, вот такой вышины́", 
+          "tag": "quote", 
+          "normalized_content": "…испекли мы коровай, вот такой долины, вот такой ширины, вот такой вышины"
+        }, 
+        {
+          "content": "» (прибаутка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

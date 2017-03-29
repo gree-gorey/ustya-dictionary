@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "направить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напра́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "направить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дать устное или письменное направление, путевку (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "направля́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "направлять"
+        }, 
+        {
+          "content": "Меня из колхоза напра́вили учиться на агронома.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "меня из колхоза направили учиться на агронома."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

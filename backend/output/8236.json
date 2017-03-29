@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "хулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ху́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хулить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хули́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упрекать, ругать, говорить", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ху́до", 
+          "tag": "quote", 
+          "normalized_content": "худо"
+        }, 
+        {
+          "content": "о ком-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́хулить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выхулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхули́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахули́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похули́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похулить"
+        }, 
+        {
+          "content": "Ро́́́ду не́́́пошщо зе́́́тя ху́́́лить, наоборо́́́т, хвали́ть поча́́́ще, дак лу́́́чше бу́́́дёт. Она-то дак мужика всего исхули́ла. Роду не́чево похули́ть", 
+          "translation": "не за что поругать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "роду непошщо зетя хулить, наоборот, хвалить почаще, дак лучше будет. она-то дак мужика всего исхулила. роду нечево похулить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

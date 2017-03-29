@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "красуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Красу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "красу́ли", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "красули"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сыроежка красноватого цвета.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "плави́ца", 
+          "tag": "ref", 
+          "place": [
+            "Синики"
+          ], 
+          "normalized_content": "плавица"
+        }, 
+        {
+          "content": "Красу́́́лёк-то как насы́́́пано, то́́́ко ло́́́мкие бо́́́льно, осторо́́́жно клади́́́, не треси́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "красулек-то как насыпано, токо ломкие больно, осторожно клади, не треси."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

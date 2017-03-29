@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вешной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вё́шной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вешной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "весенний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За реку идите осторожно, вё́шной лёд ненадёжной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за реку идите осторожно, вешной лед ненадежной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

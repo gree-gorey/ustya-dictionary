@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "красиво", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Краси́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красиво"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "краси́вая погода", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "красивая погода"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ясные, солнечные, теплые дни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С утра краси́во, днём будёт гребь. День краси́во, да два дожь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с утра красиво, днем будет гребь. день красиво, да два дожь."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "некраси́во", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "некрасиво"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

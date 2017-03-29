@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "яловуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ялову́́́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "яловуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яловка, необгулявшаяся корова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коро́́́ва се́́́йгод в зи́́́му ушла́́́ ялову́́́хой, тепе́́́рича без молока́́́ жить бу́́́дём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова сейгод в зиму ушла яловухой, теперича без молока жить будем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "взопреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взопре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взопреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вспотеть, входить в испарину.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лошадь взопре́ла. Весь взопре́л, пока сено разгружал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лошадь взопрела. весь взопрел, пока сено разгружал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

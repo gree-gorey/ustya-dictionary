@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "кружить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кру́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кружить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "закружи́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "закружиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "блуждать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты тут один дороги не найдёшь, закру́жишьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты тут один дороги не найдешь, закружишьсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кружа́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кружать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "терять координацию движения (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закружи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закружить"
+        }, 
+        {
+          "content": "Що-то у меня голову кру́жит", 
+          "translation": "качает в результате болезненного состояния.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то у меня голову кружит"
+        }, 
+        {
+          "content": "Не качайсе долго на качели, а то голову можот закружи́ть (голова закру́жится)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не качайсе долго на качели, а то голову можот закружить (голова закружится)!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

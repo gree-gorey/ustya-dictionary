@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "голить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́риться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "париться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть водящим в игре.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ребята, я тоже играю! Кто па́рится? – Ты! Приходя́щий – водя́щий! Давайте в пря́тки играть! Кто па́рится?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребята, я тоже играю! кто парится? – ты! приходящий – водящий! давайте в прятки играть! кто парится?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

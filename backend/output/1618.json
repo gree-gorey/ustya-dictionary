@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "двадни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Два́дни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двадни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "два дня.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Два́дни лё́жкой лежал", 
+          "translation": "два дня лежал, не мог подняться (например, по болезни), аналогично:", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двадни лежкой лежал"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "три́дни", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "тридни"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

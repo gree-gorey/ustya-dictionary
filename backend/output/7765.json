@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "тутока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́тока", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тутока"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ту́токи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тутоки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тутосе", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тутосе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ту́тось", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тутось"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тут, здесь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты ту́тока, пошто пря́чессе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты тутока, пошто прячессе?"
+        }, 
+        {
+          "content": "Ту́тока они попрощались и на полгода расстались", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «Бурлак». М.И. Шалаурова.", 
+          "normalized_content": "тутока они попрощались и на полгода расстались"
+        }, 
+        {
+          "content": "Ту́́́токи и остано́́́вимсе. Ту́тосе Игна́ха седёт, а ты садись на другоё место. Ту́тось он был то́ко що.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тутоки и остановимсе. тутосе игнаха седет, а ты садись на другое место. тутось он был токо що."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

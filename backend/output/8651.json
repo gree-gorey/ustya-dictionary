@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "эк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Эк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "эк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "эдак, так именно, не иначе; вот как.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Делай вот эк. Эк как он ёво теребит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "делай вот эк. эк как он ево теребит!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

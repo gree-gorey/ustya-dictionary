@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "запридуривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заприду́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запридуривать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заприду́́́риваться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "запридуриваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать вести себя легкомысленно, дико, вызывающе, неадекватно; взбеситься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо заприду́́́риваў-то? Ро́́́ду не ба́́́ско! Корова шчо-то заприду́ривала, видно гуляет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо запридуривау-то? роду не баско! корова шчо-то запридуривала, видно гуляет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "приду́́́ривать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "придуривать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

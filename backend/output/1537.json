@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "грохнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гро́хнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грохнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "гро́хать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "грохать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громко захохотать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "После анекдота все гро́хнули.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после анекдота все грохнули."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сразу браты́ню пива гро́хнул.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сразу братыню пива грохнул."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "немогота", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Немогота́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "немогота"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́мочь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "немочь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неважное самочувствие, болезнь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

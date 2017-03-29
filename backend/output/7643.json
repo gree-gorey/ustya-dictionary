@@ -1,0 +1,231 @@
+{
+  "field_for_sorting": "топить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "потопи́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "потопить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сжигать топливо в топке печи,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́менки", 
+          "tag": "quote", 
+          "normalized_content": "каменки"
+        }, 
+        {
+          "content": "или котла для их нагревания (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́топить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "истопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "истопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подтопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "протопить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "протопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зата́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ната́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подта́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прота́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "протапливать"
+        }, 
+        {
+          "content": "Надо итти баню зата́пливать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо итти баню затапливать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ставить в печь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перетопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перетопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "перета́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перетапливать"
+        }, 
+        {
+          "content": "Погода-то тёплая стоит, надо масло топи́ть. Севодня печь-то жа́ркую натопи́ла, надо всё сало перетопи́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "погода-то теплая стоит, надо масло топить. севодня печь-то жаркую натопила, надо все сало перетопить."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заливать водой в процессе наводнения участок местности (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подтопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зата́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подта́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтапливать"
+        }, 
+        {
+          "content": "Сейгод большая вода по́жни топи́ть будёт. Вода-то в рике как прибыва́ёт, надо корову на пови́ть поднима́ть, а то хлев можот зато́пить. Да уже начинает подта́пливать (зата́пливать). Вода большая сейгод будёт, всю пожню пото́пит", 
+          "translation": "зальет вешней водой.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейгод большая вода пожни топить будет. вода-то в рике как прибывает, надо корову на повить поднимать, а то хлев можот затопить. да уже начинает подтапливать (затапливать). вода большая сейгод будет, всю пожню потопит"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

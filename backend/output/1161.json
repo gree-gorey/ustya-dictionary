@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "выломок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́ломок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выломок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́ломки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выломки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "участок леса, поваленный, выломанный непогодой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На вы́ломке-то за ру́чьём ныне много малины наросло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на выломке-то за ручьем ныне много малины наросло!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") беспорядок.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

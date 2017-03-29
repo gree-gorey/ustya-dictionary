@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "жом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жом"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "5", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "5"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление для сжатия деревянных предметов, деталей в плотницком и столярном деле.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "длинная толстая жердь вдоль воза сена или соломы, прижимающая содержимое к дровням с помощью веревок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бастри́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бастрик"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

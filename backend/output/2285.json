@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "завозить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завози́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завозить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вози́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "возить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подцеплять ложкой еду из общей посуды и тащить себе в рот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И все дружно кашу из горшка завози́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и все дружно кашу из горшка завозили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

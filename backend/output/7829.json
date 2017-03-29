@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "уволокчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уволокчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уволокчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "утащить, увезти «во́локом» или на чем-либо по земле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо уволокчи́ дрова на чу́нках.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо уволокчи дрова на чунках."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "украсть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За ним надо глаз да глаз, а то он можот у тебя що-нибудь да уволокчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за ним надо глаз да глаз, а то он можот у тебя що-нибудь да уволокчи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "волокчи́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "волокчи"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

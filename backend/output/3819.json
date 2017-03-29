@@ -1,0 +1,127 @@
+{
+  "field_for_sorting": "куфта", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́фта", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куфта"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "куфта́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "куфта"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кухта́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кухта"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свежевыпавший снег.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́́́хты-то ско́́́ко навали́́́ло на ё́́́ўки!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кухты-то скоко навалило на еуки!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ку́хольник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кухольник"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "иней, изморозь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мох на ветвях деревьев, чаще на елках.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ку́кша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кукша"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "падающие с дерева сухие ветки, кора, хвоя.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "клеверные шишки, клеверная мякина.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ку́кша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кукша"
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неряшливо одетый человек", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грунцовская", 
+          "tag": "place"
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

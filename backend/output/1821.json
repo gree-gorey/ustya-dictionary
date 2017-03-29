@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доораться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доора́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доораться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "докричаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты громче вопи́, дедко глуховат и до ёво трудно доора́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты громче вопи, дедко глуховат и до ево трудно дооратце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

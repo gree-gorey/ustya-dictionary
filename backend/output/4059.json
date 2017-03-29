@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ляпаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляпаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заля́паться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заляпаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "уля́паться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "уляпаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пачкаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит вам ля́патьсе в грези, все уля́пались!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вам ляпатьсе в грези, все уляпались!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

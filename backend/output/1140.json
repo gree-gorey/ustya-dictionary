@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "вызняло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́зняло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вызняло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подняло.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лёд вы́зняло на реке, вода прибываёт, скоро пойдёт ледоход.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лед вызняло на реке, вода прибывает, скоро пойдет ледоход."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подняться с постели.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что тибя вы́́́зняло-то ни све́́́т ни заря́́́?", 
+          "translation": "вопрос к человеку, который проснулся и встал ранёхонько.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что тибя вызняло-то ни свет ни заря?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вздыма́ть 1", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вздымать 1"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

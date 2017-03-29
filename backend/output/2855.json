@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "зыбень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зы́бень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зыбень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зыби́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зыбу́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зыбуне́ц", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбунец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жидкая земля, болото, зыбь, топь, трясина, пентусина, качающаяся поверхность.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поточник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пото́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поточник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водосточный жёлоб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пото́чник-от совсем изгнил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поточник-от совсем изгнил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

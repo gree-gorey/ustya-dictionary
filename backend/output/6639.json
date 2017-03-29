@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "родня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Родня́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "родня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родственники.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Познакомил со всей роднё́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "познакомил со всей родней."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "родственник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он-то ведь мне родня́ будёт!", 
+          "translation": "приходится родственником.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он-то ведь мне родня будет!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

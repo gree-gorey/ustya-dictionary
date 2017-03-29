@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "съидник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Съи́дник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "съидник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, который постоянно что-то ломает, уничтожает.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эээээв – съи́дник ты! Один другого лучше! У! – съи́дники!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эээээв – съидник ты! один другого лучше! у! – съидники!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "человек постоянно унижающий, притесняющий слабого.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

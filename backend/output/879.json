@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "волглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́лглый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волглый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́глый", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "variant", 
+        "normalized_content": "воглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "влажный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рано снимать, бельё ищо во́лглое", 
+          "translation": "про белье, которое сушится на улице.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рано снимать, белье ищо волглое"
+        }, 
+        {
+          "content": "Во́глое сено", 
+          "translation": "влажное.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "воглое сено"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

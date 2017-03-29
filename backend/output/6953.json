@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "скарапаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скара́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скарапаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "царапаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оскара́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскарапаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "соскара́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскарапаться"
+        }, 
+        {
+          "content": "Кошка во́ двери скара́паетсе (соскара́палась), иди пропусти́. Где ты мок так оскара́патьсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка во двери скарапаетсе (соскарапалась), иди пропусти. где ты мок так оскарапатьсе?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сара́паться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сарапаться"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выбираться с большим трудом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́скарапаться", 
+          "tag": "form", 
+          "place": [
+            "Михеевская"
+          ], 
+          "type": "inflected", 
+          "normalized_content": "выскарапаться"
+        }, 
+        {
+          "content": "В болото прова́лиссе, дак не скоро вы́скарапаиссе", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в болото провалиссе, дак не скоро выскарапаиссе"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

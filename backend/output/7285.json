@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "ставец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ста́вец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ставец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выдолбленная из березового нароста (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́па", 
+          "tag": "quote", 
+          "normalized_content": "капа"
+        }, 
+        {
+          "content": ") вместительная посудина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дава́йте, намеша́ём дёжни́ в ста́вце, дак всем хва́тит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давайте, намешаем дежни в ставце, дак всем хватит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

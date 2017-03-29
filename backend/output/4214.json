@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "митить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ми́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "митить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "метить, целить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо ми́тить в человека, а то попадёшь в глаз!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо митить в человека, а то попадешь в глаз!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "устанавливать, оставлять каким-либо способом метку специальный знак.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошли с лесником ми́тить деревья для рубки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошли с лесником митить деревья для рубки."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

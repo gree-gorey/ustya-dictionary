@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "летами", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лета́ми", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "летами"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "каждое лето.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он в деревню лета́ми приежжаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он в деревню летами приежжает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

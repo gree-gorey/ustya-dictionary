@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "переводы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перево́ды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "переводы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поперечные балки, врубленные в стены дома, на которых держится пол.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Почему же не сплясать, почему не топнуть? Неужели в этом доме перево́ды лопнут ?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "почему же не сплясать, почему не топнуть? неужели в этом доме переводы лопнут ?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "опорные балки для каких-либо целей; так, на переводах лежали", 
+          "tag": "def"
+        }, 
+        {
+          "content": "же́рди", 
+          "tag": "quote", 
+          "normalized_content": "жерди"
+        }, 
+        {
+          "content": "на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гумне́", 
+          "tag": "quote", 
+          "normalized_content": "гумне"
+        }, 
+        {
+          "content": ", на которых подсушивали лен.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

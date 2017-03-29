@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "сланина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слани́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сланина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстилка для скота объиди, солома, опилки и др.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

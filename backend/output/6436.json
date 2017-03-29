@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пяшкало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пя́шкало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пяшкало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пы́́́шкало", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пышкало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "насмешливое или раздражительное название человека, делающего что-либо нерасторопно, медленно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что ты, пя́шкало, усну́л, що ли? Ну жо ты и пя́́́шкало ростё́́́шь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты, пяшкало, уснул, що ли? ну жо ты и пяшкало ростешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

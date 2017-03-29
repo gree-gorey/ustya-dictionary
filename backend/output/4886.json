@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "обвыкнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обвы́кнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обвыкнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обвы́кнуться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обвыкнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привыкнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не обвы́к он ищо на новом мисте-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не обвык он ищо на новом мисте-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Пообвы́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пообвыкнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пообвы́́́кнуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пообвыкнуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "приобвы́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "приобвыкнуть"
+        }, 
+        {
+          "content": "немного привыкнуть, попривыкнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сначала на новом месте всем трудно, а потом пообвы́кнешься.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сначала на новом месте всем трудно, а потом пообвыкнешься."
+        }, 
+        {
+          "content": "Всех парней боялась, сторонилась, и та к нему уж приобвы́кла", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "всех парней боялась, сторонилась, и та к нему уж приобвыкла"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

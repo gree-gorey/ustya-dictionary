@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "чушинник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чуши́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чушинник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "попрошайка, побирушка; человек, который просит по мелочам, экономит своё.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

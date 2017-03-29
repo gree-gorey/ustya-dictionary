@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "спокону", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Споко́ну", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спокону"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "споко́н веку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "спокон веку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исстари, извеку, с незапамятных времен.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да споко́́́ну у нас тако́́́во сра́́́му не быва́́́ло! Споко́́́н ве́́́ку коне́́́й так запрега́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да спокону у нас таково сраму не бывало! спокон веку коней так запрегали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

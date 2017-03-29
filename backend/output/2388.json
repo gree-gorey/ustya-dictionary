@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зажимистой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зажи́мистой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зажимистой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скупой, экономный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он всегда такой зажи́́́мистой? – Зажи́́́мистой он целове́́́к-то, у ево́́́ не розживё́́́ссе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он всегда такой зажимистой? – зажимистой он целовек-то, у ево не розживессе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

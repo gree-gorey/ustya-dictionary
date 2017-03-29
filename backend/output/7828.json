@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "увия", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уви́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "увия"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "уве́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "увея"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затененное, безветренное место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За домом не надо садить картовь, там уви́я, ничево не уро́дится. Уви́я такая, неле́шево сено не сохнёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за домом не надо садить картовь, там увия, ничево не уродится. увия такая, нелешево сено не сохнет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

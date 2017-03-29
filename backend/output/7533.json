@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "тачать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тача́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тачать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изготавливать кожаную обувь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натача́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натачать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перетача́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перетачать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подтача́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтачать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стача́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стачать"
+        }, 
+        {
+          "content": "Сапожники тача́ли и ремонтировали кожаную обувь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сапожники тачали и ремонтировали кожаную обувь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

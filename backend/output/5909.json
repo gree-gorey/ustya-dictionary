@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "полевушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полеву́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полевушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полеу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полеушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "налеу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "налеушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шаньга, булка политая сметаной, маслом, подденьем и т. п.; житный", 
+          "tag": "def"
+        }, 
+        {
+          "content": "яру́шник", 
+          "tag": "quote", 
+          "normalized_content": "ярушник"
+        }, 
+        {
+          "content": ", политый (покрытый) картошкой, разведенной в молоке. Реже поливали верх ярушника только сметаной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сегодня полеву́шек напекла́, садитесь за стол, ись будём. Наполевала шанег.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сегодня полевушек напекла, садитесь за стол, ись будем. наполевала шанег."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") красноватое, румяное, полное лицо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рожа-то у тебя, как у полеву́шки! Ишь, какую полеу́шку-то отъела́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рожа-то у тебя, как у полевушки! ишь, какую полеушку-то отъела!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

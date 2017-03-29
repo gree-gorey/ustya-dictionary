@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чишот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чи́шот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чишот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чихает.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што тебя чихо́та-то одоле́ла, чи́шошь и чи́шошь, ты хоть лечи́сся чем?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што тебя чихота-то одолела, чишошь и чишошь, ты хоть лечисся чем?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

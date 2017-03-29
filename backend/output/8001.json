@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "утыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Утыка́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утыкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упрекать, вспоминать что-либо порочащее старое.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

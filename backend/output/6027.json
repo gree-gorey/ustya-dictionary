@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "порядная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поря́дная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "порядная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "документ, подтверждающий заключение подряда на какую-либо работу.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

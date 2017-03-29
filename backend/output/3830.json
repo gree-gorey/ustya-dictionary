@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кыска", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кы́ска", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кыска"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кы́́́сонька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кысонька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кы́́́сочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кысочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кошка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди́́́, вы́́́пусти кы́́́ску-ту за поро́́́г, а то где в углу́́́ схо́́́дит. Баска́́́я кы́́́сочка-та ростё́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди, выпусти кыску-ту за порог, а то где в углу сходит. баская кысочка-та ростет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

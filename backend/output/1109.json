@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выговаривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выгова́́́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выговаривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "делать выговор, упрекать, отчитывать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́́́говорить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выговорить"
+        }, 
+        {
+          "content": "Я ёму́́́ как вы́́́говорила, дак топе́́́ре и но́́́су не ка́́́жот.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я ему как выговорила, дак топере и носу не кажот."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

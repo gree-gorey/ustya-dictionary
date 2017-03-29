@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "булькоток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Булькото́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "булькоток"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "булькотня́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "булькотня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шум и звуки, сопровождающие буханье, брызганье, плескание в воде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робя́та в ри́чке купа́ютце, дак то́лько булькото́к стои́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робята в ричке купаютце, дак только булькоток стоит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

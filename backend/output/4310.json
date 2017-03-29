@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "мухло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мухло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мухло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непутевый.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "никчемный человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "то же, что жулик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не целове́́́к, а мухло́́́ како́́́е-то ис тебя́́́ вы́́́шло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не целовек, а мухло какое-то ис тебя вышло."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

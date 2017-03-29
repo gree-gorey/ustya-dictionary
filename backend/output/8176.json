@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "холодец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Холоде́ц", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "холодец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мясной студень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будёшь холоде́ц с карто́вью варё́ной ись, а́ли нет?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будешь холодец с картовью вареной ись, али нет?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

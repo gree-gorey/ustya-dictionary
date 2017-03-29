@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "камешник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Каме́шник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "камешник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ка́́́мешник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "камешник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрытая мелкими камушками, галькой отмель на реке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Итти́́́ по каме́́́шнику босико́́́м-от не бо́́́льно добро́́́: ка́́́мешки-то фся́́́кие, е́́́сь и о́́́стрые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "итти по камешнику босиком-от не больно добро: камешки-то фсякие, есь и острые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

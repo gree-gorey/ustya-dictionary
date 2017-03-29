@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "расхлебывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расхлё́бывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расхлебывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "расхлё́бываться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "расхлебываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выходить из трудного положения, решать проблему (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расхлеба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расхлебать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расхлеба́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расхлебаться"
+        }, 
+        {
+          "content": "Сам натвори́л дел, а мне за тебя расхлё́бывать. До сих пор не могу расхлеба́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сам натворил дел, а мне за тебя расхлебывать. до сих пор не могу расхлебаться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

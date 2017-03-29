@@ -1,0 +1,112 @@
+{
+  "field_for_sorting": "балуй", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Балу́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "балуй"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бык", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бык"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "евда́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "евдак"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "елда́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "елдак"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "забалу́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "забалуй"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "залупа́й", 
+        "place": [
+          "Крылово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "залупай"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "колпа́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колпак"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "свиноро́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свинорой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гриб валуй", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Russula", 
+          "tag": "italic"
+        }, 
+        {
+          "content": "foentens", 
+          "tag": "italic"
+        }, 
+        {
+          "content": "Fr", 
+          "tag": "italic"
+        }, 
+        {
+          "content": ". Съедобный пластинчатый гриб с упругой сильно загнутой вниз шляпкой коричневого цвета, идущий в засолку. В отдельные годы их много бывает в наших лесах. По качеству не уступают волнухам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Залупа́́́еф-то поўно́́́ по сухи́́́м местам.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "залупаеф-то поуно по сухим местам."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

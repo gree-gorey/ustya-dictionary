@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "спластать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спласта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спластать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выполнить работу по расколке, распилке, косьбе и т. п. окончательным образом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кой уш у́́́повод ро́́́биш, дак фсю робо́́́ту спласта́́́ў. Все дрова спластал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой уш уповод робиш, дак фсю роботу спластау. все дрова спластал."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пласта́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пластать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

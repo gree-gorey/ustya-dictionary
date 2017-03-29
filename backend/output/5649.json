@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "плотик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Плоти́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плотик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водоносный слой грунтовых вод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вода идёт по плотику́", 
+          "translation": "не по земле, а под землей.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вода идет по плотику"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "плотная, твердая земля под пахотным слоем, подпочва.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "подо́шва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подошва"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

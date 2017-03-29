@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "субчик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́бчик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "субчик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "су́пчик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "супчик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подозрительный тип, корыстный, непостоянный, вертлявый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть этот су́пчик поеви́ўсе в дере́вне, чево́-то ёму́ на́до.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть этот супчик поевиусе в деревне, чево-то ему надо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

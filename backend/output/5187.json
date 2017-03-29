@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осередь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осере́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осередь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "среди, посреди.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осере́дь зимы была большая оттепель.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осередь зимы была большая оттепель."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

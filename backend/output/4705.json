@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "невысказать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не вы́сказать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не высказать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не описа́ть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уж сколь ни зла́-то на тибя, не вы́сказать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уж сколь ни зла-то на тибя, не высказать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

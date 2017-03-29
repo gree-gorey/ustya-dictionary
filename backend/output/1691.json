@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "дерябнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Деря́бнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дерябнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить, огреть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпить спиртного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По бутыўке водки деря́бнули, дак нечово́ не помню.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по бутыуке водки дерябнули, дак нечово не помню."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

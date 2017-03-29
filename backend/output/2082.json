@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "жарилка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жари́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жарилка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глиняная или металлическая толстостенная посуда в высокими краями и крышкой для запекания (жарения) мяса и других продуктов в русской печи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "жаро́вня", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жаровня"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ла́тка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "латка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,142 @@
+{
+  "field_for_sorting": "доселе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Досе́ле", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доселе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "досе́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "доселя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "досе́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "досель"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "досю́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "досюль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "досю́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "досюля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "досю́леньки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "досюленьки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до этого времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты был, досю́ля тебя нету! Досю́́́лева времени тебя нету, что хошь, то и думай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты был, досюля тебя нету! досюлева времени тебя нету, что хошь, то и думай!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "по это место (с показом рукой на себе).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "досю́да", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "досюда"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "досю́дова", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "досюдова"
+        }, 
+        {
+          "content": "В реку-то забродил, мне досю́ля было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в реку-то забродил, мне досюля было."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "до этого места.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "досю́да", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "досюда"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "досю́дова", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "досюдова"
+        }, 
+        {
+          "content": "Прошлой раз мы досе́ле доходили. Вот досю́лева места руби. Коли́ досю́дова.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прошлой раз мы доселе доходили. вот досюлева места руби. коли досюдова."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "страсть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Страсть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "страсть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "страссь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "страссь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень, крайне, чрезвычайно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Страссь хорошо живёт Олёшка! Он стрась не лю́́́бит, ковды́́́ ёму́́́ ука́́́зывают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "страссь хорошо живет олешка! он стрась не любит, ковды ему указывают."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

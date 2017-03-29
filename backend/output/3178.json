@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "карточка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́рточка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карточка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "фотока́рточка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "фотокарточка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "фотография,.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Внук со слу́жбы присла́л ка́рточку, где он в солда́тской фо́рме. Вот на этой ка́рточке дедушка твой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "внук со службы прислал карточку, где он в солдатской форме. вот на этой карточке дедушка твой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

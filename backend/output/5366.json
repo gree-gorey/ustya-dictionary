@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "паденье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Паде́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паденье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подде́нье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подденье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поде́нье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поденье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остатки, остающиеся после перетапливания масла в печи. Для того, чтобы масло дольше сохранялось, его перетапливали в печи, остатки после слива масла, так называемое паденье ели с блинами или заправляли им картошку.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "одё́нки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оденки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

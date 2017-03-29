@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "омек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́мек", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "омек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "невкусный, резкий, кислый, горький, малосъедобный продукт питания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодня хлеб у меня получился о́мек, больно кислый, тесто пережи́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодня хлеб у меня получился омек, больно кислый, тесто пережило."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

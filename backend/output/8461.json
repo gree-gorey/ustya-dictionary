@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шалашовка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шалашо́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шалашовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "распутная женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть Манька новово кавалера привела, такая и есть она шалашо́вка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть манька новово кавалера привела, такая и есть она шалашовка."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

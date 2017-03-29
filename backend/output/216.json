@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "белая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́лая", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "«бе́лое вино́»", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "«белое вино»"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В мага́зин бе́лого привезли", 
+          "translation": "(о завозе водки).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в магазин белого привезли"
+        }, 
+        {
+          "content": "Две бутылки бе́лого да одну кра́сного", 
+          "translation": "две бутылки водки и одну вина.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "две бутылки белого да одну красного"
+        }, 
+        {
+          "content": "Не ча́́́чу жо кра́́́сную пи́́́ть – бе́́́лово налива́́́й!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не чачу жо красную пить – белово наливай!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

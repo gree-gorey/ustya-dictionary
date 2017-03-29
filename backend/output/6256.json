@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "прихватить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прихвати́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прихватить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заболеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сердце можот прихвати́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сердце можот прихватить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "случайно или неосторожно зацепить, задеть что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты тут в этом мисте прихвати́л, вишь много сострогну́л!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты тут в этом мисте прихватил, вишь много сострогнул!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приморозить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За ночь карто́вь можот прихвати́ть. Капусту моро́зцом прихвати́ло, пора убирать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за ночь картовь можот прихватить. капусту морозцом прихватило, пора убирать."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "украсть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вишь какая, пошла и зобе́ньку нуко мою прихвати́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вишь какая, пошла и зобеньку нуко мою прихватила!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хвати́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хватить"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

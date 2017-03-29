@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "ввязывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ввя́зывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ввязывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "ввяза́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "ввязать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прикрепить сарьгой косу к деревянному косью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Венька ловко косы ввя́зываёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "венька ловко косы ввязывает."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ввить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ввить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изготовить и прикрепить пяту к носку путем вязания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У робят все носки в дырках, надо пяты ввя́зывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у робят все носки в дырках, надо пяты ввязывать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

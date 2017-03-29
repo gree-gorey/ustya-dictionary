@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пожухнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пожу́хнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пожухнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завянуть, пожелтеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Травы уже пожу́хли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "травы уже пожухли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

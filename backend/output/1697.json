@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "детельник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дете́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "детельник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место в лесу (какое?)", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду на дете́льник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду на детельник."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

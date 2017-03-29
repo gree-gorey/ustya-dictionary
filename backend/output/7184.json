@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "сотона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сотона́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сотона"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сатана.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

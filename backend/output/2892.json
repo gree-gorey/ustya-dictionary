@@ -1,0 +1,315 @@
+{
+  "field_for_sorting": "идти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Идти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "идти"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "пойти́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "пойти"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "идти́ в ко́лос", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "идти в колос"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "идти́ в ду́дку (тру́бку)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "идти в дудку (трубку)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "идти́ в го́лову", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "идти в голову"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "идти́ в цвет", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "идти в цвет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "о фазах роста и развития растений.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Редька в цвет пошла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "редька в цвет пошла."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ в лю́ди", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти в люди"
+        }, 
+        {
+          "content": "работать по найму вне своего хозяйства.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ в де́ло", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти в дело"
+        }, 
+        {
+          "content": "годиться на что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Этот горбыль в дело ищо пойдё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот горбыль в дело ищо пойдет."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ пра́хом", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти прахом"
+        }, 
+        {
+          "content": "портиться, разрушаться, исчезать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Копи́л, копи́л, экой скупердя́́й, и всё пра́хом пошло́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копил, копил, экой скупердяй, и все прахом пошло."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ по рука́м", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти по рукам"
+        }, 
+        {
+          "content": "вести разгульный, аморальный образ жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она по рука́м пошла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она по рукам пошла."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ на покло́н", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти на поклон"
+        }, 
+        {
+          "content": "просить что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ на попяту́ю", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти на попятую"
+        }, 
+        {
+          "content": "(на попятную) не сдержать слова, отказаться от обещанного или признать, что был не прав.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Придётсе тибе идти́ на попяту́ю, раз ты не прав.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "придетсе тибе идти на попятую, раз ты не прав."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ по де́вкам", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти по девкам"
+        }, 
+        {
+          "content": "гулять, завлекать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он по дефкам опеть пошё́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он по дефкам опеть пошел."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ по гра́моте", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти по грамоте"
+        }, 
+        {
+          "content": "настойчиво учиться, овладевать знаниями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он у тебя по гра́моте пойдё́т, много читает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он у тебя по грамоте пойдет, много читает."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ хо́дом", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти ходом"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пройти́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пройти"
+        }, 
+        {
+          "content": "передвигаться без остановок и приворотов куда-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Они хо́дом прошли́, даже к нам не завернули.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "они ходом прошли, даже к нам не завернули."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ с хвосто́м", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти с хвостом"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пройти́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пройти"
+        }, 
+        {
+          "content": "работать на заключительной стадии молевого сплава.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хвост уже прошё́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хвост уже прошел."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ на перебо́й", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти на перебой"
+        }, 
+        {
+          "content": "отбивать у других жениха или невесту; продавать что-либо нарасхват.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "идти́ по крови́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "идти по крови"
+        }, 
+        {
+          "content": "(по природе) передаваться по наследству.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эта у их профессия по крови́ идё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эта у их профессия по крови идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

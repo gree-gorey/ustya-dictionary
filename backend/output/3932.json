@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "листовник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Листо́вник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "листовник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "листо́вничек", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "листовничек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "листя́́́га", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "листяга"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесная трава с мелкими листьями или луговая трава в виде мелких листьев (манжетка, сальник, мать-и-мачеха), хорошо поедаемая домашними животными (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "едка́́́я", 
+          "tag": "quote", 
+          "normalized_content": "едкая"
+        }, 
+        {
+          "content": "), но из которой мал выход сена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не зави́́́дён ро́́́ду наш сеноко́́́с-от: ни клеверку́, ни метли́́́цы – одна́́́ листя́́́га!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не завиден роду наш сенокос-от: ни клеверку, ни метлицы – одна листяга!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

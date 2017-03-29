@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "толкушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Толку́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толкушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "то"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "толче́йка", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "толчейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянное присособление для измельчения и смешивания чего-либо пест, пестик, мутовка и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сделай мне толку́шку, чтобы белой глины на побе́лку натолкчи́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сделай мне толкушку, чтобы белой глины на побелку натолкчи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "карий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́рий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "темнокоричневая масть лошадей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ка́ряя кобы́ла да лыса́ная.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "каряя кобыла да лысаная."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "темнокоричневый цвет глаз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У отца ка́рие глаза.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у отца карие глаза."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

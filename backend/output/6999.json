@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скоряе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скоря́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скоряе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скори́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скорие"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скорее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево отстаё́шь, иди скоря́е!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево отстаешь, иди скоряе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

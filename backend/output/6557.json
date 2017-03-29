@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "расцедить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расцеди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расцедить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росцеди́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "росцедить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разлить из большой емкости в маленькие.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Росцеди́-ко молоко́–то из подо́йника в кри́нки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "росцеди-ко молоко–то из подойника в кринки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

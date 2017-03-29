@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "сам-три", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сам-три", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сам-три"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сам-четыре", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сам-четыре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сам-пять с десяти́ны", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сам-пять с десятины"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "урожай в 3-5 раз больше, чем высевалось семян.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, се́́́йгод сам-пе́́́ть с десяти́́́ны жы́́́та собра́́́ли – пора́́́то добро́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, сейгод сам-петь с десятины жыта собрали – порато добро!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

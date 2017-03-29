@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бухоница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́хоница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бухоница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грязь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весной да осенью по всей деревне бу́хоница.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весной да осенью по всей деревне бухоница."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

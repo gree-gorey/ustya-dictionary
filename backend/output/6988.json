@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сконцами", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С конца́ми", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с концами"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем, окончательно, безвозвратно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Топорик видно пропаў с конца́ми.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "топорик видно пропау с концами."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

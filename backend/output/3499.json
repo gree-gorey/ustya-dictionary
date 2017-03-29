@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "корчажка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корча́жка", 
+        "place": [
+          "Петраково"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "корчажка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "корзина, сплетенная из ивовых веток (виц).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

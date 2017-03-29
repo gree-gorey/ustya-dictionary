@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "порной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́рной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "порной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "порно́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "порной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́рный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "порный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плодородный, хорошо удобренный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Угородец-от по́рной, всё добро ростёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "угородец-от порной, все добро ростет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "баюн", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баю́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баюн"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баю́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баюнья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болтун.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да эту баю́нью век не переслушать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да эту баюнью век не переслушать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

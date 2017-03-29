@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ляга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лужа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́лези из ля́ги, лы́тки простудишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вылези из ляги, лытки простудишь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "баба-шаль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ба-шаль", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "баба-шаль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вредная, упрямая женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Маруська – ба́ба шаль.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "маруська – баба шаль."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

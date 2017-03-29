@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "внука", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вну́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "внука"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вну́́́ця", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "внуця"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внучка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Радось у меня: вну́ка погостить приехала. Ста́ршая вну́ка", 
+          "translation": "старшая внучка.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "радось у меня: внука погостить приехала. старшая внука"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

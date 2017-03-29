@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "безрыбица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Безры́бица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "безрыбица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "период, когда не ловится рыба.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По погоде сево́дни безры́бица, можно не ходить на реку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по погоде севодни безрыбица, можно не ходить на реку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

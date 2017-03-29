@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вдовьемясо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдо́вье мя́со", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вдовье мясо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ожирение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как стала жить одна, дак вдо́вьё мя́со наросло́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как стала жить одна, дак вдовье мясо наросло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

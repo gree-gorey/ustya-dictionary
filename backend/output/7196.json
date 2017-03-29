@@ -1,0 +1,105 @@
+{
+  "field_for_sorting": "сочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сочи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "освобождать от коры, корить бревна, жерди и другие лесоматерилы (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осочи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осочить"
+        }, 
+        {
+          "content": "Надо успевать сочи́ть (осочи́ть) привезённые на баню брёвна, пока не присо́хла кора.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо успевать сочить (осочить) привезенные на баню бревна, пока не присохла кора."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кори́ть 2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "корить 2"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "снимать сочё́ны (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насочи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насочить"
+        }, 
+        {
+          "content": "Пойдём сосновый сок сочить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдем сосновый сок сочить."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повреждать (сдирать) кожный покров людьми и животными по неосторожности (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осочи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осочить"
+        }, 
+        {
+          "content": "Севодни в лесу голень осочи́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни в лесу голень осочила."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

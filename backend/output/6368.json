@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "прядено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пря́дено", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прядено"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пре́дёно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "предено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одинарные несканые нитки, выпряденные из кудели.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За зиму много мотов пре́дёна напря́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за зиму много мотов предена напряла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

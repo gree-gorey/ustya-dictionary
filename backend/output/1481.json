@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "городитьогород", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Городи́ть огоро́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "городить огород"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") затевать хлопотливое, но невыгодное, безуспешное дело.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит огоро́д городи́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит огород городить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") болтать, говорить нелепости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит огоро́д-то городи́ть, навеку́ таково не бывало!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит огород-то городить, навеку таково не бывало!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

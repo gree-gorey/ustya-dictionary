@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "упичкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упи́чкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "упичкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устать от выполнения длительной работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь упи́чкалсе, до тово допи́чкалсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь упичкалсе, до тово допичкалсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно запачкаться. Могут сказать о человеке, что он весь", 
+          "tag": "def"
+        }, 
+        {
+          "content": "упи́чкался", 
+          "tag": "quote", 
+          "normalized_content": "упичкался"
+        }, 
+        {
+          "content": ", т. е. замарался, или одежду", 
+          "tag": "def"
+        }, 
+        {
+          "content": "всю упи́чкал", 
+          "tag": "quote", 
+          "normalized_content": "всю упичкал"
+        }, 
+        {
+          "content": "Парнё́́́к-от в гресь зале́́́з, дак уш весь упи́́́чкаўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парнек-от в гресь залез, дак уш весь упичкаусе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пи́чкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пичкаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

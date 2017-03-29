@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "ширкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ширкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "поши́ркать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поширкать"
+      }
+    ], 
+    "style": [
+      "прост."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шоркать напильником.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "точить косу напильником.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поши́ркала, поши́ркала ко́су, и всё равно худо берё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поширкала, поширкала косу, и все равно худо берет."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пилить дрова ручной пилой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо пилу точи́ть, нечево так ши́ркать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо пилу точить, нечево так ширкать."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "волденичник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волдени́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волденичник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "волдени́цник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "волденицник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог с начинкой из соленых волнух.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

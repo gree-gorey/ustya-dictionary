@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "закладное", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закладно́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закладное"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угощение по случаю закладки дома или другого большого строения.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

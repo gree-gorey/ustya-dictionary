@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "начучкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Начу́чкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "начучкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напиться допьяна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Идёт, начу́чкалсе, как поросёнок, свету белово не видит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идет, начучкалсе, как поросенок, свету белово не видит!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "чу́чкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чучкаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

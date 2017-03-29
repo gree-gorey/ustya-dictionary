@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "подтрунивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подтру́нивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подтрунивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подшучивать, язвить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поттру́́́нивать-то над други́́́ми Петру́́́нько бы́́́ў са́́́м не сво́́́й! А над ни́́́м – не поттру́́́нь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поттрунивать-то над другими петрунько быу сам не свой! а над ним – не поттрунь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "труни́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трунить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

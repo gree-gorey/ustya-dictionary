@@ -1,0 +1,111 @@
+{
+  "field_for_sorting": "головки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голо́вки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "головки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "передняя часть (загнутые кверху полозья и соединяющий их", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гове́нник", 
+          "tag": "quote", 
+          "normalized_content": "говенник"
+        }, 
+        {
+          "content": ") саней, дровней, чунок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо-то голо́́́вки у цю́́́нок розгиба́́́тьце на́́́цели, ви́́́дно ху́́́до загну́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то головки у цюнок розгибатьце нацели, видно худо загнуу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "по́лоз", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полоз"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гове́нник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "говенник"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "основная часть ручных граблей. Слегка загнутый по горизонтали березовый брусок (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "коло́дка", 
+          "tag": "quote", 
+          "normalized_content": "колодка"
+        }, 
+        {
+          "content": ") с отверстиями и вставленными в них черемховыми или березовыми пальцами (зубьями). Прикрепляется к", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гра́бловищу", 
+          "tag": "quote", 
+          "normalized_content": "грабловищу"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гра́бловище", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "грабловище"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коло́дка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колодка"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вязаные носки из овечьей шерсти. Для мужчин головки вязали короткие, на ступню, а женщинам до колена с резинкой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

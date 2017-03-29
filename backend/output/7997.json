@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "утре", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́тре", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ву́тре", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вутре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "у́́́тресь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "утресь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "утром.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У́́́тресь она заходи́́́ла к нам, а бо́́́ле ие́́́ и не ви́́́дывали. Э́́́то де́́́ло у́́́тре начну́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "утресь она заходила к нам, а боле ие и не видывали. это дело утре начну."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

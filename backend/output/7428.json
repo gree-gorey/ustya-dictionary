@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "супостат", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Супоста́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "супостат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в нашей местности применялось как ругательное в отношении к недругу, злодею, притеснителю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От ёво, супоста́́та, нечово́ хоро́шово не дождё́сьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от ево, супостата, нечово хорошово не дождесьсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

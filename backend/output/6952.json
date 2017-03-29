@@ -1,0 +1,246 @@
+{
+  "field_for_sorting": "скарапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скара́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скарапать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скоблить, чистить, тереть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́скарапать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "доскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "соскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выскарапывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "доскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доскарапывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "оскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскарапывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "соскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскарапывать"
+        }, 
+        {
+          "content": "На́́́до самовар от на́кипи скара́пать. Вы́скарапай-ко квашню́-ту. Мне надо ещо окошко от краски доскара́пать. Поскара́пай в сусе́ке-то, дак можот му́чки немно́шко и наскара́паёшь. Соскара́пай глину-ту с лопаты.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо самовар от накипи скарапать. выскарапай-ко квашню-ту. мне надо ещо окошко от краски доскарапать. поскарапай в сусеке-то, дак можот мучки немношко и наскарапаешь. соскарапай глину-ту с лопаты."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "царапать, драть (кожицу, чешую и т. п.) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "соскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "оскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскарапывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "соскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскарапывать"
+        }, 
+        {
+          "content": "Не надо скара́пать ранку на пальце, а то долго не заживёт! Соскара́пай-ко, попро́буй ищо раз!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо скарапать ранку на пальце, а то долго не заживет! соскарапай-ко, попробуй ищо раз!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") есть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "доскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заскара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заскарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "доскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доскарапывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "заскара́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заскарапывать"
+        }, 
+        {
+          "content": "Скара́пай-ко там в горшке-то, ищо осталась каша. Всю доскара́пай (доскара́пывай)", 
+          "translation": "доедай,", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скарапай-ко там в горшке-то, ищо осталась каша. всю доскарапай (доскарапывай)"
+        }, 
+        {
+          "content": "заскара́пай", 
+          "tag": "quote", 
+          "normalized_content": "заскарапай"
+        }, 
+        {
+          "content": "заскара́пывай)", 
+          "tag": "quote", 
+          "normalized_content": "заскарапывай)"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,108 @@
+{
+  "field_for_sorting": "изживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изжива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изживать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "изжи́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "изжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изводить, стараться сбыть, губить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сжива́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сжить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сжить"
+        }, 
+        {
+          "content": "Вот какая баба, своево мужика решила изжи́ть! Захотела ево со́ свету сжить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот какая баба, своево мужика решила изжить! захотела ево со свету сжить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "испытывать, жить, преодолевая тяжелые затруднения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо как-то тепере одной, без корми́льца изжива́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо как-то тепере одной, без кормильца изживать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "выжива́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выживать"
+        }, 
+        {
+          "content": "Она уже из ума изжива́ёт (выжива́ет", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она уже из ума изживает (выживает"
+        }, 
+        {
+          "content": "изжила́сь).", 
+          "tag": "quote", 
+          "normalized_content": "изжилась)."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

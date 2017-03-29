@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "здых", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Здых", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здых"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дыхание.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ро́́́ду зды́́́ху не́́́ту, фсю груть зажа́́́ло – пойду́́́ к фе́́́ршалу за́́́фтря.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "роду здыху нету, фсю груть зажало – пойду к фершалу зафтря."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "здыша́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "здышать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "припазгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Припазга́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "припазгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пришить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нету ниток, пуговицу кое-как припазга́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нету ниток, пуговицу кое-как припазгал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приделать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кое-как припазга́́́ў и опе́́́ть убё́́́г.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кое-как припазгау и опеть убег."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приехать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он на лошади уже припазга́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он на лошади уже припазгал."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прибежать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как оголода́́́ўсе, дак небо́́́сь домо́́́й припазга́́́ў. Он в кою пору припазга́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как оголодаусе, дак небось домой припазгау. он в кою пору припазгал."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пазга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пазгать"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

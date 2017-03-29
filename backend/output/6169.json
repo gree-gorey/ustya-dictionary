@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "приесться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прие́сться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приесться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надоесть (о еде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да, мне эта еда прие́лась, не хоцю́, чево бы другово пои́сь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да, мне эта еда приелась, не хоцю, чево бы другово поись!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

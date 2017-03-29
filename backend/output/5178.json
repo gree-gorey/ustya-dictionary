@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "орать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ора́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "орать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пахать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "приора́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приорать"
+        }, 
+        {
+          "content": "Тятька ора́ть ушёл", 
+          "translation": "отец ушел пахать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тятька орать ушел"
+        }, 
+        {
+          "content": "К огороду приора́ли полосу в две сажени шириной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к огороду приорали полосу в две сажени шириной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "подовик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подовик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хлеб, выпеченный на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "поду́", 
+          "tag": "quote", 
+          "normalized_content": "поду"
+        }, 
+        {
+          "content": "в русской печи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше часто пекли еру́шники–подовики́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше часто пекли ерушники–подовики."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "по́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "под"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "яру́шник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ярушник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

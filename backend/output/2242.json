@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "забойник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забо́йник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забойник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дверной запор, закрывавший дверь с внутренней стороны. В косяк вбивалась железная пластина (можно сказать зазубрина), на которую и накидывался", 
+          "tag": "def"
+        }, 
+        {
+          "content": "забо́йник", 
+          "tag": "quote", 
+          "normalized_content": "забойник"
+        }, 
+        {
+          "content": ". Чтобы открыть дверь, надо было дернуть за верёвочку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Закрой дверь на забо́йник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрой дверь на забойник."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

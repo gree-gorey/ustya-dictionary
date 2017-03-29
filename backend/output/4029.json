@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лытка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лытка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голень, часть ноги от стопы до колена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́кой мороз на улице, а ты бегаёшь лы́тки голые! Побежала, лишо́ лы́тки сверкают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой мороз на улице, а ты бегаешь лытки голые! побежала, лишо лытки сверкают."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

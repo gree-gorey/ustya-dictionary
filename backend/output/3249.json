@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "кичига", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кичи́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кичига"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянное приспособление для обмолота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сначала кичи́гами обмола́чивали, потом – о́чепью. Красиво моло́тят, музыка идёт такая. Очень сла́женно работают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сначала кичигами обмолачивали, потом – очепью. красиво молотят, музыка идет такая. очень слаженно работают."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́чеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очеп"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приспособление для околачивания льна.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приспособление для полоскания белья", 
+          "tag": "def"
+        }, 
+        {
+          "content": "клю́шка", 
+          "tag": "quote", 
+          "normalized_content": "клюшка"
+        }, 
+        {
+          "content": ". По-бабушкиному, и хоккеисты в телевизоре «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "с кичи́гами", 
+          "tag": "quote", 
+          "normalized_content": "с кичигами"
+        }, 
+        {
+          "content": "» бегали.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ваганьская", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вага́ньская", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ваганьская"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вид кадрили.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пришла с Ваги. Вага́ньскую играли восемь человек.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришла с ваги. ваганьскую играли восемь человек."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

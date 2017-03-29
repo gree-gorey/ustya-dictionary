@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "одне", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Одне", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "одне"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все розъе́́́хались, одне́́́ оста́́́лисе опе́́́ть", 
+          "translation": "(сетование стариков).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все розъехались, одне осталисе опеть"
+        }, 
+        {
+          "content": "Одне́́́ Ната́́́ша с Же́́́ней живу́́́т. Кто уе́́́хал, кто у́́́мер... Вот и вся дере́́́вня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одне наташа с женей живут. кто уехал, кто умер... вот и вся деревня."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

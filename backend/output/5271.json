@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отмякать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отмя́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отмякать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пришло́́́се отмя́́́кать ево́́́ малё́́́хонько, шщо́́́бы зна́́́ў на́́́ших.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришлосе отмякать ево малехонько, шщобы знау наших."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мя́кать 2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мякать 2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

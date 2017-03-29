@@ -1,0 +1,92 @@
+{
+  "field_for_sorting": "жигать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́гать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жигать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стегать, хлестать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажи́гать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажигать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отжи́гать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отжигать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "жи́гнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жигнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "жё́гнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жегнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ожи́гнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ожигнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ремё́шик – раз жи́́́гни – она", 
+          "translation": "(кошка)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ремешик – раз жигни – она"
+        }, 
+        {
+          "content": "поймёт. Ох, как нажи́́гаю я тебя счас ви́цей-то! Вот ужо́́́ карпи́́́вой-то как жы́́́гну, дак бу́́́дёшь знать у меня́́́, как бе́́́гать-то вись динь", 
+          "tag": "quote", 
+          "normalized_content": "поймет. ох, как нажигаю я тебя счас вицей-то! вот ужо карпивой-то как жыгну, дак будешь знать у меня, как бегать-то вись динь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

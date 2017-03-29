@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "зудеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зуде́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зудеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Колено-то у меня, ой и зуди́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колено-то у меня, ой и зудит!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "беспокоить, тревожить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давно що-то Афи́мья не приежжала, що-то серце зуди́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давно що-то афимья не приежжала, що-то серце зудит."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "надоедать разговором, просьбой об одном и том же.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит зуде́ть, никуды ты не пойдёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит зудеть, никуды ты не пойдешь!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

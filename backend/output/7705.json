@@ -1,0 +1,145 @@
+{
+  "field_for_sorting": "треушить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Треу́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "треушить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трепать, дергать кого-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затреу́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затреушить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натреу́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натреушить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потреу́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потреушить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "теру́шить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "терушить"
+        }, 
+        {
+          "content": "Да не треу́шь ты так котёнка, всего затреу́шил!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да не треушь ты так котенка, всего затреушил!"
+        }, 
+        {
+          "content": "Натреу́шила я ево сегодни за́ уши.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натреушила я ево сегодни за уши."
+        }, 
+        {
+          "content": "Старшая сестра гонится! Насти́гла меня у качу́ли – теру́шит, а я визжу как могу́. Соседка выскочила: «Ах ты, цыганка, дефку бьёшь! Помани́ ужо! Вот отец с матерью приду́т!». Натеру́шила ие за́ волосы", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Про свекра Пашеньку. Ольга Синицкая.", 
+          "normalized_content": "старшая сестра гонится! настигла меня у качули – терушит, а я визжу как могу. соседка выскочила: «ах ты, цыганка, дефку бьешь! помани ужо! вот отец с матерью придут!». натерушила ие за волосы"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "трепать, драть чего-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "растреу́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "растреушить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "теру́шить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "терушить"
+        }, 
+        {
+          "content": "Коровы-то весь зарод растреу́шили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коровы-то весь зарод растреушили."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "беспокоить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потреу́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потреушить"
+        }, 
+        {
+          "content": "Не на́́́до, не на́́́до робё́́́нка треу́́́шить, то́́́ко усну́́́ў, сла́́́ва Бо́́́гу!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо, не надо робенка треушить, токо уснуу, слава богу!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

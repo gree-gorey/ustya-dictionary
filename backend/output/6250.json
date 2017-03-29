@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "притуливаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приту́ливаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "притуливаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "приту́́́литься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "притулиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "притули́́́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "притулиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заприту́ливаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "запритуливаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "ту", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ту"
+        }, 
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": ""
+        }, 
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "литься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "литься"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

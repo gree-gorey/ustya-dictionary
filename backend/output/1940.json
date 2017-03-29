@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "духовитый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Духови́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "духовитый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "душистый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Черёмуха-то какая духови́тая. Сходи-ко в мага́зин, возьми два кусочка мыла духови́тово.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "черемуха-то какая духовитая. сходи-ко в магазин, возьми два кусочка мыла духовитово."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

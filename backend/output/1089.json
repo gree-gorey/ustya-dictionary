@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "выбойник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́бойник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выбойник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой плот, используемый для плавания на озерах, на реках при сплавных работах.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

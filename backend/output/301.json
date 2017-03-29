@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "блудня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Блу́дня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "блудня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скот, который не любит ходить домой после пастбища.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Корова у нас такая блу́дня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова у нас такая блудня."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

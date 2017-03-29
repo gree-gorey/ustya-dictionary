@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "распружить(лошадь)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распру́жить (лошадь)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распружить (лошадь)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "распрячь лошадь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "пру́жить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пружить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

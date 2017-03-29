@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "чарки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́рки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чарки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рабочие туфли на низком каблуке.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

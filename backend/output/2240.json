@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "забодущий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забоду́щий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забодущий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "забоду́щой", 
+        "place": [
+          "Пестово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "забодущой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хороший, пригожий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экой у их парень забоду́щой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой у их парень забодущой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

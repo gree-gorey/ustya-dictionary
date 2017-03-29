@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ие", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ие́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ие"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "иё́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ие"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "её.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как ни зайдёшь – ие́ всё нету. Где иё́́́ ле́́́шой-то но́́́сит, ско́́́ко вре́́́мя жду – фсё не́́́ту!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как ни зайдешь – ие все нету. где ие лешой-то носит, скоко время жду – фсе нету!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

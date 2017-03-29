@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "залой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зало́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "речной залив.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "низменное место или яма на берегу, затопленные водой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "водоворот в реке", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Матвеевская", 
+          "tag": "place"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большая вода, половодье.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

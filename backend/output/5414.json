@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "парнечий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Парне́чий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "парнечий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "относящийся, принадлежащий, предназначенный парню.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево ты берёшь не свои грабли, это парне́чие!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево ты берешь не свои грабли, это парнечие!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

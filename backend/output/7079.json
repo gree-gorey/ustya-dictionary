@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смешиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смеши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смешиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позориться, выставлять себя на смех.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево на людях смеши́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево на людях смешиться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "цып-цып-цып", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Цып-цып-цып", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "цып-цып-цып"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для цыплят.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

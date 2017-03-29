@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "тренькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тре́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тренькать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "затре́нькать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "затренькать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "потре́нькать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "потренькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "играть на гармошке, бренчать на балалайке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уми́́́ёт хто хоть тре́́́нькать-то на балала́́́йке, а́́́ли нет?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "умиет хто хоть тренькать-то на балалайке, али нет?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бить шерсть (распу́шивать, взбивать) с помощью", 
+          "tag": "def"
+        }, 
+        {
+          "content": "лу́ка", 
+          "tag": "quote", 
+          "normalized_content": "лука"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лук", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лук"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") болтать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тре́нькать-то он гора́зд. Хва́́́тит тренькать-то, опеть затре́нькали, ро́́́бить пора́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тренькать-то он горазд. хватит тренькать-то, опеть затренькали, робить пора!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

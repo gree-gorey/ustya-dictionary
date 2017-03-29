@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "всеночи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Все́ночи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всеночи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "се́ночи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сеночи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "этой ночью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́́́ноци тако́́́й небаско́́́й сон ви́́́дела, шщо не приведи́́́ Госпо́́́дь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сеноци такой небаской сон видела, шщо не приведи господь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

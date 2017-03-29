@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "спереду", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спе́реду", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спереду"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "с переднего края, стороны, спереди.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я поеду спе́реду, а вы за мной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я поеду спереду, а вы за мной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

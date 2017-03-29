@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "рев", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рё́в", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рев"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громкий плач.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчоб рё́ву не было!", 
+          "translation": "перестаньте реветь (плакать)!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчоб реву не было!"
+        }, 
+        {
+          "content": "Да шчо у их рё́ву-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да шчо у их реву-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "клепать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клепа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клепать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "клёпа́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "клепать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "наклепа́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "наклепать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возводить напраслину, клеветать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это она опеть наклепа́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это она опеть наклепала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рожать детей (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "склепа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "склепать"
+        }, 
+        {
+          "content": "Пятёрых склепа́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пятерых склепал."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

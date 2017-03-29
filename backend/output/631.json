@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "велик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́лик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "велик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лесопе́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лесопед"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лисапе́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лисапед"
+      }
+    ], 
+    "style": [
+      "прост."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "велосипед.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Внук весь день гоня́ет по дере́вне на лесопе́де.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "внук весь день гоняет по деревне на лесопеде."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

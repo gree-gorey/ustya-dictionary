@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "студенка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Студёнка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "студенка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "только что принесенная с мороза или из колодца, родника вода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чай горячий на столе, а ты студё́нку жу́чишь! Не дуй студё́нку-ту, а то заболи́ть можошь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чай горячий на столе, а ты студенку жучишь! не дуй студенку-ту, а то заболить можошь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "холодя́нка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "холодянка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

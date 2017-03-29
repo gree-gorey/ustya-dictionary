@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "лих", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лих", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лих"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "противен, вреден, нехорош.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лих больно! Сколь ни лих!", 
+          "translation": "с трудом могу его выносить (пьяницу).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лих больно! сколь ни лих!"
+        }, 
+        {
+          "content": "Ковды́́́ мала́́́ была́́́ вну́́́ка – дак куды́́́ с добро́́́м де́́́фка, а как подросла́́́, дак ну и лиха́́́ ста́́́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ковды мала была внука – дак куды с добром дефка, а как подросла, дак ну и лиха стала!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

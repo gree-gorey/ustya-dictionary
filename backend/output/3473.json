@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "корнать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корна́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корнать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "обкорна́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "обкорнать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грубо обтёсывать, срубать сучья и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обкорна́́́й-ко ни́́́жние су́́́цья-то у е́́́ли, дак ловче́́́е руби́́́ть-то бу́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обкорнай-ко нижние суцья-то у ели, дак ловчее рубить-то будет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "небрежно или чрезмерно подстригать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эк, как тебя обкорна́ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эк, как тебя обкорнали!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

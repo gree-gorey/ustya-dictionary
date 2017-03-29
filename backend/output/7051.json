@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "слизко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сли́зко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слизко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скли́зко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "склизко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скользко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На улице сли́зко. Уш так сево́́́дни скли́́́зко – иди́́́, не торопи́́́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на улице слизко. уш так севодни склизко – иди, не торописе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

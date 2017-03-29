@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "живчиком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́вчиком", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "живчиком"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "живё́хонько", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "живехонько"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жи́во", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "живо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жи́венько", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "живенько"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро, расторопно, мигом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я жи́вчиком к ним сбегаю. Чайник на горячей плите жи́венько скипи́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я живчиком к ним сбегаю. чайник на горячей плите живенько скипит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

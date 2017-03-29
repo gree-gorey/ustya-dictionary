@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "утекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Утека́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уйти, убежать, исчезнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "тека́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "текать"
+        }, 
+        {
+          "content": "Надо из́ поля тека́ть, а то счас ливень будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо из поля текать, а то счас ливень будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "трещиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тре́щиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трещиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трескаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "истре́щиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "истрещиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "растре́щиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "растрещиться"
+        }, 
+        {
+          "content": "Не ходи туды, там лёд тре́щится. Вон какая жара, аж земля растре́щиласе. Вот на морозе губы-то обли́зывал, дак все и истре́́щились!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи туды, там лед трещится. вон какая жара, аж земля растрещиласе. вот на морозе губы-то облизывал, дак все и истрещились!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

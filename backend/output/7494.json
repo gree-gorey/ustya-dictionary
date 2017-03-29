@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сысподволь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сы́сподволь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сысподволь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заранее подготовившись, не торопясь и продуманно начинать дело.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К любой работе крестьяне готовились сы́́сподволь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к любой работе крестьяне готовились сысподволь."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сы́здоволь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сыздоволь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "багровище", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́гровище", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "багровище"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "багрови́ще", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "багровище"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рукоятка багра в виде удлиненного шеста, жерди.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

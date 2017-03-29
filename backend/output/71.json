@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "багарадина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Багара́дина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "багарадина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой (о человеке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Петька вон какой багара́дина вы́махал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "петька вон какой багарадина вымахал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

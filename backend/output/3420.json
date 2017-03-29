@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "коножник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коножни́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коножник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "строевой лес, засохший на корню.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В старину погреба из коно́жника руби́ли, так ве́ковина была.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в старину погреба из коножника рубили, так вековина была."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

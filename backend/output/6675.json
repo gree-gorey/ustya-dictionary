@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "пятиручка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пятиру́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пятиручка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коса с длиной режущего полотна в пять рук.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рука́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рука"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

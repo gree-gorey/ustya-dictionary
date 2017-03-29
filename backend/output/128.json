@@ -1,0 +1,82 @@
+{
+  "field_for_sorting": "барашки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "барашки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бора́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "борашки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькие ягнята самцы овец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́ночи овца принесла два бора́шка да ове́чку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сеночи овца принесла два борашка да овечку."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "маленькие белые облака.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "белая пена, образующаяся на воде в местах с быстрым течением.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "железные крючки с защелкой на вожжах или цепи.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гайки с выступами для закручивания пальцами рук.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

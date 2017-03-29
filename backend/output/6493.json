@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "разъехаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разъе́хаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разъехаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "розъе́хаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "розъехаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расползтись, развалиться, распасться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Руба́ха-та мала́ стала, по швам розъе́халась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рубаха-та мала стала, по швам розъехалась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

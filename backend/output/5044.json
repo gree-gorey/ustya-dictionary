@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "однырядный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Одны́рядный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "однырядный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "однослойный, без подкладки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рукавицы одны́рядные.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рукавицы однырядные."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

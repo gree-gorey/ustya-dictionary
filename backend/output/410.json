@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "братшина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бра́тшина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "братшина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бра́тщина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "братщина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бра́тчина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "братчина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "празднование в складчину.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В колхозе бра́тшина проводилась в каждой бригаде отдельно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в колхозе братшина проводилась в каждой бригаде отдельно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

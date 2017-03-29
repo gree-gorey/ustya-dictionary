@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "изокуратить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изокура́тить", 
+        "place": [
+          "Дубровская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "изокуратить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привести в порядок, в надлежащий вид.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот неряха, себя не может изокура́тить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот неряха, себя не может изокуратить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "изобихо́дить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "изобиходить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

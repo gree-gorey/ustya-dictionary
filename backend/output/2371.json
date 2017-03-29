@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "задуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заду́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заду́нуть (ого́нь)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задунуть (огонь)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резко и сильно дунуть на пламя горящих спичек, лучины, свечки, лампы или фонаря, чтобы погасить их.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заду́нь-ко лампу в шо́вныше.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задунь-ко лампу в шовныше."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

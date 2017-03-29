@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шолупонь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шолупо́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шолупонь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "никчемные, опустившиеся люди; мелочевка, малозначащее, что не стоит брать в расчет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там собралась одна шолупо́нь, не обращай на них внимания.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там собралась одна шолупонь, не обращай на них внимания."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

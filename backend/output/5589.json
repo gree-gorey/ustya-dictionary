@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "печельливый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пече́льливый", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "печельливый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старательный, ответственный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да он пече́льливый человек-то, на нево можно положиться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да он печельливый человек-то, на нево можно положиться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

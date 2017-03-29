@@ -1,0 +1,339 @@
+{
+  "field_for_sorting": "валиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вали́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "валиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крениться, рушиться, оседать, падать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отвали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отвалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "свали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зава́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заваливаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отва́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отваливаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сва́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сваливаться"
+        }, 
+        {
+          "content": "Ой, как на́цял он вали́цце! Амбарчик-от вали́тце назадь. Сарай уже начал завали́ваться. Сук от дерева отва́ливается. Снег с крыши стал сва́ливаться. Экой кусок льда-то от зато́́ра отвали́лся, токо збу́хало. Угород весь повали́лся. Петру́ня с дерева свали́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, как нацял он валицце! амбарчик-от валитце назадь. сарай уже начал заваливаться. сук от дерева отваливается. снег с крыши стал сваливаться. экой кусок льда-то от затора отвалился, токо збухало. угород весь повалился. петруня с дерева свалился."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "соверш", 
+          "tag": "pos"
+        }, 
+        {
+          "content": ". упасть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шёл пьяный да валился в лягу да добро.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шел пьяный да валился в лягу да добро."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "с шумом, гурьбой заходить куда-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завалиться"
+        }, 
+        {
+          "content": "Нечево всем скопом вали́ться в ызбу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево всем скопом валиться в ызбу."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ложиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "привали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "привалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "развали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "развалиться"
+        }, 
+        {
+          "content": "Вали́сь на волочу́гу и держись за стяг, а то с ие сва́лишься. Завали́лся на солнышке позагорать. Собака привали́лась у ног хозяина. Кот на солнышке развали́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вались на волочугу и держись за стяг, а то с ие свалишься. завалился на солнышке позагорать. собака привалилась у ног хозяина. кот на солнышке развалился."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ложиться спать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зава́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заваливаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "разва́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разваливаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "свали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свалиться"
+        }, 
+        {
+          "content": "Надо спать идти вали́ться. Нечево такую рань зава́ливаться. Хватит на посте́ле разва́ливаться, пора вставать. Оне уже давно спать завали́лись. Он так устал, что пришёл и сразу повали́лся на кровать. От усталости Офона́ха на лавку свали́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо спать идти валиться. нечево такую рань заваливаться. хватит на постеле разваливаться, пора вставать. оне уже давно спать завалились. он так устал, что пришел и сразу повалился на кровать. от усталости офонаха на лавку свалился."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "едва держаться на ногах (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "свали́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свалиться"
+        }, 
+        {
+          "content": "Он так устал, что с ног вали́ться начал. Она так занемогла, что может совсем свали́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он так устал, что с ног валиться начал. она так занемогла, что может совсем свалиться."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вылегать хлебам, траве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Клевер пора косить, начинаёт вали́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "клевер пора косить, начинает валитце."
+        }
+      ], 
+      "n": "7"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "опадать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть осень настала, уж лист вали́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть осень настала, уж лист валитце."
+        }
+      ], 
+      "n": "8"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпадать, отпадать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Комками волосьё вали́тце пощо-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "комками волосье валитце пощо-то."
+        }
+      ], 
+      "n": "9"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпадать осадкам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Снег которой день подряд вали́тся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снег которой день подряд валится."
+        }
+      ], 
+      "n": "10"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

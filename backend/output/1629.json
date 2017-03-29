@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "двоезубица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двоезу́бица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двоезубица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бёрдо для кросен, в котором между каждым зубом вдевается по две нити основы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кро́сна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кросна"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бё́рдо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бердо"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "осно́ва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "основа"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тонкое и плотное льняное полотно, вытканное на кроснах бёрдом-двоезубицей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

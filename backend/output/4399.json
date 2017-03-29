@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нагинаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нагина́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нагинаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нагибаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нельзя слишком низко в колодец-то нагина́ться, а то упадёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нельзя слишком низко в колодец-то нагинаться, а то упадешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

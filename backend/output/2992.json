@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изымать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изыма́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изымать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поймать, изловить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тибе-то дак уш этово коня никак не изыма́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тибе-то дак уш этово коня никак не изымать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

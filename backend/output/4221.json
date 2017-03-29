@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "могчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Могчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "могчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "замогчи́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "замогчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "замо́чь", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "замочь"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "перемогчи́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "перемогчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "смогчи́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "смогчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мочь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Могчи́ ли это сделать одной! Скоро и дети замо́гут по хозяйству помогать управляться. Поучитце бы и на тракторе замо́чь робить. Надо себя перемогчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "могчи ли это сделать одной! скоро и дети замогут по хозяйству помогать управляться. поучитце бы и на тракторе замочь робить. надо себя перемогчи."
+        }, 
+        {
+          "content": "Коро́бьи-то повы́грузила. Мне не смогчи́, негде столько взять", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "коробьи-то повыгрузила. мне не смогчи, негде столько взять"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "занемогчи́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "занемогчи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

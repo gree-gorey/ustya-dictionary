@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "гать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болотистый отрезок дороги, выложенный бревнами, жердями, сучьями.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вы́стелка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выстелка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

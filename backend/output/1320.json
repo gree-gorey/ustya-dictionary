@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гарывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́рывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гарывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гореть, в том числе неоднократно подвергаться действию огня.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Деревня Сабу́рова га́рывала полностью дважды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "деревня сабурова гарывала полностью дважды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

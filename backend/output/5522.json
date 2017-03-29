@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "переодежа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Переодё́жа", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "переодежа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "переодевание одежды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що уш у вас переодё́жа-то больно до́лга!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що уш у вас переодежа-то больно долга!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "запасная одежда для вынужденного переодевания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо взеть с собой переодё́жу, а то вон какая погода на улице.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо взеть с собой переодежу, а то вон какая погода на улице."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

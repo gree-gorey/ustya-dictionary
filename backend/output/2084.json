@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "жаркой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жарко́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаркой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дающий много жару.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Берёзовые дрова жарки́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "березовые дрова жаркие."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно натопленный, долго сохраняющий жар и тепло.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Баня-та у нас жарка́я, можно и утром мы́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баня-та у нас жаркая, можно и утром мытце."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "воттебеина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́т тебе и на́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вот тебе и на"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́т тебе на́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вот тебе на"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́т те на́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вот те на"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́т так та́к!", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вот так так!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "восклицание по поводу чего-нибудь неожиданного, удивительного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот тебе и на, в кою пору погода нала́дилась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот тебе и на, в кою пору погода наладилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

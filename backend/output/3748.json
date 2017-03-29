@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кукожиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куко́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукожиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "скуко́житься", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "скукожиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "корчиться, сжиматься, съеживаться, деформироваться, терять первоначальные размеры и форму.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шу́бницы на горечей пече высохли и скуко́жились, не находят на руки топере.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шубницы на горечей пече высохли и скукожились, не находят на руки топере."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

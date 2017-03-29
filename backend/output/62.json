@@ -1,0 +1,179 @@
+{
+  "field_for_sorting": "бабка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́́́́бка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бабка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "палка-основание для", 
+          "tag": "def"
+        }, 
+        {
+          "content": "сусло́́́на", 
+          "tag": "quote", 
+          "normalized_content": "суслона"
+        }, 
+        {
+          "content": ". Бабку палку размером 1,5 м втыкают в землю и к ней, как к опоре, приставляют снопы кверху колосом, сверху надевают сноп как шапку книзу колосом, чтобы при дожде вода стекала с колосьев.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "установка снопов льна на поле попарно, вершинами друг к другу, образуя десяток.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кую по́́́лосу льна́́́ навяза́́́ли, тепе́́́ре на́́́до ба́́́бки ста́́́вить. Ско́́́ко снопо́́́в-то связа́́́ла? – Да два́́́тцеть ба́́́бок", 
+          "translation": "(200 снопов).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экую полосу льна навязали, тепере надо бабки ставить. скоко снопов-то связала? – да дватцеть бабок"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "охапка снятого со стлища льна, поставленная конусом для просушки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уменьш.", 
+          "tag": "style"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ба́бочка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "бабочка"
+        }, 
+        {
+          "content": "Лен в районе прекратили сеять с 1976 года.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "укладка бревен, дров шатром для просушки", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Левинская", 
+          "tag": "place"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "опорный столб в заборе", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сабуровская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "На ба́бках забор держится.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на бабках забор держится."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подставка, тренога с выступающей осью для установки", 
+          "tag": "def"
+        }, 
+        {
+          "content": "воро́б", 
+          "tag": "quote", 
+          "normalized_content": "вороб"
+        }, 
+        {
+          "content": ", с которых перематывают нитки из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мото́в", 
+          "tag": "quote", 
+          "normalized_content": "мотов"
+        }, 
+        {
+          "content": "на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "тюрики́", 
+          "tag": "quote", 
+          "normalized_content": "тюрики"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "воро́бы", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "воробы"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мот", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мот"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тюри́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тюрик"
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

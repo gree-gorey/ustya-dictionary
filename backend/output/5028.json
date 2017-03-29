@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "одавить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Одави́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "одавить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перевесить в одну сторону, наклонить, придавить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "оце́пить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оцепить"
+        }, 
+        {
+          "content": "Крышу снегом одави́ло, можот поломать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "крышу снегом одавило, можот поломать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

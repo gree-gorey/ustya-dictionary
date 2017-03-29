@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "покать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклон.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Какая по́кать тут на берегу, шщо цють внис не съе́́́хаў. Много по́кати тут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "какая покать тут на берегу, шщо цють внис не съехау. много покати тут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

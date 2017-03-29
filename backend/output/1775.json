@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "докуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доку́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "докуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "доку́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "докуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до каких пор, сколько еще, докуда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Доку́ля ты будёшь ходить нежона́тым? Не доку́ль ро́бить!", 
+          "translation": "хватит работать, на сегодня хватит, не работать же без конца!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "докуля ты будешь ходить нежонатым? не докуль робить!"
+        }, 
+        {
+          "content": "Не доку́́́ля жо с э́́́тим сеноко́́́сом вози́́́тьце, вон уш жы́́́то на́́́до выжина́́́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не докуля жо с этим сенокосом возитьце, вон уш жыто надо выжинать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

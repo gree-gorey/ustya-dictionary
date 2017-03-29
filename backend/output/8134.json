@@ -1,0 +1,122 @@
+{
+  "field_for_sorting": "хлебать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлеба́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлебать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хлёба́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хлебать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "употреблять в пищу супы и традиционные деревенские блюда с добавлением жидкости (болтушку, крошанину, молоко с ягодами), а также каши, которые принято есть ложками и, как правило, из общей посуды (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дохлеба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дохлебать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похлеба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похлебать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахлеба́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахлебаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "дохлё́бывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дохлебывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "захлё́бывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "захлебывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прихлё́бывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прихлебывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отхлё́бывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отхлебывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отхлебну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отхлебнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Садись-ко ште́й хлеба́ть. Подьте, болту́шку хлёба́йте. Супу немного похлеба́ла, да больше не хоцю́. Нахлеба́лсе однех штей и пошёл, ты хоть чяю попе́й!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись-ко штей хлебать. подьте, болтушку хлебайте. супу немного похлебала, да больше не хоцю. нахлебалсе однех штей и пошел, ты хоть чяю попей!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "прикутать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прику́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прикутать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "приткну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "приткнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прикрыть печку, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "закры́ть тру́бку", 
+          "tag": "quote", 
+          "normalized_content": "закрыть трубку"
+        }, 
+        {
+          "content": "», во избежание выхода тепла.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

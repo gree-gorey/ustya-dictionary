@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "нагольный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наго́льный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нагольный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состоящий из одного и того же вещества, материала.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Перевели́ копать окопы в пос. Мормаши́. Наго́льный камень", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из воспоминаний Мамоновой Веры Ивановны).", 
+          "normalized_content": "перевели копать окопы в пос. мормаши. нагольный камень"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ничем не покрытый, кожей наружу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Полушубок наго́льный", 
+          "translation": "из голой овчины.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полушубок нагольный"
+        }, 
+        {
+          "content": "Шубы-дублёнки – наго́льные шубы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шубы-дубленки – нагольные шубы."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

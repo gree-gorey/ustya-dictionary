@@ -1,0 +1,133 @@
+{
+  "field_for_sorting": "сулема", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сулема́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сулема"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сулёма", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сулема"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "«ерунда!», «ничто», «пустое».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сулёмы́ одной принёс. Сулемы́-то не бай!", 
+          "translation": "(выражение в ругательной форме, чаще произносится раздраженным в чем-то человеком. Обычно его использовали в том случае, если человек был в чем-то виноват).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сулемы одной принес. сулемы-то не бай!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "продукт сомнительного происхождения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шшо за сулёма́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшо за сулема?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "что-то непонятное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кото́ру сулёму́ ты там и́щош-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "котору сулему ты там ищош-то?"
+        }, 
+        {
+          "content": "Производные от этого слова:", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сулема́тина", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сулематина"
+        }, 
+        {
+          "content": "(когда говорят о трудноописуемом материальном объекте небольшого размера),", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сулема́тинка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сулематинка"
+        }, 
+        {
+          "content": "(уменьшительно-ласкательное от", 
+          "tag": "def"
+        }, 
+        {
+          "content": "сулема́тина", 
+          "tag": "quote", 
+          "normalized_content": "сулематина"
+        }, 
+        {
+          "content": "). С «сулемой» было немало поговорок. Вместо упоминания черта использовали менее «греховное» слово.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сулёма́ с им! Сулема́ те в ру́ки!", 
+          "translation": "ругательство.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сулема с им! сулема те в руки!"
+        }, 
+        {
+          "content": "Сулёмы́ тибе́!", 
+          "translation": "грубый отказ.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сулемы тибе!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

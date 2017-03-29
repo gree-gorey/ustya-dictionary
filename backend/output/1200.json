@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "выпрягать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выпряга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпрягать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "распрягать лошадь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́прягчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпрягчи"
+        }, 
+        {
+          "content": "Помоги-ко Лефти́нье лошадь вы́прягчи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "помоги-ко лефтинье лошадь выпрягчи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "у́пряжь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "упряжь"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "збруна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "збруна"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

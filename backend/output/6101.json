@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поцепка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поце́пка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поцепка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "цепочка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У часов-хо́диков была гиря на поце́пке. Нательный крёст на поце́пке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у часов-ходиков была гиря на поцепке. нательный крест на поцепке."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

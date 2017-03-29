@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "вязы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вязы́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вязы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загнутые вокруг пар копыльев и головок полозьев крёсел черемховые побеги толщиной 5-7 Жгута́ми из черемховых виц (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ча́повицами", 
+          "tag": "quote", 
+          "normalized_content": "чаповицами"
+        }, 
+        {
+          "content": ") привязывались головки к передним копыльям. Вместе они обеспечивали долговечность и прочность крёсел.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вяз", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вяз"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́повица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаповица"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Вя́зка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вязка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 2
+}

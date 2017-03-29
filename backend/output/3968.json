@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ломина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ломи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ломина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сухое упавшее дерево, сук, хворостина, годные на дрова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экую ломи́ну-ту несёт по рике, подцепляй багро́м, скоко дров из неё будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экую ломину-ту несет по рике, подцепляй багром, скоко дров из нее будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

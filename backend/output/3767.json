@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кумачник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кума́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кумачник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сарафан из кумача красный праздничный женский наряд.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

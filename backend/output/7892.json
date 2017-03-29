@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "укупнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Укупну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "укупнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "погрузить в воду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Курицу надо в холодную воду укупну́ть, тогда па́рить не будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "курицу надо в холодную воду укупнуть, тогда парить не будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

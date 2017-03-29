@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "думка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ду́мка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "думка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ду́мочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "думочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькая вышитая подушечка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

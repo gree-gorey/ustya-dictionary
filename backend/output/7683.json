@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "тпруконька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тпру́́́конька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тпруконька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трпру́тенька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трпрутенька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тпру́тя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тпрутя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ма́лька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "малька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "корова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тпру́́́конька, тпру́́́конька, не бо́́́йсе, иди́́́ сюды́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тпруконька, тпруконька, не бойсе, иди сюды!"
+        }, 
+        {
+          "content": "(В «Вилего́́́дской гово́́́ре»", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "тпру́сенька", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "тпрусенька"
+        }, 
+        {
+          "content": "корова, коровушка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

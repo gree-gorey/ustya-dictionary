@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "охлеснуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Охлесну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "охлеснуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оплеснуть, обдать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сбросишь бревно в воду – ох! Водой-то охлестнё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сбросишь бревно в воду – ох! водой-то охлестнет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

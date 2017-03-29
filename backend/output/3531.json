@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "костка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́стка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "костка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́ска", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коска"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая кость, косточка (например, рыбья).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На-ко зятёк ко́ски-то посси́", 
+          "translation": "(пососи)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на-ко зятек коски-то посси"
+        }, 
+        {
+          "content": ", ведь па́втусьи", 
+          "tag": "quote", 
+          "normalized_content": ", ведь павтусьи"
+        }, 
+        {
+          "content": "Окура́́́тно ешь, ко́́́ской не подави́́́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "окуратно ешь, коской не подавись."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

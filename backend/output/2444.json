@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "закрышка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закры́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закрышка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закро́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закрой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закро́йник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закройник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крышка на посуду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Закры́шку-ту сними с чайника, вишь заки́пливаёт. На котёл в бане сделан закро́й из дощечёк. Горшки да кринки закро́йниками закрывали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрышку-ту сними с чайника, вишь закипливает. на котел в бане сделан закрой из дощечек. горшки да кринки закройниками закрывали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

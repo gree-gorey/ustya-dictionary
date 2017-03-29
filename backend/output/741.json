@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "взарубу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взару́бу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взарубу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ углового соединения бревен при рубке срубов, когда концы верхних бревен ложатся в круглые выемки нижних поперечных бревен. В старину применялся в основном этот способ рубки стен всех построек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́́́м-то ру́́́блен по-ста́́́рому, в зару́бу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дом-то рублен по-старому, в зарубу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зару́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заруба"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́ша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаша"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

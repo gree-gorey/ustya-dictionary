@@ -1,0 +1,157 @@
+{
+  "field_for_sorting": "ешкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ё́шкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ешкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крутиться, вертеться на одном месте; болтаться, елозить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "доё́шкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доешкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заё́шкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заешкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проё́шкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проешкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заё́шкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заешкаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изъё́шкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изъешкаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наё́шкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наешкаться"
+        }, 
+        {
+          "content": "Си́ди не ё́шкай, уш ды́рку поди́ проверте́ў на жо́пе-то! До тово доё́шкал, що суп про́лил! Наё́шкатьсе не можот!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сиди не ешкай, уш дырку поди провертеу на жопе-то! до тово доешкал, що суп пролил! наешкатьсе не можот!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скользить, съезжать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съё́шкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съешкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ё́шкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ешкнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съё́шкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съешкнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ёшкану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ешкануть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съёшкану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съешкануть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не наклоня́й столе́чницу, вся посу́да со стола́ съё́шкнет. Держись на крыше-то, а то можошь за́просто ё́шкнуть (ёшкану́ть)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не наклоняй столечницу, вся посуда со стола съешкнет. держись на крыше-то, а то можошь запросто ешкнуть (ешкануть)!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

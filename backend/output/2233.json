@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "забережни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́бережни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забережни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́бережники", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "забережники"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́бережь", 
+        "place": [
+          "Чадрома"
+        ], 
+        "type": "variant", 
+        "normalized_content": "забережь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́берег", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заберег"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "закра́йка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закрайка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "побере́жник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "побережник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лед, начинающий застывать от берега к середине реки во время ледостава.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На реке уже за́бережники большие стали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на реке уже забережники большие стали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

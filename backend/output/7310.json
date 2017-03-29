@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "стегно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стё́гно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стегно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедро.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон как околе́ла – аж стё́гна синие!", 
+          "translation": "замерзла так, что ноги (бёдра) посинели от холода.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон как околела – аж стегна синие!"
+        }, 
+        {
+          "content": "Из-под пяты стё́гно! Кровь с молоком!", 
+          "translation": "крепкая, здоровая (о девушке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из-под пяты стегно! кровь с молоком!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

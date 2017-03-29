@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "свистулек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Свистулё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свистулек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "свисту́лька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свистулька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "музыкальный инструмент (обычно в форме животного), который издает свист; примитивный свисток, вырезанный из одеревеневшей", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ду́́́дки", 
+          "tag": "quote", 
+          "normalized_content": "дудки"
+        }, 
+        {
+          "content": "(ствола зонтичного растения), весенней ветки черемухи, глины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гли́няной свистулё́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глиняной свистулек."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

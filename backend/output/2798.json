@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "зловить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Злови́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зловить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "слови́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "словить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "моментально, быстро поймать, схватить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кы́́́ска-та опе́́́ть пти́́́цьку злови́́́ла. Робё́́́нок-то ведь повали́́́ўсе", 
+          "translation": "(упал)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кыска-та опеть птицьку зловила. робенок-то ведь повалиусе"
+        }, 
+        {
+          "content": ", то́́́ко-то́́́ко успе́́́ла злови́́́ть, – а ка́́́бы застегну́́́ўсе?", 
+          "tag": "quote", 
+          "normalized_content": ", токо-токо успела зловить, – а кабы застегнуусе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

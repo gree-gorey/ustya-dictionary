@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "завидный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зави́дный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завидный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завистливый.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хороший, богатый, успешный, красивый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зави́дный урожай будёт. Она зави́дного жониха вы́брала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завидный урожай будет. она завидного жониха выбрала."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

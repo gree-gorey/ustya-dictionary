@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толстый слой свежевыпавшего снега.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́ночи кить сне́гу вы́пала, опе́ть на́до доро́гу тори́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сеночи кить снегу выпала, опеть надо дорогу торить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

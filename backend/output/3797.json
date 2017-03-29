@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "куропоть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́ропоть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куропоть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́роптель", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "куроптель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "птица куропатка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зимой ку́ропти бывают белые и пречутце в снегу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зимой куропти бывают белые и пречутце в снегу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

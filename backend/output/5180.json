@@ -1,0 +1,113 @@
+{
+  "field_for_sorting": "осажаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осажа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осажаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "осади́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "осадиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "оса́живаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "осаживаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уходить вниз, в землю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дом-от вишь как осади́лсе, нижний вене́ц аш в землю ушёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дом-от вишь как осадилсе, нижний венец аш в землю ушел."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "понижаться в уровне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зимой уровень воды в колодце осажа́ется. После оттепели снег сильно оса́живается.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зимой уровень воды в колодце осажается. после оттепели снег сильно осаживается."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпадать в осадок, оседать на чем-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наосади́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наосадиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наосажа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наосажаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наоса́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наосаживаться"
+        }, 
+        {
+          "content": "Сажи много в трубке наоса́живалось.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сажи много в трубке наосаживалось."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выезжать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выезжа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выезжать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбиваться, показываться наружу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́ехать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выехать"
+        }, 
+        {
+          "content": "Заправь рубаху, ведь неба́ско, как вы́ехала из щанов. Опеть лапти износились, пальцы вы́ехали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заправь рубаху, ведь небаско, как выехала из щанов. опеть лапти износились, пальцы выехали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

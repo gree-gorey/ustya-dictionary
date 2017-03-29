@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "калган", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Калга́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "калган"
+      }
+    ], 
+    "style": [
+      "шутл."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уйди, а то как дам по калга́ну!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уйди, а то как дам по калгану!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

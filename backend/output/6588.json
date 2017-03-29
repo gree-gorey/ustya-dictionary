@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "резунец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Резуне́ц", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "резунец"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "резу́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "резунья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жесткая болотная трава со стреловидными острыми по краям листьями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Трава́ резуне́ц не поеда́ется живо́тными.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "трава резунец не поедается животными."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

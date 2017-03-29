@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "потворить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Потво́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потворить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чрезмерно баловать, попустительствовать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "испотво́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "испотворить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "потво́рствовать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потворствовать"
+        }, 
+        {
+          "content": "Нечего парня потво́рить! Не потво́рь!", 
+          "translation": "не иди на поводу у прихоти ребенка, не избалуй его!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего парня потворить! не потворь!"
+        }, 
+        {
+          "content": "Ско́́́ко мо́́́жно робя́́́там-то потво́́́рить (потво́рствовать), веть зареви́́́те пото́́́м с и́́́мя!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко можно робятам-то потворить (потворствовать), веть заревите потом с имя!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

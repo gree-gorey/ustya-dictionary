@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тряхнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тряхну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тряхнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "переехать, переменить место жительства.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Многие всю жизь на одном мисте, некуды́ не тряхну́тся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "многие всю жизь на одном мисте, некуды не тряхнутся."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

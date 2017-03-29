@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "несвязной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Несвязно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "несвязной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неуклюжий, нерасторопный, неумелый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот несвязно́й, ничево́ дове́рить нельзя́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот несвязной, ничево доверить нельзя."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

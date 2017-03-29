@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "тпрукатпрукатпрука!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тпрука́́́, тпрука́́́, тпрука́́́!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тпрука, тпрука, тпрука!"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тпруть-тпруть!", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тпруть-тпруть!"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ля-ма́́ля!", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "маля-маля!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для коров (часто сопровождаемые заманиванием кусочком хлеба). «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тпрука́́́, тпрука́́́, тпрука́́́ – неси́́́ бо́́́ле молока́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тпрука, тпрука, тпрука – неси боле молока!"
+        }, 
+        {
+          "content": "такой приговоркой встречали, призывали коров, особенно дети.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́ля, ма́ля, ма́люшка, тпру́тенька, тпру́тенька, стой смирно!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "маля, маля, малюшка, тпрутенька, тпрутенька, стой смирно!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тпру́́́конька", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тпруконька"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тпру́тя", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тпрутя"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сы́те–сы́те", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сыте–сыте"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

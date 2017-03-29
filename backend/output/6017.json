@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "порочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поро́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "порочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позорить, оговаривать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "опоро́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опорочить"
+        }, 
+        {
+          "content": "Опоро́чила мужика ни за що́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опорочила мужика ни за що!"
+        }, 
+        {
+          "content": "Один жоних не сва́тает, этим девку поро́чит. А у нас девка молоденькая", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "один жоних не сватает, этим девку порочит. а у нас девка молоденькая"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заскорбнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заско́рбнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заскорбнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерять форму, сделаться грубым и твердым, деформироваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рукави́цы вы́сохли, дак фсе заско́рбли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рукавицы высохли, дак фсе заскорбли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ешкинкорень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ё́шкин ко́рень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ешкин корень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выражение недовольства.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды жо молоток подева́лсе, ё́шкин ко́рень!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды жо молоток подевалсе, ешкин корень!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

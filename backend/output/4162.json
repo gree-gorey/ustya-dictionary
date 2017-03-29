@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мелкотина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мелкоти́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мелкотина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мелкотня́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мелкотня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "низкий уровень воды в водоеме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да бреди́те прямо, тут мелкотня́ одна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да бредите прямо, тут мелкотня одна."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

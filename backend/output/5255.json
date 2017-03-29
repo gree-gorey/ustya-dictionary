@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отираться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отира́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отираться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "находиться преимущественно или постоянно на одном месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю зиму на печи отира́юсь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю зиму на печи отираюсь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

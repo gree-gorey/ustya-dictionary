@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "хвостить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хвости́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хвостить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "осуждать, сплетничать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахвости́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахвостить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перехвости́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перехвостить"
+        }, 
+        {
+          "content": "Нечево по деревне хвости́ть, уймись! То что на миня нахвости́ли, всё неправда! Такой уж она человек, любит перехвости́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево по деревне хвостить, уймись! то что на миня нахвостили, все неправда! такой уж она человек, любит перехвостить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

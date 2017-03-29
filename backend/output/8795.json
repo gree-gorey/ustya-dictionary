@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "делать им нечего (о бездельниках).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лешо́́́ им ро́́́бить-то, ак хо́́́дят по́́́ берегу ве́́́сь ди́́́нь...", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лешо им робить-то, ак ходят по берегу весь динь..."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Ле́́́шо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лешо"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

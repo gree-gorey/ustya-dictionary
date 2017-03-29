@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заливать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сочинять небылицы, выдумывать, говорить неправду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и горазён-жо ты залива́ть, не переслушаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и горазен-жо ты заливать, не переслушаешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

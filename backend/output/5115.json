@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "оп", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оп", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оп"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́па", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́ппа", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оппа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́́́пса", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опса"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побудительное восклицание, например, в пляске (при этом зрители прихлопывают руками и прищелкивают языком). «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раз-два, о́па, Америка, Европа, Азия, Китай, поскорее вылетай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раз-два, опа, америка, европа, азия, китай, поскорее вылетай!"
+        }, 
+        {
+          "content": "детская считалка при прыгании через веревку.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "расчухать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расчу́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расчухать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "расчу́хаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "расчухаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "понять, сообразить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Теперь-то я расчу́хаў, в чём тут дело.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теперь-то я расчухау, в чем тут дело."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "очу́хаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очухаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "захватить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Захвати́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "захватить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "засту́кать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "застукать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обнаружить вора на месте кражи, вместе полюбовников.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

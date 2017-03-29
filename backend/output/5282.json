@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ототкнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ототкну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ототкнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вынуть затычку, пробку, освободить отверстие.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отокни́-ко у четверти гвоздик.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отокни-ко у четверти гвоздик."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

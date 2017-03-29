@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выколиглаза", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́коли глаза", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выколи глаза"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "характеристика сильной темноты: ничего не видно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На улице темно, хоть вы́коли глаза.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на улице темно, хоть выколи глаза."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

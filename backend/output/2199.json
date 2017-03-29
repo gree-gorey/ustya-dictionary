@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "жолоб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жо́лоб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жолоб"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "желобни́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "желобница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жолобни́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жолобница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вытесанная из целого осинового дерева во всю длину крыши емкость с открытыми концами для сбора дождевой и снежной воды с крыши и отвода ее от постройки. Устанавливается под краем крыши на специальные приспособления", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ку́рицы", 
+          "tag": "quote", 
+          "normalized_content": "курицы"
+        }, 
+        {
+          "content": "Жолобни́ца изгнила, вода на стену попадаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жолобница изгнила, вода на стену попадает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

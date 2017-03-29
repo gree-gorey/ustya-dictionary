@@ -1,0 +1,100 @@
+{
+  "field_for_sorting": "турить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тури́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "турить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́турить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вытурить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "турну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "турнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́турнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вытурнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гонить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тури́ ево отсюда!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тури ево отсюда!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бросать, кидать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затури́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затурить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затурну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затурнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тури́ всё вми́сте в одну кучу, после розберё́м как надо. Вон куды́-нали шарик затурну́л. Турну́ла всё в печку да и!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тури все вмисте в одну кучу, после розберем как надо. вон куды-нали шарик затурнул. турнула все в печку да и!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

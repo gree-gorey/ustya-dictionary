@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "косик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коси́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косик"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "косики́", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "косики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "склон.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "косикова́тые (поля)", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "косиковатые (поля)"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

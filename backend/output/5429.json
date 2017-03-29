@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "пастить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пасти́ть", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "пастить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кричать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "плакать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я прибежала, а они пастя́т во всю́ ду́шу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я прибежала, а они пастят во всю душу."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "говорят о громко мычащей корове.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што ты будёшь делать! Пасти́т и пасти́т сегодня, пропасти́на лешако́ва!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што ты будешь делать! пастит и пастит сегодня, пропастина лешакова!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

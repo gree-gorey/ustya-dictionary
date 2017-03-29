@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подшесток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подшёсто́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подшесток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место под печью для содержания кур зимой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́́́ры-те где кво́́́́́́хчут? – В подшостке́́́ зи́́́му живу́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куры-те где квохчут? – в подшостке зиму живут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

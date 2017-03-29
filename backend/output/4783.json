@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "неработь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́работь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неработь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́́́роботь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нероботь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "неробо́тники", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нероботники"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тот, кто не хочет работать в данный момент.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох, вы и не́́́роботи пошли́́́ но́́́не!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, вы и нероботи пошли ноне!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") лентяи, бездельники.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В рабкоп итти, ак там вся не́роботь собралась. – Не!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в рабкоп итти, ак там вся нероботь собралась. – не!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

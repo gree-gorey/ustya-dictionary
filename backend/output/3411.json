@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "коневей", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коне́вей", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коневей"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коне́вин", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коневин"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конский.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из коне́вьево волоса делали силки и лёски для удочек.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из коневьево волоса делали силки и лески для удочек."
+        }, 
+        {
+          "content": "А дьячок сидит на мельничном колесе, а в руках у него коне́вин навоз", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Угощенье». М.И. Шалаурова.", 
+          "normalized_content": "а дьячок сидит на мельничном колесе, а в руках у него коневин навоз"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

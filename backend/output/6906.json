@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "сидетьвзарубе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сиде́ть в зару́бе", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сидеть в зарубе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рубить, заниматься плотницким делом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давненько не сидел в зару́бе", 
+          "translation": "давно не плотничал, не прирубал брёвна одно к другому.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давненько не сидел в зарубе"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зару́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заруба"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рубить в зару́бу", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рубить в зарубу"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́па", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лапа"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "чаша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чаша"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

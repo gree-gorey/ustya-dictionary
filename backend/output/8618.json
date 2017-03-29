@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "щепеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ще́петь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щепеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щепе́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щепеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мера сыпучих продуктов, веществ, равная количеству поместившегося в закрытую горсть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поло́жь коро́ве в по́йло три ще́пети муки́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "положь корове в пойло три щепети муки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

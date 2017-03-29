@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "утоптаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Утопта́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утоптаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устать от длительного нахождения на ногах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чи́сто за́ день вся утопта́ласе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чисто за день вся утопталасе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

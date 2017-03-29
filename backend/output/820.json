@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "вкрайности", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вкра́йности", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вкрайности"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прибегать к самым решительным мерам и действиям.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо бросаться вкра́йности сгоряча.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо бросаться вкрайности сгоряча."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "если нет другого выхода, в крайнем случае.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вкра́йности, придётце самому ехать с бумагами в область.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вкрайности, придетце самому ехать с бумагами в область."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

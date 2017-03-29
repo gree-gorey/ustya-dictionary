@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "изоскало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́зоскало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изоскало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "изоска́ло", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "изоскало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "констатация состояния человека, у которого нет мочи терпеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так и́зоскало, что сидеть не может.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так изоскало, что сидеть не может."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ска́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

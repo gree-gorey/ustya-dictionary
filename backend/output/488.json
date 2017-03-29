@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "бурлацкий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бурла́цкий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бурлацкий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приходящий. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "1 км. от д. Нагорской теплогорье, поле Бурла́цкое, т. е. приходящих людей...", 
+          "tag": "quote", 
+          "normalized_content": "1 км. от д. нагорской теплогорье, поле бурлацкое, т. е. приходящих людей..."
+        }, 
+        {
+          "content": ".». М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

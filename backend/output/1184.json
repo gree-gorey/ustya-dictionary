@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выпахать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́пахать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпахать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подмести пол, под у русской печи и т. д.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́паши трубку от сажи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выпаши трубку от сажи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "паха́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пахать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "титешный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ти́тешный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "титешный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грудной (о ребенке).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

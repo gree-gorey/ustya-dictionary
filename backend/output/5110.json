@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "оновды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оно́вды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оновды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оновды́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оновдысь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оногда́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оногдась"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оно́гды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оногды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оно́́́гдысь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оногдысь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оногды́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оногдысь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ино́вды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иновды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ино́гды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иногды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ино́гдысь-то́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иногдысь-то"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не так давно, несколько дней назад.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оно́гды такая па́дёра была, што све́ту бе́лого не видно было! Оногды́сь витёр сильный был. Оно́́́гдысь я к ей заходи́́́ла: фсё лёжы́́́т, уж не подыма́́́ётце. Ино́гды весь вечор проба́ели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оногды такая падера была, што свету белого не видно было! оногдысь витер сильный был. оногдысь я к ей заходила: фсе лежыт, уж не подымаетце. иногды весь вечор пробаели."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

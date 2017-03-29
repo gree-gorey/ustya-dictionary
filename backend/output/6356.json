@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прочухать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прочу́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прочухать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узнать, получить известие.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где он об этом прочу́хал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где он об этом прочухал?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

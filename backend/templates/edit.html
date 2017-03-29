@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>Редактирование</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,300,700&subset=latin,cyrillic-ext,cyrillic'
+          rel='stylesheet' type='text/css'>
+    {#    <link rel="stylesheet" type='text/css' href="{{ url_for('static', filename='css/font.css') }}">#}
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/switch.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
+
+    <!-- JS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    {#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>#}
+    {#    <script src="http://rubaxa.github.io/Sortable/Sortable.js"></script>#}
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/Sortable.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/sort.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/droid-serif-n4,i4,n7,i7-all.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/differentViews.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/urlVariablesHandler.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/disable.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/interaction.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/search.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/edit.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/parse.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/local.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/newEntry.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/addChar.js') }}"></script>
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+
+</head>
+<body>
+
+<!-- Primary Page Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div class="container">
+    <div class="row menu">
+        <div class="twelve columns" id="menu">
+            <input type="button" class="login-button search-button" value="главная" onClick="window.location='/';"/>
+            <input type="button" class="login-button search-button" value="поиск" onClick="window.location='/search';"/>
+            <input type="button" class="login-button search-button" value="все статьи"
+                   onClick="window.location='/explore?slice=0';"/>
+            <input type="button" class="login-button search-button" value="скачать"
+                   onClick="window.location='/download';"/>
+            <input type="button" id="new-entry" class="login-button search-button" value="новая статья"
+                   onClick="window.location='/edit?edit=new';"/>
+            <span id="greeting"></span>
+            <span id="name"></span>
+            <input id="logButton" type="button" class="login-button" value="log in"
+                   onClick="window.location='/login';"/>
+        </div>
+    </div>
+</div>
+
+<div class="container entry-header">
+
+    <div class="row">
+        <div class="twelve columns header-row">
+            <span class="badge header-badge" id="header">header</span>
+            <span class="space"></span>
+            <label class="switch switch-slide switch-translation switch-type">
+                <input class="switch-input" type="checkbox" id="type">
+                <span class="switch-label translation-label type-label" data-on="фразеологизм" data-off="слово"></span>
+                <span class="switch-handle"></span>
+            </label>
+        </div>
+    </div>
+
+    <div id="forms" class="list-group"></div>
+
+    <div class="row form-row">
+        <div class="twelve columns">
+
+            <input id="addForm" type="button" class="add-button" onClick="addNewFormInHeader();" value="Add form">
+            <span class="space"></span>
+            <input id="addPos" type="button" class="add-button" onClick="addNewPosInHeader();" value="Add pos">
+            <span class="space"></span>
+            <input id="addStyles" type="button" class="add-button" onClick="addNewStyleInHeader();" value="Add styles">
+            <span class="space"></span>
+            <input id="addPlaces" type="button" class="add-button" onClick="addNewPlaceInHeader();" value="Add places">
+
+        </div>
+    </div>
+
+
+</div>
+
+<div id="senses"></div>
+
+{#  <div class="container entry-container ">#}
+<div class="container button-container">
+    <div class="row">
+        <div class="twelve columns">
+
+            <input type="button" class="new-sense add-button" onClick="addNewSense();" value="Новое значение">
+            <span class="space"></span>
+            <input type="button" class="add-button" onClick="previewEntry();" value="Предпросмотр">
+            <span class="space"></span>
+            <input type="button" class="add-button save-button" onClick="showSureBox();" value="Сохранить">
+            <span class="space"></span>
+            <input type="button" id="delete" class="add-button login-button delete-entry-button"
+                   onClick="showSureDeleteBox();" value="Удалить">
+
+        </div>
+    </div>
+</div>
+
+<div class="modal"></div>
+
+<div id="sureMessage" class="modal-dialog">
+    <div class="modal-content">
+        <p style="text-align: center;">Вы уверены, что хотите сохранить изменения?</p>
+        <div style="text-align: center;">
+            <input type="button" class="add-button save-button" onClick="hideSureBox();saveEntry();" value="Сохранить">
+            <span class="space"></span>
+            <input type="button" class="add-button" onClick="hideSureBox();" value="Отмена">
+        </div>
+    </div>
+</div>
+
+<div id="successMessage" class="modal-dialog">
+    <div class="modal-content">
+        <p id="message" style="text-align: center;">Статья успешно сохранена!</p>
+        <div style="text-align: center;">
+            <input type="button" id="ok" class="add-button save-button" value="OK">
+        </div>
+    </div>
+</div>
+
+<div id="sureDeleteMessage" class="modal-dialog">
+    <div class="modal-content">
+        <p style="text-align: center;">Вы уверены, что хотите удалить эту статью?</p>
+        <div style="text-align: center;">
+            <input type="button" class="add-button save-button" onClick="hideSureDeleteBox();deleteEntry();"
+                   value="Удалить">
+            <span class="space"></span>
+            <input type="button" class="add-button" onClick="hideSureDeleteBox();" value="Отмена">
+        </div>
+    </div>
+</div>
+
+<div id="successDeleteMessage" class="modal-dialog">
+    <div class="modal-content">
+        <p id="messageDelete" style="text-align: center;">Статья успешно удалена!</p>
+        <div style="text-align: center;">
+            <input type="button" id="okDelete" class="add-button save-button" value="OK">
+        </div>
+    </div>
+</div>
+
+<div class="keyboard" id="add">
+    <input id="acute" type="button" class="login-button search-go key" value="́"/>
+    <input id="short-u" type="button" class="login-button search-go key" value="ў"/>
+    <input id="caps-short-u" type="button" class="login-button search-go key" value="Ў"/>
+</div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

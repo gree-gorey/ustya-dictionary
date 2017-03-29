@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "облапошить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Облапо́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "облапошить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обмануть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "облапо́шивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "облапошивать"
+        }, 
+        {
+          "content": "Цыганке я поверила, а она меня облапо́шила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цыганке я поверила, а она меня облапошила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

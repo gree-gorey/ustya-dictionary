@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "юркий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ю́ркий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юркий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проворный, быстрый, подвижный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он с детства такой ю́ркий. Скворцы-то какие ю́ркие!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он с детства такой юркий. скворцы-то какие юркие!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "канючить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Каню́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "канючить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "клянчить, ныть; надоедливо просить о чем-то. От имени птицы: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́́́ня", 
+          "tag": "quote", 
+          "normalized_content": "каня"
+        }, 
+        {
+          "content": "», канюк.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

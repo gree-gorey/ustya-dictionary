@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "берегчись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Берегчи́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "берегчись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беречься, заботиться о себе (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поберегчи́сь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поберегчись"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уберегчи́сь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уберегчись"
+        }, 
+        {
+          "content": "Надо-то ведь берегчи́сь, а ты разде́той ходишь! Не мог уберегчи́сь, простыл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо-то ведь берегчись, а ты раздетой ходишь! не мог уберегчись, простыл."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

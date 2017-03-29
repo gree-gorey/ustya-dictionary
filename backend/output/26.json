@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "алой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ало́й", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "алой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "аналой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В церкви вокруг ало́я водили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в церкви вокруг алоя водили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

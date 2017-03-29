@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рушить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ру́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рушить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молоть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бу́́́дёш в сту́́́пе зерно́́́ ру́́́шить, а за́́́спу, му́́́цьку-ту отди́́́льно соберё́́́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будеш в ступе зерно рушить, а заспу, муцьку-ту отдильно соберем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

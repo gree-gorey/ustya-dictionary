@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "повадить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пова́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повадить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приучить, разрешить, позволить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "испова́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исповадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прива́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "привадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прива́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приваживать"
+        }, 
+        {
+          "content": "Пова́дили собаку в ы́збу запускать! Испова́дили робёнка, вот тепере сами с им и му́чайтесь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "повадили собаку в ызбу запускать! исповадили робенка, вот тепере сами с им и мучайтесь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "отвадить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отвадить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

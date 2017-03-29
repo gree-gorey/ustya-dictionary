@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "дупло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дупло́́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дупло"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дупля́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дупля"
+      }
+    ], 
+    "style": [
+      "перен.", 
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толстая неповоротливая женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё ищо́ не обреди́лась? Э́ка ты па́ре дупля́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все ищо не обредилась? эка ты паре дупля!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

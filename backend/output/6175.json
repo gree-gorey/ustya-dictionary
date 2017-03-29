@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "признеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Призне́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "признеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "призня́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "признять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приподнять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Призьне́́́ть бы на́́́до до́́́м-от, призьне́́́ть – веть просе́́́ў уш.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "призьнеть бы надо дом-от, призьнеть – веть просеу уш."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

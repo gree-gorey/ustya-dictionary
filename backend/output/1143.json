@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "выказать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́́́казать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выказать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "извы́́́казать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "извыказать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "показать что-либо (вещи, наряды и т. д.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она мне все свои украшения вы́казала, всё извы́казала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она мне все свои украшения выказала, все извыказала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") показать, проявить себя своим поведением перед другими. Обычно говорится в отношении того, чье поведение критикуется.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль не зё́́́ў", 
+          "translation": "(зол)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль не зеу"
+        }, 
+        {
+          "content": "о́́́н-то – добро́́́ фцера́́́сь себя́́́ вы́́́казаў, добро́́́!", 
+          "tag": "quote", 
+          "normalized_content": "он-то – добро фцерась себя выказау, добро!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "каза́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "казать"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

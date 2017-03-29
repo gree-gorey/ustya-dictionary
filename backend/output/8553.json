@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "шиворот-навыворот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́ворот-навы́ворот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шиворот-навыворот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "все наоборот, все не так, как надо.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шки́рка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шкирка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

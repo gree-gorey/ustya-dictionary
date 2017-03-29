@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кореньговатый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кореньго́ватый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кореньговатый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коренькова́тый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кореньковатый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кривое сучковатое нестроевое дерево.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В той низине лес кореньгова́той.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в той низине лес кореньговатой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

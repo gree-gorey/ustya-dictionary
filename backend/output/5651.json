@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "плотник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Плотни́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плотник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "от слова плотный твердое, плотное место, упор.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гвозди лучше забивать к пло́тнику.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гвозди лучше забивать к плотнику."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

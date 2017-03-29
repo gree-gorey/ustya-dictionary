@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "выступать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выступа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выступать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "впадать ( реке, ручье)", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Починовская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Родник выступа́ёт в ручей Ка́ргов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "родник выступает в ручей каргов."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

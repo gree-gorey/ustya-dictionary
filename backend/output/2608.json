@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "засвежо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́свежо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засвежо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сразу, тотчас.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пятно-то замой за́свежо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пятно-то замой засвежо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

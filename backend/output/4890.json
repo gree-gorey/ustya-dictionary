@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "обдергушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обдергу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обдергушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обздергу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обздергушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поздергу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поздергушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обдерга́йчик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обдергайчик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старая, маловатая по размеру одежда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сними эту обздергу́шку, как бутто боле не́чево одеть. Это разве куртка? Обдергу́шка какая-то. Где экой обдерга́йчик-то взяла?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сними эту обздергушку, как бутто боле нечево одеть. это разве куртка? обдергушка какая-то. где экой обдергайчик-то взяла?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

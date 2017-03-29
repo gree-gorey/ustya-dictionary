@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "загустнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загу́стнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загустнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стать более густым.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кисель пора́то загу́с.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кисель порато загус."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

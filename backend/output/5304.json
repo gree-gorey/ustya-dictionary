@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "отселя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отсе́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отселя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсе́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсель"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсю́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсюль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсю́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсюля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсю́дова", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсюдова"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оте́туль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отетуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отэ́туль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отэтуль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отсюда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поди́́́те-ко отсю́́́дова – и без ва́́́с те́́́сно!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подите-ко отсюдова – и без вас тесно!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "здешний, местный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да этот мужик-от неотсе́ля.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да этот мужик-от неотселя."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

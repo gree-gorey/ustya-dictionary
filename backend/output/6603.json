@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рехнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рехну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рехнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "из ума выжить, делать что-то плохое, несуразное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сосед совсем рехну́лсе, всю ночь на гармошке играл, спать никому не давал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сосед совсем рехнулсе, всю ночь на гармошке играл, спать никому не давал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

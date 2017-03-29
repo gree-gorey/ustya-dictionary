@@ -1,0 +1,119 @@
+{
+  "field_for_sorting": "эко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́ко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "эко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот как, вот какое(ая).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́ко сердце коло́тится…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(песня)", 
+          "normalized_content": "эко сердце колотится…"
+        }, 
+        {
+          "content": "вот как (сильно).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́ко сказану́́́ла – у́́́ши вя́́́нут! Э́ка вода-то но́не, всю деревню затопи́ло", 
+          "translation": "вот какая (большая).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко сказанула – уши вянут! эка вода-то ноне, всю деревню затопило"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подумаешь, какое(ая).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́ко дело, со всеми бываёт. Э́ко ди́во! Э́ка важность. Э́ка не́видаль.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко дело, со всеми бывает. эко диво! эка важность. эка невидаль."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "такое(ая).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́ко ма́ленько", 
+          "translation": "такое маленькое.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко маленько"
+        }, 
+        {
+          "content": "Э́́́ко нищо́́́-то завело́́́се, а чи́́́вкать, дак как больша́́́я! Що в э́ку дорогу задумал-то итти-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко нищо-то завелосе, а чивкать, дак как большая! що в эку дорогу задумал-то итти-то?"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "это.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо э́ко-то?", 
+          "translation": "что это?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо эко-то?"
+        }, 
+        {
+          "content": "Шщо э́́́ко вы́́́думаў-то? Што э́ка за беда-та случилась?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо эко выдумау-то? што эка за беда-та случилась?"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

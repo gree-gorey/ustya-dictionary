@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "костать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́стать", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "костать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "идти едва, через силу, с болью в ногах (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прико́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прикостать"
+        }, 
+        {
+          "content": "Едва прико́стала до мага́зина, в лисе-то уж не бывать сейгод.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "едва прикостала до магазина, в лисе-то уж не бывать сейгод."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

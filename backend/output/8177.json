@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "холодишша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Холоди́шша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "холодишша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "холодры́га", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "холодрыга"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "холоди́́́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "холодина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мороз, холод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дожь, се́вёр, холоди́шшо! Така́́́я холодры́́́га на у́́́лице, но́́́су бы не каза́́́ў на во́́́лю!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дожь, север, холодишшо! такая холодрыга на улице, носу бы не казау на волю!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

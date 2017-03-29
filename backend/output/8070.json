@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "фурысить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фуры́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "фурысить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "фуры́ситься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "фурыситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дуться, обижаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расфуры́ситься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расфурыситься"
+        }, 
+        {
+          "content": "Фуры́́́сить-то она́́́ сама́́́ не своя́́́, наду́́́ётце, дак надо́́́ўго. Ну, расфуры́силсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фурысить-то она сама не своя, надуетце, дак надоуго. ну, расфурысилсе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

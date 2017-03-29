@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "лавица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́вица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лавица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скамья вдоль стены в избе.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ла́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лавка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "небольшая стационарно закрепленная скамья у русской печи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сади́́́сь-ко на ла́́́вицу-ту, в нога́́́х пра́́́вды не́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись-ко на лавицу-ту, в ногах правды нет."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скамья в бане.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гря́́́зную-ту одё́́́жу на ла́́́вицу поло́́́жь, а ци́́́стую на гря́́́дку пови́́́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грязную-ту одежу на лавицу положь, а цистую на грядку повись."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

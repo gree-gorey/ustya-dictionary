@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "ладиться1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́диться 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ладиться 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жить в согласии (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "зала́диться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "заладиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "нала́диться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "наладиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "подла́диться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "подладиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "прила́диться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "приладиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сла́диться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сладиться"
+        }, 
+        {
+          "content": "Пожили они немного, да що-то у них не зала́дилось. Ужо время пройдёт, дак может всё и сла́дится.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пожили они немного, да що-то у них не заладилось. ужо время пройдет, дак может все и сладится."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выглядывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выгля́дывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выглядывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпрашивать взглядом, ожидать чего-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завыгля́дывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завыглядывать"
+        }, 
+        {
+          "content": "Пришёл ко мне парнёк, да и выгля́дываёт, как бы чево дали. Тебя веть угости́ли, ты опеть завыгля́дывал!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришел ко мне парнек, да и выглядывает, как бы чево дали. тебя веть угостили, ты опеть завыглядывал!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

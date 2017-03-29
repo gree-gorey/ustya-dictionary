@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скури́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгнать (самогон, вино).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вино скури́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вино скурить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

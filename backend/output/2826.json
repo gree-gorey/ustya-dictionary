@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "зобенька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зобе́нька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зобенька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зыбе́нька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зыбенька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зобня", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зобня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плетеная корзинка (из лыка, виц, дранки). Из ивняка и дранки зобеньки стали плести позже, чем из лыка. Предназначена для переноски не только ягод и грибов, но и других продуктов питания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наложила зобе́ньку муки", 
+          "translation": "(луку, сухарей).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наложила зобеньку муки"
+        }, 
+        {
+          "content": "По́́́ўную зобе́́́ньку церни́́́цы", 
+          "translation": "(черники)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поуную зобеньку церницы"
+        }, 
+        {
+          "content": "принёсла́́́.", 
+          "tag": "quote", 
+          "normalized_content": "принесла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "сортовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сортова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сортовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "распиливать деревья (хлысты) на бревна заданного размера.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

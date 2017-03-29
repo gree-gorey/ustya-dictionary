@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "упичкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упи́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "упичкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замарать, запачкать, загрязнить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́́́ть-то все́́́-то шщаны́́́-то упи́́́чкаў! На тебя на напасё́́́шься (не наберё́́́шься) одё́́́жи-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть-то все-то шщаны-то упичкау! на тебя на напасешься (не наберешься) одежи-то!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пи́чкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пичкать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "шуметь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шуме́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шуметь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить (в диалоге).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "спорить, ссориться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дошуме́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дошуметь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зашуме́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашуметь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошуме́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошуметь"
+        }, 
+        {
+          "content": "Бабы да́ве до чево дошуме́ли в мага́зине, что хлеб худо́й во́зят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабы даве до чево дошумели в магазине, что хлеб худой возят."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

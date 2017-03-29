@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скружаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скружа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скружаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заблудиться в лесу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну ника́к жо не ду́мала в э́том ми́сте скружа́тце, да веть окружа́лась цисто фся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну никак жо не думала в этом мисте скружатце, да веть окружалась цисто фся."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "окружа́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "окружать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

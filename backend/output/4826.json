@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "ничтонедоспелось", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ничто́ не доспе́лось", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "ничто не доспелось"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ничего не случилось.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што ему? Ништо́ не доспе́лось. Живёт – только о себе думаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што ему? ништо не доспелось. живет – только о себе думает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

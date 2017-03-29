@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "гумус", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гу́мус", 
+        "place": [
+          "Плесо"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "гумус"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "набойка из лосиной кожи на скользящую поверхность лыжи.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

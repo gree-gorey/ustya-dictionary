@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "поддежить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поддё́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поддежить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подцепить, зацепить, захватить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "поддё́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поддеживать"
+        }, 
+        {
+          "content": "Ведро в реке утону́ло, надо чем-то ёво́ поддё́жить и вы́волокчи, пока течением не уклуба́нило.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ведро в реке утонуло, надо чем-то ево поддежить и выволокчи, пока течением не уклубанило."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

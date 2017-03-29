@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "осадить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осади́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осадить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "осажа́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "осажать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плотно подогнать бревно в пазах сруба.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "удержать от совершения какого-либо действия, поступка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Некак не могла ево осади́ть, вот у́прямь-то какой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некак не могла ево осадить, вот упрямь-то какой!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "резко остановить бегущую лошадь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коня на скаку́ осади́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коня на скаку осадил."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

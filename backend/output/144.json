@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "бася–бася", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ся–ба́ся", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бася–бася"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для овец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ба́си, ба́сеньки, пойдёмте же домой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баси, басеньки, пойдемте же домой."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ба́сеньки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "басеньки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

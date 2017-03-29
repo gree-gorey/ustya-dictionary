@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "забегаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забе́гаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забегаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "убе́гаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "убегаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За день цисто вся забе́галась, вся не могу́! Робята за день-то до тово добе́гали, що все убе́гались.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за день цисто вся забегалась, вся не могу! робята за день-то до тово добегали, що все убегались."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

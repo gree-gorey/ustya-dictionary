@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "леха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лёха́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "леха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полоса, загон пашни от одной борозды до другой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "полоса пашни, равная по ширине занятой разбросанными вручную семенами за один проход сеяльщика.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

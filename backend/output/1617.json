@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "датьспасибо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дать спаси́бо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дать спасибо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отблагодарить, дать ответный подарок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гости отъедут, да спасибо даду́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гости отъедут, да спасибо дадут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

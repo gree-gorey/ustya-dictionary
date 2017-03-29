@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "толком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́лком", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толком"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень хорошо, как следует.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Любую работу надо делать то́лком.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "любую работу надо делать толком."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

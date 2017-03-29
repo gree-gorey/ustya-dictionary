@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "слопать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сло́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слопать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро и жадно все съесть.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ло́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лопать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

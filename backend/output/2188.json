@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жихровать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жихрова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жихровать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жить не прибедняясь, при случае, за чужой счёт.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ноне многие жихру́ют, только непонятно где что и берут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ноне многие жихруют, только непонятно где что и берут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

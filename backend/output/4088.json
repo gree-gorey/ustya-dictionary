@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "мало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного, недолго (по отношению ко времени).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́ло со мной по́жил", 
+          "translation": "недолго жил со мной (о муже, который погиб на войне).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мало со мной пожил"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "редко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сидя́т дома, в людях ма́ло бывают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сидят дома, в людях мало бывают."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

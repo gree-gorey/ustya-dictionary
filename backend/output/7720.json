@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "трубка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тру́бка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трубка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "часть печного дымохода внутри помещения (снаружи", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "труба", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "труба"
+        }, 
+        {
+          "content": "́́́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }, 
+        {
+          "content": "Тру́бку надо почистить, вся са́жей заби́та. Тру́́́бку-ту уш на́́́до бы побели́́́ть, сцерне́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "трубку надо почистить, вся сажей забита. трубку-ту уш надо бы побелить, сцернела."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") печная задвижка для перекрытия дымохода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Закро́́́й тру́́́бку-ту, уш ни уголька́́́ нет в пе́́́цьке-то – всё тёпло́́́ вы́́́несёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрой трубку-ту, уш ни уголька нет в пецьке-то – все тепло вынесет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "задви́жка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "задвижка"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

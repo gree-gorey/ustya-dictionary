@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "свиристелка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Свиристе́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свиристелка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "свисту́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свистушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплетница, насмешница, пустышка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

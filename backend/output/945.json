@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ворошиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вороши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ворошиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шевелиться, вертеться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завороши́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заворошиться"
+        }, 
+        {
+          "content": "Да хватит тибе вороши́ться, спи давай", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да хватит тибе ворошиться, спи давай"
+        }, 
+        {
+          "content": "Ребёнок что-то во время сна завороши́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребенок что-то во время сна заворошился."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "шокоти́́́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шокотиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

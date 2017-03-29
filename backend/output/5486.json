@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "перебирать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перебира́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перебирать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сортировать, отделять мусор и примеси (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перебра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наперебира́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наперебирать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поперебира́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поперебирать"
+        }, 
+        {
+          "content": "Вон целая корзина грибов стоит, надо перебира́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон целая корзина грибов стоит, надо перебирать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "чувствовать зубную боль во многих или нескольких зубах одновременно или поочередно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зубы перебираёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зубы перебирает."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

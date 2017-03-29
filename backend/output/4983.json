@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "обчичикать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обчичи́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обчичикать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остричь, укоротить сильнее, чем нужно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто тебя так обчичи́кал, на бара́шка похож стал!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто тебя так обчичикал, на барашка похож стал!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обмануть, провести, надуть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "провернув дело, что-либо взять себе, захватить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне вдвоём обчичи́кали это дело, а тебя подста́вили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне вдвоем обчичикали это дело, а тебя подставили."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

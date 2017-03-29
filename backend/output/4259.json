@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "морозить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моро́зить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "морозить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тарака́́́нов", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тараканов"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "метод борьбы с тараканами: оставлять помещение нетопленным на несколько дней в холодное время (зимой). На это время семья переселяется в другое место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тараканов моро́зят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тараканов морозят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

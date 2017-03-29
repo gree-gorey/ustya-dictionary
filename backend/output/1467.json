@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "горбыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Горбы́ш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горбыш"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "горбышо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "горбышок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая возвышенность на местности.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

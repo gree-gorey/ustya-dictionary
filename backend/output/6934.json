@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "сифонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сифо́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сифонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сквозить, дуть, тянуть стужей (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "просифо́нить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "просифонить"
+        }, 
+        {
+          "content": "Не стой на ветру́, а то жи́во просифо́нит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стой на ветру, а то живо просифонит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

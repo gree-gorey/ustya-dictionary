@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "врать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Врать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "врать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "показывать неправильное время (о часах).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "идти́ по угоро́ду", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "идти по угороду"
+        }, 
+        {
+          "content": "Часы-те врут, не гледи на их.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "часы-те врут, не гледи на их."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

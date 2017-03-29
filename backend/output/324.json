@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "божата", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Божа́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "божата"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "божа́тка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "божатка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "божа́тушка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "божатушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крестная мать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Божа́тка придёт дак ка́жной раз с гостинцем!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "божатка придет дак кажной раз с гостинцем!"
+        }, 
+        {
+          "content": "Иногда выступает как составляющая имени: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Настя-божа́тка", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "настя-божатка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

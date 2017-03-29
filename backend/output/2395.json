@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зазимок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́зимок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зазимок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "первый снег, выпавший на талую землю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По за́зимку охотники добывают зайцев.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по зазимку охотники добывают зайцев."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,161 @@
+{
+  "field_for_sorting": "средить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Среди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "средить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сряди́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "срядить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "сряжа́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сряжать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одеть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снареди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "снаредить"
+        }, 
+        {
+          "content": "Среди́́́ робё́́́нка-та потепля́́́е, ви́́́тёр на у́́́лице. Уж больно тёпло робёнка-то снареди́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "среди робенка-та потепляе, витер на улице. уж больно тепло робенка-то снаредила!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нарядить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снареди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "снаредить"
+        }, 
+        {
+          "content": "Ку́́́рицу не накорми́́́ть – ба́́́бу не сряди́́́ть", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "курицу не накормить – бабу не срядить"
+        }, 
+        {
+          "content": "Надо дефку завтра снареди́ть на празник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо дефку завтра снаредить на празник."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "завести приданое (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снареди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "снаредить"
+        }, 
+        {
+          "content": "Девку надо среди́ть (снареди́ть), уже невестой стано́витце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "девку надо средить (снаредить), уже невестой становитце."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "собрать в путь-дорогу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снареди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "снаредить"
+        }, 
+        {
+          "content": "Мужика надо в дорогу среди́ть (снареди́ть).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужика надо в дорогу средить (снаредить)."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "накрыть (стол).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабушке-то 90 стукнёт, дак надо стол среди́ть (сряжа́ть).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабушке-то 90 стукнет, дак надо стол средить (сряжать)."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

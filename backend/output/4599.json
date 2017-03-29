@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "насносях", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наснося́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насносях"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "последний период беременности перед близкими родами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

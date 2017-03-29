@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "шистик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́стик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шистик"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "ши́стики", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "шистики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебель речного тростника.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я тебе сделаю из ши́стиков у́точку", 
+          "translation": "(игрушку ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я тебе сделаю из шистиков уточку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

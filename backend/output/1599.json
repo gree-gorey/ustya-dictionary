@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "дадено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Да́дено", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дадено"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пода́дено", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подадено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дано, подано.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тебе даве да́дено было", 
+          "translation": "тебе недавно подано.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе даве дадено было"
+        }, 
+        {
+          "content": "Тебе да́дено, так ты и е́́шь! Пода́дено тебе было, ищо просишь", 
+          "translation": "(о животных).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе дадено, так ты и ешь! подадено тебе было, ищо просишь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

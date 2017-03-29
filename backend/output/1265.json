@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выхлопать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́хлопать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выхлопать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вытрясти, выбить пыль из половиков и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Половики́ сходи вы́хлопай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "половики сходи выхлопай."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хло́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хлопать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

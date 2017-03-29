@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "колотовато", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колотова́то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колотовато"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наличие на дороге", 
+          "tag": "def"
+        }, 
+        {
+          "content": "колото́вья", 
+          "tag": "quote", 
+          "normalized_content": "колотовья"
+        }, 
+        {
+          "content": ", по которому неудобно ехать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На дороге колотова́то, всё поло́зьё мо́жно наруши́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на дороге колотовато, все полозье можно нарушить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "колото́вье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колотовье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

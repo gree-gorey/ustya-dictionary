@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сыте–сыте", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сы́те–сы́те", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сыте–сыте"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приговаривали коровам, чтобы лучше ели.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тпрука́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тпрука"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

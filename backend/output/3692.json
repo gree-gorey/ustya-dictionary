@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крутобай", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крутоба́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крутобай"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прозвище человека, который много и необдуманно говорит.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да що ты слушаёшь этово крутоба́я, он тибе всево наговорит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да що ты слушаешь этово крутобая, он тибе всево наговорит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

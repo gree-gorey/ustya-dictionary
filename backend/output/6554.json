@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "растыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расты́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "растыкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разрушить палкой осье гнездо и т. п.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разбудить спящего человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́ко, расты́чь Егори́на-та, ёму пора на роботу встава́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко, растычь егорина-та, ему пора на роботу вставать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

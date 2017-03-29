@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вото", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вото"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во́то где он спря́таўсе! Во́то как оно вы́шло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вото где он спрятаусе! вото как оно вышло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

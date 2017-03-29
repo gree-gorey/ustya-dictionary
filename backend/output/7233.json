@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "споймать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спойма́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "споймать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поймать, изловить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Игра́́́йте-ко, игра́́́йте, спойма́́́йте-ко друк дру́́́жку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "играйте-ко, играйте, споймайте-ко друк дружку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

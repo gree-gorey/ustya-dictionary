@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "кухтать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́хтать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кухтать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заку́хтать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "закухтать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кутать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уку́хтать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "укухтать"
+        }, 
+        {
+          "content": "Погода-то тёплая, не надо так ку́хтать робёноцка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "погода-то теплая, не надо так кухтать робеноцка."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "покрывать снегом", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лес заку́хтало снегом, деревьев не видно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лес закухтало снегом, деревьев не видно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ку́хта", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кухта"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

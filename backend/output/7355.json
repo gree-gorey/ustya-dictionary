@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "стрекаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стрека́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стрекаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лягаться.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стрека́нуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стрекануть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

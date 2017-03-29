@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "очухаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очу́хаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очухаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прийти в себя после стресса, переживаний, болезни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "После всех передря́г он еле очу́халсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после всех передряг он еле очухалсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "расчу́хать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "расчухать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

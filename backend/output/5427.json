@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "пасмо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́смо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пасмо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мера счисления ниток в мотке пряжи для тканья. В пасме бывает 30", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ци́смениц", 
+          "tag": "quote", 
+          "normalized_content": "цисмениц"
+        }, 
+        {
+          "content": "по 3 нитки в каждой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

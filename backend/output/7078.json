@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "смехота", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смехота́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смехота"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "смехоти́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "смехотина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "посмешище.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не жизь, а смехота́ одна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не жизь, а смехота одна."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

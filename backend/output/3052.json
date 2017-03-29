@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "испохабить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испоха́бить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испохабить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испортить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С таким отношением можно любое дело испоха́бить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с таким отношением можно любое дело испохабить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "поноси́ть, ругать позорными словами (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "поха́бить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похабить"
+        }, 
+        {
+          "content": "Нечево мужика поха́бить, и так всево испоха́била на людях!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево мужика похабить, и так всево испохабила на людях!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

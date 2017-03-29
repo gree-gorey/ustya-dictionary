@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доскольки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До скольки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до скольки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до какого часа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До скольки́ ты будёшь здись робить?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до скольки ты будешь здись робить?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

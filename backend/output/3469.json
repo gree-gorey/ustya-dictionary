@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кормач", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корма́ч", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кормач"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работник, раздающий корм скоту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Другую зиму кормачо́м на матафе́ роблю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "другую зиму кормачом на матафе роблю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

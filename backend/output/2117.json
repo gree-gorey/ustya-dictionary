@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "мужскаялавка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мужска́я ла́вка", 
+        "place": [
+          "Подгорная"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "мужская лавка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лавка, расположенная в доме у стены вдоль половиц.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "же́нская ла́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "женская лавка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

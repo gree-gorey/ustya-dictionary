@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "красивый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Краси́вый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красивый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ведренный день с ясной солнечной погодой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Краси́вые дни бывают и поздней осенью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "красивые дни бывают и поздней осенью."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хороший, удобный, с приятным видом", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дубровская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Краси́вая пожня, краси́вая дорога.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "красивая пожня, красивая дорога."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

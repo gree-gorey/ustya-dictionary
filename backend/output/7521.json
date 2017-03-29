@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "тарапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тара́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тарапать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толкать в емкость с усилием (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натара́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натарапать"
+        }, 
+        {
+          "content": "Тара́пай в мешок куделю ищо сильняе-то, ищо вли́зёт. Ну чево ты тара́паёшь в кото́мку ищо ла́пти, коль они туды не ле́зут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тарапай в мешок куделю ищо сильняе-то, ищо влизет. ну чево ты тарапаешь в котомку ищо лапти, коль они туды не лезут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

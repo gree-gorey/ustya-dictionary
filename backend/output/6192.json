@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "прилука", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прилу́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прилука"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прилу́́́чина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прилучина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "излучина реки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ме́́́жду Бу́́́дрином да Прилу́́́ками – больша́́́я прилу́́́чина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "между будрином да прилуками – большая прилучина."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

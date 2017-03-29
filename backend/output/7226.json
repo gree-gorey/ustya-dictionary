@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "сплывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сплыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сплывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сплы́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сплыть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро возникнуть, вздуться, вскочить (шишке, чирью, волдырю, нароговице).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "соскочи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "соскочить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "скочи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скочить"
+        }, 
+        {
+          "content": "Вот вишь у тебя какая наро́говица на лбу сплыла́, надо к ей пята́к приложи́ть, а то ищо боле будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот вишь у тебя какая нароговица на лбу сплыла, надо к ей пятак приложить, а то ищо боле будет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тайному становится явным.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот ведь, сколько времени прошло, а всё равно это дело сплыло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот ведь, сколько времени прошло, а все равно это дело сплыло."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

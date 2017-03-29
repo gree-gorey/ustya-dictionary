@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "бестолковка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бестолко́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бестолковка"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глупая, неразумная; сделавшая что-либо необдуманно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну ты и бестолко́вка, опять всё перепу́тала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну ты и бестолковка, опять все перепутала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") голова (глупая).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пороскинь бестолко́вкой-то!", 
+          "translation": "подумай своей головой.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пороскинь бестолковкой-то!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

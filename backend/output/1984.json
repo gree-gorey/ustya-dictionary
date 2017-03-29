@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "едной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́дной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "едной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "один.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хоть бы е́дную конфетку робёночку принёс.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хоть бы едную конфетку робеночку принес."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "е́днова", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "еднова"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "е́дново", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "едново"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

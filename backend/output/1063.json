@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "втемную", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Втё́мную", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втемную"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в темноте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево сидишь втё́мную, слепи́шьсе, зажги́ лампу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево сидишь втемную, слепишьсе, зажги лампу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

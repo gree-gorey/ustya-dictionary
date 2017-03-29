@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "разводы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разво́ды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разводы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узоры.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Продают ситец с баскими разво́дами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "продают ситец с баскими разводами."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пятна, грязные полосы (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "потё́ки", 
+          "tag": "quote", 
+          "normalized_content": "потеки"
+        }, 
+        {
+          "content": ") на различных поверхностях (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "разво́дье", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "разводье"
+        }, 
+        {
+          "content": "Окна помыли худо, на стёклах разво́дьё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "окна помыли худо, на стеклах разводье."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

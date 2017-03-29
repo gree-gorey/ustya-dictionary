@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "енерал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Енера́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "енерал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "генерал.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К нам в район издят на охоту енера́лы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к нам в район издят на охоту енералы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

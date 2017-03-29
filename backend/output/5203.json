@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "оснимывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осни́мывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оснимывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обсни́мывать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обснимывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "осыма́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "осымать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свежевать, снимать шкуру с убитого животного, очищать тушу от внутренностей, потрохов (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оснима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оснимать"
+        }, 
+        {
+          "content": "Бери́́́-ко коточи́́́г, да пошли́́́ быстря́́́е осни́́́мывать сви́́́шку-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бери-ко коточиг, да пошли быстряе оснимывать свишку-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

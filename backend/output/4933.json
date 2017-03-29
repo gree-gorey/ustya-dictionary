@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обознаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обозна́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обознаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не узнать человека, принять его за другого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, дефка, я обозна́ласе, думала ты Марьина сноха.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, дефка, я обозналасе, думала ты марьина сноха."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

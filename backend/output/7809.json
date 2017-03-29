@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "убираться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Убира́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "убираться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "убра́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "убраться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наводить порядок, прибирать в доме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, наконец, хоть в избе убрала́сь, всё руки не доходи́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, наконец, хоть в избе убралась, все руки не доходили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "управляться со скотом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "умереть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

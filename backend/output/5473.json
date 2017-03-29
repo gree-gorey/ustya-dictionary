@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "пензия", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́нзия", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пензия"
+      }
+    ], 
+    "style": [
+      "реч. ош."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пенсия.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уш давно́́́ на пе́́́нзии сижу́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уш давно на пензии сижу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

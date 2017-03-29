@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "спросонья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спросо́нья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спросонья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спросонок, сразу же после сна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я спросо́нья тибя не узнала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я спросонья тибя не узнала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

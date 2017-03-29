@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "благовестить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бла́говестить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "благовестить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возвещать колоколом о службе церковной.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

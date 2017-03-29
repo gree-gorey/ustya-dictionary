@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "щелбан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щёлба́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щелбан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удар пальцами по лбу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты проигра́́́ў, тепе́́́ре мой черё́́́д щёлбана́́́ тибе́́́ дава́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты проиграу, тепере мой черед щелбана тибе давать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

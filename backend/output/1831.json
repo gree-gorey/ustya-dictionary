@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дорогойгриб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дорого́й гриб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дорогой гриб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "белый гриб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дороги́х грибо́в-то поўно́ на бору́ но́не.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дорогих грибов-то поуно на бору ноне."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

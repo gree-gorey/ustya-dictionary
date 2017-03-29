@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "мараковать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Маракова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мараковать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "думать, прикидывать, намечать план (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обмаракова́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обмараковать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "помаракова́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "помараковать"
+        }, 
+        {
+          "content": "Приходи́ ко мне дак вми́сте помараку́ём, как лу́тше сро́бить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приходи ко мне дак вмисте помаракуем, как лутше сробить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

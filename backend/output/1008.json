@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вразумиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вразуми́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вразумиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "образуми́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "образумиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "осознать, понять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да шчо ж ты не вразу́мишсе?", 
+          "translation": "да что ж ты все никак не поймешь (не бросишь пить, например)?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да шчо ж ты не вразумишсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

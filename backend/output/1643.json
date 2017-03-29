@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "двужильный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двужи́льный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двужильный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "двухжи́льный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "двухжильный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обладающий большой силой и выносливостью человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он двужи́льный, ему всё нипочём, справится с любым делом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он двужильный, ему все нипочем, справится с любым делом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

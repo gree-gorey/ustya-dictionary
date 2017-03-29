@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сма́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смалиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чесаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чем сидить да сма́литьсе, дак побега́й-ко в баню-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чем сидить да смалитьсе, дак побегай-ко в баню-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "завиденбольно!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зави́дён больно!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завиден больно!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорили о человеке, имеющем выраженную склонность к зависти.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Зави́дный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "завидный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 3
+}

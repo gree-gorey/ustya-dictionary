@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кропкий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кро́пкий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кропкий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хрупкий, ломкий, непрочный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ольхи – кро́пкая древесина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у ольхи – кропкая древесина."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "наложить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наложи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наложить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наложи́́́-ко ку́́́ртку-то, тепля́́́е бу́́́дёт. Нало́жь-ко эту-ту рубаху-ту, она любя́е будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наложи-ко куртку-то, тепляе будет. наложь-ко эту-ту рубаху-ту, она любяе будет."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "наволо́чь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "наволочь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

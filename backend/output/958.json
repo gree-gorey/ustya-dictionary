@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "вострюк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вострю́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вострюк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заострённая часть ствола дерева или сучьев на месте их излома, представляющая опасность пораниться людям и животным.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

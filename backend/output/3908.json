@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "лешо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ле́́́шо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лешо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лешо́ (бы)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лешо (бы)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лешшо́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лешшо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лишо́ (бы)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лишо (бы)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лишь (бы); только.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Крути́́́ўсе, крути́́́ўсе на крова́́́те да как свёрну́́́ўсе – ле́́́шо збря́́́кало. Лешо́ бы воккура́т", 
+          "translation": "лишь бы в самый раз.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "крутиусе, крутиусе на кровате да как свернуусе – лешо збрякало. лешо бы воккурат"
+        }, 
+        {
+          "content": "А мне тепе́́́ре цево́́́ на́́́до? Лешшо́́́ бы обсти́́́рывали, да в ба́́́не мы́́́ли, да пои́́́сь дава́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а мне тепере цево надо? лешшо бы обстирывали, да в бане мыли, да поись давали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

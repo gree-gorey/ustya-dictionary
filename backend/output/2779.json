@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "земля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Земля́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "земля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "цвет фона вокруг узора или рисунка на ткани.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ситец белым горошком по синей земле́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ситец белым горошком по синей земле."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

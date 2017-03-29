@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "четырехуголый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Четырехуго́́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "четырехуголый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "четырехугольный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Четырёхуго́лой угоро́дец.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "четырехуголой угородец."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "багры", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Багры́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "багры"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "руки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Багры́-то неле́шево не служат.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "багры-то нелешево не служат."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "буланый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Була́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "буланый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "масть лошадей: желто-песочный, золотистый цвет корпуса, черные ноги, грива и хвост.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

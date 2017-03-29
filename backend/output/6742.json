@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "самособой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́мо собо́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "само собой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так и есть, разумеется.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это уж са́мо собо́й, магары́ч с тебя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это уж само собой, магарыч с тебя."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́мо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "само"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

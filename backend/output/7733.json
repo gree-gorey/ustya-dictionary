@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "трухнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трухну́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трухнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного, чуть-чуть посыпать чего-либо (муки, соли и т. п.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Трухни́ курам зёрнышок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "трухни курам зернышок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "струсить, забояться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "струхну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "струхнуть"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

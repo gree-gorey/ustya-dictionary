@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опрометью", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́прометью", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опрометью"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "со всех ног, не разбирая дороги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сево́дни проспала́, и що́бы на авто́бус успи́ть, пришло́сь би́гчи о́прометью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни проспала, и щобы на автобус успить, пришлось бигчи опрометью."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

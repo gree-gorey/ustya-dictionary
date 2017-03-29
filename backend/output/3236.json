@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "кипетиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кипети́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кипетиться"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выражать бурно недовольство, выходить из себя (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вскипети́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вскипетиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закипети́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закипетиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прокипети́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прокипетиться"
+        }, 
+        {
+          "content": "Не кипети́сь, давай, отсты́нь! Прокипети́ласе целое утро.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не кипетись, давай, отстынь! прокипетиласе целое утро."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

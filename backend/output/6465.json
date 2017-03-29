@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "раззудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Раззуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "раззудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раззадорить, ввести в азарт; вывести из себя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раззуди́ли робёнка, а типерь спать не уложишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раззудили робенка, а типерь спать не уложишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

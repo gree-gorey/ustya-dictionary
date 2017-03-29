@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забирай и проваливай, грубо говоря.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лешей тя понеси́ да потреси́, да во дорожку то́рни!", 
+          "translation": "убирайся к лешему.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лешей тя понеси да потреси, да во дорожку торни!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "То́ркать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "торкать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

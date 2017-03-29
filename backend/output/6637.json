@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "родимец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Роди́мец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "родимец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "детская болезнь, вызывающая корчи, судороги, плач у новорожденных детей. Обычно такая болезнь проходит с возрастом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

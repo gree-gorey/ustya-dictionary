@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "грабловище", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гра́бловище", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грабловище"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рукоятка ручных граблей длиной от 1,5 до 2 м. Изготовляется из цельного ствола молодой ели. Заготовки освобождают от коры, сушат под навесом, остругивают рубанком и прикрепляют к", 
+          "tag": "def"
+        }, 
+        {
+          "content": "голо́вкам", 
+          "tag": "quote", 
+          "normalized_content": "головкам"
+        }, 
+        {
+          "content": "граблей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "голо́вки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "головки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

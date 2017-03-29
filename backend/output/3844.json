@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "лад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лад"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "согласие, мир, порядок, обычай, устои.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́жили-по́жили, да ла́ду не стало", 
+          "translation": "пропал в семье порядок, мир.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пожили-пожили, да ладу не стало"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ритмичность при молотьбе цепами, попеременный стук.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Приятно слушать, когда моло́тят в лад.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приятно слушать, когда молотят в лад."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

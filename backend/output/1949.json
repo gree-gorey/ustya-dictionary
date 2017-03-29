@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "дыгало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ды́гало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дыгало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отказавшийся от участия в игре, деле человек.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ды́гать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дыгать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

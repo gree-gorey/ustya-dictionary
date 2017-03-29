@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сольца", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Со́льца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сольца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сольца́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сольца"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "соль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Со́льцы доки́нь в суп!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сольцы докинь в суп!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

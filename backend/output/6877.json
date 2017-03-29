@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "сенцы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Се́нцы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сенцы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "си́ни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сини"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "си́нцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "синцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пристройка к помещению, например, предбанник в бане.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уш так напа́́́риласе, шщо фсё се́́́рцо зашло́́́сь, е́́́ли в си́́́нцы вы́́́поўзла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уш так напариласе, шщо фсе серцо зашлось, ели в синцы выпоузла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

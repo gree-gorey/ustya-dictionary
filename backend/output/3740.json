@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кузовник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кузо́вник", 
+        "place": [
+          "Коптяевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кузовник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старьевщик; человек, собирающий тряпье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кузо́вники по деревням ходили, ряски собирали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кузовники по деревням ходили, ряски собирали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

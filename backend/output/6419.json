@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пылишша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пыли́шша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пылишша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пыли́́́ще", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пылище"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пыль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, у вас тут и пыли́́́шша!", 
+          "translation": "старик сетует на пыль, спустившись в с. Бестужево со своего шали́́́мовского уго́́́ра (д. Шалимово).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, у вас тут и пылишша!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

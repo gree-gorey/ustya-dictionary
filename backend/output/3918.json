@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лещ", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лёщ", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лещ"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оплеуха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дал лёща.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дал леща."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

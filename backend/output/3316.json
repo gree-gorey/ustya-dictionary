@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "козлуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Козлу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "козлуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коза (ласкат.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "козлу́шка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "козлушка"
+        }, 
+        {
+          "content": "Куды́ козлу́хи-то поби́гли? Козлу́шка-та ско́ль ни баска́", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды козлухи-то побигли? козлушка-та сколь ни баска"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "!", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") упрямая, непослушная девочка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́́́ жо, Ле́́́нка, ты и козлу́́́ха у нас!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну жо, ленка, ты и козлуха у нас!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

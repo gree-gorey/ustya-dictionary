@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "распластать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распласта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распластать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "роспласта́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "роспластать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разрезать на куски, пласты; расколотить, разрубить на части (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "роспласну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "роспласнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пере́дник распласта́ла на ону́чи. Ты где опе́́́ть пла́́́тьё фсё роспласта́́́ла – опе́́́ть весь подо́́́ў в ря́́́сках!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "передник распластала на онучи. ты где опеть платье фсе роспластала – опеть весь подоу в рясках!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") сделать какой-то очень большой объем работы (по расколке, распилке и т. п.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон сколько дров он распласта́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон сколько дров он распластал."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пласта́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пластать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

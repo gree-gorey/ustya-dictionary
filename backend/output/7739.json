@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "тряская", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тря́ская", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тряская"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясу́чая", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясучая"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "причастие", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "от слова «трясёт».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дорога-то какая тря́ская!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дорога-то какая тряская!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тря́ско", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тряско"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

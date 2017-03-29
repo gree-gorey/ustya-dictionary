@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "болесть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́лесть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болесть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бо́лесь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "болесь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бо́лость", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "болость"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бо́лечь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "болечь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болезнь, неприятности.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нажила́ сибе́ бо́лесть", 
+          "translation": "приобрела в результате своих действий неприятности или болезнь.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нажила сибе болесть"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") то, что не надо, нечто непонятное, ерунда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо за болесть!?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо за болесть!?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сулема́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сулема"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

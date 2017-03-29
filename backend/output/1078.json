@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "вуккурат", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "В уккура́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "в уккурат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "аккура́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "аккурат"
+        }, 
+        {
+          "content": "В уккура́т уж валенки пришлись. Ну, в самый уккура́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в уккурат уж валенки пришлись. ну, в самый уккурат."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

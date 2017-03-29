@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "изотрать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изотра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изотрать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "измельчить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Капусту будём соли́ть, дак надо эту морковь изотра́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "капусту будем солить, дак надо эту морковь изотрать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "получить травму от трения чем-либо, например, ноги обувью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ка́танцы-то тесны́, дак все ноги изотрё́шь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катанцы-то тесны, дак все ноги изотрешь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

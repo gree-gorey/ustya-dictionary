@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "топорщиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топо́рщиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топорщиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подниматься торчком (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "встопо́рщиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "встопорщиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затопо́рщиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затопорщиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "истопо́рщиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "истопорщиться"
+        }, 
+        {
+          "content": "Вишь как волосьё-то у тебя топо́рщитсе, хоть бы причеса́лсе! Кошка увидела собаку, да как шерсть-то у ие затопо́рщиласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вишь как волосье-то у тебя топорщитсе, хоть бы причесалсе! кошка увидела собаку, да как шерсть-то у ие затопорщиласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

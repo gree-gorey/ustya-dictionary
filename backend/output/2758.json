@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "згоречиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Згоречи́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "згоречиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "згорячи́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "згорячиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сгоречи́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сгоречиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сгорячи́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сгорячиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разгорячиться, начать спорить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ему́́́ немно́́́го и змо́́́вишь – ту́́́т жо згоречи́́́тце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему немного и змовишь – тут жо згоречитце!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "горечи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "горечиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "втюкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Втю́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втюкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вколотить, вбить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Втю́кай в топори́ще ещё один клинышок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "втюкай в топорище еще один клинышок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

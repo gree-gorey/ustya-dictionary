@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "даль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Да́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "даль"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дальнее, большое расстояние.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́ко, э́ку да́ль сбе́гал!", 
+          "translation": "какое большое расстояние.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко, эку даль сбегал!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

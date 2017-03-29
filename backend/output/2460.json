@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "залежень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́лежень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залежень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой камень в земле.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лёжень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лежень"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

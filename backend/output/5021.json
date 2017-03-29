@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "огреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Огре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огреть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "огри́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "огрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить, стукнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По спи́не огре́ть", 
+          "translation": "ударить по спине.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по спине огреть"
+        }, 
+        {
+          "content": "Ужо́́́ как огри́́́ю па́́́ўкой-то, дак бу́́́дёте зна́́́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ужо как огрию паукой-то, дак будете знать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

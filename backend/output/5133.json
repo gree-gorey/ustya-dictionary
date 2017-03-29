@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "расповязать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расповяза́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расповязать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снять платок, пояс и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Расповяжи́ платок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "расповяжи платок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "развязать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Расповяжи́ охапку берёзовых виц.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "расповяжи охапку березовых виц."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "оповяза́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оповязать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "пробегная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пробе́гная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пробегная"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пробе́жная вода", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пробежная вода"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проточная, не стоячая, текущая вода, которую можно пить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

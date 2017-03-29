@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "лупаница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лу́паница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лупаница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лу́панка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лупанка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ло́паница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лопаница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взбучка, наказание (от «лупить» сильно бить, колотить).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, лу́́́паница-та тибе́́́ сево́́́дни бу́́́дёт обеспе́́́цёна, так и знай, шщо заслужы́́́ў – то и полуця́́́й! Ну, тибе сейчас и будет ло́паница!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, лупаница-та тибе севодни будет обеспецена, так и знай, шщо заслужыу – то и полуцяй! ну, тибе сейчас и будет лопаница!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "скыркаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скы́ркаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скыркаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заскы́ркаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заскыркаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрестись.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мыши за печью заскы́ркались.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мыши за печью заскыркались."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "начать чесаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кошка заскы́ркалась, видно блохи кусают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка заскыркалась, видно блохи кусают."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

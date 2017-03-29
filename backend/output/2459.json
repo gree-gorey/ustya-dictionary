@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "залежаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залежа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залежаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обессилеть от долгого лежания (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "залё́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "залеживаться"
+        }, 
+        {
+          "content": "Вставай, так можно и залежа́тьсе. Хватит залё́живатьсе, поднимайсе, да ходи потихо́ньку, а то совсем заболи́ёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вставай, так можно и залежатьсе. хватит залеживатьсе, поднимайсе, да ходи потихоньку, а то совсем заболиешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

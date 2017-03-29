@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "невдолгие", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Невдо́лгие", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "невдолгие"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "невдо́лги", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "невдолги"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "невдо́лгих", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "невдолгих"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вскоре, в скором времени", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": ".", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "."
+        }, 
+        {
+          "content": "Мы невдо́лгие после вас пошли, а догонить не могли. Всё се́но в заро́д смета́ли и невдо́лгих дождь пошё́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы невдолгие после вас пошли, а догонить не могли. все сено в зарод сметали и невдолгих дождь пошел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,537 @@
+{
+  "field_for_sorting": "мять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мять", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прокладывать, улучшать или ухудшать дорогу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "промя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "промять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "размя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "размять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "замина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "измина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "намина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "промина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "размина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разминать"
+        }, 
+        {
+          "content": "Иди вперёд на лыжах, да мни нам дорогу. Трактор проехал дак всю дорогу измя́л, совсем бы сичас не надо ие измина́ть. Надо на дровнях проехать, дорогу промя́ть. Не надо эту канавку замина́ть. Снегу вы́пало, дак тропинку опеть надо намина́ть", 
+          "translation": "протаптывать, утаптывать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди вперед на лыжах, да мни нам дорогу. трактор проехал дак всю дорогу измял, совсем бы сичас не надо ие изминать. надо на дровнях проехать, дорогу промять. не надо эту канавку заминать. снегу выпало, дак тропинку опеть надо наминать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "давать физическую нагрузку частям тела (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отмять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отмять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "промя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "промять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "размя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "размять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "измина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "намина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отмина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "промина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "размина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разминать"
+        }, 
+        {
+          "content": "Такую дорогу итти, нечево ноги мять (измина́ть)! Намя́ла но́гу-ту, дак вот снова боли́т. Надо ноги промя́ть, а то весь день дома сижу. Уши поморо́зил, давай отмина́й быстря́е!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такую дорогу итти, нечево ноги мять (изминать)! намяла ногу-ту, дак вот снова болит. надо ноги промять, а то весь день дома сижу. уши поморозил, давай отминай быстряе!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гонять застоявшуюся лошадь для моциона (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "размя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "размять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "размина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разминать"
+        }, 
+        {
+          "content": "Надо мять кобылу-ту, а то вишь совсем застоялась и не торо́пится. Если лошади долго стоят в стойлах, их периодически выпускают из помещения, чтобы размять в движении.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо мять кобылу-ту, а то вишь совсем застоялась и не торопится. если лошади долго стоят в стойлах, их периодически выпускают из помещения, чтобы размять в движении."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бороться, возиться, воздействовать на соперника в борьбе или драке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "измина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "смина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сминать"
+        }, 
+        {
+          "content": "Не надо так парня мять, он ведь ищё мал!", 
+          "translation": "шутливо бороться, возиться.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо так парня мять, он ведь ище мал!"
+        }, 
+        {
+          "content": "За́просто можот тибе бока намя́ть́. Он сомнё́т схо́ду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "запросто можот тибе бока намять. он сомнет сходу."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скручивать (лучше распаренную) ивовую, березовую или черемховую вицу для придания ей мягкости и эластичности при связывании чего-либо или изготовлении завертки к дровням, саням (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "промя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "промять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "размя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "размять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "измина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "промина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проминать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "размина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разминать"
+        }, 
+        {
+          "content": "Надо измя́ть две черемховых вицы на ча́повицы к дровням. Смотри и учись как надо вицу измина́ть и завёртку делать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо измять две черемховых вицы на чаповицы к дровням. смотри и учись как надо вицу изминать и завертку делать."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прессовать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "измина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изминать"
+        }, 
+        {
+          "content": "Не надо так ягоды мять в зобе́ньке, а то все изомнё́шь! Вон скоко уже измя́л (намя́л)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо так ягоды мять в зобеньке, а то все изомнешь! вон скоко уже измял (намял)!"
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "есть с жадносью (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "намина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наминать"
+        }, 
+        {
+          "content": "Он мнёт всё что попа́ло", 
+          "translation": "(о поросенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он мнет все что попало"
+        }, 
+        {
+          "content": "Чугун карто́ви как на́чал намина́ть, всё смял.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чугун картови как начал наминать, все смял."
+        }
+      ], 
+      "n": "7"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") говорить непоследовательно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намять"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смять", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "замина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заминать"
+        }, 
+        {
+          "content": "Не надо мять всё в одну кучу, говори попоря́дку! А то намя́л всево, чево надо и не надо, попробуй розбери́сь! Своим разговором всё замя́ла (смя́ла), вот балабо́лка! Если человек говорит, не надо ево замина́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо мять все в одну кучу, говори попорядку! а то намял всево, чево надо и не надо, попробуй розберись! своим разговором все замяла (смяла), вот балаболка! если человек говорит, не надо ево заминать!"
+        }
+      ], 
+      "n": "8"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

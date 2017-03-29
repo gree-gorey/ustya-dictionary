@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "матка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "матка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обращение к матери. Также обращение к жене, как матери своих детей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́тка, пошли-ко Олью в ла́вку за рыбой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "матка, пошли-ко олью в лавку за рыбой!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты пощо в ля́гу-ту залез-то? Вот ма́тке-то ужо скажу́, дак она те зада́ст!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты пощо в лягу-ту залез-то? вот матке-то ужо скажу, дак она те задаст!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

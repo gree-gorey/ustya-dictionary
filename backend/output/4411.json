@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нагрудник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нагру́дник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нагрудник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женский фартук с грудкой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оде́́́нь нагру́́́дник-то, робо́́́та гря́́́зная, пя́́́тён наса́́́дишь на пла́́́тьё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одень нагрудник-то, робота грязная, пятен насадишь на платье."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

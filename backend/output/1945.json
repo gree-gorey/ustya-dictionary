@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "душник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Душни́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "душник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "душничо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "душничок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отверстие в печи для выхода теплого воздуха. При топке закрывается кирпичом, а когда закрывают трубку открывают это отверстие.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

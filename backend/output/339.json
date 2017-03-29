@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "болотно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боло́тно", 
+        "place": [
+          "Вирова"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "болотно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сыро; как в болоте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В пё́ндусе боло́тно, и ро́почь ростёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в пендусе болотно, и ропочь ростет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

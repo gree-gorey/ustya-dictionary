@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "двараз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Два́раз", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двараз"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "два раза, дважды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я уж два́раз сходила. Я уж два́раз ему ба́яла, да то́ўку нету.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я уж двараз сходила. я уж двараз ему баяла, да тоуку нету."
+        }, 
+        {
+          "content": "Аналогично", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "три́раз", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "трираз"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

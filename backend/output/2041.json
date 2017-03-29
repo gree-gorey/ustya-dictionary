@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "есться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́сться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "есться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "съедаться, поглощаться с удовольствием, аппетитом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Суп не е́стця, непощо́ и варю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "суп не естця, непощо и варю."
+        }, 
+        {
+          "content": "Пилось бы да е́лось, да вперёд хотелось", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "пилось бы да елось, да вперед хотелось"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бранить друг друга, ссориться, ругаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как сойдутца, дак и идя́тся как собаки. А мне роду неохота с ей е́сться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как сойдутца, дак и идятся как собаки. а мне роду неохота с ей есться."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "и́сьтись", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "исьтись"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

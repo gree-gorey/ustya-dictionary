@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "буки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́ки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "буки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ряженые. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "снаряжу́хи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "снаряжухи"
+        }, 
+        {
+          "content": "Ходить бу́ками", 
+          "translation": "во время святок ходить по домам с плясками, колядками, пожеланиями и с корзинами для еды, которую люди подавали, чтобы пожелания сбылись.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ходить буками"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,57 @@
+{
+  "field_for_sorting": "о", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "о"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предлог, употребляющийся вместо предлогов «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "в", 
+          "tag": "quote", 
+          "normalized_content": "в"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "п", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "п"
+        }, 
+        {
+          "content": "о", 
+          "tag": "quote", 
+          "normalized_content": "о"
+        }, 
+        {
+          "content": "Раньше и о праздниках ро́били.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше и о праздниках робили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

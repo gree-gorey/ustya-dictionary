@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "сукасним", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́ка с ним", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сука с ним"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ну и ладно, не беда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Су́ка с ним, нашёл из-за чево пережива́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сука с ним, нашел из-за чево переживать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

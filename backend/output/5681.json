@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "повешать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пове́шать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повешать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "укладывать сено в зарод, копну.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо пове́шать сырое сено в остро́ви.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо повешать сырое сено в острови."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повесить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "наве́шивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навешивать"
+        }, 
+        {
+          "content": "Пове́шать лопо́тьё на грядку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "повешать лопотье на грядку."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ве́сить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "весить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

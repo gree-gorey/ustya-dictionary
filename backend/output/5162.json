@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "опростать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опроста́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опростать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опросто́рить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опросторить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вылить, высыпать, освободить посудину, емкость от чего-либо ( и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "многокр.", 
+          "content": "опра́стывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опрастывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "многокр.", 
+          "content": "опросто́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опросторивать"
+        }, 
+        {
+          "content": "Мешок опросто́рила. До тово́́́ вели́́́к ку́́́ль-от – фсё́́́ не могу́́́ опросто́́́рить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мешок опросторила. до тово велик куль-от – фсе не могу опросторить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "просто́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "просторить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

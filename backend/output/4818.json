@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "ниуханирыла", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ни у́ха, ни ры́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ни уха, ни рыла"
+      }
+    ], 
+    "style": [
+      "вульг."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ничего не понимать, не смыслить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ни у́́́ха, ни ры́́́ла в стро́́́йке-то о́́́н не волокё́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ни уха, ни рыла в стройке-то он не волокет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

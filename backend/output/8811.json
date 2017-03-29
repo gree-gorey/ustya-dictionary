@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пропастькакмного", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Про́пасть как много", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пропасть как много"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чрезвычайно много (с положительным оттенком).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Клюквы на болоте сейгод про́пась как много", 
+          "translation": "небывалый урожай.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "клюквы на болоте сейгод пропась как много"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Про́пасть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пропасть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 10
+}

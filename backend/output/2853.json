@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зъесться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зъе́сться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зъесться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взъе́сться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взъесться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать ругаться, невзлюбить, преследовать, делать во вред.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И за что она на меня зъе́лась, не пойму.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и за что она на меня зъелась, не пойму."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "услать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Усла́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "услать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "послать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я Олёксу то наро́шно усла́ла, хочу с тобой потолковать", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "я олексу то нарошно услала, хочу с тобой потолковать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

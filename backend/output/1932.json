@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "дурняк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дурня́́́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дурняк"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выросшие бесконтрольно, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "надуре́́́вшие", 
+          "tag": "quote", 
+          "normalized_content": "надуревшие"
+        }, 
+        {
+          "content": "» побеги травы, кусты, деревья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дурня́́́к пошё́́́ў на поля́́́х-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дурняк пошеу на полях-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

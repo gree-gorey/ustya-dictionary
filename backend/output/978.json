@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "впередь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впере́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впередь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вперё́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вперед"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "впереди.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди впере́дь меня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди впередь меня."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "на будущее, в следующий раз, впредь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И вперё́д эдак не робь!", 
+          "translation": "в следующий раз так не делай!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и вперед эдак не робь!"
+        }, 
+        {
+          "content": "Нажу́чили они тебя севодня, впередь знай с кем свя́зываться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нажучили они тебя севодня, впередь знай с кем связываться."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в первоначальном направлении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Впере́дь на санях уехала, обратно пешком.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "впередь на санях уехала, обратно пешком."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наперё́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "наперед"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

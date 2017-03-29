@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "засуслаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Засу́слаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засуслаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замарать тело и одежду, неоднократно пропотеть, давно не мыться и не переодеваться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заслюнявить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нево весь колач засу́слалсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нево весь колач засуслалсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "су́слать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "суслать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

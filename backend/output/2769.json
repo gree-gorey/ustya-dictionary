@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "здрогать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Здро́гать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здрогать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "здро́гнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "здрогнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вздрогнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Холоди́на стала, я во сне аш здро́гнул.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "холодина стала, я во сне аш здрогнул."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

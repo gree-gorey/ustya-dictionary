@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "суковица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́ковица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суковица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сук дерева.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В лесу́ наткну́лась на су́ковицу, оскара́пала всю щё́ку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в лесу наткнулась на суковицу, оскарапала всю щеку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

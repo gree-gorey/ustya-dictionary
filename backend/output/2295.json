@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "завтре", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́втре", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завтре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́втря", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завтря"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́втрева", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завтрева"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завтра.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

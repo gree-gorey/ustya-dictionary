@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "рядовица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рядови́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рядовица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "галтеренная доска (тесина) нижнего ряда при устройстве крыши из карты. Рядовицы закрепляются на расстоянии до 10 см одна от другой, а эти щели между ними накрываются верхним слоем досок нащельниками.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "галте́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "галтерить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ка́рта", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "карта"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наще́льник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нащельник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

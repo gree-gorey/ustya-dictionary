@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "оторопь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́торопь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оторопь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состояние крайнего замешательства.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как увидел, дак о́торопь взела.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как увидел, дак оторопь взела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

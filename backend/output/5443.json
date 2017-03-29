@@ -1,0 +1,150 @@
+{
+  "field_for_sorting": "пахать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Паха́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пахать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мести, чистить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вспаха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вспахать"
+        }, 
+        {
+          "content": "(Бу́дрино, Неклю́довская),", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "вы́пахать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "выпахать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "запаха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "запахать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опаха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опахать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "спаха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "спахать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпа́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпахивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запа́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запахивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "опа́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опахивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "спа́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спахивать"
+        }, 
+        {
+          "content": "), однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пахну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "пахнуть"
+        }, 
+        {
+          "content": "Неужо́́́ли мне и́́́збу паха́́́ть – по́́́ўная изба́́́ де́́́вок! Вспаха́ть крошки со стола. Вы́паши избу", 
+          "translation": "подмети пол в избе.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неужоли мне избу пахать – поуная изба девок! вспахать крошки со стола. выпаши избу"
+        }, 
+        {
+          "content": "Надо трубку от сажи вы́пахать", 
+          "translation": "вычисти.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо трубку от сажи выпахать"
+        }, 
+        {
+          "content": "Бери́́́-ко помело́́́, намоци́́́ в тазу́́́, да вы́́́паши золу́́́-ту в пеци́́́ – пора́́́ корова́́́и ста́́́вить. Запаши́ этот мусор в ямку, всё перегниё́т. Сор от зерна с печи спа́хать. Снег с крыльца спаха́ть. Снег-от с ка́тацов надо лучше опа́хивать. Спа́хивай мусор-то в одну кучу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бери-ко помело, намоци в тазу, да выпаши золу-ту в пеци – пора короваи ставить. запаши этот мусор в ямку, все перегниет. сор от зерна с печи спахать. снег с крыльца спахать. снег-от с катацов надо лучше опахивать. спахивай мусор-то в одну кучу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

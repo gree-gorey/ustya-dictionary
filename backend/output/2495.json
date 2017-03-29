@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "замзуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замзу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "замзуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой кусок хлеба или чего-либо съестного еще.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "свал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Свал", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "естественный нарост (наплыв) на дереве.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вай", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вай"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "опухлое место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Свал-от какой у тебя!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свал-от какой у тебя!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

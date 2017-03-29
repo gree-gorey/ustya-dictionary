@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ублажать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ублажа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ублажать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угождать, тешить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "убла́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ублажить"
+        }, 
+        {
+          "content": "Тесть и тёща нака́зывали, що не следует так жону балова́ть, так бабу ублажа́ть", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "тесть и теща наказывали, що не следует так жону баловать, так бабу ублажать"
+        }, 
+        {
+          "content": "Да що уш такоё, убла́жить робёнка не можошь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да що уш такое, ублажить робенка не можошь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

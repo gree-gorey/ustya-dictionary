@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "чаша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́ша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чаша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полукруглая выемка в бревне, вырубленная по форме укладываемого в нее другого, поперечного бревна (напоминает форму чаши).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ча́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чашка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "зару́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заруба"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зару́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заруба"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "расчищенная полянка в лесу, в низине.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ри́чки, в ча́ше, новина́ была. Репы наси́ели. Да наросло́-то! В ча́ше-то худо сено сохнёт, выносить придё́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у рички, в чаше, новина была. репы насиели. да наросло-то! в чаше-то худо сено сохнет, выносить придетце."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ла́па", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лапа"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

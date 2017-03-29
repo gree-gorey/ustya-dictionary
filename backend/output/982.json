@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "впокатушку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впокату́шку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впокатушку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "впока́́́тушку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "впокатушку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "впока́́́тку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "впокатку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лежа от смеха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как на́чаў приставля́цце – так мы все впокату́шку лёжа́ли, со́ смеху умира́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как начау приставляцце – так мы все впокатушку лежали, со смеху умирали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "зъерить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зъери́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зъерить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зъери́́́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зъериться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взъери́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взъерить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взъери́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взъериться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взъяриться, сильно рассердиться, вознегодовать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёму хоть говори хоть не говори: зъери́т, да из дому!", 
+          "translation": "бесполезно ему об этом говорить, он убегает рассерженный.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему хоть говори хоть не говори: зъерит, да из дому!"
+        }, 
+        {
+          "content": "Оте́́́ц-от зъери́́́т так, шщо хоть и́́́з дому бежы́́́. Пошщо́́́ зъери́́́ўсе-то, ведь ро́́́ду непошщо́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отец-от зъерит так, шщо хоть из дому бежы. пошщо зъериусе-то, ведь роду непошщо!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ери́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ерить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

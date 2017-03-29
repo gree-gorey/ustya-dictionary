@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мучники", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Му́чники", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мучники"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пироги с начинкой из муки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давно́́́ не пека́́́ла му́́́цьникоф-то, попро́́́бовать ра – мо́́́жот шщо́́́ и вы́́́йдёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давно не пекала муцьникоф-то, попробовать ра – можот шщо и выйдет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

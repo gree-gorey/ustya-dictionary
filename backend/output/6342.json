@@ -1,0 +1,134 @@
+{
+  "field_for_sorting": "простой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Просто́́́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "простой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пустой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Цюгу́́́н-то уж просто́́́й, нале́́́й воды́́́ да поста́́́фь ф пе́́́ць.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цюгун-то уж простой, налей воды да постафь ф пець."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свободный, незанятый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Машина-то проста́я едет, садитсь, увезёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "машина-то простая едет, садитсь, увезет."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свободный от вещей, от поклажи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Просто́й он севодни из лесу вышёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "простой он севодни из лесу вышел."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свободный от работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лошадь проста́я стоит, запрягай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лошадь простая стоит, запрягай."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "будний день.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодня просто́й день, дак одни корава́шки напекла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодня простой день, дак одни коравашки напекла."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "холостой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он просто́й или женатый?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он простой или женатый?"
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "добрый, нежадный, бескорыстный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он просто́й парень-то, не жадный.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он простой парень-то, не жадный."
+        }
+      ], 
+      "n": "7"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

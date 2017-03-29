@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "стонота", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стоно́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стонота"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "стоно́́́тина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стонотина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плакса, нытик (о ребенке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо за робё́́́нок тако́́́й – стоно́́́та, стоно́́́та э́́́такая!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо за робенок такой – стонота, стонота этакая!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жалобщик (о взрослом).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́тот стоно́́́та-та дак хош шщо для себя́́́ вы́́́ревит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот стонота-та дак хош шщо для себя выревит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

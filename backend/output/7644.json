@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "топляк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топля́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топляк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затонувшее в реке от намокания при молевом сплаве бревно. За долгие годы сплава на дне реки Устья скопилось очень много топляков.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "уто́пленник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "утопленник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

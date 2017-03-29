@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "надушнять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Надушня́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надушнять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "впитать в себя посторонние запахи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лопотьё в сундуке нафтали́ном надушня́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лопотье в сундуке нафталином надушняло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

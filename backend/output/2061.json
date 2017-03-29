@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ерш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ёрш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ерш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шишка, мозоль, потертость кожи.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "огрех при вспашке и косьбе.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "смесь водки с пивом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "вспыльчивый, несдержанный, задиристый, вздорный человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

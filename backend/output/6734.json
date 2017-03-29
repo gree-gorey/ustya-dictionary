@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "салаш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сала́ш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "салаш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шалаш.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сала́́́ш како́́́й-никако́́́й сро́́́биў, да тут и спать повали́́́ўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "салаш какой-никакой сробиу, да тут и спать повалиусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

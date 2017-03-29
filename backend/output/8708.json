@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пироги-ерушники", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пироги́-еру́шники", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пироги-ерушники"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изречение, характеризующее плохую игру гармониста.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он токо пироги́-еру́шники играть умиёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он токо пироги-ерушники играть умиет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "яру́шник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ярушник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

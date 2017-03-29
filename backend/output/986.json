@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "впопятную", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впопя́тную", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впопятную"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "напопя́тную", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напопятную"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отступать назад, отказаться от данного слова или обещания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нехорошо идти впопя́тную.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нехорошо идти впопятную."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

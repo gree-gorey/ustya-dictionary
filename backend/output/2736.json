@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "зборонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зборони́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зборонить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сборони́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сборонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сказать невнятно, непонятно что.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, що э́коё и сборони́ў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, що экое и сборониу?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "борони́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "боронить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неловкими, неосторожными движениями уронить, свалить, а также смять, скомить, спутать, привести в беспорядок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не махай руками-то, всю посуду со стола зборо́нишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не махай руками-то, всю посуду со стола зборонишь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "збара́буздить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "збарабуздить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

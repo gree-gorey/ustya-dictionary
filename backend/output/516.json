@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "быстрина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Быстрина́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "быстрина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "быстри́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "быстринка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бы́стредь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "быстредь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место с быстрым течением на реке, речке, мелкий речной перекат.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Харьюзьё́ летом любит стоеть на самой бы́стреде. Возьми-ко рука́в-то, да пойдём на Стру́гницю, по быстредя́м побо́там", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "харьюзье летом любит стоеть на самой быстреде. возьми-ко рукав-то, да пойдем на стругницю, по быстредям поботам"
+        }, 
+        {
+          "content": "Ростово", 
+          "tag": "place"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

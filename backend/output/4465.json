@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наказать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наказа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наказать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "распорядиться, передать просьбу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Накажи́ батьке, чтоб зашёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "накажи батьке, чтоб зашел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

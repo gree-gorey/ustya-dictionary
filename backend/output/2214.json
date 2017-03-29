@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "жрачка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жра́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жрачка"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "продукты питания, еда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Почти все деньги ныне уходят на жра́чку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "почти все деньги ныне уходят на жрачку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

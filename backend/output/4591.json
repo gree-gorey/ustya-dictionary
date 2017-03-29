@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "насечка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насе́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насечка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "специальный мельничный инструмент молоток с заостренными концами для ковки жерновов.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кова́ть жернова́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ковать жернова"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

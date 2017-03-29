@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "неединова", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нееди́нова", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неединова"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не однажды, не один раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он так уж нееди́нова делаёт. Да он, у меня нееди́нова не бывал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он так уж неединова делает. да он, у меня неединова не бывал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

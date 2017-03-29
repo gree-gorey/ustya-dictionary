@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "бабушка-соседушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́бушка-сосе́душка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бабушка-соседушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "де́душко-сосе́душко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дедушко-соседушко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женская и мужская ипостась домового.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "девятирук", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Девятиру́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "девятирук"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "девятиру́чка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "девятиручка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "самая большая из применяемых в нашей местности коса для косьбы вручную.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рука́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рука"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

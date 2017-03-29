@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "пыжиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пы́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пыжиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дуться, обижаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "допы́житься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "допыжиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запы́житься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запыжиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "испы́житься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "испыжиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напы́житься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напыжиться"
+        }, 
+        {
+          "content": "До тово допы́жилсе, що ло́пнёшь счас! Не по нему сказали, дак запы́жилсе во́н как! Бабка ему не разрешила бежать с робятами в лес, дак весь испы́жилсе! Что ты напы́жилсе, садись ешь!?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до тово допыжилсе, що лопнешь счас! не по нему сказали, дак запыжилсе вон как! бабка ему не разрешила бежать с робятами в лес, дак весь испыжилсе! что ты напыжилсе, садись ешь!?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

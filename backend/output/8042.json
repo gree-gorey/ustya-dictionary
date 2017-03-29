@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ушатик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уша́́́тик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ушатик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой ушат.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В уша́́́тике-то наголо́́́ ры́́́жички осо́́́лёны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в ушатике-то наголо рыжички осолены."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уша́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ушат"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дельба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дельба́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дельба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздел имущества.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "При дельбе́ хозяйства мне достаўсе перёд.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "при дельбе хозяйства мне достаусе перед."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

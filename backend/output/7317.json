@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "стоговать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стогова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стоговать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "складывать сено, солому в стог, зарод, копну (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "застогова́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застоговать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "настогова́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настоговать"
+        }, 
+        {
+          "content": "Всем наря́́́д дан сево́́́дни соло́́́му стогова́́́ть. Севодня всё сено застогова́ли. Три заро́да настогова́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всем наряд дан севодни солому стоговать. севодня все сено застоговали. три зарода настоговали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

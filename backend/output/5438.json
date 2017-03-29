@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "паужна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́ужна", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паужна"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́ўжна", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "паужна"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́вжна", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "павжна"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обед, взятый с собой на сенокос, в лес, на поле (если вдали от дома).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мно́́́го ли па́́́ўжны с собо́́́й взе́́́ў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много ли паужны с собой взеу?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "полдник, обед.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Па́́́ўжна на столе́́́, друго́́́реть не позову́́́, чу́́́ете!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "паужна на столе, другореть не позову, чуете!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

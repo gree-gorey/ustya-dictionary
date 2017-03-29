@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сотонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сотони́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сотонить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сотони́́́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сотониться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "творить зло, вред, выделываться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хва́́́тит, дава́́́й, сотони́́́тьце-то, зна́́́ём мы тебя́́́, сотону́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит, давай, сотонитьце-то, знаем мы тебя, сотону!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

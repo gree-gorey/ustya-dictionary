@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "ходынь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ходы́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходынь"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "«ходьба», ухаживание за скотом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скота убира́ли по глубокой осени, чтоб в зиму меньше было ходы́ни", 
+          "translation": "меньше ходить за скотом, ухаживать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скота убирали по глубокой осени, чтоб в зиму меньше было ходыни"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

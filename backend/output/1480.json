@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "городить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Городи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "городить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "строить изгородь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "загороди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "загородить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "огороди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "огородить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отгороди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отгородить"
+        }, 
+        {
+          "content": "Надо идти угоро́д городи́ть. Угоро́д загороди́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо идти угород городить. угород загородили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болтать, говорить нелепости (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нагороди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нагородить"
+        }, 
+        {
+          "content": "Ну што ты горо́дишь, ни к селу ни к городу! Снова она тибе нагороди́ла, а ты слушаёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну што ты городишь, ни к селу ни к городу! снова она тибе нагородила, а ты слушаешь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

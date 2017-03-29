@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "жимануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жиману́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жимануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́мкнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жомкнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жа́мнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жамнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нажать, надавить, сдавить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жимани́́́-ко кры́́́шку-ту, дак и чебуда́н-то", 
+          "translation": "(чемодан)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жимани-ко крышку-ту, дак и чебудан-то"
+        }, 
+        {
+          "content": "защо́́́кнётца.", 
+          "tag": "quote", 
+          "normalized_content": "защокнетца."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "жа́мкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жамкать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

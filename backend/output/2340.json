@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "задавить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Задави́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задавить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одолеть, не давая расти, заглушить посев сорняками (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "дави́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "давить"
+        }, 
+        {
+          "content": "Сорняки да́вят морковку, не дают ей рости. Надо срочно полоть сорняки, а то всю картошку задави́ли осо́ть и лебеда́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сорняки давят морковку, не дают ей рости. надо срочно полоть сорняки, а то всю картошку задавили осоть и лебеда."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

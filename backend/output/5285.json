@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "отпотеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отпоте́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отпотеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "запоте́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "запотеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсыре́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсыреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "образоваться на поверхности конденсату в виде капелек влаги из-за большой влажности воздуха или росы (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отпотева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отпотевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запотева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запотевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отсырева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отсыревать"
+        }, 
+        {
+          "content": "Окна отсыре́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "окна отсырели."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

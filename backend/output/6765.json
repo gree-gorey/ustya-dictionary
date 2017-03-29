@@ -1,0 +1,120 @@
+{
+  "field_for_sorting": "осарапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осара́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осарапать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "осарапну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "осарапнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оцарапать (когтями, ногтями) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осарапну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осарапнуть"
+        }, 
+        {
+          "content": "Кошка осарапну́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка осарапнула."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "оцарапать (лицо, тело) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осарапну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осарапнуть"
+        }, 
+        {
+          "content": "Палец чем-то осарапну́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "палец чем-то осарапнул."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "снять, очесать висящее и неровно уложенное сено с поверхности зарода, копны, стога.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осарапни́ заро́д немного вилами вот с этой стороны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осарапни зарод немного вилами вот с этой стороны."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вы́сарапать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "высарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сара́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сарапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сарапну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сарапнуть"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

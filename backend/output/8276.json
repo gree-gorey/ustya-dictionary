@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "чака-чака-чака", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́́́ка-ча́́́ка-ча́́́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чака-чака-чака"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для одной овцы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́ка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чака"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

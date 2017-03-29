@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "уразина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ура́зина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уразина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая, толстая, корявая часть дерева.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "габаритная, объемная и тяжелая деталь машины, механизма.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "скользеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́льзеть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скользеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скользота́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скользота"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "сущ. от", 
+          "tag": "italic"
+        }, 
+        {
+          "content": "скользить: нечто скользкое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эка ско́льзеть-та ко́ло колодця! Ну жо и скользота́́́ жо на у́́́лице-то!", 
+          "translation": "очень скользко (гололёд).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эка скользеть-та коло колодця! ну жо и скользота жо на улице-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

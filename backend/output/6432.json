@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "пятистенок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пятисте́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пятистенок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревенская изба определенного типа", 
+          "tag": "def"
+        }, 
+        {
+          "content": "с переру́бом", 
+          "tag": "quote", 
+          "normalized_content": "с перерубом"
+        }, 
+        {
+          "content": "У нас в дере́́́вне всё бо́́́ле петисте́́́нки стое́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нас в деревне все боле петистенки стоели."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шестисте́нок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шестистенок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

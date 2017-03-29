@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "угорелой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Угоре́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "угорелой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угоревший от угара.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он севодня угоре́лой, трубку закрыл рано.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он севодня угорелой, трубку закрыл рано."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") ведущий себя неадекватно, лихач.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що вы бе́гаите как угоре́лые, хватит нашали́лись!", 
+          "translation": "(ребятишкам).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що вы бегаите как угорелые, хватит нашалились!"
+        }, 
+        {
+          "content": "Но́сится на мотоцикле как угоре́лой, дороги не разбира́́ёт, вот леша́к какой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "носится на мотоцикле как угорелой, дороги не разбирает, вот лешак какой!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

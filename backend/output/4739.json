@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нековремю", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не ко вре́мю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не ко времю"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не вовремя, не в пору.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ко вре́мю он из дому уе́хаў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ко времю он из дому уехау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

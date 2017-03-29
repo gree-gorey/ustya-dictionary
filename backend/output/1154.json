@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "укурдывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уку́рдывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "укурдывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "укурну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "укурнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "уку́рнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "укурнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нырнуть, спрятаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Утка снова укурну́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "утка снова укурнула."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "выку́рдывать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выкурдывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "укурну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "укурнуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "крытый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кры́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крытый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрытый сверху тканью (о меховых изделиях).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из составных кусков овчины шили кры́тые полушубки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из составных кусков овчины шили крытые полушубки."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "потя́нутый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потянутый"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "потяну́ть 2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потянуть 2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

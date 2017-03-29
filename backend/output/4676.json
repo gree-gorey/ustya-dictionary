@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "нашоркаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нашо́ркаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нашоркаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "натереться, намазаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "шо́ркаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "шоркаться"
+        }, 
+        {
+          "content": "Шо́ркайсе лучше-то мочалкой. Нашо́ркалась опеть мазью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шоркайсе лучше-то мочалкой. нашоркалась опеть мазью."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

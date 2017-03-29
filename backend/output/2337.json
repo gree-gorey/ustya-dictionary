@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "зад-переды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зад-переды́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зад-переды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задь-переды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задь-переды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задь-наперё́́́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задь-наперед"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "задом-наперед (двигаться).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зае́хали в тупи́к, розверну́тце не́как, с тру́дом задь-переды́ вы́петились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заехали в тупик, розвернутце некак, с трудом задь-переды выпетились."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "за́дью", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "задью"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "задом-наперёд (одеть), наизнанку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А что ж ты её (майку-то) за́дь-переды́ одел?", 
+          "translation": "задом-наперёд.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а что ж ты ее (майку-то) задь-переды одел?"
+        }, 
+        {
+          "content": "Пла́́́тьё-то за́́́дь-наперё́́́д пошщо́́́ оболока́́́ёшь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "платье-то задь-наперед пошщо оболокаешь?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "состукать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Состу́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "состукать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стукнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сту́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "состу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "состукаться"
+        }, 
+        {
+          "content": "Ну́́́-ко, кто́́́-то в дверь состу́́́каў, посмотри́́́-ко. На улице що-то состу́калось (кто-то состу́кался).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, кто-то в дверь состукау, посмотри-ко. на улице що-то состукалось (кто-то состукался)."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "упасть с характерным шумом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пала, только состу́кало!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пала, только состукало!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "о возрасте исполниться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот уж 50 состу́кало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот уж 50 состукало."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ту́кать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тукать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

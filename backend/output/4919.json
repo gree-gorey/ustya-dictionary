@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "обличье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обли́чье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обличье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лицо, наружность; облик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обли́чьём-то в отца будёшь. Не по обли́́́цью смотри́́́, а по кара́́́ктелю", 
+          "translation": "(характеру)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обличьем-то в отца будешь. не по облицью смотри, а по карактелю"
+        }, 
+        {
+          "content": "выбира́́́й, по́́́неў?", 
+          "tag": "quote", 
+          "normalized_content": "выбирай, понеу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

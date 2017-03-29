@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изгорбатиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгорба́титься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгорбатиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгорбиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Идёт Оле́ксий, весь изгорба́тилсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идет олексий, весь изгорбатилсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

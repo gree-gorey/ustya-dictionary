@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "чуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бита при игре в городки (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "рю́хи", 
+          "tag": "quote", 
+          "normalized_content": "рюхи"
+        }, 
+        {
+          "content": ") и другие подобные игры.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

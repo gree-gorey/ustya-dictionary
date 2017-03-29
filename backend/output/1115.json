@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "выгорать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выгора́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выгорать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́гореть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выгореть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выкипать жидкости при длительном нахождении под воздействием высокой температуры.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Суп в пече вы́́гореў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "суп в пече выгореу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "терять окраску при нахождении на солнце (цветные ткани, волосы и др.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не вывешивай цветное платье на солнце выгора́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не вывешивай цветное платье на солнце выгорать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "осуществиться задуманному, получиться так, как хотелось.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это дело у нас должно вы́гореть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это дело у нас должно выгореть."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

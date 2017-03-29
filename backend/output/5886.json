@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "покатить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Покати́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покатить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прост.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") поехать, (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") пойти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пьяной покати́л, ишь разъездилсе! Ну, пока́́́, я покати́́́ў домо́́́й, за́́́фтря ра́́́нно встава́́́ть на́́́до.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пьяной покатил, ишь разъездилсе! ну, пока, я покатиу домой, зафтря ранно вставать надо."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кати́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "катить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

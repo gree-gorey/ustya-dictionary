@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "хапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ха́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хапать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "наха́пать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "нахапать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сха́пать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "схапать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "ха́пнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "хапнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сха́пнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "схапнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хватать, брать жадно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Собака на лету́ кусок сха́пнула. Ха́́́пнуў с голоду́́́хи-то ча́́́ю горя́́́цево, дак обжё́́́г всё в ро́́́те-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собака на лету кусок схапнула. хапнуу с голодухи-то чаю горяцево, дак обжег все в роте-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "красть, воровать, захватывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эстолько добра наха́пал. Он может и ха́пнуть, он такой! Хапу́́́га-та тот ещо́́́, – ми́́́мо не пройдё́́́т, шщоп чево́́́ не ха́́́пнуть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эстолько добра нахапал. он может и хапнуть, он такой! хапуга-та тот ещо, – мимо не пройдет, шщоп чево не хапнуть!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

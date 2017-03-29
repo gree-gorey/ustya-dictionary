@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вображуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вображу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вображуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заносчивый, спесивый, высокомерный человек, зазнайка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вображу́ль в деревне не любят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вображуль в деревне не любят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "набегом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Набе́́гом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набегом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "торопясь, поспешно, урывками.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "с на́бегу", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "с набегу"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

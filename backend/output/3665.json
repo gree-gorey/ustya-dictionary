@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кругаля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кругаля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кругаля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(дать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "(дать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сде́лать)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сделать)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пойти в обход.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он сделал большого кругаля́. Не мог напрямки́́́ пройти́́́, пришло́́́се да́́́ть кругаля́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он сделал большого кругаля. не мог напрямки пройти, пришлосе дать кругаля."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

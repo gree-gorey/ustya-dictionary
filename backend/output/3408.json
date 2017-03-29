@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "конверт", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Конвё́рт", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "конверт"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конверт.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конвё́ртов-то купи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конвертов-то купи!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "огоревать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ого́ревать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огоревать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "уго́ревать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "угоревать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приобрести, добыть с большим трудом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коё-как сря́ду к школе робя́там ого́ревала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кое-как сряду к школе робятам огоревала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

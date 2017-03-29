@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "отлупасить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отлупа́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отлупасить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отлупа́чить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отлупачить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побить, поколотить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не вы́просишь сам, дак никто не отлупа́чит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не выпросишь сам, дак никто не отлупачит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "побить сильным дождем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В дороге нас ливнём отлупа́сило.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в дороге нас ливнем отлупасило."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

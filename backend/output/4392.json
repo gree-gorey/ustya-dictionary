@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "наволокчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наволокчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наволокчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наволо́чь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наволочь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надеть, натянуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наволоки́", 
+          "translation": "(одень)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наволоки"
+        }, 
+        {
+          "content": "ищё эту кофту-ту на себя, а то в избе студёно. Надо второе одеяло на себя наволо́́чь (наволокчи́)", 
+          "tag": "quote", 
+          "normalized_content": "ище эту кофту-ту на себя, а то в избе студено. надо второе одеяло на себя наволочь (наволокчи)"
+        }, 
+        {
+          "content": ", а то холодно.", 
+          "tag": "quote", 
+          "normalized_content": ", а то холодно."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "привезти, натащить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо жо эстоко грези на сапогах в ызбу наволо́чь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жо эстоко грези на сапогах в ызбу наволочь."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "волочи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "волочить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

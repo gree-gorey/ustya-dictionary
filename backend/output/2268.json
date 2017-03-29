@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "завеся", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́веся", 
+        "place": [
+          "Бритвино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "завеся"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "занавеска, занавесь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Со́вныша – особое место в избе за за́весей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "совныша – особое место в избе за завесей."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

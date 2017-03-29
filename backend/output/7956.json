@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "уродоваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уро́доваться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уродоваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "изуро́доваться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "изуродоваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "через силу работать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит уро́доватьсе на экой роботе, весь ты изуро́довалсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит уродоватьсе на экой роботе, весь ты изуродовалсе!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "получать травмы, увечья.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уве́читься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "увечиться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

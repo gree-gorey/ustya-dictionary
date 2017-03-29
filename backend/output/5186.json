@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "осенина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осени́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осенина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шерсть, снятая с овец в конце осени начале зимы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

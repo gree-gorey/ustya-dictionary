@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "репица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ре́пица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "репица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ри́пица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рипица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хвост позвоночного животного, кроме шерсти и волоса.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше скоту в Великодённой четверг острига́ли шерсть и волос на хвосте до самой ри́пицы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше скоту в великоденной четверг остригали шерсть и волос на хвосте до самой рипицы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

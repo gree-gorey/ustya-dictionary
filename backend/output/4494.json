@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "налива", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нали́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "налива"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жидкая внутренняя начинка или наружный слой (из сметаны, ягод и т. п.) для выпечки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "поле́ва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полева"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

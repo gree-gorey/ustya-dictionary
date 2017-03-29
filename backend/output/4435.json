@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "надуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наду́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обидеться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ду́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дуться"
+        }, 
+        {
+          "content": "Що наду́лась-то? Нечево ду́ться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що надулась-то? нечево дуться!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обильно напиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тебе бы только одного молока наду́ться и больше ничево!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе бы только одного молока надуться и больше ничево!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дуть"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

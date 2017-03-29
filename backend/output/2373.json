@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заеданье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заеда́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заеданье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заеде́ньё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заеденье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень вкусно, объедение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Картошка – одно заеда́нье. Карто́́́вьник-то у тебя́́́ – ци́́́сто заеде́́́ньё, до тово́́́ ску́́́сён.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "картошка – одно заеданье. картовьник-то у тебя – цисто заеденье, до тово скусен."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

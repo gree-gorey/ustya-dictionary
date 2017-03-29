@@ -1,0 +1,114 @@
+{
+  "field_for_sorting": "кадца", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́дца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кадца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кадца́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кадца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ка́дча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кадча"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бочка с прямыми боками, сделанная из стянутых обручами досок (кадка).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́церпай-ко во́ду-ту из ка́́́дци да снеси́ в ба́ню – опе́ть набежи́т, э́кой до́шш дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выцерпай-ко воду-ту из кадци да снеси в баню – опеть набежит, экой дошш дак."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рукоятка молотила с выбранной в верхней расширенной ее части конусообразной полостью, в которой при работе свободно ходит ремень (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пу́тца", 
+          "tag": "quote", 
+          "normalized_content": "путца"
+        }, 
+        {
+          "content": "), соединяющий", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́дцу", 
+          "tag": "quote", 
+          "normalized_content": "кадцу"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "би́ло", 
+          "tag": "quote", 
+          "normalized_content": "било"
+        }, 
+        {
+          "content": "молотила.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пу́тца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "путца"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "би́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "било"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

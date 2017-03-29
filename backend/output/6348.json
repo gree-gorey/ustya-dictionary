@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "протрестись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Протрести́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "протрестись"
+      }
+    ], 
+    "style": [
+      "ирон."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пройтись, проветриться, подышать свежим воздухом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди на улицу, протреси́сь, целой день на боку́ вы́лёжал, пе́нтюх!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди на улицу, протресись, целой день на боку вылежал, пентюх!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

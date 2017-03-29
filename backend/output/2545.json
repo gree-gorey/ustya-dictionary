@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "заплакать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запла́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заплакать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запотеть стеклам в окнах из-за повышенной влажности в помещении (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пла́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "плакать"
+        }, 
+        {
+          "content": "Опе́ть око́шка на́чели пла́кать. О́кна запла́кали, все поду́шки", 
+          "translation": "(подоконники)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть окошка начели плакать. окна заплакали, все подушки"
+        }, 
+        {
+          "content": "сыры́е.", 
+          "tag": "quote", 
+          "normalized_content": "сырые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

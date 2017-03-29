@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ихный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́хный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ихный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "и́хной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ихной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ихний, принадлежащий им.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Беда лютая на них надвигается, разнесёт и́хное счастьицо, разорит ба́ско гнёздышко", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "беда лютая на них надвигается, разнесет ихное счастьицо, разорит баско гнездышко"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

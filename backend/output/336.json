@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "болонистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боло́нистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болонистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имеющий большой слой болони (о дереве).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дерево-то боло́нистое, только на дрова.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дерево-то болонистое, только на дрова."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "безболонок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Безболо́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "безболонок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "безболо́нь", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "безболонь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конговый крепкий строевой лес с очень тонкой болонью рыхлым подкорковым слоем.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

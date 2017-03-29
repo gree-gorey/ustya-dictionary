@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "полоскать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полоска́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полоскать"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно лить (о проливном дожде) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заполоска́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заполоскать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изполоска́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изполоскать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прополоска́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прополоскать"
+        }, 
+        {
+          "content": "Как поло́щёт-то!", 
+          "translation": "как сильно льет!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как полощет-то!"
+        }, 
+        {
+          "content": "Вон какая туча на небе идёт, поди́, сыми́ бельё с улицы, а то всё заполо́щот. Пока шла до до́му дак всю чисто прополоска́ло (изполоска́ло), ну и дожди́на начала́се!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон какая туча на небе идет, поди, сыми белье с улицы, а то все заполощот. пока шла до дому дак всю чисто прополоскало (изполоскало), ну и дождина началасе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

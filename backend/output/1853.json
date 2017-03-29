@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "дотумкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доту́́́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дотумкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "доту́нкать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дотункать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "доту́нькать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дотунькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "понять, догадаться, додуматься.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

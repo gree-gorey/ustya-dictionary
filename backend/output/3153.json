@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "карактель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кара́ктель", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карактель"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кала́хтер", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "калахтер"
+      }
+    ], 
+    "style": [
+      "реч. ош."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "характер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не сошлись кала́хтерами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не сошлись калахтерами."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

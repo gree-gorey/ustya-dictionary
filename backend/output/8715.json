@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ятный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́тный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ятный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яркий, четкий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль не я́тная фотокартоцка-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль не ятная фотокартоцка-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

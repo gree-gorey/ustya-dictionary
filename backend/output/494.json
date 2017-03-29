@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "бусить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Буси́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бусить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "моросить (о дожде) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забуси́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забусить"
+        }, 
+        {
+          "content": "Другие сутки дождик буси́т, как туман, мелкими капельками. Дожь опеть забуси́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "другие сутки дождик бусит, как туман, мелкими капельками. дожь опеть забусил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "мылить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мы́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мылить"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пилить тупой пилой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намы́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намылить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отмы́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отмылить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перемы́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перемылить"
+        }, 
+        {
+          "content": "Пилу поточить некому, дак едва на один и́стопель дров намы́лили, а надо бы весь воз перемы́лить. Этой пилой едва одну чурку отмы́лил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пилу поточить некому, дак едва на один истопель дров намылили, а надо бы весь воз перемылить. этой пилой едва одну чурку отмылил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

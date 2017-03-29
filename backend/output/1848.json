@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "недосуг", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недосу́г", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недосуг"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "недосу́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "недосук"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "некогда, нет времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ро́́́ду мне недосу́́́к по гостя́́́м-то ходи́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "роду мне недосук по гостям-то ходить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "досу́г", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "досуг"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

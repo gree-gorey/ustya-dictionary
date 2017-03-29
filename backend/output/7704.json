@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "третьевадни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Третьё́вадни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "третьевадни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "третё́вадни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "третевадни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "треттё́водни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "треттеводни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "третьё́водни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "третьеводни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позавчера.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Треттё́водни дождя эстоко было, дак чисто всё зали́ло. Ковды́́́ го́́́сти-то уе́́́хали? – Да третьё́́́водни проводи́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "треттеводни дождя эстоко было, дак чисто все залило. ковды гости-то уехали? – да третьеводни проводила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

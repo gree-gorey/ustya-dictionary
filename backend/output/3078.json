@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "йедного", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Йе́дного", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "йедного"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот топерь-то ни йе́дного не дам! Йе́́́дново сло́́́ва не сказа́́́ў на про́́́щаньё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот топерь-то ни йедного не дам! йедново слова не сказау на прощанье."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

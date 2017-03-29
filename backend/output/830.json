@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "в", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "В", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "в"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ли́́се", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лисе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в лесу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше колхозников направляли зимой ро́бить в ли́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше колхозников направляли зимой робить в лисе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

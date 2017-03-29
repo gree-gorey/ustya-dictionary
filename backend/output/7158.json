@@ -1,0 +1,106 @@
+{
+  "field_for_sorting": "сомущать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сомуща́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сомущать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "самуща́ть", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "самущать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смущать, приводить в сомнение, наговорами заставлять во что-то поверить; подбивать человека на неблаговидные действия, сбивать его", 
+          "tag": "def"
+        }, 
+        {
+          "content": "с пути́ и́стинного", 
+          "tag": "quote", 
+          "normalized_content": "с пути истинного"
+        }, 
+        {
+          "content": "(иногда", 
+          "tag": "def"
+        }, 
+        {
+          "content": "шутливо", 
+          "tag": "italic"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сомусти́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сомустить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "самусти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "самустить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сумусти́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сумустить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подсомусти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсомустить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насомуща́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насомущать"
+        }, 
+        {
+          "content": "Хва́́́тит де́́́вку-ту сомуща́́́ть, уш фся пристесня́́́ласе! Не сомуща́й ево, никуды он не подёт! Смотрите, па́рня у мня не сомусти́те! Он ушё́́́л на дере́́́вню, подсомусти́́́ли, пришё́́́л домо́́́й – ши́́́ре-да́́́ле – росспо́́́рили с жено́́́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит девку-ту сомущать, уш фся пристесняласе! не сомущай ево, никуды он не подет! смотрите, парня у мня не сомустите! он ушел на деревню, подсомустили, пришел домой – шире-дале – росспорили с женой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

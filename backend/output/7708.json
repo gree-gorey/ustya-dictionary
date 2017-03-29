@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "трекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трё́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много говорить, болтать языком (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затрё́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перетрё́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перетрекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потрё́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потрекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затрё́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрекаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натрё́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натрекаться"
+        }, 
+        {
+          "content": "Що опеть затрё́кали! – Да що паре и потрё́кать нельзя! Затрё́калась она там ви́дно. Натрё́каться не могут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що опеть затрекали! – да що паре и потрекать нельзя! затрекалась она там видно. натрекаться не могут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

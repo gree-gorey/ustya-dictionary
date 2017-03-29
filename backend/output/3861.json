@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лапта", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лапта́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лапта"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "популярная командная игра с небольшим мячом и битой, аналог современного бейсбола.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робя́́́та, бу́́́дём ве́́́чором в лапту́́́ на дере́́́вне игра́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робята, будем вечором в лапту на деревне играть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

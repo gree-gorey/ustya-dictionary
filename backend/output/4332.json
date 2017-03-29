@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "мякать2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мя́кать 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мякать 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измя́́́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отмя́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отмякать"
+        }, 
+        {
+          "content": "Они схватили ево и давай мя́кать. Фсево́́́ па́́́рня-та измя́́́кали, парази́́́ты! Намя́кали ни с чево́ парня. Он ево вцера так отмя́кал за это, что у него вся рожа в синяках стала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "они схватили ево и давай мякать. фсево парня-та измякали, паразиты! намякали ни с чево парня. он ево вцера так отмякал за это, что у него вся рожа в синяках стала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наполнять что-либо до отказа (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намя́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намякать"
+        }, 
+        {
+          "content": "И так пестерь полный (грибов), а ты всё мя́каешь и мя́каешь, намя́кал, не застегнё́шь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и так пестерь полный (грибов), а ты все мякаешь и мякаешь, намякал, не застегнешь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

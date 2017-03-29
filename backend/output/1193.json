@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "выпнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́пнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпнуть"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будёшь худо робить, живо с роботы вы́пнут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будешь худо робить, живо с роботы выпнут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

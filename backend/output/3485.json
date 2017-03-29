@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "коровятина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коровя́тина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коровятина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коровья шкура. Из выделанной коровьей шкуры мастерили самодельную обувь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

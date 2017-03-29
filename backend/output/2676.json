@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "затычка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заты́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затычка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянная или из другого материала пробка для закрывания какого-либо отверстия.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "гвозь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гвозь"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "гво́здик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гвоздик"
+        }, 
+        {
+          "content": "Вы́строжи-ко но́вую заты́чку к че́тверти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выстрожи-ко новую затычку к четверти."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") незаменимый человек, годный на любую работу, чем часто пользуются руководители.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что я вам в ка́ждую ды́рку заты́чка?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что я вам в каждую дырку затычка?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

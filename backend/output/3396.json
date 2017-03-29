@@ -1,0 +1,106 @@
+{
+  "field_for_sorting": "комить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "комить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "комкать, мять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закомить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "скоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скомить"
+        }, 
+        {
+          "content": "Не надо скатерть коми́ть, сиди спокойно", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо скатерть комить, сиди спокойно"
+        }, 
+        {
+          "content": "Чево́ платок в корман закоми́ла? Всю рубаху скоми́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево платок в корман закомила? всю рубаху скомил."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повалить силой, тормошить, давить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закомить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "искоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "искомить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "накоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накомить"
+        }, 
+        {
+          "content": "Он схватил и начал ево коми́ть. Хватит ево коми́ть, чисто всево парня искоми́́л, он ведь тебя моло́же!", 
+          "translation": "(о детях).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он схватил и начал ево комить. хватит ево комить, чисто всево парня искомил, он ведь тебя моложе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "зажгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зажга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зажгать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заже́чь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зажечь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затронуть рукой в некоторых играх, или попасть в кого-либо мячом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

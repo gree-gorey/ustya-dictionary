@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "караулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Карау́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "караулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поджидать, высматривать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не укарау́лила", 
+          "translation": "не заметила, не углядела, пропустила (например, автобус или за ребенком).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не укараулила"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "контролировать, следить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо там пиво карау́лить", 
+          "translation": "следить за процессом изготовления.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо там пиво караулить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

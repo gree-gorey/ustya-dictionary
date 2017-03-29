@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тайбола", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Та́йбола", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тайбола"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болотистая местность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дорога худая, вся в та́йболах.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дорога худая, вся в тайболах."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

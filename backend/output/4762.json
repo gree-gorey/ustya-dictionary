@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "необихоженный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Необихо́женный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "необихоженный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неопрятный, грязный, неухоженный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Необихо́дно у ёво в избе, и сам он какой-то необихо́женный.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "необиходно у ево в избе, и сам он какой-то необихоженный."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

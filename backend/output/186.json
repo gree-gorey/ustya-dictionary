@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "бедка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бедка"
+      }
+    ], 
+    "style": [
+      "уменьш."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Малые де́тки – малые бе́дки", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "малые детки – малые бедки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

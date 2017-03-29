@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "съежиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Съё́́́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "съежиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скорчиться, сжаться от холода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево съё́жилсе, замё́рз што ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево съежилсе, замерз што ли?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") засмущаться от стеснения, испуга.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Петру́ньку как начнёшь чево спрашивать, дак он весь съё́житсе и молчит, ничево от нево не добьёшьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "петруньку как начнешь чево спрашивать, дак он весь съежитсе и молчит, ничево от нево не добьешьсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ё́житься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ежиться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

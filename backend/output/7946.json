@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "уреветься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уреве́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уреветься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до крайней степени наплакаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сыно́цик-то погиб, дак тут она вся уреве́ласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыноцик-то погиб, дак тут она вся уревеласе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "реве́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "реветь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

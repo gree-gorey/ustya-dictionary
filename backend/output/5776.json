@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "подмаз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подма́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подмаз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подма́зок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подмазок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "крыло́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "крыло"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

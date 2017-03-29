@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "распоряжуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распоряжу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распоряжуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "главная в семье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обычно свекровь бывает распоряжу́хой в семье.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обычно свекровь бывает распоряжухой в семье."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

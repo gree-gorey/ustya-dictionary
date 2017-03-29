@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "трыщиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тры́щиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трыщиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "«срывать» свое раздражение, недовольство на другом человеке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затры́щиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрыщиться"
+        }, 
+        {
+          "content": "Це́́́лой день на меня́́́ всё тры́щитсе и тры́́́щитсе! Ты опеть на меня затры́щиласе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целой день на меня все трыщитсе и трыщитсе! ты опеть на меня затрыщиласе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

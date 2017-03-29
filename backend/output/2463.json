@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "залежка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залё́жка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залежка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "залежь, не паханая несколько лет подряд земля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На залё́жке земля отдыхала, а потом давала хороший урожай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на залежке земля отдыхала, а потом давала хороший урожай."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

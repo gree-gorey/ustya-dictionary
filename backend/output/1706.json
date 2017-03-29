@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "дивовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дивова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дивовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "насмехаться, издеваться, дразнить", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чадрома", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Все над ей диву́ют, а она терпит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все над ей дивуют, а она терпит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "удивляться, осуждать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Теперь не раньше, никто не будет дивова́ть над нами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теперь не раньше, никто не будет дивовать над нами."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

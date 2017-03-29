@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "глаженье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гла́женье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глаженье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обработка белья после стирки утюгом или катком, глажка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "белье, требующее глажки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гла́женья-та вон какая куча!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глаженья-та вон какая куча!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

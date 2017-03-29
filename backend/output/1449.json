@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "голяшка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голя́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голяшка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голень ноги от лодыжки до колена.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "голенище, верхняя часть высокой обуви (сапог, валенок).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ка́танцов-то до́ўги голя́шки, на́до их обре́зать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у катанцов-то доуги голяшки, надо их обрезать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

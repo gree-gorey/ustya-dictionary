@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пришахаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пришаха́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пришахаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пристать, прижиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бездомный пришаха́лся, топерь и выгонить жалко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бездомный пришахался, топерь и выгонить жалко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

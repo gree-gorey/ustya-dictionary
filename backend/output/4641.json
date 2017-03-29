@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надо, надобно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо́́́ тебе́́́ на́́́ть-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо тебе нать-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

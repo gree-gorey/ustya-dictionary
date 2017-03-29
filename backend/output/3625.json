@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крепиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крепи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крепиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "терпеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну шщо де́́́лать, крепи́́́тьце на́́́до, у тебя́́́ робя́́́та ешщо́́́ малы́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну шщо делать, крепитьце надо, у тебя робята ешщо малы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

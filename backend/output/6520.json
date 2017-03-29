@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "распетушиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распетуши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распетушиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вспыли́ть, потерять самообладание.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево распету́шилсе, как петух, нали́ покрасне́л весь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево распетушилсе, как петух, нали покраснел весь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "петуши́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "петушиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

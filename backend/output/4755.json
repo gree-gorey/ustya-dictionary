@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "неможется", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Немо́жется", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неможется"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "худо мо́жется", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "худо можется"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нездоровиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "занемо́жется", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "занеможется"
+        }, 
+        {
+          "content": "Мне младе да худо мо́жется, худо мо́жется да нездоро́вится, нездоро́внтся, да гулять не хочется", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная песня. М.И. Шалаурова.", 
+          "normalized_content": "мне младе да худо можется, худо можется да нездоровится, нездоровнтся, да гулять не хочется"
+        }, 
+        {
+          "content": "Бабка с утра занемо́жилась що-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка с утра занеможилась що-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "повитрия", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пови́трия", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повитрия"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пове́трие", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поветрие"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пови́терье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "повитерье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пови́тёрьё", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "повитерье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "эпидемия какой-либо заразной болезни, вирусная инфекция с симптомами пищевого отравления. Передается воздушно-капельным путем, «по воздуху», «по ветру»", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть пови́трия гриппа идёт. Опять пови́терье ходит, много кто заболели, да и шибко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть повитрия гриппа идет. опять повитерье ходит, много кто заболели, да и шибко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

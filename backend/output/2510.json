@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "заножина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зано́жина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заножина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой участок пашни или сенокоса, отходящий в сторону от основного массива, рукав.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этой зано́жине у лесу худо хлеб ростёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этой заножине у лесу худо хлеб ростет."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "кули́га", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кулига"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лы́ва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лыва"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "канава", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Митинская", 
+          "tag": "place"
+        }, 
+        {
+          "content": "На тот сенокос не заехать, зано́жина мешаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на тот сенокос не заехать, заножина мешает."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

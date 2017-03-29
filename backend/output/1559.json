@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "губынадуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гу́бы наду́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "губы надуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "капризничать, сердиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть гу́бы наду́л!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть губы надул!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гу́ба", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "губа"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

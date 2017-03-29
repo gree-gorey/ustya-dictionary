@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "бутора", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́тора", 
+        "place": [
+          "Чадрома"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "бутора"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "метель, вьюга.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Снежная бу́тора, глаз не откроёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снежная бутора, глаз не откроешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

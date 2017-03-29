@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "приволокчись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приволокчи́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приволокчись"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "приползти́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "приползти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "медленно, с затратой больших сил прийти, подойти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Этому-то надо, зю́зе приволокчи́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этому-то надо, зюзе приволокчись."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "волочи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "волочиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

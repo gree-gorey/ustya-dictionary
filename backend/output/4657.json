@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нахлобучка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нахлобу́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нахлобучка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взбучка, выговор, разнос.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Получил нахлобу́чку за невыполнение задания.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "получил нахлобучку за невыполнение задания."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

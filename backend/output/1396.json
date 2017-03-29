@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "гогарник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гога́рник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гогарник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водяная, озерная трава с длинным круглым стеблем, верхушка которого поднимается над водой, разновидность камыша.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

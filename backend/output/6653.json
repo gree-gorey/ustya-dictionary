@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "ронеться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Роне́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ронеться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "падать, валяться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошщо́́́ пу́́́говици-те роне́́́ютце?", 
+          "translation": "валяются.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошщо пуговици-те ронеютце?"
+        }, 
+        {
+          "content": "Ужо́́́ прогло́́́тит робё́́́нок дак!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ужо проглотит робенок дак!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

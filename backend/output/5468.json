@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пелить(шары)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́лить (шары́)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пелить (шары)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестактно смотреть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что шары́-то пе́лишь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что шары-то пелишь?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пе́литься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пелиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

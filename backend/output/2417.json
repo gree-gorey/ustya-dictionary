@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "закладни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́кладни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закладни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́кладьни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закладьни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бревна, образующие нижний венец дома.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Посмотри́́́-ко, все уж за́́́кладьни згни́́́ли, до́́́м-от ве́́́сь просе́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "посмотри-ко, все уж закладьни згнили, дом-от весь просеу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закладные камни дома, используемые в качестве фундамента.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "невпротюк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Невпротю́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "невпротюк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мало.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сопё́т, сопё́т да всё невпротю́к!", 
+          "translation": "всё ему мало.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сопет, сопет да все невпротюк!"
+        }, 
+        {
+          "content": "Не знаю, что за невпротю́к!", 
+          "translation": "о человеке, которому все мало, который все что-то требует.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не знаю, что за невпротюк!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

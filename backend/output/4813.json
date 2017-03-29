@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нечкас", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нечка́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нечкас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень некрасивый лицом человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Польки жони́х тако́й нечка́с, отку́ль и взя́ла э́ково.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у польки жоних такой нечкас, откуль и взяла эково."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

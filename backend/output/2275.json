@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "завидно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зави́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завидно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состояние зависти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пелаги́я полную зобе́ньку черни́цы принесла, а Они́сье стало зави́дно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пелагия полную зобеньку черницы принесла, а онисье стало завидно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

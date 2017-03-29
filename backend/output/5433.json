@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "пасынок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́сынок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пасынок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приёмный сын.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это у нево не родной сын, а па́сынок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это у нево не родной сын, а пасынок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "боковая поросль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У помидоров надо па́сынки удалять.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у помидоров надо пасынки удалять."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "боковая подпора у столба.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ближе угород не поставишь, па́сынок у столба мешаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ближе угород не поставишь, пасынок у столба мешает."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дополнительно примётанный к зароду промёжек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сено с осто́жья не вошло в заро́д, пришлось приметать па́сынок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сено с остожья не вошло в зарод, пришлось приметать пасынок."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

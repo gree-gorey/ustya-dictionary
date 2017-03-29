@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "барагуздить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́гуздить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "барагуздить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собирать и говорить ерунду (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набарагу́здить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набарагуздить"
+        }, 
+        {
+          "content": "Как у тебя то́ко со́вести хвата́ёт, эку бо́лесь про Ма́ньку бара́гуздить! Целый короб набарагу́здила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как у тебя токо совести хватает, эку болесь про маньку барагуздить! целый короб набарагуздила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

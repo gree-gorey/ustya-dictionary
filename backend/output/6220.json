@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "присказулька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Присказу́лька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "присказулька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "присказка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С Санькой поговоришь, дак столько присказу́лёк наслушаешьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с санькой поговоришь, дак столько присказулек наслушаешьсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "завести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завести"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взять, приобрести, начать «держать» в хозяйстве (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "заводи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заводить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "назаводи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "назаводить"
+        }, 
+        {
+          "content": "Завели́ кота́", 
+          "translation": "взяли домой кота.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завели кота"
+        }, 
+        {
+          "content": "Мы топере лодку завели́, дак куды с добром, как куды пои́хать!", 
+          "translation": "приобрели лодку, и очень хорошо, что можно на ней куда-нибудь поехать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы топере лодку завели, дак куды с добром, как куды поихать!"
+        }, 
+        {
+          "content": "Надо тепе́ре хозяйство заводи́ть. Назаводи́ли они в доме всево.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо тепере хозяйство заводить. назаводили они в доме всево."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "пырскало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пы́рскало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пырскало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пы́рчкало", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пырчкало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пы́скало", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пыскало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пы́скань", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пыскань"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пы́сконь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пысконь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "капризный, брезгующий человек, животное в отношении еды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты и пы́скань! Ну, поросёнок-то и пы́рчкало, подала́ ёму нуко варёной картови, а он и не сопё́т ничево!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и пыскань! ну, поросенок-то и пырчкало, подала ему нуко вареной картови, а он и не сопет ничево!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

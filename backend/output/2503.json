@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "замыться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замы́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "замыться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерять вид, поблекнуть, застираться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Платьё-то замы́лось, никаково виду не стало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "платье-то замылось, никаково виду не стало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

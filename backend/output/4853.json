@@ -1,0 +1,111 @@
+{
+  "field_for_sorting": "ночевка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ночё́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ночевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ночё́вки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ночевки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ноцё́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ноцевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ноцё́вки", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "ноцевки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "округлая продолговатая посудина, выдолбленная из березы (как чаша с двумя ручками), используемая для приготовления хлеба. В нее выкладывали из квашни тесто, наминали и выкатывали", 
+          "tag": "def"
+        }, 
+        {
+          "content": "яру́шники", 
+          "tag": "quote", 
+          "normalized_content": "ярушники"
+        }, 
+        {
+          "content": "жи́тники", 
+          "tag": "quote", 
+          "normalized_content": "житники"
+        }, 
+        {
+          "content": "пшени́чники", 
+          "tag": "quote", 
+          "normalized_content": "пшеничники"
+        }, 
+        {
+          "content": "обы́денники", 
+          "tag": "quote", 
+          "normalized_content": "обыденники"
+        }, 
+        {
+          "content": "чолпа́ны", 
+          "tag": "quote", 
+          "normalized_content": "чолпаны"
+        }, 
+        {
+          "content": "перед посадкой в печь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "но́чви", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ночви"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "си́льница", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сильница"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сковородка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

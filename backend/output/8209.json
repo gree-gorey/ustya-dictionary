@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "хромыгало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хромыга́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хромыгало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хромой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

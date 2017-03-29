@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "било", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Би́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "било"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ручной инструмент для привода в действие тетивы лука при битье шерсти.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бить шерсть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бить шерсть"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лук", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лук"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тетива́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тетива"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рабочая часть молотила (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "це́па", 
+          "tag": "quote", 
+          "normalized_content": "цепа"
+        }, 
+        {
+          "content": "о́чепа", 
+          "tag": "quote", 
+          "normalized_content": "очепа"
+        }, 
+        {
+          "content": "березовая круглая палка длиной около 1 метра.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́чеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очеп"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "цеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "цеп"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

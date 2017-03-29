@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "жмот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жмот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жмот"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жлоб", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жлоб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скупой, прижимистый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У э́того жмо́та сне́гу зимо́й не вы́просишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у этого жмота снегу зимой не выпросишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "валек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Валё́́́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "валек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ру́бель", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рубель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изогнутая дощечка с насечкой на рабочей стороне и короткой ручкой, длиной около 0,7 м и шириной около 15 см прибор для глажения белья. Используется в паре с катком.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "каток", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "каток"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

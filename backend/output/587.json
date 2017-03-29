@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "вдваследа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "В два сле́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "в два следа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вкрю́ки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вкрюки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ боронования. Ездят с бороной по пахоте зигзагообразно,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "крю́чат", 
+          "tag": "quote", 
+          "normalized_content": "крючат"
+        }, 
+        {
+          "content": ", при этом борона проходит по одному и тому же месту дважды, но крест-накрест под разными углами.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лучи́нить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лучинить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

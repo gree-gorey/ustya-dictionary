@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "охотка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Охо́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "охотка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутренний интерес, увлеченность человека чем-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сбить охо́тку", 
+          "translation": "отвести душу, удовлетворить внутреннюю потребность в какой-то деятельности.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сбить охотку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

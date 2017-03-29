@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "алебо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "А́лебо", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "алебо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ле́бо", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лебо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "или, либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто знает, может снег пойдёт а́лебо дождь начнётся. Я к тибе приду, ле́бо ты ко мне зайди.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто знает, может снег пойдет алебо дождь начнется. я к тибе приду, лебо ты ко мне зайди."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

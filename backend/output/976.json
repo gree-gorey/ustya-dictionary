@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "вперебой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вперебо́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вперебой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наперебо́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наперебой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стараясь всех опередить в каком либо деле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Товар в мага́зине все хватают вперебо́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "товар в магазине все хватают вперебой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отбить невесту (жениха) у соперника.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я уж к им не пойду наперебо́й, пусь сходятце да живут лутше.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я уж к им не пойду наперебой, пусь сходятце да живут лутше."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "встревать в разговоры, перебивать говорящих.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ковды другие ба́ют, не имий моды итти вперебо́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ковды другие бают, не имий моды итти вперебой."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

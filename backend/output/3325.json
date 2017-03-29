@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "койда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́йда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "койда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́йды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "койды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́йдами", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "койдами"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как, каким путем (пройти, проехать).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забы́́́ў уш, ко́́́йда и шли́́́ к о́́́зеру-ту. Ко́йды е́хать-ту? Ко́йдами мне проехать за ричку?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забыу уш, койда и шли к озеру-ту. койды ехать-ту? койдами мне проехать за ричку?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

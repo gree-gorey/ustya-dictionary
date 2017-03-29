@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "закухтать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заку́хтать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закухтать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закутать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заку́хтай ребёнка, а то на таком ветру́ проду́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закухтай ребенка, а то на таком ветру продует."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ку́хтать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кухтать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

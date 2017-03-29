@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сутрия", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́трия", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сутрия"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "с утра.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот су́трия и начнём косить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот сутрия и начнем косить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

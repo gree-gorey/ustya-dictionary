@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "сулиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сули́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сулиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обещать приехать, придти, быть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посули́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посулиться"
+        }, 
+        {
+          "content": "Овдо́тья сули́тсе летом приехать. Зойка посули́лась приехать на майские.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "овдотья сулитсе летом приехать. зойка посулилась приехать на майские."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "юбчошка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Юбчо́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юбчошка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "юбча́шко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "юбчашко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уничижительное: юбка, юбочка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

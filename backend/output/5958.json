@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "поманить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Помани́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поманить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подождать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Помани́ меня", 
+          "translation": "подожди меня.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "помани меня"
+        }, 
+        {
+          "content": "Помани́ть надо, а то дожь подёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поманить надо, а то дожь подет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "привлечь, позвать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Его только пальчиком помани́, и он побежит. Помани́ корову-то кусо́чком, дак подойдёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "его только пальчиком помани, и он побежит. помани корову-то кусочком, дак подойдет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мани́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "манить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

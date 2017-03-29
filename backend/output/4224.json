@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "моделой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моде́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "моделой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скисший, протухший; шающий, тлеющий; некипящий, преющий.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

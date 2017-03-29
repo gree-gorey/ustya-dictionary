@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "согрешение", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Согреше́ние", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "согрешение"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "согреше́ние гре́шное", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "согрешение грешное"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мучение, беда, неудобство.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Согреше́ние гре́шное с этими робятами, чи́сто вся замучиласе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "согрешение грешное с этими робятами, чисто вся замучиласе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

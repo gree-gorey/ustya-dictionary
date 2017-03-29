@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "напопа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На попа", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на попа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ста́вить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ставить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поста́вить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поставить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вертикально.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поставь рю́ху на попа́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поставь рюху на попа."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

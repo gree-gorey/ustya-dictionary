@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "хлебины", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлеби́ны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлебины"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заключительный свадебный пир.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К тёще на хлеби́ны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к теще на хлебины."
+        }, 
+        {
+          "content": "Молодые через три дня приедут на хлеби́ны", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Нищая купчиха». М.И. Шалаурова.", 
+          "normalized_content": "молодые через три дня приедут на хлебины"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "перехлеби́ны", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перехлебины"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

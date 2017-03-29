@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "азям", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Азя́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "азям"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "долгополый кафтан из домотканого сукна.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "зипу́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зипун"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "серьмя́га", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "серьмяга"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "зимняя одежда, одевавшаяся поверх другой верхней одежды.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

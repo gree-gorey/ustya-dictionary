@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бережая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Берё́жая", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бережая"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беременная (жерёбая) лошадь (кобыла).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зама́нка – кобы́ла берё́жая, не на́до ие́ впряга́ть в тяжё́лую робо́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заманка – кобыла бережая, не надо ие впрягать в тяжелую роботу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

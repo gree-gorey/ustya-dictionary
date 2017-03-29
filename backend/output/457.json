@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "бугрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бугри́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бугрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "избугри́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "избугрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сбугри́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сбугрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бурлить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вода-то под ще́тью у мельницы как бугри́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вода-то под щетью у мельницы как бугрит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ломаться, трескаться, подниматься (в отношении весеннего льда на реке).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,242 @@
+{
+  "field_for_sorting": "мотать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мота́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мотать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "груб.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") уходить, уезжать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "умота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "умотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ума́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уматывать"
+        }, 
+        {
+          "content": "А ну, мота́й (ума́тывай) отсюда, пока цел!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а ну, мотай (уматывай) отсюда, пока цел!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "утомлять, надоедать, раздражать, расстраивать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́мотать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вымотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "помота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "помотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "умота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "умотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выма́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выматывать"
+        }, 
+        {
+          "content": "Ты мота́ёшь меня своими разговорами, всё одно да одно! Хватит мне нервы-то мота́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты мотаешь меня своими разговорами, все одно да одно! хватит мне нервы-то мотать!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "навивать нитки ручной пряжи (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перемота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перемотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "размота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "размотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "нама́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наматывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "перема́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перематывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "разма́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разматывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сма́тывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сматывать"
+        }, 
+        {
+          "content": "Не тяжола́ робо́та ни́тки мота́ть. Если все про́стни перемота́ёшь, намота́ёшь по́ўной мот. Смота́й-ко нитки с про́стней на мотови́ло. Нитки запутались, не могу розмо́тать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не тяжола робота нитки мотать. если все простни перемотаешь, намотаешь поуной мот. смотай-ко нитки с простней на мотовило. нитки запутались, не могу розмотать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мот", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мот"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мотови́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мотовило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "про́стень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "простень"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

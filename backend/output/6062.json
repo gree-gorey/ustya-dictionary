@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "посыкнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посы́кнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посыкнуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́такаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вытакаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изъявить желание, пообещать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ни на чево сдела нет, а опеть вы́такалсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ни на чево сдела нет, а опеть вытакалсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

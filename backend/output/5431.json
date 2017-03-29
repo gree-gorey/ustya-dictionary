@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пастушить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пасту́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пастушить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пасти скот, работать пастухом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В совхозе я де́сеть годов пасту́шиў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в совхозе я десеть годов пастушиу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

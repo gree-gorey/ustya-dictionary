@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "заодно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заодно́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заодно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "попутно, вместе что-то делать или идти куда-то.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойдёшь к свату, дак заодно́ зайди к бригадиру вы́писать сено по трудодня́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдешь к свату, дак заодно зайди к бригадиру выписать сено по трудодням."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вы́писать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выписать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трудоде́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трудодень"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быть в полном согласии с кем-то, поддерживать его (быть с ним", 
+          "tag": "def"
+        }, 
+        {
+          "content": "заодно́", 
+          "tag": "quote", 
+          "normalized_content": "заодно"
+        }, 
+        {
+          "content": "Пашка с им заодно́, дак где-жо вы́даст ёво и ска́жот пра́вду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пашка с им заодно, дак где-жо выдаст ево и скажот правду."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

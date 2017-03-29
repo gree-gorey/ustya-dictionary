@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "уточить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уточи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уточить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обмочить, закапать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Платок-от уточи́ла в супе. Робё́́́нок-то фсю руба́́́шку утоци́́́ў со́́́ком, – хоть бы нагру́́́док наде́́́ли, шщо ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "платок-от уточила в супе. робенок-то фсю рубашку утоциу соком, – хоть бы нагрудок надели, шщо ли!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "точи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "точить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

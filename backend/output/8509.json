@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "швыркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Швы́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "швыркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пить, есть горячее; шумно пить с ложки, из наполненной до краёв чашки, боясь обжечься или облиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошвы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошвыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сошвы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сошвыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сошвы́ркивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сошвыркивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сошвыркну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сошвыркнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Самова́р скипе́ў, дава́й ча́ю пошвы́ркаём. Суп был горячий, каждую ложку сошвы́ркивал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "самовар скипеу, давай чаю пошвыркаем. суп был горячий, каждую ложку сошвыркивал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

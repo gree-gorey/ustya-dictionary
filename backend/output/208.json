@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "безразбору", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Без разбо́ру", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "без разбору"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "все подряд. Так говорят о человеке, который говорит или делает что-либо необдуманно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ме́лёт всё без разбо́ру", 
+          "translation": "говорит необдуманно.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мелет все без разбору"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

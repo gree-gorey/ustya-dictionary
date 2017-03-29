@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "изба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изба", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревенский дом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "основное жилое помещение деревенского дома, состоящее обычно из большой комнаты и кухни с русской печью. Кухня отделялась от большой комнаты", 
+          "tag": "def"
+        }, 
+        {
+          "content": "забо́́́ркой", 
+          "tag": "quote", 
+          "normalized_content": "заборкой"
+        }, 
+        {
+          "content": "или высоким", 
+          "tag": "def"
+        }, 
+        {
+          "content": "шка́́́пом", 
+          "tag": "quote", 
+          "normalized_content": "шкапом"
+        }, 
+        {
+          "content": "Проходи в ы́збу", 
+          "translation": "заходи в дом.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "проходи в ызбу"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

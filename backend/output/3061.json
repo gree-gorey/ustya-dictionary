@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "истаскать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Истаска́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "истаскать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "износить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Катанцы до дыр истаска́ли. Фсю ю́́́пку-ту мою́́́ истаска́́́ла, –шщо́́́бы мне ра́́́не-то хвати́́́тьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катанцы до дыр истаскали. фсю юпку-ту мою истаскала, –шщобы мне ране-то хватитьце!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "таска́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "таскать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

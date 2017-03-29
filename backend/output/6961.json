@@ -1,0 +1,82 @@
+{
+  "field_for_sorting": "скипеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скипе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скипеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вскипеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чайник скипе́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чайник скипел."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "согреться (сену в зароде).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "скипе́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скипеться"
+        }, 
+        {
+          "content": "Недосо́хшоё сено сложили в зароде, дак можот скипе́ть. Как бы сено в зароде не скипе́́́лось", 
+          "translation": "не испортилось, не заплесневело.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недосохшое сено сложили в зароде, дак можот скипеть. как бы сено в зароде не скипелось"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") рассердиться, разъяриться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Цють шщо не по ёму́́́, дак так скипи́́́т, шщо на́́́ли стра́́́шно мне!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цють шщо не по ему, дак так скипит, шщо нали страшно мне!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

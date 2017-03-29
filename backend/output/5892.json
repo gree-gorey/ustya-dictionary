@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "покладистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Покла́дистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покладистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спокойный, сговорчивый.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

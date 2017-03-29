@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "дерно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дерно́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дерно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дёрно́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дерно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дёрн.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо картовь посадить в это дерно́, она любит в нём рости, только трудно огребать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо картовь посадить в это дерно, она любит в нем рости, только трудно огребать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

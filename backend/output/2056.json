@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "екать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ё́́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "екать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "ё́кнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "екнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "ё́кнуться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "екнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "реагировать на внезапный испуг.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У неё со страху сердце ё́кнуло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нее со страху сердце екнуло."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вбивать, заколачивать что-то, удариться, треснуться обо что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Побежал быстро, да запнулсе и в стену головой ё́кнулсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "побежал быстро, да запнулсе и в стену головой екнулсе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,110 @@
+{
+  "field_for_sorting": "выводить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́водить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выводить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вынянчить, вырастить ребенка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робяток-то мамка помогла́ вы́водить, уж ши́бко помога́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робяток-то мамка помогла выводить, уж шибко помогала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "избаловать, испортить с детства.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́водили короле́вну, теперь сто раз пока́ются.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выводили королевну, теперь сто раз покаются."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпарить птенцов.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Курица на гнезде сидит, цыплят выво́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "курица на гнезде сидит, цыплят выводит."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "показать что-либо на местности.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабушка внука по всем грибным местам вы́водила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабушка внука по всем грибным местам выводила."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выращивать рассаду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Приходи за рассадой-то капусты, я ие много вы́́вела.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приходи за рассадой-то капусты, я ие много вывела."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "води́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "водить"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

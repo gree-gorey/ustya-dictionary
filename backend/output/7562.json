@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "тенетник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тене́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тенетник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тенё́тник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тенетник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "паук, ткущий паутину.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "тенё́тница", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тенетница"
+        }, 
+        {
+          "content": "Во́́́но, тенё́́́тникоф-то в углу́́́ розвело́́́сь ско́́́ко, хоть бы ви́́́ником спахну́́́ў тенё́́́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "воно, тенетникоф-то в углу розвелось скоко, хоть бы виником спахнуу тенету."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") медленный, вяло передвигающийся человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо ходишь как тене́тник?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо ходишь как тенетник?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "копьяпритянулись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́пья притяну́лись", 
+        "place": [
+          "Митинская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "копья притянулись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "о худом, изможденном человеке.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Ко́пья", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копья"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

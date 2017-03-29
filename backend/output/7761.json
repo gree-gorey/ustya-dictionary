@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "туркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "туркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно делать замечания, одёргивать, подсмеиваться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зату́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затуркать"
+        }, 
+        {
+          "content": "Ско́́́ко мо́́́жно ту́́́ркать-то – всёво́́́ па́́́рня зату́ркали!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко можно туркать-то – всево парня затуркали!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

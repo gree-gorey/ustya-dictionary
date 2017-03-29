@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "глушмень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глушме́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глушмень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отдаленное глухое место, глушь, глухомань.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да хто к нам поидёт в экую глушме́нь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да хто к нам поидет в экую глушмень!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

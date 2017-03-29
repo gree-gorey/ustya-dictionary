@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "кукорки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́корки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукорки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заку́корки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закукорки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за ку́корки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "за кукорки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́кры", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кукры"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заку́кры", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "закукры"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кукши́ны", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кукшины"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́кшенки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кукшенки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ба́рахты", 
+        "place": [
+          "Митинская"
+        ], 
+        "type": "variant", 
+        "normalized_content": "барахты"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхняя часть спины, заплечье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сади́́́сь-ко ко мне на ку́́́корки, дак поднесу́́́ мале́́́нько. Ну́́́-ко ку́́́корки-то потри́́́ моца́́́ўкой лу́́́тьше! Поднеси меня на ку́кшенках?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись-ко ко мне на кукорки, дак поднесу маленько. ну-ко кукорки-то потри моцаукой лутьше! поднеси меня на кукшенках?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

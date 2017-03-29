@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подчистить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подчи́стить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подчистить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "все съесть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поросёнок в коры́те всё подчи́стил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросенок в корыте все подчистил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

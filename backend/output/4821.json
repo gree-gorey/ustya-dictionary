@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "низовец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Низо́вец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "низовец"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "низо́веч", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "низовеч"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ни́зовка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "низовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "житель, проживающий ниже по течению Устьи данной местности.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "верхо́вец", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "верховец"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

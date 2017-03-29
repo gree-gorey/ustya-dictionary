@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "псиветь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пси́веть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "псиветь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "портиться, приобретать неприятный запах, пахнуть псиной (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запси́веть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запсиветь"
+        }, 
+        {
+          "content": "Если долго не мыться в бане, можно и запси́веть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если долго не мыться в бане, можно и запсиветь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

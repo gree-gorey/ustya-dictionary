@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "решетка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Решё́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "решетка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остов деревянной конной бороны.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

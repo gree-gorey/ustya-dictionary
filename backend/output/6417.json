@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "пыжина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пы́жина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пыжина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "семенные головки клевера.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

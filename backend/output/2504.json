@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "замяндовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замяндова́ть", 
+        "place": [
+          "Усачиха"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "замяндовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать гнить (о дереве).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это бревно в стену не пойдёт, оно замяндова́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это бревно в стену не пойдет, оно замяндовало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

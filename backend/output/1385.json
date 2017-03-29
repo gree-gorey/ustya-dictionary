@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гнусавить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гнуса́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гнусавить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить неестественным голосом, «в нос».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он всегда так гнуса́вит, по-другому не уми́ёт ба́еть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он всегда так гнусавит, по-другому не умиет баеть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

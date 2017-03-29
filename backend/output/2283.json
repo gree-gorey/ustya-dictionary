@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "завод", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заво́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завод"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приобретение чего-либо, не имевшегося ранее в хозяйстве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будём деньги копить на заво́д коровы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будем деньги копить на завод коровы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

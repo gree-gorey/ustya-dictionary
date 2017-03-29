@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "залехтеться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залехте́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залехтеться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "часто и с трудом дышать после бега, быстрой ходьбы, тяжелой работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ак что залехте́лся-то, бежал что ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ак что залехтелся-то, бежал что ли?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "запы́шкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "запышкаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "рушать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ру́́́шать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рушать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резать, забивать, «убирать» домашнее животное, например, поросенка (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зару́шать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зарушать"
+        }, 
+        {
+          "content": "Пора́́́, пора́́́ уш сви́́́шку ру́́́шать, матеру́́́щая вы́́́росла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пора, пора уш свишку рушать, матерущая выросла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

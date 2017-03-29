@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "тяжельше", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тяжё́льше", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тяжельше"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяжелее.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

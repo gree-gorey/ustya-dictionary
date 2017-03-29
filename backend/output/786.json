@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "визнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ви́знуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "визнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "визну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "визнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кинуть, бросить, швырнуть чем-то (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зави́знуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завизнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завизе́нить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завизенить"
+        }, 
+        {
+          "content": "Как визну́́́ палкой-то дак!", 
+          "translation": "кину в тебя палкой, узнаешь!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как визну палкой-то дак!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

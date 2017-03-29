@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "телушечка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Телу́́́шечка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "телушечка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "телу́́́шочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "телушочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькая, недавно родившаяся телушка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́́́ноць коро́́́ва-та тёлу́́́шоцьку ё́́́друю принесла́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сеноць корова-та телушоцьку едрую принесла."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "телу́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "телушка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тё́лка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "телка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "яшкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́шкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "яшкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надоело я́шкать с им, всё одно да одно твердит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надоело яшкать с им, все одно да одно твердит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

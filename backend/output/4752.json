@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "немка1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́мка 1", 
+        "place": [
+          "Широкая, Едьма"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "немка 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непослушная (о ребенке).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

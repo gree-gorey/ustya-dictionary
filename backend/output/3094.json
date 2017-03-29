@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кажоденно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кажодё́нно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кажоденно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ежедневно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше робили кажодё́нно, выходных и отпусков не знали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше робили кажоденно, выходных и отпусков не знали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

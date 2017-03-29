@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нетоптанец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нето́птанец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нетоптанец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зарод сена нетоптаный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сырова́тое сено, дак накида́ли нето́птанец, можот продуёт. Сходив да нето́птанчом сметав ды, буть што будёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыроватое сено, дак накидали нетоптанец, можот продует. сходив да нетоптанчом сметав ды, буть што будет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "то́птанец", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "топтанец"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

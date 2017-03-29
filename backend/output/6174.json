@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "признать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Призна́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "признать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А вот рядом женщину не могу призна́ть. Да я ево́́́ и не призна́́́ла – давно́́́ уш не ви́́́дела дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а вот рядом женщину не могу признать. да я ево и не признала – давно уш не видела дак."
+        }, 
+        {
+          "content": "То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опозна́́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опознать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

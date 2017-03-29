@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "забеглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забе́глый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забеглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чужой, посторонний, забежавший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да, в деревне уже ниди́лю ни ково не было, токо один забе́глый мужик был.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да, в деревне уже нидилю ни ково не было, токо один забеглый мужик был."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

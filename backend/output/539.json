@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "валецки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́лецки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "валецки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "ка́танки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "катанки"
+        }, 
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "ка́танцы", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "катанцы"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "кувыркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кувы́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кувыркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перемещать тяжелые предметы различной формы путем переворачивания их на другую сторону (поверхность) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перекувы́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перекувыркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перекувы́рнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перекувырнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай перекувы́рнём этот камень, тут он мешаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай перекувырнем этот камень, тут он мешает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

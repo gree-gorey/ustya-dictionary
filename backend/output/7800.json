@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тянуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тяну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тянуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "медлить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево тяну́ться, става́ть пора!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево тянуться, ставать пора!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

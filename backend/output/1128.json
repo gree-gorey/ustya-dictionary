@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "выжелобить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́желобить", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "выжелобить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделать желоб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О́хлупень делают, дак серёдку вы́желобят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "охлупень делают, дак середку выжелобят."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́хлуп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "охлуп"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

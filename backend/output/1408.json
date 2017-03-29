@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "гойтан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гойта́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гойтан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гайта́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гайтан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шелковый шнурок, тесемка, веревочка или тонкая серебряная цепочка, на которой носят нательный крест; такие цепочки, только без креста, женщины носили и поверх кофты в качестве украшения.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "гайта́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гайтак"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "говита́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "говитан"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нательный крест на шелковом шнурке, тесемке, веревочке или цепочке.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "говита́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "говитан"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "веревочка для лаптей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

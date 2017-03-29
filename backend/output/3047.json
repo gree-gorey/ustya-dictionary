@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "исполу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́сполу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исполу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собрать половину урожая, заготовить в два раза меньше, чем было или хотелось.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

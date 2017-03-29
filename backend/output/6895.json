@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "рассестись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рассе́стись", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рассестись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сесть, заняв много места.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево рассе́лась-то, подви́ньсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево расселась-то, подвиньсе!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сидеть, не занимаясь делом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "расседа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расседать"
+        }, 
+        {
+          "content": "Чево рассе́лась, надо за водой итти! Нечево расседа́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево расселась, надо за водой итти! нечево расседать!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "се́сти", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сести"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

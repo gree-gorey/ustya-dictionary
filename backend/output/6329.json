@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "проплешина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пропле́шина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "проплешина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голая земля при таянии снега.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "безлесый участок в лесу.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "место без растительности на поле, сенокосе.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лысина на голове.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "место без шерсти на коже животного.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

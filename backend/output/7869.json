@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ужна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́жна", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ужна"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ужин.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спроси-ко у ма́ти, готова ли у́жна? У́́́жна-та поспе́́́ла?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спроси-ко у мати, готова ли ужна? ужна-та поспела?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́ужна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "паужна"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

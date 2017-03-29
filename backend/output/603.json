@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вдрабадан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдрабада́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдрабадан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вду́пель", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдупель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень сильная степень опьянения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Привели ёво́ пья́ного вду́пель.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "привели ево пьяного вдупель."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

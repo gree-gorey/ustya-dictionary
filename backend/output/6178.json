@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прикладывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прикла́дывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прикладывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ревновать, обвинять в измене.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нюрка всю жись прикла́дывала своёво мужика Маруське.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нюрка всю жись прикладывала своево мужика маруське."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

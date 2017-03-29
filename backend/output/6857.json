@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сейчашный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сейча́шный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сейчашный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сича́шный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сичашный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "только что произведенный, полученный, приобретенный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пейте это молоко, оно сича́шное.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пейте это молоко, оно сичашное."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

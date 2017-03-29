@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "гладь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гла́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гладь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ровное, чистое обширное место в лесу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коней севодни нашли на гладе́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коней севодни нашли на гладе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гладко обструганные доски", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Синики", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Тесины на свеса́х крыши снизу гла́дью подшивают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тесины на свесах крыши снизу гладью подшивают."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

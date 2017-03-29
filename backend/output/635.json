@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "велиста", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вели́ста", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "велиста"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хорошо завивающаяся.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О, капуста-то до чево вели́ста, дак хороший урожай будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о, капуста-то до чево велиста, дак хороший урожай будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

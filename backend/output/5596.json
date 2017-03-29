@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "пешо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́шо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пешо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пе́ша", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пеша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пе́́́шом", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пешом"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пё́́́хом", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пехом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пешком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давайте вас подвезём? – Ой мы пе́шо дойдём. Пе́́́шом-то итти́́́ не бы́́́стро, ну да дойду́́́ за́́́светло ещо́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давайте вас подвезем? – ой мы пешо дойдем. пешом-то итти не быстро, ну да дойду засветло ещо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

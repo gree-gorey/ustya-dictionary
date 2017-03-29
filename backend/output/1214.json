@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "выруба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выруба́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выруба"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́рубки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вырубки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "си́ченцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сиченцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, где вырублен лес.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С утра пойдё́м на выруба́ по земля́нку", 
+          "translation": "за земляникой.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с утра пойдем на выруба по землянку"
+        }, 
+        {
+          "content": "Брусники бывает много на сравнительно молодых вы́рубках.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "брусники бывает много на сравнительно молодых вырубках."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

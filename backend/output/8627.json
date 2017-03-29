@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "щечить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щечи́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щечить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить быстро.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не щечи́́́!", 
+          "translation": "не разговаривай быстро, говори помедленнее.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не щечи!"
+        }, 
+        {
+          "content": "Ой, она́́́-то щечи́́́ть-то дак сама́́́ не своя́́́!", 
+          "translation": "(про какую-нибудь очень разговорчивую женщину).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, она-то щечить-то дак сама не своя!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

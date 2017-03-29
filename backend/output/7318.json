@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "стогоправ", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стогопра́в", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стогоправ"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работник, принимающий и укладывающий сено или солому в стог.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "то́птальщик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "топтальщик"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "топта́льщик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "топтальщик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

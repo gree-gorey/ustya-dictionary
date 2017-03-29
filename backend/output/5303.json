@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отсебятина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отсебя́тина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отсебятина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отсебя́чина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отсебячина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собственное суждение, отличающееся от принятого, подтвержденного практикой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отсебя́чину-ту чево по́решь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отсебячину-ту чево порешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

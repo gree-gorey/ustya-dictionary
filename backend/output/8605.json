@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "шщаны", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шщаны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шщаны"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шща́́́ники", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шщаники"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шщанё́́́жки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шщанежки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щаны́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щаны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брюки, штаны.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты так будёшь свое добро роздава́ть всем направо и налево, так без шщано́в остта́ниссе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты так будешь свое добро роздавать всем направо и налево, так без шщанов осттаниссе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "помещать «в штаны́»", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "помещать «в штаны»"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "щани́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щанина"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

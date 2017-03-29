@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "котко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́тко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "котко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну-ко дай рыбку-то ко́тку-ту, дай, дай, ой он как съест.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко дай рыбку-то котку-ту, дай, дай, ой он как съест."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

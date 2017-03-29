@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стинь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сти́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стинь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как сти́нь худо́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как стинь худой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

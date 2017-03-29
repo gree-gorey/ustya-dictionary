@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "пыжик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пы́жик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пыжик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пустота, разочарование.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Санко ходил в лес и пы́жика принёс", 
+          "translation": "вернулся пустой, ни одного гриба не принес.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "санко ходил в лес и пыжика принес"
+        }, 
+        {
+          "content": "Ну, наверно, Фро́у-то гости́нец привёз? – Да какой гости́нец, от нево только пы́жика одново дождё́шьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, наверно, фроу-то гостинец привез? – да какой гостинец, от нево только пыжика одново дождешьсе!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") обиженный чем-то человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты чево такой пы́жик?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты чево такой пыжик?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

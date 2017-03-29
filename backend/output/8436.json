@@ -1,0 +1,82 @@
+{
+  "field_for_sorting": "чутко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́тко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чутко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слышно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот типерь ево стало чу́тко. Говоря́́́т, вопи́́́ли в лесу́́́-ту, да мне нецю́́́тко бы́́́ло. Он нечу́тко ходит", 
+          "translation": "умеет подойти неслышно.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот типерь ево стало чутко. говорят, вопили в лесу-ту, да мне нецютко было. он нечутко ходит"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "чувствительно, настороженно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он чу́тко спит", 
+          "translation": "обладает хорошим слухом во время сна.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он чутко спит"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") известно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ничево що-то о нём давно нечу́тко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ничево що-то о нем давно нечутко."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "чуть 1", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чуть 1"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

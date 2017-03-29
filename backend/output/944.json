@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "ворошить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вороши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ворошить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "переворачивать зерно, сено, лист для лучшей вентиляции и высыхания (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повороши́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поворошить"
+        }, 
+        {
+          "content": "Пойду на гумно́ зерно поворошу́, а то сопри́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду на гумно зерно поворошу, а то соприет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вспоминать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́чево староё вороши́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево старое ворошить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

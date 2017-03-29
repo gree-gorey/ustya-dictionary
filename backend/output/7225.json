@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сплошняком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сплошняко́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сплошняком"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всплошную, очень много, близко друг к другу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Здись не пройти, кусты ростут сплошняко́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "здись не пройти, кусты ростут сплошняком."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

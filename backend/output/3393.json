@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "комарье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Комарьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "комарье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "комары.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, сто́́́ко комарья́́́ но́́́не – стоўбо́́́м вися́́́т, вью́́́цце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, стоко комарья ноне – стоубом висят, вьюцце!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́марно", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "комарно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

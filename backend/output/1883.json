@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дристать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дриста́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дристать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поно́́́сить, ходить жидким стулом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У меня́ сви́шоцька-то дри́шщот, вот беда́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у меня свишоцька-то дришщот, вот беда-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

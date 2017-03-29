@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "назавести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Назавести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "назавести"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обзавестись многим в хозяйстве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Назавели́ но́́́не оне́́́ вся́́́кой скоти́ны, дак добро́́́ живу́́́т. У их всево́́́ назаве́дено.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "назавели ноне оне всякой скотины, дак добро живут. у их всево назаведено."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "завести", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "завести"
+        }, 
+        {
+          "content": "́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

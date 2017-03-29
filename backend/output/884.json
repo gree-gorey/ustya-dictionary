@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "воложить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воло́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воложить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мазать маслом, жиром, сдобить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наволо́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наволожить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поволо́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поволожить"
+        }, 
+        {
+          "content": "Я шаньги испекла и наволо́жила подде́ньем. Гря́́́цие пироги́́́ на́́́до поволо́жить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я шаньги испекла и наволожила подденьем. гряцие пироги надо поволожить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

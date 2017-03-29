@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "ввивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ввива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ввивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вви́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "ввить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "укреплять косу в косье при помощи", 
+          "tag": "def"
+        }, 
+        {
+          "content": "са́рьги", 
+          "tag": "quote", 
+          "normalized_content": "сарьги"
+        }, 
+        {
+          "content": "К сенокосу надо новую косу ввить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к сенокосу надо новую косу ввить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ввя́зывать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ввязывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́рьга", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сарьга"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

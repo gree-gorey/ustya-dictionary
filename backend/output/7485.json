@@ -1,0 +1,171 @@
+{
+  "field_for_sorting": "сымать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сыма́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сымать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снимать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Носи – и не сыма́й!", 
+          "translation": "носи на здоровье, и пусть сносу не будет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "носи – и не сымай!"
+        }, 
+        {
+          "content": "Сыми́ бельё с верёвки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыми белье с веревки."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "счерпывать верхний слой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насыма́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насымать"
+        }, 
+        {
+          "content": "Сыми́ усто́й-то. Сыми́ сверху во́лденцы, они що-то счерне́ли. Насыма́ём сметаны-то с че́тверти, дак будём масло сбива́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыми устой-то. сыми сверху волденцы, они що-то счернели. насымаем сметаны-то с четверти, дак будем масло сбивать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "собирать овощи с грядки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насыма́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насымать"
+        }, 
+        {
+          "content": "В этом году я много капусты насыма́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этом году я много капусты насымала."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "фотографировать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насыма́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насымать"
+        }, 
+        {
+          "content": "Сыми́-ко меня да сробь карточку на па́меть. Он много карточек насыма́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыми-ко меня да сробь карточку на паметь. он много карточек насымал."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "снимать, собирать в снопы лен со стлища после вылежки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стли́ще", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стлище"
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свежевать, снимать шкуру с забитого или павшего животного (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обсыма́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обсымать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "обсы́мывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обсымывать"
+        }, 
+        {
+          "content": "Тепере в деревнях некому стало скотину обсыма́ть. Ныне поросят не обсы́мывают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тепере в деревнях некому стало скотину обсымать. ныне поросят не обсымывают."
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заухвоить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заухво́ить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заухвоить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерять (вещь).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И куды нуко заухво́ив, – ох ведь оно-то дак!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и куды нуко заухвоив, – ох ведь оно-то дак!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ухво́ить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ухвоить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

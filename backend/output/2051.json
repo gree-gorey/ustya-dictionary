@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ёво́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "его.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А хто ёво́ зна́ёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а хто ево знает?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

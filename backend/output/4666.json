@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "нахрястать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нахря́стать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нахрястать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "набить, наколотить сильно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера́́́ в дра́́́ке ево́́́ кре́́́пко нахря́стали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера в драке ево крепко нахрястали."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хря́стать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хрястать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заполнить до большого объема.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Таки́́́х ко́́́пён нахря́́́стали, ка́́́жная с хоро́́́шую тра́́́кторную волоку́́́шу бу́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "таких копен нахрястали, кажная с хорошую тракторную волокушу будет."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

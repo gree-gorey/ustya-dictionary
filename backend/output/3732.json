@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "кудесить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куде́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кудесить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непроизвольно напутать в деле (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "накуде́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накудесить"
+        }, 
+        {
+          "content": "Ну, ты и накуде́сила тут в вязании.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и накудесила тут в вязании."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

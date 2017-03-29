@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "суропить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Суро́́пить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суропить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "портить, вредить, злить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насуро́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насуропить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подсуро́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсуропить"
+        }, 
+        {
+          "content": "Суро́́́пить-то он сам не свой, а вот хоро́́́шоё-то де́́́ло дак и не дало́́́сь ёму́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "суропить-то он сам не свой, а вот хорошое-то дело дак и не далось ему."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

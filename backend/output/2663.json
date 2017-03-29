@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "затрести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Затрести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затрести"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "затрясти́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "затрясти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерять.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вы́трести", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вытрести"
+        }, 
+        {
+          "content": ". То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "зауши́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "заушить"
+        }, 
+        {
+          "content": "Где ты мок затрести́́́-то па́́́шпорт-то, спомина́́́й!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты мок затрести-то пашпорт-то, споминай!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заосуждать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит вам языком моло́ть, всю дефку затресли́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вам языком молоть, всю дефку затресли!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трести́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трести"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

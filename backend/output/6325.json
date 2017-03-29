@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пропасти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пропасти́́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пропасти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потерять из стада животное во время пастьбы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эх, пастух, не можошь пасти, корову пропа́с!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эх, пастух, не можошь пасти, корову пропас!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

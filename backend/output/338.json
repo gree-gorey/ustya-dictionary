@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "болотина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боло́тина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "болотина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заболоченный участок местности, болото.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "трава и сено с болота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Корова худо ест боло́тину.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова худо ест болотину."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

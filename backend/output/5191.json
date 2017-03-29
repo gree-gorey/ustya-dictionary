@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́сий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "осиный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О́сье гнездо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осье гнездо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

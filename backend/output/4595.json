@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "наслуз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наслу́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наслуз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наслу́́́с", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наслус"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любая надледная вода. На мелких ручьях, промерзших до дна, наслуз образовывал многослойный «пирог».", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

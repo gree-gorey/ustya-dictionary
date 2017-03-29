@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "незалевендождь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Незале́вён дождь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "незалевен дождь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "редкий, слабый, мелкий моросящий дождь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

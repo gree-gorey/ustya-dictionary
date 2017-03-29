@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "толкнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Толкну́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толкнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обратиться с просьбой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ешщо́́́, мо́́́жот, придё́́́тьце и тоўкну́́́тьце к ёму́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ешщо, можот, придетьце и тоукнутьце к ему."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "дотыка́́́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дотыкаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "попну́́́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "попнуться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "боровик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Борови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "боровик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гриб рыжик красновато–оранжевого цвета. Растет в отличие от", 
+          "tag": "def"
+        }, 
+        {
+          "content": "еловика́", 
+          "tag": "quote", 
+          "normalized_content": "еловика"
+        }, 
+        {
+          "content": "по более сухим местам на борах, в сосняках. Предпочтение отдается ему.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "елови́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "еловик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,101 @@
+{
+  "field_for_sorting": "шибчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́бчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шибчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заши́бчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашибчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заши́бчись", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашибчись"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подши́бчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подшибчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расши́бчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расшибчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расши́бчись", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расшибчись"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уши́бчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ушибчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уши́бчись", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ушибчись"
+        }, 
+        {
+          "content": "Надо колото́вкой-то по льду сильня́е ши́бчи, а то глубоко́, рыбу не оглуши́ть. Конь-от такой, можот копы́тами заши́бчи. Що ты прыгаёшь с такой высоты, так веть можно заши́бчись (расши́бчись)! Птицу не мог подши́бчи. Ты можошь так колено уши́бчи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо колотовкой-то по льду сильняе шибчи, а то глубоко, рыбу не оглушить. конь-от такой, можот копытами зашибчи. що ты прыгаешь с такой высоты, так веть можно зашибчись (расшибчись)! птицу не мог подшибчи. ты можошь так колено ушибчи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

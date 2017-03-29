@@ -1,0 +1,106 @@
+{
+  "field_for_sorting": "ухвостаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухвоста́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухвостаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно устать, выбиться из сил. То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ухло́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "ухлопаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ухря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "ухрястаться"
+        }, 
+        {
+          "content": "Все мужи́́́ки-то, поди́́́, ухвоста́́́лисе – уш ниди́́́лю к осека́́́м хо́́́дят, ремо́́́нтят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все мужики-то, поди, ухвосталисе – уш нидилю к осекам ходят, ремонтят."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нахлестаться вдоволь веником в бане и устать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "нахвоста́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нахвостаться"
+        }, 
+        {
+          "content": ". Кто себя бил веником тот «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нахвоста́лся", 
+          "tag": "quote", 
+          "normalized_content": "нахвостался"
+        }, 
+        {
+          "content": "», а кто па́рил других и устал от этой работы", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ухвоста́лся", 
+          "tag": "quote", 
+          "normalized_content": "ухвостался"
+        }, 
+        {
+          "content": "Ухвоста́́́ўсе весь тебя́́́ па́́́рить, как хоть бы тепе́́́ре вы́́́мытьце самому́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ухвостаусе весь тебя парить, как хоть бы тепере вымытьце самому."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хвоста́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хвостаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

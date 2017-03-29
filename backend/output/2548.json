@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заповирать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заповира́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заповирать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "починить изделие из лыка путем вставления на место рваных новых отрезков лыка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заповира́й-ко ла́пти-те, на обе́х ды́рки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заповирай-ко лапти-те, на обех дырки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "вредкую", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вредку́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вредкую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "редко, от случая к случаю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дочи ноне вредку́ю к нам заходит, всё недосу́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дочи ноне вредкую к нам заходит, все недосук."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "редкое расположение, вдали друг от друга.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дома в нашей деревне стоят вредку́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дома в нашей деревне стоят вредкую."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "врозбро́с", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "врозброс"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

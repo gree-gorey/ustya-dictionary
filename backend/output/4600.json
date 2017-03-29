@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "насобачиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насоба́́читься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насобачиться"
+      }
+    ], 
+    "style": [
+      "вульг."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "научиться, привыкнуть, набить руку", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты так быстро морды плести насоба́чилсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты так быстро морды плести насобачилсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

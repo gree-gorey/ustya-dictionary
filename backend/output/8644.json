@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "щупла", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щу́пла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щупла"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конусообразный небольшой совок для извлечения из мешка пробы муки или зерна путем прокола.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

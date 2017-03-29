@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "продыхунет(у)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Про́дыху нет(у)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "продыху нет(у)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "степень сильной занятости человека, у которого совсем нет свободного времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не буду я браться за это дело, и так совсем про́дыху нету.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не буду я браться за это дело, и так совсем продыху нету."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "про́дых", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "продых"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

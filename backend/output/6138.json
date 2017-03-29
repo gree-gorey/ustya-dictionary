@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "прибор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прибо́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прибор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в свадебном обряде дружки (делегация) жениха.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "приборя́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приборяна"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "приборя́не", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приборяне"
+        }, 
+        {
+          "content": "Настал девичник, прибо́р приехал, наголо́ начальство знатное да купечество богатое", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "настал девичник, прибор приехал, наголо начальство знатное да купечество богатое"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наведение и поддержание порядка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У их в избе навеку́ прибо́ру нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у их в избе навеку прибору нет."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

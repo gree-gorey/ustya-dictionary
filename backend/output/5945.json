@@ -1,0 +1,98 @@
+{
+  "field_for_sorting": "полстить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́лстить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полстить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "испо́лстить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "исполстить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расходовать пряжу, куделю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю куделю испо́лстила (испря́ла), надо другую к пре́снице привя́зывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю куделю исполстила (испряла), надо другую к преснице привязывать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "путать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запо́лстить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заполстить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напо́лстить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наполстить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пере́полстить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переполстить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "распо́лстить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "располстить"
+        }, 
+        {
+          "content": "Не надо мне нитки по́лстить. Как жо ты мок так жи́лку запо́лстить? Всё перепо́лстил. Вот типере распо́лсти попробуй!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо мне нитки полстить. как жо ты мок так жилку заполстить? все переполстил. вот типере располсти попробуй!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

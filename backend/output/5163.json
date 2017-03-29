@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "опростаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опроста́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опростаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "распроста́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "распростаться"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера Манька опроста́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера манька опросталась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

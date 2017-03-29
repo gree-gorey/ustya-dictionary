@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "вызвездить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́звездить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вызвездить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проясниться небу, показаться звездам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нё́бо вы́звездило, и́ней бу́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "небо вызвездило, иней будет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выстудить в помещении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́ночи ви́тёр в око́шка, дак в избе́ вы́звездило.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сеночи витер в окошка, дак в избе вызвездило."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

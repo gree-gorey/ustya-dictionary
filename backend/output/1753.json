@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "додуры", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доду́ры", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "додуры"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень много, сверх меры и ожидания, сколь угодно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ягод в вы́рубках нашли доду́ры, только брать уж было нековды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ягод в вырубках нашли додуры, только брать уж было нековды."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "довы́гребу", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "довыгребу"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

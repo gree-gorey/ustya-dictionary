@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "разнедужиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разнеду́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разнедужиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разболеться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "разнеду́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разнедуживаться"
+        }, 
+        {
+          "content": "Недомога́ние было и раньше, а теперь совсем разнеду́жиўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недомогание было и раньше, а теперь совсем разнедужиусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

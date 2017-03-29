@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "высаживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выса́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высаживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "доставать снопы из овина после сушки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сади́ть 2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "садить 2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

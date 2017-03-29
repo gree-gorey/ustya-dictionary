@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "какой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Како́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "какой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гриб како́й", 
+          "translation": "(любой съедобный)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гриб какой"
+        }, 
+        {
+          "content": "встретишь – бери в корзину. После како́го дождя завсегда за́сухо.", 
+          "tag": "quote", 
+          "normalized_content": "встретишь – бери в корзину. после какого дождя завсегда засухо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

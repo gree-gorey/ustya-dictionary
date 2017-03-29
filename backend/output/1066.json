@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "втора", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вто́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втора"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "событие, история.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экая вто́ра!", 
+          "translation": "вот неприятность!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экая втора!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

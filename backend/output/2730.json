@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "защуриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Защу́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "защуриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрыть глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пора тибе ложиться спать, у тебя глаза совсем защу́рились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пора тибе ложиться спать, у тебя глаза совсем защурились."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "щу́риться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щуриться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "несручно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Несру́чно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "несручно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неудобно, не с той руки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай поменяемсе местами, мне с этой стороны несру́чно, а тебе знаю что всё равно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай поменяемсе местами, мне с этой стороны несручно, а тебе знаю что все равно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

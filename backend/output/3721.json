@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кубаторные", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куба́торные", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кубаторные"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "инкубаторные (цыплята или куры, выведенные в инкубаторе).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

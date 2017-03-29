@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "жулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жу́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жульничать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зажу́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зажулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажу́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сжу́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сжулить"
+        }, 
+        {
+          "content": "Ты дава́́́й не жу́́́ль, игра́́́й це́́́сно! Васька себе две конфеты зажу́лил", 
+          "translation": "(о детях).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты давай не жуль, играй цесно! васька себе две конфеты зажулил"
+        }, 
+        {
+          "content": "Нажу́лил полные корманы овса.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нажулил полные корманы овса."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

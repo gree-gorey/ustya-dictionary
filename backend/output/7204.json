@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "спаужны", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С па́ўжны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с паужны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "во второй половине дня.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ветром оду́нёт, дак с па́", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ветром одунет, дак с па"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ў", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "у"
+        }, 
+        {
+          "content": "жны заберёт рожь жать.", 
+          "tag": "quote", 
+          "normalized_content": "жны заберет рожь жать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

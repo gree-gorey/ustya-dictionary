@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "припечатать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Припеча́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "припечатать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пришпандо́рить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пришпандорить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прикрепить, прибить, приколотить, приклеить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

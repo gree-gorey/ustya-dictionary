@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "счесливой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Счесли́вой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "счесливой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "счастливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она́ счесли́вая, мужи́к-от хоро́шой у ие́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она счесливая, мужик-от хорошой у ие."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

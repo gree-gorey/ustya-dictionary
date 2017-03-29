@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "тойда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́йда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тойда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́йды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тойды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́йдымя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тойдымя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́́́йдась", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тойдась"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "там, той стороной, туда (идти).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прошёл то́йды. Иди то́йдымя. Кажы́́́сь, то́́́йды на́́́до итти́́́, я спо́́́мниў. Я то́́́йдысь прошё́́́ў, пони́́́же ва́́́с.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прошел тойды. иди тойдымя. кажысь, тойды надо итти, я спомниу. я тойдысь прошеу, пониже вас."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "се́́́йды", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сейды"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

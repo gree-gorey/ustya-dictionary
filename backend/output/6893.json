@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "серчать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Серча́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "серчать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обижаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засерча́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засерчать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осерча́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осерчать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посерча́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посерчать"
+        }, 
+        {
+          "content": "Купец домой собирается, со хозяевами ласково прощается, просит на его незна́нье не серча́ть, а его сватов завтра принять", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "купец домой собирается, со хозяевами ласково прощается, просит на его незнанье не серчать, а его сватов завтра принять"
+        }, 
+        {
+          "content": "Що-то ты засерча́л на меня, почему не говоришь-то? Посерча́ла, посерча́ла на ево, да и прости́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то ты засерчал на меня, почему не говоришь-то? посерчала, посерчала на ево, да и простила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

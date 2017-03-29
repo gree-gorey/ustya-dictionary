@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подкузьмить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подкузьми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подкузьмить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поставить в неловкое положение, подставить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну вы мне и подкузьми́ли, теперь опра́вдывайсе, хоть и не виноват.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну вы мне и подкузьмили, теперь оправдывайсе, хоть и не виноват."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

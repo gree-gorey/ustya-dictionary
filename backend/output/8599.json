@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "шурин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шу́рин", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шурин"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шура́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шурак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родной брат жены.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гри́́́шка-шура́́́к с сестру́́́хой То́́́лькой", 
+          "translation": "(Евсто́́́льей)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гришка-шурак с сеструхой толькой"
+        }, 
+        {
+          "content": "с Но́́́с-Садо́́́в в го́́́сти зае́́́хали, давно́́́ уш не бы́́́вывали.", 
+          "tag": "quote", 
+          "normalized_content": "с нос-садов в гости заехали, давно уш не бывывали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "сметать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смета́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сметать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убрать, скидать сено в зарод или на повить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В одноця́́́сьё заро́́́т смета́́́ли, молотци́́́, сколь ни упра́́́вны!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в одноцясье зарот сметали, молотци, сколь ни управны!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мета́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "метать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сшить вручную крупными стежками, на «живую нитку».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодня смета́́ла всё на живу́ю ни́тку, а завтра прострочу́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодня сметала все на живую нитку, а завтра прострочу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

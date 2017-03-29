@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "слизкий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сли́зкий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слизкий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скли́зкий", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "склизкий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скользкий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До тово́́́ доро́́́га скли́́́ская, шщо, как коро́́́ва по льду́́́, бреду́́́, рощепе́́́риласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до тово дорога склиская, шщо, как корова по льду, бреду, рощепериласе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "покрытый слизью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нали́м-от до того́ сли́зок – не удё́ржишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "налим-от до того слизок – не удержишь!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

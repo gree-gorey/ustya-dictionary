@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "тамока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Та́мока", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тамока"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "та́моки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тамоки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тамока́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тамока"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тамоки́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тамоки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́та́мочки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тамочки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "там.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Та́́́моки топор лёжит. У меня та́моки расто́пка поло́жона. Тамоки́́́ я зафсегда́́́сь зана́́́чку пря́́́таў, а тепе́́́ре где она́́́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тамоки топор лежит. у меня тамоки растопка положона. тамоки я зафсегдась заначку прятау, а тепере где она?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

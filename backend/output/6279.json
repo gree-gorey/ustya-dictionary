@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пробыть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пробы́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пробыть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть, находиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не знаю, сколько времени нам ещё тут пробы́ть придётсе. Долго ли у тебя гость ищо пробу́дёт-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не знаю, сколько времени нам еще тут пробыть придетсе. долго ли у тебя гость ищо пробудет-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

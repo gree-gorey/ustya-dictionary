@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вразницу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вра́зницу", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вразницу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неодинаково, по-разному.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Молотили в четыре молоти́ла вдруг, но все вра́зницу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молотили в четыре молотила вдруг, но все вразницу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

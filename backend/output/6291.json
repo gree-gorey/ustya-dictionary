@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прогалина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прога́лина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прогалина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проталина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На полях уже много прога́лин появи́лосе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на полях уже много прогалин появилосе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сманивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сма́нивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сманивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уговаривать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Васька сма́ниваёт Кольку в город ехать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "васька сманивает кольку в город ехать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мани́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "манить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

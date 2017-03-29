@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дудора", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ду́дора", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дудора"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зерновая и клеверная мякина, отходы от веяния зерна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ду́дора шла в корм скоту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дудора шла в корм скоту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

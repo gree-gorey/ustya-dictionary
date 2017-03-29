@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "задергивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Задё́ргивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задергивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "задё́рнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "задернуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задя́ргивать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задяргивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрывать завор в угороде (изгороди), вставляя концы заворниц в специальные проемы для них.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Задё́рни все пять заво́рниц, чтобы овцы и козы не попали в поле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задерни все пять заворниц, чтобы овцы и козы не попали в поле."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закрывать, задвигать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Задё́рнуть занавеску. Задя́ргивать задвижку на двери.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задернуть занавеску. задяргивать задвижку на двери."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

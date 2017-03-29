@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "двоить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Двои́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двоить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "делить надвое (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "раздвои́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "раздвоить"
+        }, 
+        {
+          "content": "Раздвои́ ни́тку-ту, тебе́ говоря́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раздвои нитку-ту, тебе говорят!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

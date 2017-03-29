@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "сцуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сцуль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сцуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сцу́лья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сцулья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "счу́́́лья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "счулья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "счуля́́́тина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "счулятина"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много писающий человек, обычно ребенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну жо ты у нас и сцуля́́́тина – с одново́́́ ф шщаны́́́ бу́́́ришь!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну жо ты у нас и сцулятина – с одново ф шщаны буришь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вересняк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вересня́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вересняк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заросли можжевельника.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За кромкой поля на угоре вересняку́-то много ростёт, сходи, принеси в погреб.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за кромкой поля на угоре вересняку-то много ростет, сходи, принеси в погреб."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ве́рес", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "верес"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

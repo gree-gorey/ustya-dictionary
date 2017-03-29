@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воротиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вороти́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воротиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вернуться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пашка из армии вороти́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пашка из армии воротилсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

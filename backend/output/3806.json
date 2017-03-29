@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "куст", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куст", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куст"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скопление грибов, ягод в одном месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Набрёл на хорошой куст ягод.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "набрел на хорошой куст ягод."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

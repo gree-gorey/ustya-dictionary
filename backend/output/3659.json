@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "крохобор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крохобо́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крохобор"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "крохобо́рник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крохоборник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелочный, жадный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ух, ты крохобо́р несча́стной, всё-то тибе ма́ло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ух, ты крохобор несчастной, все-то тибе мало!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

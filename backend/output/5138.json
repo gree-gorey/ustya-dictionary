@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ополдень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опо́лдень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ополдень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "середина дня, полдень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вре́́́мя-та уш опо́́́ўдень – па́́́ўжнать пора́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "время-та уш опоудень – паужнать пора."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

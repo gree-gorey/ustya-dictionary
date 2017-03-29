@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "даве", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Да́ве", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "даве"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "да́весь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давесь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "да́веца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давеца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "да́веча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давеча"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "да́веци", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давеци"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "да́вечи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "давечи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недавно, не так давно (говорят о прошлом в этот же день).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я да́ве хотела чайну ложку лену́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я даве хотела чайну ложку ленуть."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "накануне.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "пазгаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пазга́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пазгаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "распазга́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "распазгаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно драться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ни с тово ни с сево оне как на́чали пазга́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ни с тово ни с сево оне как начали пазгаться."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно браниться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит вам пазга́ться, надоели уш! Распазга́лись не из-за чево!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вам пазгаться, надоели уш! распазгались не из-за чево!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

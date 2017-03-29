@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "воднырядку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Водны́рядку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воднырядку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "водны́редку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "водныредку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в один ряд; в одну нитку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вдёрни нитку водны́рядку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вдерни нитку воднырядку."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "одны́редь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "одныредь"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "одны́рядный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "однырядный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

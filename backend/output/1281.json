@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вьюк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вьюк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вьюк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узел, большой сверток, тюк.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В магазин привезли ваты вьюк.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в магазин привезли ваты вьюк."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

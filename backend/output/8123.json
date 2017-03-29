@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "хилой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хи́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хилой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слабый, малосильный, недоразвитый. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На Чёрной соба́ческой лай, на Иса́ковщине Е́нько Хила́́й", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на черной собаческой лай, на исаковщине енько хилай"
+        }, 
+        {
+          "content": "(частушка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

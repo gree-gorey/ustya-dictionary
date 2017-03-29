@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "исправлять(скотину)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Исправля́ть (скотину)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исправлять (скотину)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "исправля́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "исправляться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "управляться, ухаживать за скотом,: кормить, поить, доить…", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "го́иться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гоиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обряди́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обрядиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "упра́вить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "управить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скота", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скота"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

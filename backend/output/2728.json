@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "защовка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Защо́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "защовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запор, на который закрываются ворота, дверь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

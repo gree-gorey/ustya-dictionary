@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поправа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попра́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поправа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выздоровление.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На попра́ву пошёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на поправу пошел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

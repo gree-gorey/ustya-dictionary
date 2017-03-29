@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "уназемить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уназё́мить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уназемить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "унаво́зить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "унавозить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удобрить почву органическими удобрениями.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

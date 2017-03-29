@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "остудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Остуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "остудить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отстуди́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отстудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "охладить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кисе́ль-от больно гореч, надо отстуди́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кисель-от больно гореч, надо отстудить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "студи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "студить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

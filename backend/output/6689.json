@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рушало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ру́шало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рушало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нож.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Передай ру́шало!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "передай рушало!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

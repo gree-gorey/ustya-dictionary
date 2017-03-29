@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "отметывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отмё́тывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отметывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отки́дывать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "откидывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отбрасывать, отодвигать от несжатого массива заготовки на снопы, оставленые при проходе жнейки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

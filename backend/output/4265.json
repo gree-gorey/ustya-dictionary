@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "морошечник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моро́шечник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "морошечник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебли и соцветия морошки на болотах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Моро́шечника-то скоко цветёт, сейгод моро́шки много будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "морошечника-то скоко цветет, сейгод морошки много будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

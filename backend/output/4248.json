@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "молоть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моло́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "молоть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болтать, говорить вздор, нести чепуху (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замоло́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замолоть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намоло́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намолоть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смоло́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смолоть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит чепуху моло́ть. Не мели́ чево не зна́́́ёшь! Я вот только хотела сказать, а ты всё своей болтовнёй замоло́л", 
+          "translation": "перебил своей болтовней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит чепуху молоть. не мели чево не знаешь! я вот только хотела сказать, а ты все своей болтовней замолол"
+        }, 
+        {
+          "content": "Намоло́ла всякой ерунды и довольна. Смоло́л галиматью́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "намолола всякой ерунды и довольна. смолол галиматью."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

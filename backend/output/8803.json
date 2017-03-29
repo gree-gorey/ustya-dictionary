@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "очурунезнат", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очу́ру не зна́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очуру не знат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не знает меры, границ в своем поведении.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Очу́р", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очур"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 9
+}

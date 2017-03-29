@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "высвистать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́свистать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высвистать"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выкидать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "появиться, приехать, не предупредив (легкомысленно).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "усвиста́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "усвистать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

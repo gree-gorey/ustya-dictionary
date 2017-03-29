@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "буркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "буркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бурча́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бурчать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недовольно ворчать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забу́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забуркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбу́ркать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбуркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбу́ркнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбуркнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабка опеть щё-то забу́ркала. Он что-то сбу́ркнул и пошёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка опеть ще-то забуркала. он что-то сбуркнул и пошел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

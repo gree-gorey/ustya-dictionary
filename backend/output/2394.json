@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заздыхаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заздыха́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заздыхаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запыхаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во вашу ли́сницу подняла́сь, дак вся заздыха́ласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "во вашу лисницу поднялась, дак вся заздыхаласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

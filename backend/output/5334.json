@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "охочий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Охо́чий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "охочий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любящий чего-либо; любящий женщин.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он охо́чий до рыбалки. Он охо́чий до баб, мимо не пройдёт, щобы ково-нибудь не ущипну́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он охочий до рыбалки. он охочий до баб, мимо не пройдет, щобы ково-нибудь не ущипнуть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

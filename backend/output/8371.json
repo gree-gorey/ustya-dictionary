@@ -1,0 +1,28 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для синьи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чё́́́шка-чё́шка-чё́́́шка! Иды́́́ сюды́́́, ча́́́вкай дава́́́й!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чешка-чешка-чешка! иды сюды, чавкай давай!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word"
+}

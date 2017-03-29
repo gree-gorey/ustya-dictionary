@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "загогулина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загогу́лина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загогулина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нечто закрученное", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как так пишёшь! Каждая буква – загогу́лина, ведь ты сам не поймёшь своей писани́ны!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как так пишешь! каждая буква – загогулина, ведь ты сам не поймешь своей писанины!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

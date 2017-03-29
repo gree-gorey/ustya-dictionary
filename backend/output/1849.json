@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "досчитываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Досчи́тываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "досчитываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "доставаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Большу́хе всегда больше досчи́тываетсе роботы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "большухе всегда больше досчитываетсе роботы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

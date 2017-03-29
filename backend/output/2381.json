@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заживлеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заживле́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заживлеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заживлять, залечивать, становиться здоровым.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Порезы косой долго приходитце заживле́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "порезы косой долго приходитце заживлеть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

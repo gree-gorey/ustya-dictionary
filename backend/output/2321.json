@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "доморковкиназаговенья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До морко́́́вкина за́́́говенья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до морковкина заговенья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень долго придётся ждать, не наступит никогда.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "загови́нье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заговинье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

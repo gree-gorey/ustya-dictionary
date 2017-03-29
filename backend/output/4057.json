@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ляпало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́пало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляпало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болтливый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот веть какоё ля́пало-то, ничево нельзя дове́рить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот веть какое ляпало-то, ничево нельзя доверить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

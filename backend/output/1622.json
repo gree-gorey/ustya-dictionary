@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "двенадесятой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Две́надесятой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "двенадесятой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дву́надесятой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "двунадесятой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "каждый из 12 главных религиозных праздников в году.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

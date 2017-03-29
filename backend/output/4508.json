@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "наодевано", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наодё́вано", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наодевано"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наодё́́́ванось", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наодеванось"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "понадё́вано", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "понадевано"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "понаодё́вано", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "понаодевано"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надето.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наодё ́ вано (наодёва ́ ют) всяких рясок – роду не баско!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наоде  вано (наодева  ют) всяких рясок – роду не баско!"
+        }, 
+        {
+          "content": "о современной одежде молодежи).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, цево ́́́ то ́́́ ко на ей не наодё ́́́ вано! Уш тако ́́́ е понаодё ́́́ вано у е ́́́ й, шщо мне ́́́ бы дак и за поро ́́́ к бы ́́́ ло сты ́́́ дно вы ́́́ йти!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, цево  то  ко на ей не наоде  вано! уш тако  е понаоде  вано у е  й, шщо мне  бы дак и за поро  к бы  ло сты  дно вы  йти!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,134 @@
+{
+  "field_for_sorting": "суслать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́слать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суслать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "су́́́слить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "суслить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сусо́́́лить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сусолить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слюнявить, пачкать слюной, сосать (о ребенке) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засу́слать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засуслать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засу́слить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засуслить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "иссу́слать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "иссуслать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "иссу́слить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "иссуслить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "усу́слать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "усуслать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "усу́слить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "усуслить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засу́слаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засуслаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "усу́слаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "усуслаться"
+        }, 
+        {
+          "content": "Весь пре́ник усу́слал – хочет спать. На́́́ко, веть парнё́́́к-то кола́́́ць фсё су́́́слит и су́́́слит, ви́́́дно ись охо́́́та. Весь усу́славса.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь преник усуслал – хочет спать. нако, веть парнек-то колаць фсе суслит и суслит, видно ись охота. весь усуславса."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "мусо́лить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мусолить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

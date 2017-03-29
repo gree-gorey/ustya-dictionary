@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "объягниться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Объягни́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "объягниться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "окоти́ться, родить ягнят (об овцах).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

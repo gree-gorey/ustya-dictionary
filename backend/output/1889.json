@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "дровина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дрови́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дровина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дровени́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дровенина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бревно, чурка, коряга и т. д., предназначенные на дрова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нуко, вон, вишь плывё́т, перейми-ко эту дрови́ну, всё дрова будут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко, вон, вишь плывет, перейми-ко эту дровину, все дрова будут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

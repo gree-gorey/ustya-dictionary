@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "здряшный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Здря́шный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здряшный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бесполезный, безрезультатный; плохой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Здря́шноё дело вы задумали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "здряшное дело вы задумали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

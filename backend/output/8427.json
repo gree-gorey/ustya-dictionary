@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "чупаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чупаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мараться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зачу́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зачупаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "учу́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "учупаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "чу́чкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чучкаться"
+        }, 
+        {
+          "content": "Не чу́пайсе э́дак-то ка́жной раз, чи́стой одё́жи на тибя́ не напасе́сьсе. Топи́ў камё́нку в подови́не дак весь сажей зачу́паўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не чупайсе эдак-то кажной раз, чистой одежи на тибя не напасесьсе. топиу каменку в подовине дак весь сажей зачупаусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

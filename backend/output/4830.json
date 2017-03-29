@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "новочисть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Но́вочисть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "новочисть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, расчищенное от кустарника, леса под пашню, пожню.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

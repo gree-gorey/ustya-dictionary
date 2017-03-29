@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "залупай", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залупа́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залупай"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гриб валуй.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "балуй́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "балуй"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гриб масленик", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вежа", 
+          "tag": "place"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

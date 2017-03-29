@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "сколот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сколо́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сколот"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сколо́ток", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сколоток"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "осколо́ток", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "осколоток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "груб.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") незаконнорожденный, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нагу́лянный", 
+          "tag": "quote", 
+          "normalized_content": "нагулянный"
+        }, 
+        {
+          "content": "», ребенок, у кого неизвестно кто отец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Выбира́ла жонихо́в-то – топе́рь сколо́тка ро́стит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выбирала жонихов-то – топерь сколотка ростит!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") своенравный ребенок с поведением, считающимся преступным.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "червленый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Червле́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "червленый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "червча́тый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "червчатый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "багряный и багровый, цвета червца, ярко-малиновый.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "коренье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коре́ньё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коренье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "корни растений.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́ташчить пень с коре́ньём. Шёл по лесу да за кореньё запнулсе, дак всю корзину опру́жил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выташчить пень с кореньем. шел по лесу да за коренье запнулсе, дак всю корзину опружил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

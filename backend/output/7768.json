@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "тушеваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тушева́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тушеваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "затушева́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "затушеваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстраиваться, переживать, впадать в уныние.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нетушу́йсе давай, затушева́лась мне непощо́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нетушуйсе давай, затушевалась мне непощо-то!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бояться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стушева́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стушеваться"
+        }, 
+        {
+          "content": "Затушева́лся идти в лес в одиночку. Ну што же ты петуха стушева́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "затушевался идти в лес в одиночку. ну што же ты петуха стушевалсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

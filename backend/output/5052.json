@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "озеровать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Озерова́ть", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "озеровать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "озорова́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "озоровать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "баловаться, делать не совсем хорошие вещи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ребята, хватит вам озерова́ть-то, ну-ко, отступи́тесь на́ болесь, не озеру́йте!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребята, хватит вам озеровать-то, ну-ко, отступитесь на болесь, не озеруйте!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "избывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Избыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "избывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "избавляться, освобождаться, пытаться отдать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Плохие-то ду́мы надо из себя избыва́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "плохие-то думы надо из себя избывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

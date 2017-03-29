@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жмурки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жму́рки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жмурки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щуплые недозрелые ягоды морошки, земляники или малины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Малина сейгод без дождей засохла, и ягоды – одне жму́рки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "малина сейгод без дождей засохла, и ягоды – одне жмурки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

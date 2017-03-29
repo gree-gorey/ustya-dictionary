@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выселок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́селок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выселок"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "вы́селки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выселки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дом (несколько домов), перевезенные из деревни на ненаселенное место; поселение на новом месте, выделившееся из другого селения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он живёт на вы́селках. Там вы́селки находятся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он живет на выселках. там выселки находятся."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

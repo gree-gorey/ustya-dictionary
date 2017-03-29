@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "колоколина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колоко́лина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колоколина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льняная мякина, шелуха от льняного семени.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ку́глина", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "куглина"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "стояк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стоя́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стояк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "часть печной трубы на чердаке, под крышей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

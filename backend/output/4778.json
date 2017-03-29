@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "непошчо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́пошчо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "непошчо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "непо́́́шчо", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "непошчо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "непошчо́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "непошчо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́пощо", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "непощо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "непощо́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "непощо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нет причин, почему; не за что.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да уш не́пошчо его похули́ть", 
+          "translation": "не за что ругать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да уш непошчо его похулить"
+        }, 
+        {
+          "content": "Непощо́́́ реб́ёнка-то расклеви́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "непощо ребенка-то расклевил."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "незачем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот уш роду непошчо́ было (что-либо не то делать)", 
+          "translation": "незачем и поделом, что не получилось.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот уш роду непошчо было (что-либо не то делать)"
+        }, 
+        {
+          "content": "Роду не́пошчо принёс…", 
+          "translation": "зря.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "роду непошчо принес…"
+        }, 
+        {
+          "content": "Нуко эку даль сбегал и роду непошчо́... Не́пощо мне к вам итти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко эку даль сбегал и роду непошчо... непощо мне к вам итти."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

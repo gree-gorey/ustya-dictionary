@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "замеледить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замеледи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "замеледить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "меледи́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "меледить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелькать, мельтешить в глазах, искажаться, временно терять зрение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Голова кружитце и в глазах замеледи́ло, ужо надо отдохнуть маленько.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "голова кружитце и в глазах замеледило, ужо надо отдохнуть маленько."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

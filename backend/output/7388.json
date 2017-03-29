@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стюхтить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стю́хтить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стюхтить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень быстро съесть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не успела поросёнку пода́ть, а он уш всё стю́хтил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не успела поросенку подать, а он уш все стюхтил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

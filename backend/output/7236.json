@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "спокойдорогой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Споко́́́й дорого́́́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спокой дорогой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мир в семье, покой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Самое главное, чтоб у вас был споко́й дорого́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "самое главное, чтоб у вас был спокой дорогой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

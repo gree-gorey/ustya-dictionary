@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "своли", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С во́ли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с воли"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "с наружной стороны.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С во́ли зайцы", 
+          "translation": "(иней)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с воли зайцы"
+        }, 
+        {
+          "content": "в углах.", 
+          "tag": "quote", 
+          "normalized_content": "в углах."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Во́льный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вольный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 11
+}

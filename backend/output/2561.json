@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "заприметить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заприме́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заприметить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заметить, отложить в памяти ( и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "приме́тить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приметить"
+        }, 
+        {
+          "content": "Я Клавди́ю на гуля́нке ещо (приме́тил) заприме́тил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я клавдию на гулянке ещо (приметил) заприметил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

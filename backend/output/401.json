@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "бояка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боя́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бояка"
+      }
+    ], 
+    "style": [
+      "шутл."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "боязливый, пугливый, нерешительный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Слабо́ за реку переплы́ть? Эх ты, боя́ка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слабо за реку переплыть? эх ты, бояка!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

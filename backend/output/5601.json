@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "пивицаспоет!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пи́вица споё́т!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пивица споет!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предупреждение о возможности очень больно удариться головой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гололёд-то какой на улице, падёшь дак только пи́вица споё́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гололед-то какой на улице, падешь дак только пивица споет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пи́вица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пивица"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

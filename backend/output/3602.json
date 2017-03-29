@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "красное(вино)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кра́сное (вино)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "красное (вино)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любое вино, независимо от цвета и крепости (столовые, креплёные вина, настойки, ликёры), в отличие от водки, которая называлась", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бе́лое вино", 
+          "tag": "quote", 
+          "normalized_content": "белое вино"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

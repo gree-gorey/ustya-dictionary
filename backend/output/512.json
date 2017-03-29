@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "бывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Быва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "многокр.", 
+        "content": "бы́вывать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "бывывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть, существовать, иметься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этой деревне с десяток домов быва́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этой деревне с десяток домов бывало."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "находиться, пребывать, помещаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где-то маленькой топорик быва́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где-то маленькой топорик бывал."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отлучаться, ездить, уходить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дале райцентра не быва́ла. Я веть ешщо́ в лесу́-то се́йгод не бы́вывала. Бы́вывать ещё здись.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дале райцентра не бывала. я веть ешщо в лесу-то сейгод не бывывала. бывывать еще здись."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "благодарениебогу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Благодаре́ние Богу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "благодарение богу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слава Богу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Благодарение Богу, что он с войны живой вернулся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "благодарение богу, что он с войны живой вернулся."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

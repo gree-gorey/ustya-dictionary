@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "форсун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Форсу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "форсун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "форсу́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "форсунья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "форсу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "форсушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тот, кто форсит: модник, щеголь, человек, обращающий излишнее внимание на внешний вид.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кой форсу́́́н-то, опе́́́ть куды́́́-то вы́́́редиўсе: себя́́́ показа́́́ть и на други́́́х погледи́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой форсун-то, опеть куды-то выредиусе: себя показать и на других погледить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

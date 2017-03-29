@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "подгагулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подгагу́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подгагулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстеречь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот тут, на у́́́зеньком мисти́́́цьке я ево́́́ и подгагу́́́лиў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот тут, на узеньком мистицьке я ево и подгагулиу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "украсть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

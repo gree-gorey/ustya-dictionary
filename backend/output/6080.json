@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "поточить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пото́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поточить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собирать дождевую воду из-под потока.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

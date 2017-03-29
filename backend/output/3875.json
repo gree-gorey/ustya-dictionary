@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "легчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Легчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "легчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лечь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Та́́́к поесни́́́цю схвати́́́ло, дак не зна́́́ю, как и лекци́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так поесницю схватило, дак не знаю, как и лекци."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

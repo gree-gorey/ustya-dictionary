@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "отходить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отходи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отходить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "отха́живать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "отхаживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отходи́ла ёво чем под руку попа́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отходила ево чем под руку попало."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "спасти от смерти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёво не раз от смерти отха́живали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ево не раз от смерти отхаживали."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

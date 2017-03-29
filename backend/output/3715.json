@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "окститься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оксти́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окститься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подумать, перекреститься; образумиться, отказаться плохое думать или делать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оксти́сь давай, нечево придумывать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "окстись давай, нечево придумывать!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ксти́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кститься"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

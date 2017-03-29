@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "уреванный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Урё́ванный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уреванный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно заплаканный.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "заре́вленный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заревленный"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уре́вленось", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уревленось"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

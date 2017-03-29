@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "незапрудной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Незапру́дной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "незапрудной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безотказный, легкий на подъём, кого лишний раз просить не надо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парнишко-то незапру́дной!", 
+          "translation": "не успели попросить, уже сделал.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парнишко-то незапрудной!"
+        }, 
+        {
+          "content": "Я незапру́дна, быстро соберусь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я незапрудна, быстро соберусь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

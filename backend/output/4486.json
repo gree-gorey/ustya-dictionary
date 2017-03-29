@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "наладиться1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нала́диться 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наладиться 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "установиться хорошим отношениям (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "нала́живаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "налаживаться"
+        }, 
+        {
+          "content": "Вот ужо, подожди-ко, у их всё в семье нала́дитсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот ужо, подожди-ко, у их все в семье наладитсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́диться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ладиться"
+        }, 
+        {
+          "content": "1", 
+          "tag": "quote", 
+          "normalized_content": "1"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

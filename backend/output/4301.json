@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "мурасы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мура́сы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мурасы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "муры́сы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мурысы"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лицо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мотри ведь, как дам по мура́сам, красные со́пли потеку́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мотри ведь, как дам по мурасам, красные сопли потекут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "укухтать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уку́хтать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "укухтать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "укутать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты так уку́хтала-то робёнка, веть весь споти́ёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты так укухтала-то робенка, веть весь спотиет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ку́хтать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кухтать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

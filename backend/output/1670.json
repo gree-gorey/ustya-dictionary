@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "деловатой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Де́ловатой", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "деловатой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "делова́той", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "деловатой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "характеристика умелого человека, мастера на все руки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Племянник у нас де́ловатой сам, и сыновей всему научил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "племянник у нас деловатой сам, и сыновей всему научил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

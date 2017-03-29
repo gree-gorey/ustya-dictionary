@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выскоркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́скоркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выскоркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выскрести.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пол-от как вы́скоркан, аж сверка́ёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пол-от как выскоркан, аж сверкает!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скы́ркать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скыркать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

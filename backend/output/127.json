@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "барахтаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́хтаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "барахтаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неумело плавать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забара́хтаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забарахтаться"
+        }, 
+        {
+          "content": "Что ты бара́хтаешься, плыви быстряе-то! Забара́хтался на одном мисте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты барахтаешься, плыви быстряе-то! забарахтался на одном мисте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

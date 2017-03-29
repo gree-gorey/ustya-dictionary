@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "парница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́рница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "парница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "паре́нница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "паренница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приготовленные для еды способом паренья, выпаривания в русской печи овощи репа,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гала́́́нка", 
+          "tag": "quote", 
+          "normalized_content": "галанка"
+        }, 
+        {
+          "content": "(брюква), морковь, капуста.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "па́ренка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "паренка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

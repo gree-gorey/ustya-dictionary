@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "cвишка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Cви́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "cвишка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сви́́́шечка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свишечка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свинья (женского пола).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нуко на́, в пониди́льник сви́шка околе́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко на, в понидильник свишка околела!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ве́прик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "веприк"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неряха, грязнуля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну жо ты и сви́́́шка, а ешщо́́́ де́́́ушкой зовё́́́ссе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну жо ты и свишка, а ешщо деушкой зовессе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word"
+}

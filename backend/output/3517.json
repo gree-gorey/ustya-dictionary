@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "некоская(трава)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Неко́ская (трава́)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "некоская (трава)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "некоска́я (трава́)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "некоская (трава)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трава, которую трудно косить вручную, которую коса «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "не берё́т", 
+          "tag": "quote", 
+          "normalized_content": "не берет"
+        }, 
+        {
+          "content": "Ох, и некоска́́́я жо тут трава́́́, упе́́́таисьсе ве́́́сь, пока́́́ ско́́́сиш. Коса́ не берёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, и некоская жо тут трава, упетаисьсе весь, пока скосиш. коса не берет."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ко́ская (трава́)", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коская (трава)"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

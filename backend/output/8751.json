@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "советзабрал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сове́т за́брал", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "совет забрал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "люди живут дружно, действуют сообща, достигли согласия.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сове́т не за́брал", 
+          "translation": "ссорятся.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "совет не забрал"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "За́брало", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "забрало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 12
+}

@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "ростить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ро́стить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ростить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выращивать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наро́стить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наростить"
+        }, 
+        {
+          "content": "Лук ро́щу", 
+          "translation": "выращиваю.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лук рощу"
+        }, 
+        {
+          "content": "Опе́́́ть на́́́до пеця́́́ловать – карто́́́фь ро́́́стить, да морко́́́фь, да лу́́́к да…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть надо пецяловать – картофь ростить, да моркофь, да лук да…"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "растить, воспитывать (детей) (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "вы́ростить", 
+          "tag": "quote", 
+          "normalized_content": "выростить"
+        }, 
+        {
+          "content": "Как са́́́ми бу́́́дите матеря́́́ми да отця́́́ми, дак товды́́́ и поймите́́́, каково́́́ робя́́́т-то ро́стить. Бабушка семерых одна вы́ростила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как сами будите матерями да отцями, дак товды и поймите, каково робят-то ростить. бабушка семерых одна выростила."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "заро́стить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заростить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "отро́стить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отростить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

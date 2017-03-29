@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "лемтовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лемтова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лемтовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крайне неясно выражать мысли, разговаривать с помощью жестов.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

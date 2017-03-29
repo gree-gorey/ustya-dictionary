@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мелются", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ме́лются", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мелются"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходят, бродят, бездельничают.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Молодёжь-то но́нче везде ме́лются", 
+          "translation": "везде ездят, ходят, бродят, ничего не делают.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молодежь-то нонче везде мелются"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

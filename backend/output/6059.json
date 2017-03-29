@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "посудина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посу́дина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посудина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любая емкость; (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") посуда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неси́́́ каку́́́ю посу́́́дину, дак молока́́́ налью́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неси какую посудину, дак молока налью."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "всякое речное судно, лодка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ошметок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ошмё́ток", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ошметок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обрывок, обломок, комок, нечто бесформенное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ошмё́тки снега летят из-под копыт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ошметки снега летят из-под копыт."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

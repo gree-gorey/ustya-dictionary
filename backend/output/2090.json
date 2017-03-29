@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жаруха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жару́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаруха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состояние от сильной жары или пота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С жару́хи-то нельзя хлолодя́нку пить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с жарухи-то нельзя хлолодянку пить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

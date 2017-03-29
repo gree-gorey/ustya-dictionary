@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "щанина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щани́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щанина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "штанина, половина брюк, брючина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заката́й щани́ны-то, дак за ричку побредё́м. Щани́на в лесопе́дную цепь попа́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закатай щанины-то, дак за ричку побредем. щанина в лесопедную цепь попала."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "щщаны", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щщаны"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

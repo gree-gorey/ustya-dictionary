@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "моленый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Молё́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "моленый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мулё́ный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "муленый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "малё́ный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "маленый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "миленький, милый (возможно, происходит от древнего: «вымоленный» (у Бога)).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Моя-то мулё́ная вся-то уреве́лась. Ой, молё́́́ной-то мо́́́й, опе́́́ть г ба́́́бушке пришо́́́ў, не забыва́́́ёшь, молоде́́́ць!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "моя-то муленая вся-то уревелась. ой, моленой-то мой, опеть г бабушке пришоу, не забываешь, молодець!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

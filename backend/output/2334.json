@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "загувенное", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загувё́нное", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загувенное"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загуве́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загувенник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загумё́нное", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загуменное"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загуме́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загуменник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "широко распространенные у нас в районе топонимы, во многих деревнях так назывались поля, расположенные за гумнами или около них.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сёдни в загумё́нном поле жито жали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "седни в загуменном поле жито жали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

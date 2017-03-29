@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "брилы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брилы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брилы"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "губы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Попробуй только скажи ещё так, дак получишь по брила́м-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "попробуй только скажи еще так, дак получишь по брилам-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "выпекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выпека́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "терять окраску при нахождении на солнце (о цветных тканях, волосах) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пекчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпекчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́печь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпечь"
+        }, 
+        {
+          "content": "Всю рубаху вы́пекло на соунышке, как будто и не синяя была.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю рубаху выпекло на соунышке, как будто и не синяя была."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "выгора́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выгорать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

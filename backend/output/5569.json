@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "пестовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́стовать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пестовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нянчить, ухаживать, воспитывать ребенка (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пестовать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпестовать"
+        }, 
+        {
+          "content": "Бабушка пятёрых вы́пестовала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабушка пятерых выпестовала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

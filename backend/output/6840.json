@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "сдурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сдури́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сдурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сойти с ума, испортиться в умственном и поведенческом отношении, чаще в переносном смысле, в т. ч. и по отношению к животным.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо сдури́ла-то?", 
+          "translation": "что как сумасшедшая?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо сдурила-то?"
+        }, 
+        {
+          "content": "До́́́ўго ли здури́́́ть-то, ко́́́ли во́́́ли себе́́́ мно́́́го да́́́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доуго ли здурить-то, коли воли себе много дать?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дури́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дурить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

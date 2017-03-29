@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "брюхо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брю́хо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брюхо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "живот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не сопи́те зеленцо́в-то! Брю́хо заболи́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не сопите зеленцов-то! брюхо заболит!"
+        }, 
+        {
+          "content": "Брю́хо боли́т, на краю́ху гледи́т", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "брюхо болит, на краюху гледит"
+        }, 
+        {
+          "content": "типовое выражение, означающее желание поесть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

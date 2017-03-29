@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "подьте", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́́дьте", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подьте"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поди́те", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подите"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пойдите, идите.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́дьте, по́дьте! По́дьте же давай", 
+          "translation": "напутствие засидевшимся гостям.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подьте, подьте! подьте же давай"
+        }, 
+        {
+          "content": "Хватит уж, насиделись! Поди́те с Богом!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит уж, насиделись! подите с богом!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Поди́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поди"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 10
+}

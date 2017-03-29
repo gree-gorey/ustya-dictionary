@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "горлопанить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Горлопа́нить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горлопанить"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громко кричать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "загорлопа́нить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "загорлопанить"
+        }, 
+        {
+          "content": "У соседей гости приехали: полна изба робят, да все горлопа́нят, вот где наказаньё-то Маньке на старости лет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у соседей гости приехали: полна изба робят, да все горлопанят, вот где наказанье-то маньке на старости лет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

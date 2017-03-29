@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "каурый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кау́рый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "каурый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бурый, красноватый (светло-каштановый, рыжеватый) масть лошадей. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́вка-бу́рка, ве́щий кау́рка…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сивка-бурка, вещий каурка…"
+        }, 
+        {
+          "content": "(сказка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

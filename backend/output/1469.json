@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "горесть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́ресть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горесть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "го́ресь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "горесь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "горький вкус, горечь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От перцу го́ресь в роте до́ўго не проходит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от перцу горесь в роте доуго не проходит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

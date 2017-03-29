@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "паз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паз"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстояние между бревнами в срубе.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выемка в верхнем, «прирубаемом» бревне сруба, повторяющая контур нижнего бревна, для того, чтобы бревна соприкасались как можно плотнее.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сади́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "садить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "2"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "посади́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "посадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бревно́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бревно"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "любая строительная выемка под что-нибудь.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

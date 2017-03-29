@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "выреза", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выреза́", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "выреза"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узоры, резные украшения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У каждого хозяина были свои выреза́ на конских дугах и санях.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у каждого хозяина были свои выреза на конских дугах и санях."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мшитьпазы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мшить пазы́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мшить пазы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конопатить с использованием мха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до, на́́́до пазы́́́ мшить, а то те́́́нёт из угла́́́ (хо́́́лодом).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо, надо пазы мшить, а то тенет из угла (холодом)."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "паз", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "паз"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

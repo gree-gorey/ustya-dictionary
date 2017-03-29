@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "белеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беле́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "забеле́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "забелеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сбеле́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сбелеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "виднеться, появляться чему-либо белого цвета.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что там за ричкой били́ёт, не пойму. За кустами соседская корова забеле́ла. На солнце за лето волосьё сбеле́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что там за ричкой билиет, не пойму. за кустами соседская корова забелела. на солнце за лето волосье сбелело."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

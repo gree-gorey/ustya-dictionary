@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "штелка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Штё́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "штелка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шшё́лка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шшелка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щелка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

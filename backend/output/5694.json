@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "поганой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пога́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поганой"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "несдержанный, злой (о языке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Язык у ие пога́ной, на сибя и на людей наба́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "язык у ие поганой, на сибя и на людей набает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вредный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От пога́ных привычек надо избавлятьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от поганых привычек надо избавлятьсе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

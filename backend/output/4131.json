@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "мати", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ти", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мати"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ма́терь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "матерь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́ти где? – Ма́ти в мага́зин пошла. Гриня! Ты когда родился? – А когда ма́ти жито жа́ла", 
+          "translation": "родился в поле, ответ ученика учителю на уроке в Бережанской начальной школе", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мати где? – мати в магазин пошла. гриня! ты когда родился? – а когда мати жито жала"
+        }, 
+        {
+          "content": "Едьма", 
+          "tag": "place"
+        }, 
+        {
+          "content": ", середина 50-х годов XX века.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Слу́́́шайсе ма́́́терь, по́́́няў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слушайсе матерь, поняу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

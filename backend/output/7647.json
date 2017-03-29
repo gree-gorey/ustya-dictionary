@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "топтальщик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топта́льщик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топтальщик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́́́птальщик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "топтальщик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, утаптывающий сено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, кто сево́́́дни у нас топта́́́льщиком бу́́́дёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, кто севодни у нас топтальщиком будет?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

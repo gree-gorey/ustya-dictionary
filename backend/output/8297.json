@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "чашничать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́шничать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чашничать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разливать напитки, обслуживать гостей за столом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

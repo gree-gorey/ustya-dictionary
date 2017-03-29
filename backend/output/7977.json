@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "у", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "у"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": ""
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сторонь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сторонь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "усторо", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "усторо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": ""
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "усторо́нье", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "усторонье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в стороне , в сторону; отдельно, независимо", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Седь-ко маленько у ́ сторонь", 
+          "translation": "в стороне.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "седь-ко маленько у  сторонь"
+        }, 
+        {
+          "content": "Баньку-ту поставили усторо́нь, в ру́цье", 
+          "translation": "отдельно от дома, около ручья.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баньку-ту поставили усторонь, в руцье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

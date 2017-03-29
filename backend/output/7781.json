@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "тюкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тюкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тюкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать топором (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затюкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затюкаться"
+        }, 
+        {
+          "content": "Да это Офона́шка, наверно, в лесу тю́каетсе. Кто-то там опеть затю́калсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да это офонашка, наверно, в лесу тюкаетсе. кто-то там опеть затюкалсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

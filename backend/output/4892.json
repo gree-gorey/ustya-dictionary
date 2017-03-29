@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "обдуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обду́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обдуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много напиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Квасу обду́лсе, аж брюхо болит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "квасу обдулсе, аж брюхо болит."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

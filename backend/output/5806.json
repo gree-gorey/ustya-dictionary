@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подпивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подпива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подпивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпивать время от времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дедко-то умер, бояться бо́ле не стал, стал подпива́ть", 
+          "translation": "сын после смерти отца стал выпивать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дедко-то умер, бояться боле не стал, стал подпивать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

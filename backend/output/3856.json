@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ланпа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́нпа", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ланпа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ла́нпочка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ланпочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лампа, лампочка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Задунь ла́нпу", 
+          "translation": "выключи свет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задунь ланпу"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

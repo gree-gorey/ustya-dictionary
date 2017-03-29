@@ -1,0 +1,104 @@
+{
+  "field_for_sorting": "околеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Околе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "околеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "околи́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "околить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "околева́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "околевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно замерзнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вся чисто околе́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся чисто околела."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "умереть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Старуха околе́ла", 
+          "translation": "умерла. «", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "старуха околела"
+        }, 
+        {
+          "content": "Я отчаянный родился, всей деревне надоел. Все старухи Бога молят, чтобы завтра околе́л", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "я отчаянный родился, всей деревне надоел. все старухи бога молят, чтобы завтра околел"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") угомониться, уснуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Околе́л не́што?", 
+          "translation": "уснул? (про пьяницу).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "околел нешто?"
+        }, 
+        {
+          "content": "Да что они долго-то не околева́ют!?", 
+          "translation": "уснуть не могут, спать не ложатся (например, про мешающих отдыхать соседей).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да что они долго-то не околевают!?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

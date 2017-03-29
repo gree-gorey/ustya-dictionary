@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "унять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уня́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "унять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отговаривать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "унима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "унимать"
+        }, 
+        {
+          "content": "Чево ребёнка-то уня́ть не можошь, вишь весь уреве́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево ребенка-то унять не можошь, вишь весь уревелсе!"
+        }, 
+        {
+          "content": "Стал Иван царевич домой собираться. Царь отец унима́л. Отец обещал ему своё царство отдать", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Огненный змей (кощей бессмертный)». М.И. Шалаурова.", 
+          "normalized_content": "стал иван царевич домой собираться. царь отец унимал. отец обещал ему свое царство отдать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

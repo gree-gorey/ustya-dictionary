@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "чедить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чеди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чедить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лить из емкости жидкость через приспобление для этого (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́чедить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вычедить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "начеди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "начедить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отчеди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отчедить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прочеди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прочедить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "счеди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "счедить"
+        }, 
+        {
+          "content": "Вы́чиди-ко оста́ток кипятка́ из самова́ра, дак но́вой согри́ём. Начеди́-ко мне чаю стакан. Отчеди́ отстоя́вшееся молоко из че́тверти. Всю заварку из заварного чайника счеди́л. Процеди́ надо́енное молоко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вычиди-ко остаток кипятка из самовара, дак новой согрием. начеди-ко мне чаю стакан. отчеди отстоявшееся молоко из четверти. всю заварку из заварного чайника счедил. процеди надоенное молоко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

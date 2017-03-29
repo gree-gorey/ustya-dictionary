@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кишмя-кишеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кишмя́-кише́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кишмя-кишеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "необычайно много.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Меёв там в лы́ве кишмя́-киши́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "меев там в лыве кишмя-кишит."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Кише́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кишеть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

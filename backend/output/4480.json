@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "накопыльник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Накопы́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "накопыльник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "самый маленький воз сена или соломы на дровнях, по высоте он только закрывает", 
+          "tag": "def"
+        }, 
+        {
+          "content": "копы́лье", 
+          "tag": "quote", 
+          "normalized_content": "копылье"
+        }, 
+        {
+          "content": "дровней. Накопыльник примерно вдвое меньше", 
+          "tag": "def"
+        }, 
+        {
+          "content": "подгове́нника", 
+          "tag": "quote", 
+          "normalized_content": "подговенника"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "подгове́нник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подговенник"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "копы́льё", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копылье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

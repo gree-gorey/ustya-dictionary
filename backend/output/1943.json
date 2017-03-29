@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "душегрейка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Душегре́йка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "душегрейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любовно-ласковое название утепленной ватной верхней одежды для повседневной носки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "куфа́йка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "куфайка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

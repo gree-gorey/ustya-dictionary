@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "щабель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ща́бель", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щабель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "штабель.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У пилорамы накла́дёно три ща́беля до́сок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у пилорамы накладено три щабеля досок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

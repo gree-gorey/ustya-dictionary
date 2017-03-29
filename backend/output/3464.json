@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "корзать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корза́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корзать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "обкорза́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "обкорзать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грызть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хва́́́тит корза́ть ко́́́сь-то", 
+          "translation": "(кость)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит корзать кось-то"
+        }, 
+        {
+          "content": ", веть не соба́́́ка ты!", 
+          "tag": "quote", 
+          "normalized_content": ", веть не собака ты!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обрубать, грубо обтесывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На пе́́́рвый рас мы сте́́́ны опкорза́ли, а да́́́льше ровне́́́ть, гла́́́дить на́́́до.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на первый рас мы стены опкорзали, а дальше ровнеть, гладить надо."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "корна́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "корнать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

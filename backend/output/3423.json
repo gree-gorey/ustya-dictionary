@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "конфет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Конфе́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "конфет"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "конфи́тик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "конфитик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конфета.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Угостись хоть конфи́тиком во…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "угостись хоть конфитиком во…"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

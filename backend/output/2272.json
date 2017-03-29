@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "завивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завива́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вить вицами (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зави́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завить"
+        }, 
+        {
+          "content": "Осталось ищо ручку у корзины зави́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осталось ищо ручку у корзины завить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обвертывать ноги онучами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Онучи-то на ногах нужно вот так завива́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "онучи-то на ногах нужно вот так завивать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

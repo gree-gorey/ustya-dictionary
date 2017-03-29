@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "некудышный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Некуды́шный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "некудышный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ни на что не годный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гриб-от этот некуды́шный, вы́брось!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гриб-от этот некудышный, выбрось!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "сноватькросна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Снова́ть кро́сна", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сновать кросна"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прокладывать «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "осно́ву", 
+          "tag": "quote", 
+          "normalized_content": "основу"
+        }, 
+        {
+          "content": "продольные нити ткани, между которыми проходит челнок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кро́сна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кросна"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

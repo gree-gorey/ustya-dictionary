@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "потолочина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Потоло́чина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потолочина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плаха или доска потолка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Потоло́́́цины кое-где́́́ защеля́́́ли, песо́́́к скрось ще́́́ли сы́́́плётце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "потолоцины кое-где защеляли, песок скрось щели сыплетце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

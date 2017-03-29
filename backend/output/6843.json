@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "северить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Севери́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "северить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сивере́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сивереть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "засевери́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "засеверить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заси́вереть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "засивереть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "холодать, дуть северному ветру.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то стало сивере́ть. Засевери́ло, после пурги почти всегда бываёт мороз.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то стало сивереть. засеверило, после пурги почти всегда бывает мороз."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

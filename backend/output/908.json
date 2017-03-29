@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "волынцы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волы́нцы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волынцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жители древни", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Воло́вы", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "воловы"
+        }, 
+        {
+          "content": "Щапинской", 
+          "tag": "place"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

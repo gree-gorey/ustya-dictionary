@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "виниться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вини́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "виниться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "признаваться в вине, извиняться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завини́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завиниться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повини́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повиниться"
+        }, 
+        {
+          "content": "Вот какой робёнок, нека́к не вини́тся, що он это зделал. Как припё́рли, дак оне сразу завини́лись (повини́лись).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот какой робенок, некак не винится, що он это зделал. как приперли, дак оне сразу завинились (повинились)."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

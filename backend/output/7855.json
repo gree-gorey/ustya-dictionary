@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "удача", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уда́ча", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "удача"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "славный, счастливый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох, Полинка, ну и уда́ча же ты! И в кого э́дакая уроди́лась?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, полинка, ну и удача же ты! и в кого эдакая уродилась?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "удачно испеченный хлеб. Так говорят, когда у хозяйки получаются пироги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я севодня уда́чу испекла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я севодня удачу испекла."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "журавлица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Журавли́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "журавлица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "журавли́ця", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "журавлиця"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "журавли́ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "журавлика"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жарови́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жаровица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "клюква.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сейгод журавли́цы шиш да ни шиша! Болото нали́ красно́, так журавли́цы много.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейгод журавлицы шиш да ни шиша! болото нали красно, так журавлицы много."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

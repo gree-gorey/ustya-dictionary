@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "снапырком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С на́пырком", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с напырком"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недовольный, с претензиями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Набежа́л с на́пырком.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "набежал с напырком."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

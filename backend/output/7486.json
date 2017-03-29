@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "сыматься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сыма́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сыматься"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сыма́цце", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сымацце"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начинать, браться за что-то, приниматься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как сде́ла нет, дак не надо было и сыма́тце", 
+          "translation": "не надо браться за то, что не умеешь делать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как сдела нет, дак не надо было и сыматце"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сниматься (с места), уезжать из дома. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Было не́пошто с до́мику сыма́тце", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "было непошто с домику сыматце"
+        }, 
+        {
+          "content": "(из песни) незачем было покидать родной дом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И пошщо́́́ он подсотони́́́ў из дере́́́вни-то сыма́́́цце, бу́́́тто хто их в города́́́х-то и ждёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и пошщо он подсотониу из деревни-то сымацце, бутто хто их в городах-то и ждет."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обходиться тем, что есть.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "снима́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сниматься"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

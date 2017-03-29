@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "лебезить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лебези́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лебезить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льстить, выслуживаться, пытаться войти в доверие, угодничать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "залебези́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "залебезить"
+        }, 
+        {
+          "content": "Опеть залебези́ла, ох уш и хитра́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть залебезила, ох уш и хитра!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

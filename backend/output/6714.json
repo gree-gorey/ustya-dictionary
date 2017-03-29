@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сад"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "садо́вник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "садовник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "огород, приусадебный участок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Садо́́́вник-от уш поса́́́жён весь. Садо́́́вник-от у их добё́́́р, мя́́́гок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садовник-от уш посажен весь. садовник-от у их добер, мягок."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

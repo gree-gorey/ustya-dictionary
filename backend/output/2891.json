@@ -1,0 +1,141 @@
+{
+  "field_for_sorting": "идти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Идти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "идти"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "итти́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "итти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "двигаться", 
+          "tag": "def"
+        }, 
+        {
+          "content": "напрохо́д", 
+          "tag": "quote", 
+          "normalized_content": "напроход"
+        }, 
+        {
+          "content": "напрома́х", 
+          "tag": "quote", 
+          "normalized_content": "напромах"
+        }, 
+        {
+          "content": "напроло́м", 
+          "tag": "quote", 
+          "normalized_content": "напролом"
+        }, 
+        {
+          "content": "Не задерживайсе негде́, иди́ домо́й напрохо́д. Де́сеть вё́рст протти́ напрома́х. Ко́ней не дё́ржит о́сек, оне́ иду́т напроло́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не задерживайсе негде, иди домой напроход. десеть верст протти напромах. коней не держит осек, оне идут напролом."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выходить замуж.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо замуж идти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо замуж идти."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "брать, клевать на блесну (о рыбах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойдём рыба́чить, сейчас щука идё́т на блесну́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдем рыбачить, сейчас щука идет на блесну."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "охотиться на белку с собакой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Собачка у меня хоть и молодая ещё, а на белку хорошо идё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собачка у меня хоть и молодая еще, а на белку хорошо идет."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подходить по цвету, размеру, фасону и т. д. (о вещи).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это платье-то тибе идёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это платье-то тибе идет."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прорастать, давать всходы (о семенах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эте симяна должны итти́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эте симяна должны итти."
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

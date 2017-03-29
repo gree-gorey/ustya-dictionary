@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "довыгребу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До вы́гребу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до выгребу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "очень много, даже сверх меры, больше не нужно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Карто́ви наросло лони́ до вы́гребу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "картови наросло лони до выгребу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

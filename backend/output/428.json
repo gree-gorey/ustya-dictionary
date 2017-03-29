@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "бродиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Броди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бродиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить в воде, замачивая ноги до колена (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поброди́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побродиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уброди́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "убродиться"
+        }, 
+        {
+          "content": "Ребята, мне сегодня купаться нельзя, мама только поброди́ться разрешила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребята, мне сегодня купаться нельзя, мама только побродиться разрешила."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "совершать пустые движения (ложкой и т. п. в посуде), т. е. притворяться, а не есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что я зря буду броди́ться?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что я зря буду бродиться?"
+        }, 
+        {
+          "content": "(если есть не хочу); выискивать мясо, например: во щах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́-ко не броди́сь в блю́де-то, е́шь с кра́ю!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко не бродись в блюде-то, ешь с краю!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

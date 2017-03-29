@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "глушилка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глуши́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глушилка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крышка, заглушка самоварной трубы угольного самовара.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Самовар согрелся, можно закрыть трубу глуши́лкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "самовар согрелся, можно закрыть трубу глушилкой."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "колпа́чок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колпачок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

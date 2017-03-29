@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "начерпать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наче́рпать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "начерпать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "набрать в сапоги воды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды в лягу полез! В сапоги наче́рпаешь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды в лягу полез! в сапоги начерпаешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

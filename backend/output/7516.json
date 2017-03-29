@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "затамжить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Затамжи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затамжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "засунуть куда-то, спрятать, задевать, затерять.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тамжи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тамжить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

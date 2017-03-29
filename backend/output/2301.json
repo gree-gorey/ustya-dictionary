@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "дозавязу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До завя́зу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "до завязу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до завязки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он нагрузил им вещевой мешок буханками хлеба. Ещё один, до завя́зу, наполнил банками с тушёнкой и концентратом", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Повесть «Бережанские ратоборцы». О.А. Борисов. Архангельск, 2014 г.", 
+          "normalized_content": "он нагрузил им вещевой мешок буханками хлеба. еще один, до завязу, наполнил банками с тушенкой и концентратом"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "завя", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "завя"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "́́́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": ""
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

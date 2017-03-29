@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "шукаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шу́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шукаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шушу́каться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шушукаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шептаться, разговаривать тихо, чтобы не услышали другие (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошукаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зашушу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашушукаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нашушу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нашушукаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошушу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошушукаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прошушу́каться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прошушукаться"
+        }, 
+        {
+          "content": "Чево оне там по углам шу́каютце (шушу́каются), чево замышле́ют? Отойдём-ко в сторону, надо пошу́каться. Опеть оне там зашушу́калисе! Прошушу́кались всё время, ничево не слушали. Нашушу́каться не могут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево оне там по углам шукаютце (шушукаются), чево замышлеют? отойдем-ко в сторону, надо пошукаться. опеть оне там зашушукалисе! прошушукались все время, ничево не слушали. нашушукаться не могут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "рваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рва́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надрываться на работе (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "урва́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "урваться"
+        }, 
+        {
+          "content": "Скоко можно одной рва́тце на экой роботе, что мне тут урва́тце що ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко можно одной рватце на экой роботе, что мне тут урватце що ли!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

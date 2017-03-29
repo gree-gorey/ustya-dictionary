@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чилисник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чили́сник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чилисник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грязный, замзанный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эй вы, чили́сники! Посмотрите на ково похо́жи!? Опеть чили́сники идут!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эй вы, чилисники! посмотрите на ково похожи!? опеть чилисники идут!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ошалелый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ошале́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ошалелый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взбесившийся, дурной, не в своем уме, страдающий душевной болезнью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што вы но́ситесь как ошале́лые!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што вы носитесь как ошалелые!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

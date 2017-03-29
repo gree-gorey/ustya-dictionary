@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "слизь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сли́зь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слизь"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гололед.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эка слизь-та ко́ло коло́дця!", 
+          "translation": "зимой застывает вода и становится гололед.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эка слизь-та коло колодця!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ско́льзеть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скользеть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

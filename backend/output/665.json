@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "вертеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верте́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вертеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сверлить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поверте́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повертеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проверте́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "провертеть"
+        }, 
+        {
+          "content": "Наа-бы дырку тут проверте́ть, да спи́цю вставить!", 
+          "translation": "хозяйка просит сделать вешалку для какой-то утвари.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наа-бы дырку тут провертеть, да спицю вставить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

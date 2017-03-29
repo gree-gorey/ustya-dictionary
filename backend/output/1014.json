@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "врастопырку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Врастопы́рку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "врастопырку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "крест-накрест.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поста́́́вь ко́́́лья врастопы́́́рку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поставь колья врастопырку."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в разные стороны.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Па́́́льцы-то не держи́́́ врастопы́рку, сожми́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пальцы-то не держи врастопырку, сожми."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

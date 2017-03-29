@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "запетать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запе́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запетать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "с усилием затолкнуть содержимое в объем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Запе́тай ищо вот эти рукавицы в котомку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "запетай ищо вот эти рукавицы в котомку."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пе́тать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "петать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

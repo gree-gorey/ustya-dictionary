@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зыбаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зы́баться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зыбаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "качаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Идёшь по подвесному мосту, а он зы́баитце порато.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идешь по подвесному мосту, а он зыбаитце порато."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

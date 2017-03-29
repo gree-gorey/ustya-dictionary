@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "ненять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́нять", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ненять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не смочь, не осилить; не иметь способностей, не в состоянии делать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́нел, дак не бери́сь. Попе́талсе, попе́талсе да не́нял", 
+          "translation": "не смог.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ненел, дак не берись. попеталсе, попеталсе да ненял"
+        }, 
+        {
+          "content": "Но́нешне-то поколи́ньё ро́дику не́няли робить!", 
+          "translation": "не способны.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нонешне-то поколинье родику неняли робить!"
+        }, 
+        {
+          "content": "Он уш не́нял за водой ходить", 
+          "translation": "не может, не в состоянии.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он уш ненял за водой ходить"
+        }, 
+        {
+          "content": "Не́́́няў я уш топе́́́ре ницево́́́, ви́́́дно уката́́́ли си́́́вку круты́́́е го́́́рки. Не́няло ево больше землю пахать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неняу я уш топере ницево, видно укатали сивку крутые горки. неняло ево больше землю пахать."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "нял", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нял"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

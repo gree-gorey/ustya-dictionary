@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "чуток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чуто́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чуток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подожди чуто́к. Схрапну́л на лафке чуто́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подожди чуток. схрапнул на лафке чуток."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "чуть-чуть чего-нибудь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дай соли чуто́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дай соли чуток."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "набируха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Набиру́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набируха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "набиру́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "набирушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наберу́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наберушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устройство для быстрого сбора ягод в лесу: совок с гребнем (деревянный комбайн). То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ру́́́чка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "ручка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "маленькая емкость для сбора ягод (например, кружка): после того как ее наберут, пересыпают из нее в большую емкость.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот ешщо́́́ пе́́́ть набиру́́́шок наберу́́́, и бито́́́нчик скля́́́ной", 
+          "translation": "(полный, вровень с краями)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот ешщо петь набирушок наберу, и битончик скляной"
+        }, 
+        {
+          "content": "бу́́́дёт.", 
+          "tag": "quote", 
+          "normalized_content": "будет."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "игратьвбомки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Игра́ть в бо́мки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "играть в бомки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бо́мкой игра́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бомкой играть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "играть в жмурки (с завязанными глазами).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Бо́мка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бомка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

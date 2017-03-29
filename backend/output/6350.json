@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "протяжной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Протя́жной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "протяжной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длительный дождь, снег.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дожди́на-то какая протя́жная зареди́ла, на целой день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дождина-то какая протяжная заредила, на целой день."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "более длинное, чем обычно время года.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осень сейгод протя́́жная какая, снега всё нету и нету.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осень сейгод протяжная какая, снега все нету и нету."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "втеле", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вте́ле", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втеле"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть полным, упитанным.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У соседей молодица вте́ле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у соседей молодица втеле."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

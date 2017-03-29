@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "сека", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Се́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сека"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нож для рубки, сечки овощей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "се́чка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сечка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тяпка для окучивания картошки, капусты.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "секе́ра", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "секера"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

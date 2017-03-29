@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "задний", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́дний", 
+        "place": [
+          "Кидюга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "задний"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старый, прежний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В за́дние-то времена были совсем другие порядки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в задние-то времена были совсем другие порядки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

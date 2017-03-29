@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ста́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "встать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ста́́́нь на присту́́́пок, дак и зали́́́зёшь на печь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стань на приступок, дак и зализешь на печь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

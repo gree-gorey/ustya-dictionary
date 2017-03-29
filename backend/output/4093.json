@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "малым-мало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Малы́м-мало́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малым-мало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень мало; очень маленький.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он ищо малы́м-мало́, какой с ёво спрос.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он ищо малым-мало, какой с ево спрос."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мало́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

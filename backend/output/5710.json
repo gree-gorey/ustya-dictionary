@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "податно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пода́тно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "податно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "производительно, споро.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Утром по росе косить траву пода́тно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "утром по росе косить траву податно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "подава́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подаваться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

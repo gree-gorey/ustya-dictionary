@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вельной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́льной", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вельной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предназначенный для веяния.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эта лопата ве́льная.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эта лопата вельная."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

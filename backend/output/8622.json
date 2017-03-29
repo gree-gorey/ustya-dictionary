@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "щетина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щети́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щетина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жесткая трава белоус, растущая в сухих местах, которую трудно косить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

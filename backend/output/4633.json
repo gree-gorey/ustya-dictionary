@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "наторопях", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наторопя́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наторопях"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "второпя́х", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "второпях"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в спешке, при отсутствии свободного времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наторопя́х много и добро не сро́бишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наторопях много и добро не сробишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

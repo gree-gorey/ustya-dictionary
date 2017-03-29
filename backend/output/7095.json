@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "смотаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смота́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смотаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро или незаметно уйти, убежать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как сказали про нево не́любо, так он ми́гом смота́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как сказали про нево нелюбо, так он мигом смоталсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сходить, сбегать туда-обратно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он за реку в мага́зин в ко́ю по́ру смота́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он за реку в магазин в кою пору смоталсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мотаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мотаться"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "морока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моро́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "морока"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мрак, сумрак, темнота.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неприятности, заботы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С тобой одна моро́ка, чево-нибудь да не так! Ни де́́́ла, ни рабо́́́ты – одна́́́ моро́́́ка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с тобой одна морока, чево-нибудь да не так! ни дела, ни работы – одна морока!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

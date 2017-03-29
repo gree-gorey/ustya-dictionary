@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "всердцах", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всердца́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всердцах"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгоряча.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я всердца́х-то ему всё и вы́сказала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я всердцах-то ему все и высказала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

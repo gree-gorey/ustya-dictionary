@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "колосовица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колосови́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колосовица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "период колошения злаковых культур.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

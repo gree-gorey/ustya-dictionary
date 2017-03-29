@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шофер", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шо́фер", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шофер"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шофёр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шо́́́фером он фсё ро́́́биў, да ру́́́ки золоты́́́е, дак мок из ничево́́́ маши́́́ну собра́́́ть, отремо́́́нтить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шофером он фсе робиу, да руки золотые, дак мок из ничево машину собрать, отремонтить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

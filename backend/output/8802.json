@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отсюда, до этого места.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Копа́й грядку отсе́ля досе́ля.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копай грядку отселя доселя."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Отсе́ля", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отселя"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

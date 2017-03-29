@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "своиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сво́́́иться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "своиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "видеть в ком-то родственника (родственников).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне́́́ ведь сестрё́́́нки, дак пото́́́ и сво́́́ятсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне ведь сестренки, дак пото и своятсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

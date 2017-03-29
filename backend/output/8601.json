@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "шурудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шуруди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шурудить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шурова́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шуровать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шевелить, перемешивать, разравнивать, мешать угли в печи (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошуруди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошурудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошурова́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошуровать"
+        }, 
+        {
+          "content": "Пошуруди́ угли-то в печке, скоряе прогоря́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошуруди угли-то в печке, скоряе прогорят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

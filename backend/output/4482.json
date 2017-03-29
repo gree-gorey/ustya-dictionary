@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "накоторужиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Накотору́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "накоторужиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собраться поехать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды эдак накотору́жилась?", 
+          "translation": "куда собралась поехать, по каким делам?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак накоторужилась?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

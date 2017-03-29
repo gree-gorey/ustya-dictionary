@@ -1,0 +1,212 @@
+{
+  "field_for_sorting": "баеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ба́ять", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорить, рассказывать о чем-то (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "убаеть"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "многокр.", 
+          "content": "ба́ивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "баивать"
+        }, 
+        {
+          "content": "Чево́ ба́яла?", 
+          "translation": "что ты сказала?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево баяла?"
+        }, 
+        {
+          "content": "Бабка ба́яла, шчо…", 
+          "translation": "рассказывала.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка баяла, шчо…"
+        }, 
+        {
+          "content": "Включи-ко ра́диво, пусть ба́ёт. Он ба́ет, что не был. Не бай", 
+          "translation": "не говори.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "включи-ко радиво, пусть бает. он бает, что не был. не бай"
+        }, 
+        {
+          "content": "Она хоть ково заба́ет", 
+          "translation": "кому угодно надоест своей болтовней.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она хоть ково забает"
+        }, 
+        {
+          "content": "Дуська всех переба́яла, никому и слова сказать не даёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дуська всех перебаяла, никому и слова сказать не дает."
+        }, 
+        {
+          "content": "Да я вот, ку́мушка, пришла с тобой поба́ять про хре́сницу, про Настеньку, девка на вы́данье", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "да я вот, кумушка, пришла с тобой побаять про хресницу, про настеньку, девка на выданье"
+        }, 
+        {
+          "content": "Я не раз ёму ба́ивала, дак не слушаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я не раз ему баивала, дак не слушает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разговаривать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пробаеть"
+        }, 
+        {
+          "content": "Поба́й-ко со мной. Проба́ели целый вечор.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "побай-ко со мной. пробаели целый вечор."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "немного привирать, наговоривать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оба́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обаеть"
+        }, 
+        {
+          "content": "Шчо ба́ешь-то?", 
+          "translation": "не говори ерунды, зачем врешь?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо баешь-то?"
+        }, 
+        {
+          "content": "Не бай давай, не э́дак было! Хватит ба́йки баеть! Наба́яла она на тибя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не бай давай, не эдак было! хватит байки баеть! набаяла она на тибя."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "верес", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́рес", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "верес"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "можжевельник. Обладает дезинфицирующими свойствами: им запаривали ушаты, клали в погреб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сходи́-ко по ве́рес, де́фка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сходи-ко по верес, дефка!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вересня́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вересняк"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

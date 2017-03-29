@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "щобы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Що́бы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щобы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чтобы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робь так, що́́́бы пото́́́м тебя не ха́́́ели!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робь так, щобы потом тебя не хаели!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

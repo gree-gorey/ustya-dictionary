@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тишком", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тишко́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тишком"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молча, тайно, скрытно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чово́ оне́ там замышле́ют, опе́ть каку́ю-ту па́кось тишко́м сде́лают!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чово оне там замышлеют, опеть какую-ту пакось тишком сделают!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

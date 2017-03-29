@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "белыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́лыш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белыш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "белок яйца.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "белу́шка", 
+          "tag": "ref", 
+          "place": [
+            "Васьковская"
+          ], 
+          "normalized_content": "белушка"
+        }, 
+        {
+          "content": "Если белу́шка смешаитце с жё́лтышем, яйцо не вы́преет, будёт болту́н.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если белушка смешаитце с желтышем, яйцо не выпреет, будет болтун."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "жё́лтыш.", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "желтыш."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "роговица глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що бе́лыши-то вы́пучиў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що белыши-то выпучиу?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

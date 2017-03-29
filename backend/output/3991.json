@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лошоцька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ло́шоцька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лошоцька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ложечка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Выпей-ко во лекарство с ло́шоцьки, поспи́шь хоть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выпей-ко во лекарство с лошоцьки, поспишь хоть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

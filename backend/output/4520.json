@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "напамяти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На па́мяти", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на памяти"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "на па́́́мети", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "на памети"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на протяжении жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да это на моей па́мети было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да это на моей памети было."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в знач. сказуемого", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "помнится.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ско́́́ко ни жыву́́́, а тот слу́́́цяй фсё́́́ на па́́́мети.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко ни жыву, а тот слуцяй фсе на памети."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

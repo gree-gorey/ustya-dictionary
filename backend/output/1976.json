@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "единов", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Еди́нов", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "единов"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ни один.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В деревне не осталось еди́ново старика.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в деревне не осталось единово старика."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

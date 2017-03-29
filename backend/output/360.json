@@ -1,0 +1,105 @@
+{
+  "field_for_sorting": "бонькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бонькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "набирать, наполнять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набо́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набонькать"
+        }, 
+        {
+          "content": "Набо́нькала повню́ще корыто, да у их – токо у́рнуло!", 
+          "translation": "быстро свиньи съели свою порцию корма.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "набонькала повнюще корыто, да у их – токо урнуло!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "есть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбо́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбонькать"
+        }, 
+        {
+          "content": "До тово поросёночок-то едо́вой, дак всё сбо́нькал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "до тово поросеночок-то едовой, дак все сбонькал."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "творить (тесто) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набо́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набонькать"
+        }, 
+        {
+          "content": "Целую квашню теста набонькала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целую квашню теста набонькала."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "бо́́́тать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ботать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

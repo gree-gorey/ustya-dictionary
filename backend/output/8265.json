@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "чавкало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́вкало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чавкало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чавку́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чавкун"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, издающий характерные причмокивающие звуки при еде и разговоре.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

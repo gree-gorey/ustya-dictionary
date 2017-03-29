@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ненадеванной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ненадё́ванной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ненадеванной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "новый, еще ни разу не одетый (об одежде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пинжа́́́к-от софсе́́́м ненадё́́́ванной ешщо́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пинжак-от софсем ненадеванной ешщо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

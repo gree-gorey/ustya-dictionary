@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "колинчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коли́нчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колинчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коли́́́нцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колинцы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коле́́́нцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коленцы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коли́́́ни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колини"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коленки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди́́́-ко ко мне да се́́́дь-ко на коли́́́нци-то – вот просу́́́жой парнё́́́к-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди-ко ко мне да седь-ко на колинци-то – вот просужой парнек-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "небольшенький", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Небо́льшенький", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "небольшенький"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький, небольшой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Возьми песте́рик-от небо́льшенькой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "возьми пестерик-от небольшенькой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "копнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наказать болезнью за разорение гнезда глухарки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́пал", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копал"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "копо́лий", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кополий"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

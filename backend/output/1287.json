@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "вязка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вя́зка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вязка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вязь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вязь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрученные пучки скошенных стебелей хлеба, травы, которыми связывают сноп, ношу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо вя́зок навязать для снопов. Приготовь-ко вязь-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо вязок навязать для снопов. приготовь-ко вязь-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "перевя́зка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перевязка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обвязка распаренными черемховыми вязами и чаповицами деревянных деталей дровней, саней и крёсел.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

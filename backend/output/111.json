@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "баловство", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баловство́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баловство"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шалость, проказа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У подро́стков хвата́ёт баловства́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у подростков хватает баловства."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "что-то непрочное, несерьезное, не вызывающее доверия.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё это ва́ше приспособле́ние – баловство́ одно́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все это ваше приспособление – баловство одно."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

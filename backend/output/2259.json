@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "завалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завали́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завалиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Угород завали́лся, надо идти попра́вить. Куда-то пуговица завали́лась?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "угород завалился, надо идти поправить. куда-то пуговица завалилась?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лечь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он поел и телевизор смотрить завали́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он поел и телевизор смотрить завалился."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лечь спать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он опеть спать завали́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он опеть спать завалилсе."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заявиться без приглашения в гости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мы к Маньке в гости завали́лись, вот обрадовалась-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы к маньке в гости завалились, вот обрадовалась-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вали́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "валиться"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

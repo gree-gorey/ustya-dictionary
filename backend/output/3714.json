@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "кститься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ксти́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кститься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "казаться, мерещиться, проявлять мнительность (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заксти́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закститься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оксти́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "окститься"
+        }, 
+        {
+          "content": "Тибе уже ксти́ться стало, перекрестись давай! Тебе наверно заксти́лось?", 
+          "translation": "стала выдумывать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тибе уже кститься стало, перекрестись давай! тебе наверно закстилось?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

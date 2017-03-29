@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "разумить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разуми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разумить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "розуми́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "розумить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "понимать, постигать умом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То-то розуми́ёт", 
+          "translation": "это-то понимает.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "то-то розумиет"
+        }, 
+        {
+          "content": "Э́́́то-то я розуми́́́ю, про шщо́́́ ты ба́́́ёшь-то, веть ещё́́́ мозго́́́й-то шевелю́́́ пока́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это-то я розумию, про шщо ты баешь-то, веть еще мозгой-то шевелю пока."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "предполагать, подразумевать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я вот розуми́ю, шщо он шщо́́́-то нела́́́дноё сро́́́биў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я вот розумию, шщо он шщо-то неладное сробиу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

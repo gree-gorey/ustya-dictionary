@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "заклюка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заклю́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заклюка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой земельный участок, поле, полянка, примыкающие к большому участку.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дорога с заездом или заходом в сторону от прямого пути.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В ту деревню от большой дороги велика́ заклю́ка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в ту деревню от большой дороги велика заклюка."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кратковременная потеря памяти", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бережная", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Заклю́ка – это когда ум за разум зайдёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заклюка – это когда ум за разум зайдет."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

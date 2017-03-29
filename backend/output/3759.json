@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "кукша2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́кша 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукша 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кукушка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́кша в деревню залетела – не к добру", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(примета).", 
+          "normalized_content": "кукша в деревню залетела – не к добру"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "птица сойка, у нас на Устье ее повсеместно называют ку́кшей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "непонятливый человек, тугодум.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если баба непонятливая, её зовут ку́кша.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если баба непонятливая, ее зовут кукша."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неопрятная, сильно укутанная одеждой женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ку́кша, и насряжалась!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, кукша, и насряжалась!"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

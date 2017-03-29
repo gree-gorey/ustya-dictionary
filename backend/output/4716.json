@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "недостоялый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недостоя́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недостоялый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не достигший нужного качества в процессе приготовления.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Недостоя́лая настойка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недостоялая настойка."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "достоя́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "достояться"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "недозревшее, недобравшее нужной спелости растение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рожь рано жать, она ещё недостоя́лая. Недостоя́лые помидоры лучше бы не снимать с куста.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рожь рано жать, она еще недостоялая. недостоялые помидоры лучше бы не снимать с куста."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

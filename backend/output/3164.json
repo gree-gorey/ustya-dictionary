@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "карбаз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́рбаз", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "карбаз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ка́рбас", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "карбас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая деревянная лодка на 6-7 человек, сшитая из досок внахлест.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́́́нше-то и ка́́́рбасы на У́́́сье дёржа́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ранше-то и карбасы на усье держали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "пекчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пекчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пекчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пекци́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пекци"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "печь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "допекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "допекчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запекчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "испекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "испекчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напекчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перепекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перепекчи"
+        }, 
+        {
+          "content": "Шщо́́́-то уш пекци́́́-то давно́ не пеку́́́. Сырова́то мясо-то, недопекла́, надо снова перепекчи́. Надо рыбу в рыбнике запекчи́. На́́́до бы хоть ша́́́нёжок испекци́́́. Мяска́́́ бы хоть напекци́́́ ла́́́тку. Перепекла́ чолпа́н-то, подгорел немного. Всю муку́ перепекли́, на́до на ме́льницу е́хать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то уш пекци-то давно не пеку. сыровато мясо-то, недопекла, надо снова перепекчи. надо рыбу в рыбнике запекчи. надо бы хоть шанежок испекци. мяска бы хоть напекци латку. перепекла чолпан-то, подгорел немного. всю муку перепекли, надо на мельницу ехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

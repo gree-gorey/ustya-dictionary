@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "подложить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подложи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подложить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кастрировать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "подкла́дывать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подкладывать"
+        }, 
+        {
+          "content": "Подложи́ть поросёнка. При́́́дёт Лю́́́ба-витирена́́́р – на́́́до Бо́́́рьку-ту подложи́́́ть, пока́́́ ма́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подложить поросенка. придет люба-витиренар – надо борьку-ту подложить, пока мау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

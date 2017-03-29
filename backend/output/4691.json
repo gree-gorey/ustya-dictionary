@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "невзлюбить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Невзлюби́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "невзлюбить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испытать чувство неприязни, нелюбви, ненависти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я ему стала ба́еть, ой, невзлюби́л!", 
+          "translation": "ему очень не понравились мои слова.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я ему стала баеть, ой, невзлюбил!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "казистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кази́стый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "казистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "аккуратный, умело сделанный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заро́дик некази́стый.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зародик неказистый."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "видный, красивый, хорошо выглядевший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кази́стый парнёк-то у Окси́ньи. Некази́стый у тебя сево́дни видо́к-от", 
+          "translation": "неважно выглядящий.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "казистый парнек-то у оксиньи. неказистый у тебя севодни видок-от"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "некази́сто", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "неказисто"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

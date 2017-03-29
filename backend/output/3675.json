@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кружала", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кружа́ла", 
+        "place": [
+          "Туриха"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кружала"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "карусель типа «гигантских шагов».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На масленицу катались на кружа́лах да санях.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на масленицу катались на кружалах да санях."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

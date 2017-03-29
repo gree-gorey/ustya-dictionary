@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отчебучить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отчебу́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отчебучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совершить неблаговидный поступок, удивить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он такоё отчебу́чил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он такое отчебучил!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

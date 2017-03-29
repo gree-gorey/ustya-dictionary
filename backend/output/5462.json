@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "недопекеной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недопекё́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недопекеной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "недоиспекё́ной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "недоиспекеной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недопечённый, непропеченный, сыроватый внутри (по отношению ко всему, что можно испечь).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Недопекё́ные у тебя севодня шаньги-то получились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недопекеные у тебя севодня шаньги-то получились."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пекё́ный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пекеный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

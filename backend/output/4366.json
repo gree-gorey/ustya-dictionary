@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "набонькаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Набо́нькаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набонькаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наесться досыта.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эко молока-та набо́нькавсе, дак сыт топе́ре вкря́кла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эко молока-та набонькавсе, дак сыт топере вкрякла!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "глубко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глу́бко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глубко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "глы́бко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глыбко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "глубо́ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глубоко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глубоко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо́-то глы́бко в э́том ми́сте ста́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то глыбко в этом мисте стало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

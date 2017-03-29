@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "сажень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́жень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сажень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "саже́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сажень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мера длины, равная 2,13 м, 3 аршина, в 12 четвертей, в 7 русских футов.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "длина скрученной при прядении нитки от бороды кудели до", 
+          "tag": "def"
+        }, 
+        {
+          "content": "про́стня", 
+          "tag": "quote", 
+          "normalized_content": "простня"
+        }, 
+        {
+          "content": ". На целой про́стень надо очень много саженей ниток напрясть.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "борода́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "борода"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "куде́ль", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кудель"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "про́стень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "простень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коса́я са́жень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "косая сажень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́жень махова́я", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сажень маховая"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

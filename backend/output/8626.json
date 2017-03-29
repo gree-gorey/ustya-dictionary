@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "щецьки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ще́цьки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щецьки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ще́́́цьки-то на шостке́́́ стоя́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "щецьки-то на шостке стоят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

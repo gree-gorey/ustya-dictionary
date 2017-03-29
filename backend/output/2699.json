@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "захлопаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Захло́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "захлопаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забрести, зайти куда-либо далеко в глухое неудобное место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Захло́пались в такие дебри, едва обратно вышли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "захлопались в такие дебри, едва обратно вышли."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "увязнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В такую грезь захло́пались, що не в задь, не впередь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в такую грезь захлопались, що не в задь, не впередь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

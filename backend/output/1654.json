@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "деваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дева́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "деваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "де́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "деться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потеряться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "задева́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "задеваться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подева́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подеваться"
+        }, 
+        {
+          "content": "Куда дева́лся лучи́нник? Куда подева́лись ножницы, ищу, ищу, нигде найти не могу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куда девался лучинник? куда подевались ножницы, ищу, ищу, нигде найти не могу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "убежать, уйти от опасности.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, де́фки, беда́ – не́куды дева́тьце: до коле́н борода́ – ли́зёт целова́тьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "ой, дефки, беда – некуды деватьце: до колен борода – лизет целоватьце!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

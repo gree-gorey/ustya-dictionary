@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "выдержанный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́держанный", 
+        "place": [
+          "Шаткурга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "выдержанный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скупой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Есть люди вы́держанные, которые ничего не скажут и ничего не дадут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "есть люди выдержанные, которые ничего не скажут и ничего не дадут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "сощок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сощо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сощок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сощёк", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сощек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шесто́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шесток"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шосто́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шосток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наружный край (выступ) русской печи, находящийся перед устьем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́́́ма тебя́́́ на пови́́́тях роди́́́ла и на сощо́́́к принесла́́́ обогрева́́́тьце", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мама тебя на повитях родила и на сощок принесла обогреватьце"
+        }, 
+        {
+          "content": "Прыг-скок на сощо́к!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(слова из детской считалочки).", 
+          "normalized_content": "прыг-скок на сощок!"
+        }, 
+        {
+          "content": "Вы́́́стафь су́́́п-от на шосто́́́к, чича́́́с ись бу́́́дём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выстафь суп-от на шосток, чичас ись будем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

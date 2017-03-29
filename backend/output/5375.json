@@ -1,0 +1,199 @@
+{
+  "field_for_sorting": "пазгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пазга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пазгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "делать дело то, что предполагает скашивание, срубание и т. п. в большом объеме (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напазгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спазгать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бить, наказывать, хлестать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напазгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отпазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отпазгать"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бегать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "припазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "припазгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спазгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "упазга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "упазгать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пазгану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пазгануть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он как пазгану́л, токо и видели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он как пазганул, токо и видели."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кидать глину на палке (местная детская забава) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пазгану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пазгануть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запазгану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запазгануть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подём пазга́ть – кто да́ле. Вон куды шарик пазгану́л (запазгану́л)", 
+          "translation": "(в игре).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подем пазгать – кто дале. вон куды шарик пазганул (запазганул)"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") возвращаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "припазгать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "припазгать"
+        }, 
+        {
+          "content": "Надоело ему тут, ла́дит домой пазга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надоело ему тут, ладит домой пазгать."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

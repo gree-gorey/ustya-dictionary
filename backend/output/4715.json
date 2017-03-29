@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "недосохлый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недосо́хлый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недосохлый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не полностью высохший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Черёмуха-то на печи ещо недосо́хлая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "черемуха-то на печи ещо недосохлая."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

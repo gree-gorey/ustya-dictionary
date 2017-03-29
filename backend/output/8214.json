@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "хруна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хру́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хруна"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хру́ны", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хруны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гнойные пятна, струпья на теле; болячки, экзема.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́́́ть хру́́́на на рука́́́х вы́́́ступила. Прие́́́хаў весь в хру́́́нах, уш до тово́́́ долечи́́́ла, пока́́́ не прошли́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть хруна на руках выступила. приехау весь в хрунах, уш до тово долечила, пока не прошли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

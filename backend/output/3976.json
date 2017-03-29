@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "лонишной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лони́шной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лонишной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лоньско́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лоньской"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лонсько́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лонськой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прошлогодний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лони́шной стожо́к-от ищё стоит. Лоньсько́й да севого́дной", 
+          "translation": "рожденные в прошлом и в этом году (о животных).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лонишной стожок-от ище стоит. лоньськой да севогодной"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

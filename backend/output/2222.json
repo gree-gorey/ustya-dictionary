@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "жучкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жу́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жучкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пить не переставая (о лошади, свинье, собаке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Собака-то как воду жу́чкает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собака-то как воду жучкает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "только пить и не есть (о человеке) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажу́чкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажучкаться"
+        }, 
+        {
+          "content": "Не́чего одну воду жу́чкать. Чаю одного нажу́чкалсе и побежа́л, надо ведь пои́сть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего одну воду жучкать. чаю одного нажучкалсе и побежал, надо ведь поисть."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "жу́цить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жуцить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "пазгануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пазгану́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пазгануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пазгну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пазгнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить, стегнуть, хлестнуть, стукнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пазгани́-ко вицей-то этово барана, а то бода́тце всё лизёт и лизёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пазгани-ко вицей-то этово барана, а то бодатце все лизет и лизет!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро вскочить и убежать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кинуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запазгану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запазгануть"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "боднуть, лягнуть, укусить (о животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уйди от лошади, пока тебя не пазгану́ла копытом!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уйди от лошади, пока тебя не пазганула копытом!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пазга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пазгать"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

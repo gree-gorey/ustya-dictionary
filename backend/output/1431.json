@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "голодом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́лодом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голодом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на голодный желудок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ложись го́лодом спать – шылы́куны приви́дятце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ложись голодом спать – шылыкуны привидятце!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "впроголодь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ниди́лю пьют, а потом го́́лодом живут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нидилю пьют, а потом голодом живут."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "понесай", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Понеса́й́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "понесай"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неси, понеси.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Понеса́й-ко дров-то к пе́чи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "понесай-ко дров-то к печи."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "возьми, даю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Понеса́́́й-ко молока́́́-та – ро́́́ду не жа́́́ль.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "понесай-ко молока-та – роду не жаль."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

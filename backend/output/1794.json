@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "долони", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долони́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долони"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "до прошлого года, в позапрошлом году.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Корова у нас молодая ищо́, долони́ первой раз отели́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова у нас молодая ищо, долони первой раз отелилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

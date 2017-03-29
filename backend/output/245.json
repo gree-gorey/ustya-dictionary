@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "берчатый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́рчатый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "берчатый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узорчатый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Полушалок бе́рчатый.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полушалок берчатый."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

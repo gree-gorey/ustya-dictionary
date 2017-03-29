@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "подножки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подно́жки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подножки"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деталь", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кро́сен", 
+          "tag": "quote", 
+          "normalized_content": "кросен"
+        }, 
+        {
+          "content": "ни́чениц", 
+          "tag": "quote", 
+          "normalized_content": "ничениц"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

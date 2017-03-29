@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "искрыизглаз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́скры из гла́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "искры из глаз"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорят при временном помутнении зрения с видением звездочек при сильном ударе и сотрясении головы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так доской по голове попа́ло, что и́скры из гла́з.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так доской по голове попало, что искры из глаз."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "мительки́ в глаза́х", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мительки в глазах"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

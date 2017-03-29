@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ковдысь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ковды́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ковдысь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "когды́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "когдысь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "когды́ся", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "когдыся"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "когда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Когды́ся это ищо было!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "когдыся это ищо было!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

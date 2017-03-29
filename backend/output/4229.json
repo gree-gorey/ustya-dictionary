@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "мозглявый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мозгля́вый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мозглявый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рыхлый, слабосильный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

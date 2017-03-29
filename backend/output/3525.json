@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "косовица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косови́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косовица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ота́ва", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отава"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодая трава, выросшая во второй раз на скошенном месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду косови́цы накошу́. Накоси ота́вы тёлушке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду косовицы накошу. накоси отавы телушке."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

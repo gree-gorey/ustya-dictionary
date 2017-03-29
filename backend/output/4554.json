@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "напроход", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напрохо́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напроход"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "без остановки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он прошёл напрохо́д, даже не заверну́л, вон как осерди́лсе-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он прошел напроход, даже не завернул, вон как осердилсе-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

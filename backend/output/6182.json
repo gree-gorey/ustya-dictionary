@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прикопенок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прикопё́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прикопенок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "временная куча сена, не поместившегося в копну, зарод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сделай пока прикопё́нок, завтра зарод ося́дет – приду докида́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сделай пока прикопенок, завтра зарод осядет – приду докидаю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

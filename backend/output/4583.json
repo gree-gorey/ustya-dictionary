@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "насадка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наса́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насадка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "специальное посадочное место для рукоятки или черена у инструмента, инвентаря.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

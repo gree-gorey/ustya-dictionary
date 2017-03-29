@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мочинет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мо́чи нет", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мочи нет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нестерпимо, нет силы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мо́чи нет боле робить на таком морозе. Мо́́́чи не́́́т терпе́́́ть ево́́́ бо́́́ле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мочи нет боле робить на таком морозе. мочи нет терпеть ево боле."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

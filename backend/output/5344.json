@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "очудиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очу́диться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очудиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оказаться, очутиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заблуди́лась в лесу́ дак бе́гала, бе́гала и очу́дилась у У́льюхи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заблудилась в лесу дак бегала, бегала и очудилась у ульюхи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

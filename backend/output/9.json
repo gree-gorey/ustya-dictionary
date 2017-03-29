@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "ад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ад", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ад"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ади́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "адина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ад кроме́шной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ад кромешной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обжора.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эки ады́-те, повадились на наш угоро́д хря́стать!", 
+          "translation": "о животных, зашедших в огород.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эки ады-те, повадились на наш угород хрястать!"
+        }, 
+        {
+          "content": "Эту ади́ну хоть тово́ бо́ле корми́ – всё по́ходя корм хвата́ёт", 
+          "translation": "(о лошади).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эту адину хоть тово боле корми – все походя корм хватает"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пьяница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пейте ады́ – хватит воды!", 
+          "translation": "пейте досыта; (", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пейте ады – хватит воды!"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") всем хватит.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

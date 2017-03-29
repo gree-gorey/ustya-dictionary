@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "покладь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́кладь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покладь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имущество, поклажа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Клади свою по́кладь на дровни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "клади свою покладь на дровни."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

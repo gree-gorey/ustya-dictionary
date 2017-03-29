@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "беспути", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́спути", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беспути"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "беспути́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "беспути"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напрасно, зря, без толку, безрезультатно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Беспути́ съи́здиў в райо́н, то що надо не нашо́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "беспути съиздиу в район, то що надо не нашоу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

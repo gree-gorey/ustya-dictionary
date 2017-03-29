@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "взадь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вза́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взадь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вза́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "назад, обратно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лёнька-та уж взадь прибё́г из Строевсково.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ленька-та уж взадь прибег из строевсково."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

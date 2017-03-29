@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сведать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Све́дать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сведать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узнать, разузнать, получить сведения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как бы све́́́дать, шщо у их на уме́́́-то, шщо ро́́́бить ла́́́дят?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как бы сведать, шщо у их на уме-то, шщо робить ладят?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ве́дать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ведать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "дохнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́хнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дохнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как же надоело ей постоянно до́хнуть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как же надоело ей постоянно дохнуть."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мерзнуть, зябнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За годы работы нередко приходилось до́хнуть в холодных помещениях.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за годы работы нередко приходилось дохнуть в холодных помещениях."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

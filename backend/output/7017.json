@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "скудно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ску́дно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скудно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Живёт она ску́дно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "живет она скудно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

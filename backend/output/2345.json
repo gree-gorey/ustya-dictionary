@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "задевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Задева́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приложить и потерять, забыть, куда положил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды-то я опеть свои рукавицы задева́л?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды-то я опеть свои рукавицы задевал?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дева́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "девать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

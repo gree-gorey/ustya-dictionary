@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "набрякнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Набря́кнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набрякнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "опухнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зуб боли́т, нали́ щёка́ набря́кла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зуб болит, нали щека набрякла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

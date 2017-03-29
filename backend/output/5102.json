@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "олихи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́́́лихи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "олихи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ольша́ник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ольшаник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ольши́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ольшинник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оле́шник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "олешник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "олешня́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "олешняк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "Да в о́́́лихах лёжа́́́т, от жа́́́ры спре́́́тались. Много лет прошло. Заросли те сенокосы ивняком, ольша́ником, берёзами. На той полянке нарос густой ольши́нник, не пройдё́шь – не проли́зёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да в олихах лежат, от жары спретались. много лет прошло. заросли те сенокосы ивняком, ольшаником, березами. на той полянке нарос густой ольшинник, не пройдешь – не пролизешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

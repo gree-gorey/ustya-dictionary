@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вражина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вражи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вражина"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плохой, злой, вредный (о домашних животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дали коня тако́во вражи́ну, што куды́ надо, не ско́ро поворо́тишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дали коня таково вражину, што куды надо, не скоро поворотишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

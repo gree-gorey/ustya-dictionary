@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заморыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замо́рыш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заморыш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "худой человек, животное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поросёночек-то дак уж такой замо́рыш доста́лсе, думала и не вы́ходить, а он вон какой отъе́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросеночек-то дак уж такой заморыш досталсе, думала и не выходить, а он вон какой отъелсе!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "замо́ра", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "замора"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

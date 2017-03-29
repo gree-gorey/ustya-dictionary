@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "зачепица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заче́пица", 
+        "place": [
+          "Мягкославская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "зачепица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ручка кия (чурбака с ручкой).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

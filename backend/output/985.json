@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "впоперек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впоперё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впоперек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "напоперё́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напоперек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поперек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так располнела, що впоперё́к шире стала. Борони́ напоперё́к па́хоты.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так располнела, що впоперек шире стала. борони напоперек пахоты."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наперекор, назло, специально.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот он какой, що не скажот, всё впоперё́к. Она всё напоперё́к делаёт, вот какая неубы́ка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот он какой, що не скажот, все впоперек. она все напоперек делает, вот какая неубыка!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

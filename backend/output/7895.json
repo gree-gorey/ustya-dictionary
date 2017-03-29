@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "улеживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уле́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "улеживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заканчивать естественный процесс превращения льносоломки в тресту за время нахождения на стлище (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "улежа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "улежать"
+        }, 
+        {
+          "content": "Лён улёжа́ў на ота́ве за три ниди́ли, пора́ сыма́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лен улежау на отаве за три нидили, пора сымать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "льносоло́мка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "льносоломка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "треста́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "треста"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стли́ще", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стлище"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

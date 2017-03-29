@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "клить(клеть)сокнами", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клить (клеть) с окнами", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клить (клеть) с окнами"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "клеть (неотапливаемая комната), размещаемая на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пове́ти", 
+          "tag": "quote", 
+          "normalized_content": "повети"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кле́тка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "клетка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

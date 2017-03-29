@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пригодник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приго́дник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пригодник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отмычка, подобранный ключ для открывания замка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Потерели ключ от амба́ра, добро бы какой приго́дник подошёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "потерели ключ от амбара, добро бы какой пригодник подошел."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

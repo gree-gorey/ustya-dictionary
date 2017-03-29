@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вербушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вербу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вербушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "куст ивы с распускающимися почками-цветками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В Вербное воскресенье приносят домой вербу́шки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в вербное воскресенье приносят домой вербушки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

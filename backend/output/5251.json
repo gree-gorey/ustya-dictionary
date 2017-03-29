@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́теть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон растяну́лсе на крова́ти, ево о́теть одоле́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон растянулсе на кровати, ево отеть одолела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

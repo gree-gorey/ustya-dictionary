@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ухлестывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухлё́стывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухлестывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ухля́стывать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ухлястывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ухаживать, набиваться в женихи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он за Марьей ухля́стываёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он за марьей ухлястывает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

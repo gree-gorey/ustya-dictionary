@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "прищучить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прищу́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прищучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поймать на месте преступления, разоблачить обманщика, заставить признаться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

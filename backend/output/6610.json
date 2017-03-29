@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "рехать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рёхать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рехать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рю́хать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рюхать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "зарю́хать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "зарюхать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хрюкать, похрюкивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хва́́́тит рё́́́хать, бо́́́ле не пода́́́м еды́́́", 
+          "translation": "(свинье).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит рехать, боле не подам еды"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") разговаривать с недовольством, злобой, ругаться, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "отгова́́́риваться", 
+          "tag": "quote", 
+          "normalized_content": "отговариваться"
+        }, 
+        {
+          "content": "Що ты рю́хаёшь на меня, – ух, да рюх, – ка́бы я що тибе сделала?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты рюхаешь на меня, – ух, да рюх, – кабы я що тибе сделала?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

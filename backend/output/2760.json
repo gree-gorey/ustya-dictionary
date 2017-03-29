@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "зделанету", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зде́ла не́ту", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здела нету"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зди́лья нету", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "здилья нету"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сде́ла нету", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сдела нету"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сди́лья нету", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сдилья нету"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умения нет; толку нет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не берись, коли зди́лья нету. О́́́н-то бы и не отка́́́зываётца э́́́то сро́́́бить, да зде́́́ла-та у его́́́ по́́́ка не́́́ту (ма́́́ло). Глода́́́ться-то ты гора́́́зд, а вот сде́́́ла не́́́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не берись, коли здилья нету. он-то бы и не отказываетца это сробить, да здела-та у его пока нету (мало). глодаться-то ты горазд, а вот сдела нету."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

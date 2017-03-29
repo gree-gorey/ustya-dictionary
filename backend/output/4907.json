@@ -1,0 +1,118 @@
+{
+  "field_for_sorting": "обиходить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обихо́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обиходить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "изобихо́дить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "изобиходить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "обиха́живать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "обихаживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убрать, вымыть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо избу к Пасхе обихо́дить (изобихо́дить).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо избу к пасхе обиходить (изобиходить)."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приготовить продукты к хранению и приготовлению блюд (чистить рыбу, овощи, потрошить птицу и т. п.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Свежой рыбы много наловили, так долго обиха́живала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свежой рыбы много наловили, так долго обихаживала."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "провести уход за малыми детьми, престарелыми и больными людьми.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пора обихо́дить больново.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пора обиходить больново."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "управиться со скотом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты сёдни рано скоти́ну обихо́дила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты седни рано скотину обиходила."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "привести в порядок одежду, инвентарь, упряжь и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зимнюю одежду всю обихо́дила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зимнюю одежду всю обиходила."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

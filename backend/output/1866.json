@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "дошлой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́шлой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дошлой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "до́шлый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дошлый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умный, догадливый, сообразительный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парень-то до́шлый, добро́ учитсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парень-то дошлый, добро учитсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тощий, плохой, нездоровый, сильно изменившийся, потерявший прежний вид.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

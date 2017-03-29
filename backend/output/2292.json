@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "заворотить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завороти́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заворотить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать или сделать что-либо в больших размерах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экой доми́но завороти́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой домино заворотили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вернуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошла в лес по грибы, да дожь домой завороти́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошла в лес по грибы, да дожь домой заворотил."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изменить направление движения, повернуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завороти́ сани влево.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завороти сани влево."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вороти́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "воротить"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "зайти, заехать по пути следования.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Когды поидёшь-то, дак завороти́ ко мне.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "когды поидешь-то, дак завороти ко мне."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "завора́́́чивать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заворачивать"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

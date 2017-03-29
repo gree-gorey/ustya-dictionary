@@ -1,0 +1,203 @@
+{
+  "field_for_sorting": "жегчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жегчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жегчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жогчи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жогчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жгать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жечь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зажогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зажогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обжогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обжогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ожогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ожогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поджогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поджогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разжогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разжогчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сожогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сожогчи"
+        }, 
+        {
+          "content": "Отёмна́ла, надо лампу зажогчи́", 
+          "translation": "зажечь.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отемнала, надо лампу зажогчи"
+        }, 
+        {
+          "content": "Сперва в костре угля́ надо нажогчи́, а потом в нём испечь картошку. Угля для самовара надо нажогчи́. На сковороде накопилось много жи́рново нага́ру, надо ие́ на горе́чём у́голье в пече́ обжогчи́. Чтобы дольше стояли столбы в заборе, надо обжогчи́ в огне их концы, которые вкапывать в землю. Так можно руку ожогчи́. Скали́нку надо поджогчи́. Некак не могу в печке дрова разжогчи́, сырые, дак не горят. Су́чьё накла́сть да сожогчи́", 
+          "translation": "сучки́ сложить и сжечь.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сперва в костре угля надо нажогчи, а потом в нем испечь картошку. угля для самовара надо нажогчи. на сковороде накопилось много жирново нагару, надо ие на горечем уголье в пече обжогчи. чтобы дольше стояли столбы в заборе, надо обжогчи в огне их концы, которые вкапывать в землю. так можно руку ожогчи. скалинку надо поджогчи. некак не могу в печке дрова разжогчи, сырые, дак не горят. сучье накласть да сожогчи"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") держать включенными электрические приборы (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажогчи"
+        }, 
+        {
+          "content": "Нечево свет жогчи́, ложись спать. Так можно сколько свету нажогчи́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево свет жогчи, ложись спать. так можно сколько свету нажогчи!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно греть, калить, жечь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сожогчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сожогчи"
+        }, 
+        {
+          "content": "Солнышко жгёт пора́то, видно к дождю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "солнышко жгет порато, видно к дождю."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жалить, кусать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажгать"
+        }, 
+        {
+          "content": "Осья гнезда не троньте, а то осы вас так нажгу́т", 
+          "translation": "предостережение детям.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осья гнезда не троньте, а то осы вас так нажгут"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

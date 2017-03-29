@@ -1,0 +1,110 @@
+{
+  "field_for_sorting": "коверкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кове́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коверкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кове́рькать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коверькать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "искове́ркать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "исковеркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "перекове́ркать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "перековеркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неумело делать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и портни́ха, що ты мне тут накове́ркала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и портниха, що ты мне тут наковеркала!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выворачивать суставы рук и ног болезнью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она давно болиёт, все руки у ие искове́рькало, ничево делать не можот.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она давно болиет, все руки у ие исковерькало, ничево делать не можот."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "исказить смысл сказанного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я так не ба́ела, Оно́ха всё перекове́ркала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я так не баела, оноха все перековеркала!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "портить жизнь себе и (или) другим.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не послушала меня, вышла взамуж рано и всю жизь сибе искове́ркала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не послушала меня, вышла взамуж рано и всю жизь сибе исковеркала."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

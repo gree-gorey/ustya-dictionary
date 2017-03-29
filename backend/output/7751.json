@@ -1,0 +1,204 @@
+{
+  "field_for_sorting": "тукать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тукать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударять, стучать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засту́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "застукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поту́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "состу́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "состукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сту́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ту́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "тукнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сту́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стукнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай яйцами ту́кать, у ково крепча́е? Как ту́́́кну по заты́́́ўку-ту за тако́́́ё поведи́́́ньё!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай яйцами тукать, у ково крепчае? как тукну по затыуку-ту за такое повединье!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "биться (о сердце).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У собаки-то как серце ту́каёт, вся убе́галась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у собаки-то как серце тукает, вся убегалась."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тикать (о часах) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нату́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насту́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настукать"
+        }, 
+        {
+          "content": "Ча́сики-то ту́кают. Уже 5 часов нату́кало (насту́кало), пора встава́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "часики-то тукают. уже 5 часов натукало (настукало), пора вставать."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") о возрасте исполняться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ту́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "тукнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "состу́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "состукнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сту́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стукнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уже 80 ту́кнуло", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже 80 тукнуло"
+        }, 
+        {
+          "content": "Скоро ей уш 90 сту́кнёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоро ей уш 90 стукнет."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

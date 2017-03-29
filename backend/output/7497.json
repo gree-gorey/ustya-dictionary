@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сэстоль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сэ́столь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сэстоль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сэ́столько", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сэстолько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот столько.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот сэ́столько снегу намело́ за ночь", 
+          "translation": "с показом руками глубины снега.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот сэстолько снегу намело за ночь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

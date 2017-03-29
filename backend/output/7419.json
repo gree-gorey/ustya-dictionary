@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "сумерничать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́мерничать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сумерничать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отдыхать, сидеть без дела в сумерки, не зажигая огня (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посуме́рничать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посумерничать"
+        }, 
+        {
+          "content": "). Часто в сумерки женщины ходили к соседям или подругам, чтобы в этот недолгий период времени", 
+          "tag": "def"
+        }, 
+        {
+          "content": "посуме́рничать", 
+          "tag": "quote", 
+          "normalized_content": "посумерничать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

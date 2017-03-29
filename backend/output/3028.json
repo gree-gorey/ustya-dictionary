@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "искорениться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Искорени́ться", 
+        "place": [
+          "Шаткурга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "искорениться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оторваться от старой жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Старым-то людям трудно искорени́ться и привыкнуть к новой жизни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "старым-то людям трудно искорениться и привыкнуть к новой жизни."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

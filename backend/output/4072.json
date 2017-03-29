@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мазила", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мази́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мазила"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мазу́та", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мазута"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "средства косметики.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды э́дак-то, опеть мазу́той нама́залась?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак-то, опеть мазутой намазалась?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "губа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гу́ба", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "губа"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "гу́бы", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "губы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грибы трубчатые, пластинчатые", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Строевское", 
+          "tag": "place"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "губи́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "губина"
+        }, 
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Пойду в лес по губу́ (по гу́́́бы)", 
+          "translation": "за грибами.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду в лес по губу (по губы)"
+        }, 
+        {
+          "content": "Лони́", 
+          "translation": "(в прошлом году)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лони"
+        }, 
+        {
+          "content": "в лес по гу́бу до́ снегу ходи́ли.", 
+          "tag": "quote", 
+          "normalized_content": "в лес по губу до снегу ходили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "капризный ребенок", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бестужево", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Ну-ко, затихни, гу́ба!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, затихни, губа!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

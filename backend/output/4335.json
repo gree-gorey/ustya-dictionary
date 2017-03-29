@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мякнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мя́кнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мякнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяжело, больно упасть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так мя́́́кнуўсе, шщо на́́́ле зды́́́ху не́ было ско́́́ко-то вре́́́мя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так мякнуусе, шщо нале здыху не было скоко-то время."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

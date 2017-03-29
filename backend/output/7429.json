@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "супротив", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́против", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "супротив"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "против кого-то или чего-то.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По силе су́против ево здись никово не найти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по силе супротив ево здись никово не найти."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "против, наперекор.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "насу́против", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "насупротив"
+        }, 
+        {
+          "style": [], 
+          "ana": "также –", 
+          "content": "насу́против", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "насупротив"
+        }, 
+        {
+          "content": "Она всё су́против меня делаёт, вот какая непоноро́вная-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она все супротив меня делает, вот какая непоноровная-то!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

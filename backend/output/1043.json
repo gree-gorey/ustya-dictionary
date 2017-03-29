@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "всплывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всплыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всплывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сплыва́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сплывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вскакивать, появляться, набухать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "всплыть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "всплыть"
+        }, 
+        {
+          "content": "Синяк под глазом всплы́л. По ло́бу поленом попало, дак шишка сплыла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "синяк под глазом всплыл. по лобу поленом попало, дак шишка сплыла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

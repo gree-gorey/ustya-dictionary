@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "чудиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́диться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чудиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слышаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "почуди́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почудиться"
+        }, 
+        {
+          "content": "А на Осё́лом бору дразни́ло, то пуга́ло. Чу́дились: стоны, вопли, пляски, хохот", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Оселый бор». М.И. Шалаурова.", 
+          "normalized_content": "а на оселом бору дразнило, то пугало. чудились: стоны, вопли, пляски, хохот"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

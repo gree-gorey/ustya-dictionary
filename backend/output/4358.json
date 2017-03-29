@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "набивник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наби́вник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "набивник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мастер по изготовлению набивных тканей. Набойный промысел существовал в д. Ивашевская Введенской", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бестужевской", 
+          "tag": "place"
+        }, 
+        {
+          "content": "волости еще в начале XX века.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

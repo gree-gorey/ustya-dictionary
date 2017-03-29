@@ -1,0 +1,82 @@
+{
+  "field_for_sorting": "весить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "весить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ви́сить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "висить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "при укладке сена в зарод его укладывают «на рога», на стожар, на бока, чтобы зарод был ровнее, красивее и устойчивее (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наве́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навесить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пове́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повесить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пове́шать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повешать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разве́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "развесить"
+        }, 
+        {
+          "content": "Это сено посырее, наве́шивай его на рога. Видно не дожда́тце хоро́шой погоды, придё́тце сено ви́сить в остро́ви нето́птанцом. Ещё две ноши сена надо разве́сить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это сено посырее, навешивай его на рога. видно не дождатце хорошой погоды, придетце сено висить в острови нетоптанцом. еще две ноши сена надо развесить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

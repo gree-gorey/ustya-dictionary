@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "подчевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́дчевать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подчевать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́дшевать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подшевать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́тшовать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "потшовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старательно угощать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запо́дчевать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заподчевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "попо́дчевать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поподчевать"
+        }, 
+        {
+          "content": "А уж как угоща́ют. Низко им кланяются, знаку не подают, все по́дчуют. Мужик пьет, ест", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «У водяного в гостях». М.И. Шалаурова.", 
+          "normalized_content": "а уж как угощают. низко им кланяются, знаку не подают, все подчуют. мужик пьет, ест"
+        }, 
+        {
+          "content": "Всево запо́дшевали. Мне их и попо́тшовать-то нечем.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всево заподшевали. мне их и попотшовать-то нечем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

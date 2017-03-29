@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "нагоношить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нагоноши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нагоношить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сгоноши́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сгоношить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наготовить, запасти, насобирать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нагоноши́ла листу корове. Сгоноши́́́ли ли́́́сту оси́́́нового ко́́́зам промё́́́жков петь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нагоношила листу корове. сгоношили листу осинового козам промежков петь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гоноши́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гоношить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

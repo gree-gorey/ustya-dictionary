@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "затуркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зату́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затуркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зато́ркать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заторкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "засунуть куда-то.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды́́́ зату́́́ркала письмо́́́ – хоть убе́́́й, не спо́́́мню! Куды мои лапти зато́ркал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды затуркала письмо – хоть убей, не спомню! куды мои лапти заторкал?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "радиво", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ра́диво", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "радиво"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "радио.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́диво заба́яло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "радиво забаяло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

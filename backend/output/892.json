@@ -1,0 +1,270 @@
+{
+  "field_for_sorting": "волокчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волокчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волокчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воло́чь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "волочь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тащить, везти «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "во́локом", 
+          "tag": "quote", 
+          "normalized_content": "волоком"
+        }, 
+        {
+          "content": "» или на чем-либо по земле (на дровнях, санках и т. д.) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́волокчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "приволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уволокчи́́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уволокчи"
+        }, 
+        {
+          "content": "Надо волокчи́ мешок муки на чунках", 
+          "translation": "(санках).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо волокчи мешок муки на чунках"
+        }, 
+        {
+          "content": "Волоки́", 
+          "translation": "тащи.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волоки"
+        }, 
+        {
+          "content": "Волоки́ мешок-то, чево стоишь? Вы́волоки-ко мешо́к-от из анба́ра. Помоги-ко, некак мне одному этот мешок на пови́ть не заволокчи́. Надо умудри́ться сто́ко грези в ызбу на сапогах наволокчи́. Отволоки́ этот мусор в яму. Надо мешки на лошади к амбару переволокчи́. Наси́лу приволокла́ корзину белья из реки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волоки мешок-то, чево стоишь? выволоки-ко мешок-от из анбара. помоги-ко, некак мне одному этот мешок на повить не заволокчи. надо умудриться стоко грези в ызбу на сапогах наволокчи. отволоки этот мусор в яму. надо мешки на лошади к амбару переволокчи. насилу приволокла корзину белья из реки."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "красть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уволокчи"
+        }, 
+        {
+          "content": "Волокчи́-то он сам не свой, тово и гледи́ за им!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волокчи-то он сам не свой, тово и гледи за им!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "приводить с собой кого-нибудь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "приволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "приволокчи"
+        }, 
+        {
+          "content": "Не́чего Ваньку-то пьяного к нам волокчи́, пусь к себе домой идёт. Сам экой пьяной пришёл, дак ищо и Пашку такого же надо приволокчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего ваньку-то пьяного к нам волокчи, пусь к себе домой идет. сам экой пьяной пришел, дак ищо и пашку такого же надо приволокчи."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сводить судорогой или болезнью пальцы, конечности (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поволокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сволокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сволокчи"
+        }, 
+        {
+          "content": "Ногу що-то волокё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ногу що-то волокет."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

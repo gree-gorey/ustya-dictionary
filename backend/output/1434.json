@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "голопятой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голопя́той", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голопятой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "босой, без обуви.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше всё лето голопя́тыми бегали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше все лето голопятыми бегали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

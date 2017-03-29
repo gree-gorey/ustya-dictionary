@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "наточиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наточи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наточиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "налиться тонкой струйкой или по капле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Целая банка берёзового соку наточи́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целая банка березового соку наточилась."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "точи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "точиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,115 @@
+{
+  "field_for_sorting": "взлягивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взля́гивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взлягивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "завзля́гивать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "завзлягивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "взлягну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "взлягнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "зляга́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "злягаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лягаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конь взля́гивает. Не подходи́ к коню близко, он можот зляга́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конь взлягивает. не подходи к коню близко, он можот злягаться."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скакать, прыгать, носиться (о животных).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "то же самое о людях, которые «скачут» (например, дети).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ишь завзля́гивали, серё́дка сы́та, концы играют!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ишь завзлягивали, середка сыта, концы играют!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") носиться по деревне, бездельничать, лодырничать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тебе бы только взля́гивать, а дома скоти́на неко́рмлена.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе бы только взлягивать, а дома скотина некормлена."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "взъю́ндывать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "взъюндывать"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

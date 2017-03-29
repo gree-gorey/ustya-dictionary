@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "трухлядь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тру́хлядь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трухлядь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сухая гниль, при которой дерево, растение, ткань или изделия из них превращаются в труху.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У бани три ряда одна тру́хлядь, надо делать новый подру́б.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у бани три ряда одна трухлядь, надо делать новый подруб."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

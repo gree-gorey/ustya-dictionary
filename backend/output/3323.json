@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вкоюпору", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "В ко́ю по́́ру", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "в кою пору"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень быстро.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В ко́ю по́ру сбегал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в кою пору сбегал."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́ю", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кою"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

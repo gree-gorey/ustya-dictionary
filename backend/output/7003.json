@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "скотина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скоти́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скотина"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Держать дома скоти́ну", 
+          "translation": "иметь дома (в хозяйстве) скот.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "держать дома скотину"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

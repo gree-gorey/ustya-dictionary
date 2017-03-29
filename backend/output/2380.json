@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "заживаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зажива́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заживаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жить в браке без любви, понимания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечего и зажива́ться, коли эдак-то живите́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего и заживаться, коли эдак-то живите!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "оставаться жить где-либо, «врастать корнями».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В город надо ехать, чево в деревне зажива́ться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в город надо ехать, чево в деревне заживаться!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

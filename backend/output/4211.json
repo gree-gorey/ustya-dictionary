@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мителек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мителё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мителек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мотылек, бабочка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В тё́плую пого́ду мителько́в-то мно́го лета́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в теплую погоду мительков-то много летает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

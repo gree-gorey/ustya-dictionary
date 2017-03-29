@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "ердан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ерда́н", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "ердан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ё́рдан", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ердан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прорубь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "иорда́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "иордан"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "яма в воде, вымоина, водоворот, обрыв на дне, омут.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "круга́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круган"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "пересраться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пересра́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пересраться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обосра́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обосраться"
+      }
+    ], 
+    "style": [
+      "перен.", 
+      "вульг."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень сильно испугаться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

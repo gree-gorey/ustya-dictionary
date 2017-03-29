@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "али", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "А́ли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "али"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "али́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "али"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "или.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сиди́ сми́рно, али би́си тебя ко́злят?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сиди смирно, али биси тебя козлят?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

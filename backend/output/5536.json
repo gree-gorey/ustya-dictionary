@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перестарок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Переста́рок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перестарок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "парень за 30, который еще не был женат. Раньше считалось:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если парень до 30 лет не женился, значит никогда не женится!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если парень до 30 лет не женился, значит никогда не женится!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

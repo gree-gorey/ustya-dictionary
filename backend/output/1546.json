@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "груня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гру́ня", 
+        "place": [
+          "Илатово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "груня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сольный выход девушки во время пляски.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

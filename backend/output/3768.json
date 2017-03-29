@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "кумекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куме́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кумекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смекать, понимать и соображать, раскидывать умом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "докуме́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "докумекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "накуме́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накумекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "покуме́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "покумекать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "скуме́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скумекать"
+        }, 
+        {
+          "content": "Он всё-таки эту задачку докуме́кал. Мы тут посидели и накуме́кали. Посидим покуме́каём. Он вовремя скуме́кал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он все-таки эту задачку докумекал. мы тут посидели и накумекали. посидим покумекаем. он вовремя скумекал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

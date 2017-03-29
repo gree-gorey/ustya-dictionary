@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "путево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Путё́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "путево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толково, верно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Путё́во говоришь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "путево говоришь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

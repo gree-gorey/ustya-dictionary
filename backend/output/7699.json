@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "трескать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тре́скать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трескать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жадно и много есть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стре́скать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стрескать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натре́скаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натрескаться"
+        }, 
+        {
+          "content": "Пришёл домой голодной, да как супу натре́скалсе", 
+          "translation": "наелся досыта.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришел домой голодной, да как супу натрескалсе"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ло́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лопать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

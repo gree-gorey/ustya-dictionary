@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "разить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рази́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пахнуть, вонять, нести чем-либо неприятным для окружающих.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отойди от нас, от тебя так рази́т вином да табаком!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отойди от нас, от тебя так разит вином да табаком!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

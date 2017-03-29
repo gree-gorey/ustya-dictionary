@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "наразу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На разу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на разу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "за один раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дава́́́йте на разу́́́ и догребё́́́м се́́́но-то, шщо́́́бы бо́́́ле сюды́́́ не ходи́́́ть-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давайте на разу и догребем сено-то, шщобы боле сюды не ходить-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заодно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А наразу́́́ и э́́́то де́́́ло сро́́́били.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а наразу и это дело сробили."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "зара́з", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зараз"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

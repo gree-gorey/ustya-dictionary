@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "напырнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напы́рнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напырнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "насы́кнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "насыкнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подбежать, наскочить с руганью, спором.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она́ на миня́ напы́рнула, это кто-то сомусти́ў ие́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она на миня напырнула, это кто-то сомустиу ие."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

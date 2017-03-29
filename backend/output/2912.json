@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "извести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Извести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "извести"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уморить, отравить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "довести до нервного срыва.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скрутить, изогнуть, искривить в разных плоскостях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тесины на крыше-то как сильно извело́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тесины на крыше-то как сильно извело."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

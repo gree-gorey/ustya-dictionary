@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "завсе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́всё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завсе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поза́всё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "позавсе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень часто, постоянно", 
+          "tag": "def"
+        }, 
+        {
+          "content": ". Сусе́цкие-то робя́та поза́всё у нас", 
+          "tag": "quote", 
+          "normalized_content": ". сусецкие-то робята позавсе у нас"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

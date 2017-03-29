@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "нашалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нашали́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нашалиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наиграться, назабавляться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нашали́лись и хватит!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нашалились и хватит!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ша́ливать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шаливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "расшали́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "расшалиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

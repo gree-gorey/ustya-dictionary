@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воймовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́ймовать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воймовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привечать, встречать (хорошо), заботиться, обожать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да во́ймую я сноху-то, во́ймую.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да воймую я сноху-то, воймую."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

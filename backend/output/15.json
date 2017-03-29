@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "ака", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "А́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ака"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "а́ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ако"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "а́конькой", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "аконькой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "такой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А́конький дети́на вы́рос, а ума не на́жил! А́конький дом вы́строили!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "аконький детина вырос, а ума не нажил! аконький дом выстроили!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лода", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ло́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лода"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отмель на реке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут ме́лко, ло́да до середины реки дохо́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут мелко, лода до середины реки доходит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

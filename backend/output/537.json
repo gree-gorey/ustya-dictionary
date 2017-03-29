@@ -1,0 +1,120 @@
+{
+  "field_for_sorting": "валандаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вала́ндаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "валандаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "повала́ндаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поваландаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "провала́ндаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "проваландаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "усиленно или изнеможденно возиться, хлопотать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "валы́ндаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "валындаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "провалы́ндаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "провалындаться"
+        }, 
+        {
+          "content": "Давай оставим всё как есть, некогда нам с этим вала́ндаться. Не думал, що так долго провалы́ндаюсь с этой роботой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай оставим все как есть, некогда нам с этим валандаться. не думал, що так долго провалындаюсь с этой роботой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заниматься с кем-то.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "валы́ндаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "валындаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "провалы́ндаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "провалындаться"
+        }, 
+        {
+          "content": "Много с ним пришлосе повала́ндаться, пока научил зобеньки плести. Нечево с ним валы́ндаться, раз ничево не слушаёт, пусь сидит дома!", 
+          "translation": "(о ребенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много с ним пришлосе поваландаться, пока научил зобеньки плести. нечево с ним валындаться, раз ничево не слушает, пусь сидит дома!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бездельничать, слоняться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чё вала́ндаешься без дела?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "че валандаешься без дела?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

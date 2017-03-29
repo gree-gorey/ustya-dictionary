@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "подь-ка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́дь-ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подь-ка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́ть-ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поть-ка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́дь-ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подь-ко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́ть-ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поть-ко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иди сюда, подойди, иди туда, отойди.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́дь-ко ко мне-то, чево сбаю-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подь-ко ко мне-то, чево сбаю-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

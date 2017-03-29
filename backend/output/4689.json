@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "невеськуды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́́́́́́весь куды́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "невесь куды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ушел, уехал далеко или неизвестно куда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уже те́мень на улице, а он ушёл не́́́весь куды, всё нету и нету.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже темень на улице, а он ушел невесь куды, все нету и нету."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "не в свое дело.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неве́сь куды́ лизёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "невесь куды лизешь!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

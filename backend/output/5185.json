@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осенесь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осене́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осенесь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прошлой осенью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осене́сь снег рано выпал. Картови осене́сь накопа́ли много.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осенесь снег рано выпал. картови осенесь накопали много."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

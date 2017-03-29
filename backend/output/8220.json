@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "хрюкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хрю́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрюкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "захрю́кать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "захрюкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издавать звуки (о свинье).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кашлять от простуды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что-то ты чисто весь захрю́калсе, просты́л на ветру?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что-то ты чисто весь захрюкалсе, простыл на ветру?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") издавать недовольные возгласы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево на меня хрю́кать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево на меня хрюкать!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

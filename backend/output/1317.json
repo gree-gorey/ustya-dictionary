@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гармонью", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гармо́нью", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гармонью"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "складками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Были в моде юбки гармо́нью и голени́ща хромовых сапог гармо́нью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "были в моде юбки гармонью и голенища хромовых сапог гармонью."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

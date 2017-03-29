@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "артачиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Арта́читься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "артачиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упрямиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заарта́читься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заартачиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проарта́читься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проартачиться"
+        }, 
+        {
+          "content": "Сама-то Вару́ха заарта́чилась, не хочет отдавать дочку, жалко отдавать во дальнюю сторону", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "сама-то варуха заартачилась, не хочет отдавать дочку, жалко отдавать во дальнюю сторону"
+        }, 
+        {
+          "content": "Шшо заарта́чиўсе-то? Проарта́чился целой день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшо заартачиусе-то? проартачился целой день."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

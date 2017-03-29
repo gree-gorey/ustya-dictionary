@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пособник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посо́бник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пособник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помощник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я тебе ведь не супостатка, а твоя свекро́вушка – посо́бница", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "я тебе ведь не супостатка, а твоя свекровушка – пособница"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

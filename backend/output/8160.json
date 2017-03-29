@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "ходики", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хо́дики", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настенные часы с циферблатом и маятником, приводимые в действие за счет кинетической энергии гири на цепочке.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

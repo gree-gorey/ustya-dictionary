@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "коновал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Конова́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коновал"
+      }
+    ], 
+    "style": [
+      "ирон."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ветеринарный врач или фельдшер.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

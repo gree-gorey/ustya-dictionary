@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "бездилье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Безди́льё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бездилье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бизди́льё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "биздилье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безделие, выражающееся в праздном проведении времени, не занятости, не желании работать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ёму не жить, как всё времё в безди́лье, нечево́ ро́бить не заставле́ют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ему не жить, как все време в бездилье, нечево робить не заставлеют."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

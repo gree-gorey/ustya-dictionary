@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выльнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́льнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выльнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбраться, выкарабкаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут порато крут угор, никак не вы́льнутце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут порато крут угор, никак не выльнутце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

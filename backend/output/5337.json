@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "оцепить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оце́пить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оцепить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оче́пить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "очепить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклонить конец, край чего-либо; опустить, перетянуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "це́пить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "цепить"
+        }, 
+        {
+          "content": "Не садись на край скамейки, а то ие оце́пишь. Не сади́́́тесь о́́́ба на оди́́́н-то коне́́́ць доски́́́ – оце́́́пите да но́́́ги прижмё́́́те концо́́́м-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не садись на край скамейки, а то ие оцепишь. не садитесь оба на один-то конець доски – оцепите да ноги прижмете концом-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "це́пить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "цепить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

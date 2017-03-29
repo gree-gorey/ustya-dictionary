@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "дойти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дойти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дойти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "похудеть, отощать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лошади все дошли́, худо зимой кормили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лошади все дошли, худо зимой кормили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сходить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо до свата дойти́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо до свата дойти."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дозреть (ягодам).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эти и ягодам не дадут дойти́, всё унесут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эти и ягодам не дадут дойти, все унесут."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "додуматься (как правило, в негативном смысле).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо жо до таково дойти́, вот дурак-от́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жо до таково дойти, вот дурак-от!"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

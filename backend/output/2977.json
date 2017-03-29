@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "изошурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изошу́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изошурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "искрошить хлеб, недоесть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що это ты так ешь, весь хлеб изошу́рил", 
+          "translation": "искрошил на столе.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що это ты так ешь, весь хлеб изошурил"
+        }, 
+        {
+          "content": "Щоб всё было сьи́дё́но!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "щоб все было сьидено!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ошу́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ошурить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "раскрошить, изломать на мелкие негодные куски, испортить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рыжики перебирай сама, ведь ребята их только изошу́рят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рыжики перебирай сама, ведь ребята их только изошурят."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

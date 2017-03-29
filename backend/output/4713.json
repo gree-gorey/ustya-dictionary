@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "недоносок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недоно́сок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недоносок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не совсем изношенная вещь, которую еще можно носить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Платье-то недоно́сок, ищо можно поноси́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "платье-то недоносок, ищо можно поносить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

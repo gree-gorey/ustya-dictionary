@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "долить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "боронить вдоль по пахоте.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "попере́чить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поперечить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

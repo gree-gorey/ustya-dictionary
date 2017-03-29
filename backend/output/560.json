@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вата", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вата"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вид круглого бредня, сетевая ловушка на мелкую рыбу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ва́той меёв броди́ли", 
+          "translation": "ловили, перемещаясь по водоему вброд.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ватой меев бродили"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

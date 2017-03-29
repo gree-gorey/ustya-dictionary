@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "затулье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зату́лье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затулье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зату́́́льё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "затулье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зату́лок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "затулок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, где можно укрыться от ветра, яркого солнца.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где Ванька? – Да вон в зату́льё ушов", 
+          "translation": "спрятался от солнца в тень.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ванька? – да вон в затулье ушов"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "укромное место (местечко).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́́́дём-ко в зату́́́льё-то да погами́́́м мале́́́нько.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "седем-ко в затулье-то да погамим маленько."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

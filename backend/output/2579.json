@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "зараза", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зара́за", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зараза"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "браное определение человека, животного сделавшего что-то навред.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох, ты, зара́за, попади́сь-ко мне ещо на глаза́!", 
+          "translation": "про чужого козла, залезшего в огород.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, ты, зараза, попадись-ко мне ещо на глаза!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хилое, болезненное животное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот, зараза, ничево не ест!", 
+          "translation": "о хилом поросеночке.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот, зараза, ничево не ест!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

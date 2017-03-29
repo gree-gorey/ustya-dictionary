@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "хрястаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хря́́́статься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрястаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень напряженно, изо всех сил работать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхрястаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ухря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ухрястаться"
+        }, 
+        {
+          "content": "Нечево одному хря́статьсе. День и ночь гото́́́в хря́́́статьце – до тово́́́ робо́́́тной! Весь исхря́сталсе на такой роботе. Нахря́сталсе он сёдни на роботе. Тут один ро́бить – ухря́стаёшься весь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево одному хрястатьсе. день и ночь готов хрястатьце – до тово роботной! весь исхрясталсе на такой роботе. нахрясталсе он седни на роботе. тут один робить – ухрястаешься весь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хря́стать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хрястать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

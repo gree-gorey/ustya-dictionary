@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "пашной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́шной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пашной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́шный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пашный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень трудолюбивый, усердный, старательный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Па́шной, уже потё́мки, а он всё робит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пашной, уже потемки, а он все робит."
+        }, 
+        {
+          "content": "Иногда говорят, жалея его: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, па́шный!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, пашный!"
+        }, 
+        {
+          "content": "т. е. бедный, весь устарался.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

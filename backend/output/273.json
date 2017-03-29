@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "биздюль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Биздю́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "биздюль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бздюль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бздюль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "биздю́лья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "биздюлья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, выпустивший газы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "трус.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неумеха.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тихоня; подхалим.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сплетник, склочник.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

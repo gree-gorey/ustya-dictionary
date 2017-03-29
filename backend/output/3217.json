@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "квашоннаялопатка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Квашо́нная лопатка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "квашонная лопатка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая деревянная лопатка для зачистки теста в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "квашне́", 
+          "tag": "quote", 
+          "normalized_content": "квашне"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

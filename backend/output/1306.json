@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "галтерить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Галте́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "галтерить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "галте́лить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "галтелить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "голте́лить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "голтелить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гойте́лить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гойтелить"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "строгать тес, предназначающийся на крышу, особым инструментом двухручным рубанком с полукруглым лезвием (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "галте́рником)", 
+          "tag": "quote", 
+          "normalized_content": "галтерником)"
+        }, 
+        {
+          "content": ", для того, чтобы делать по краям теса желобки для стока воды.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "галте́рник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "галтерник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

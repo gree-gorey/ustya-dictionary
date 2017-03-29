@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "полешки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поле́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полешки"
+      }
+    ], 
+    "style": [
+      "уменьш."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поленья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты в потто́́́пок-то ма́́́ленькие поле́́́шки неси́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты в поттопок-то маленькие полешки неси."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

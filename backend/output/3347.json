@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "колено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коле́но", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "горизонтальный или вертикальный поворот в дымоходе печи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "толќун", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "толкун"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "часть ствола сосны между двумя кругами расположенных вокруг его сучьев.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

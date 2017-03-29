@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "селеток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Селе́ток", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "селеток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодое животное, родившееся в этом году.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Телёнок-селе́ток.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теленок-селеток."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пренебр.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") слабак.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эх, ты, селе́́́ток, куды́́́ рука́́́ми-то розмаха́́́ўсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эх, ты, селеток, куды руками-то розмахаусе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

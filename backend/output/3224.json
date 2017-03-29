@@ -1,0 +1,132 @@
+{
+  "field_for_sorting": "кидаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кида́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кидаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бросаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "наки́дываться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накидываться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ки́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "кинуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наки́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накинуться"
+        }, 
+        {
+          "content": "Собака-то у нево на всех кида́етсе, до чево и зла-то дак, как и сам. Не подходи близко, а то козёл на тебя ки́нется (наки́нется)!", 
+          "translation": "предупреждение ребенку.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собака-то у нево на всех кидаетсе, до чево и зла-то дак, как и сам. не подходи близко, а то козел на тебя кинется (накинется)!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") начинать ругаться, бранить кого-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "наки́дываться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накидываться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наки́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накинуться"
+        }, 
+        {
+          "content": "Ну, што ты на нево наки́нуласе, парень-от и не виноват! Нечево на нево кида́тьсе (наки́́дыватьсе)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, што ты на нево накинуласе, парень-от и не виноват! нечево на нево кидатьсе (накидыватьсе)!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") быстро спешить на помощь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ки́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "кинуться"
+        }, 
+        {
+          "content": "Да кто это в поле в снегу кувырка́етсе? Ой, да это, кажи́сь, мать идёт! Ки́нулась встречать. Точно она!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Про свёкра Пашеньку. Ольга Синицкая.", 
+          "normalized_content": "да кто это в поле в снегу кувыркаетсе? ой, да это, кажись, мать идет! кинулась встречать. точно она!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

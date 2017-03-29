@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "заманитьголод", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замани́ть го́лод", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заманить голод"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "замори́ть кишо́цьку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заморить кишоцьку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "замори́ть червячка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заморить червячка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чуть-чуть поесть, слегка утолить голод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Цють замори́́́ў цервяцька́́́ – и опе́́́ть ро́́́бить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цють замориу цервяцька – и опеть робить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "мало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мало́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мало"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "малое, маленькое.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "маленькое, не подходящее по размеру (об одежде, обуви).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё пасла́́́, берегла́́́ пла́́́тьё-то, а тут поми́́́ряли – софсе́́́м мало́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все пасла, берегла платье-то, а тут помиряли – софсем мало."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

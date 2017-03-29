@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "взлобок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взло́бок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взлобок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крутой пригорок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На взло́бок зды́мимсе, и деревня будёт видко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на взлобок здымимсе, и деревня будет видко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "безроботь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́зроботь", 
+        "place": [
+          "Вежа"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "безроботь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безделье, праздность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Старые люди не могут смотреть на бе́зроботь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "старые люди не могут смотреть на безроботь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

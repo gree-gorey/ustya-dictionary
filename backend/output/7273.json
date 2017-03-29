@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сруса", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сруса́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сруса"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сходно, почти русый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ёво волосьё сруса́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у ево волосье сруса."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

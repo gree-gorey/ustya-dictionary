@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "перечить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пере́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перечить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "попере́чить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поперечить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прекосло́вить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прекословить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возражать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запере́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заперечить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запопере́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запоперечить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запрекосло́вить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запрекословить"
+        }, 
+        {
+          "content": "Всем это не по́ сердцу, а пере́чить, мо́вить не смеют", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "всем это не по сердцу, а перечить, мовить не смеют"
+        }, 
+        {
+          "content": "Ты опеть мне запере́чила (запопере́чила, запрекосло́вила)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты опеть мне заперечила (запоперечила, запрекословила)!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

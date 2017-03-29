@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "лобогрейка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лобогре́йка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лобогрейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конная косилка, специально переоборудованная для уборки зерновых.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "жне́йка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жнейка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

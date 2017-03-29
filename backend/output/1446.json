@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "гольной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́льной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гольной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "го́льный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гольный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "голево́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "голевой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплошной, в чистом виде, без примесей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "наго́льный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нагольный"
+        }, 
+        {
+          "content": "В том поле го́льная глина, тяжёлая земля. Ведь шаньги-те на го́льном молоке! То и ску́сно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в том поле гольная глина, тяжелая земля. ведь шаньги-те на гольном молоке! то и скусно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "го́лый чай", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "голый чай"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

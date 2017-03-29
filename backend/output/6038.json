@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "посмех", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посме́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посмех"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "посме́шище", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "посмешище"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скомпрометировавший себя неблаговидным поступком, выставивший себя на смех людям.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера пьяной валя́лсе у мага́зина на посме́шище всей деревне.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера пьяной валялсе у магазина на посмешище всей деревне."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

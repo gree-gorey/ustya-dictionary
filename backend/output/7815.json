@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "убрато", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́брато", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "убрато"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убрано.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё востроё от робят у́брато. В угоро́дце топерь всё у́брато.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все вострое от робят убрато. в угородце топерь все убрато."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "хваток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хва́ток", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хваток"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хва́ткий", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хваткий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "схва́тчивый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "схватчивый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способный, умелый, сноровистый, понятливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На любое дело хва́ток, всё мо́жот.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на любое дело хваток, все можот."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

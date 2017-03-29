@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "лопотать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лопота́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лопотать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лепетать, невнятно произносить слова, разговаривать на непонятном языке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "залопота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "залопотать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "слопота́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "слопотать"
+        }, 
+        {
+          "content": "Цыга́н понае́хало в дере́вню, лопо́чут не пойми́ що.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цыган понаехало в деревню, лопочут не пойми що."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

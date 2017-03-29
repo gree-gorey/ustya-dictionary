@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "преж", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Преж", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "преж"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прежде; раньше этого времени, в прошлом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пре́́́ж-то не то́́́, шщо но́́́не бы́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "преж-то не то, шщо ноне было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

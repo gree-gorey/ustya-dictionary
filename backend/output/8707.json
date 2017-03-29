@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "ярушник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Яру́шник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ярушник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "еру́шник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ерушник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог из муки яровых культур; большой круглый невысокий домашний хлеб из печи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "мучничо́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мучничок"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "муцницё́к", 
+          "tag": "ref", 
+          "place": [
+            "Ростово"
+          ], 
+          "normalized_content": "муцницек"
+        }, 
+        {
+          "content": "Хорошие у меня севодня еру́шники-то получились. Иван, дома-то за́втрикал? Да какой там, четыре муцницка́ токо съе́ў дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошие у меня севодня ерушники-то получились. иван, дома-то завтрикал? да какой там, четыре муцницка токо съеу дак."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "умеючи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уме́ючи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "умеючи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умело, если умеешь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уме́ючи-то до́лго ли сделать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "умеючи-то долго ли сделать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

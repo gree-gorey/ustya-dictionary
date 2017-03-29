@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "заотурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заоту́рить", 
+        "place": [
+          "Юрятино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "заотурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повернуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Паром заоту́рило, задом наперёд поверну́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "паром заотурило, задом наперед повернуло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

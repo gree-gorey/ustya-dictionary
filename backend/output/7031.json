@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "скырчигать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скырчига́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скырчигать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрежетать зубами.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

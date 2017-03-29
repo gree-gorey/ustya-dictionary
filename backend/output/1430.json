@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "голодовка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голодо́́́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голодовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голод.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В войну́́́ ста́́́ла в го́́́роде ужа́́́сная голодо́́́вка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в войну стала в городе ужасная голодовка."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

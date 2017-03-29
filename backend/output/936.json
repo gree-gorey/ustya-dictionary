@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "вороськи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́роськи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вороськи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́ровски", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "воровски"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрытно, тайком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он всё делаёт во́роськи, за им глаз да глаз ну́жон! Всё́-то да во́роськи-то! Всё во́роськи да во́роськи! При людях, а не во́роськи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он все делает вороськи, за им глаз да глаз нужон! все-то да вороськи-то! все вороськи да вороськи! при людях, а не вороськи!"
+        }, 
+        {
+          "content": "Отсюда:", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "взворова́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "взвороваться"
+        }, 
+        {
+          "content": "уйти тайком.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

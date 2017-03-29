@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "конек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Конё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "конек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коневое бревно.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "верхний стык двух скатов кровли, который на старинных домах закрывался", 
+          "tag": "def"
+        }, 
+        {
+          "content": "о́хлупнём", 
+          "tag": "quote", 
+          "normalized_content": "охлупнем"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кузнечик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конёк-от как высоко́ прыгаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конек-от как высоко прыгает."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

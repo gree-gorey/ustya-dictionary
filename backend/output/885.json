@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воложной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́ложной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воложной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "увлажненный, мокрый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не зале́вён дожь, а во́ложной", 
+          "translation": "(не сильный дождь, а мочит хорошо).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не залевен дожь, а воложной"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

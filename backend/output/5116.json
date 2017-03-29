@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "опара", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опа́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опара"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "опа́рина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "опарина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закваска (для выпечки хлеба). То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "затво́́́р", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "затвор"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "корм для скота, залитый кипятком и запаренный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо опа́ры заварить телёнку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо опары заварить теленку."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вода, выступающая зимой на поверхности льда, снега.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Попа́́́ў сево́́́дни в опа́́́рину, ка́́́танцы обвари́́́ў фсе, обсты́́́ли – су́́́нь на́́́ пець, пу́́́сь просо́́́хнут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "попау севодни в опарину, катанцы обвариу фсе, обстыли – сунь на пець, пусь просохнут."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "оттаявшее место на реке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды идёшь, не видишь опа́ра, си́час провалишьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды идешь, не видишь опара, сичас провалишьсе."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дрыгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дры́гать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дрыгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дергаться; совершать движения вообще.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В такую погоду из дому не дры́гай. Сколько ни просила пособи́ть, а нехто́ не дры́гнуў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в такую погоду из дому не дрыгай. сколько ни просила пособить, а нехто не дрыгнуу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "отовсюль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отовсю́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отовсюль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отовсю́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отовсюля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отвсю́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отвсюля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отовсюда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И стали к нам в Бестужеву наезжать купцы отовсю́ль", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «Бестужево». М.И. Шалаурова.", 
+          "normalized_content": "и стали к нам в бестужеву наезжать купцы отовсюль"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

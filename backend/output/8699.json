@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "ям", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ям", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ям"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "станция, на которой меняли почтовых лошадей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

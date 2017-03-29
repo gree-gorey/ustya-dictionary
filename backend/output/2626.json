@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "заспеник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́спеник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заспеник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог с начинкой из крупы (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "за́спы", 
+          "tag": "quote", 
+          "normalized_content": "заспы"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "за́спа", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заспа"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

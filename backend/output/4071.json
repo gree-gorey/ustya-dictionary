@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "маеться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́еться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маеться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ма́яться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "маяться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мучиться, страдать; надрываться от тяжелого труда (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изма́еться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измаеться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нама́еться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намаеться"
+        }, 
+        {
+          "content": "Весь изма́́́яўсе я с э́́́той стро́́́йкой. Цем так жыть-ма́́́ятьце, дак лу́́́цьше розойти́́́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь измаяусе я с этой стройкой. цем так жыть-маятьце, дак луцьше розойтисе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

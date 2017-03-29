@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кряжистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кряжи́стый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кряжистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой, полный, мускулистый, сильный человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вслед", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вслед", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вслед"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "следом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А она ему вслед веником запусти́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а она ему вслед веником запустила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "весна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вё́сна", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "весна"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "весна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раскудрявая береза кажду вё́сну сочится. Жизнь хорошая настала, умирать не хочется", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "раскудрявая береза кажду весну сочится. жизнь хорошая настала, умирать не хочется"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

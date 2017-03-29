@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "затейник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зате́йник", 
+        "place": [
+          "Бережная"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "затейник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, замышляющий плохое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он гораз на худоё, уж такой зате́йник.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он гораз на худое, уж такой затейник."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

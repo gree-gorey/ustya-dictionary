@@ -1,0 +1,84 @@
+{
+  "field_for_sorting": "мазурничать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мазу́рничать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мазурничать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скрытно что-то делать «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нела́дно", 
+          "tag": "quote", 
+          "normalized_content": "неладно"
+        }, 
+        {
+          "content": "во́роськи", 
+          "tag": "quote", 
+          "normalized_content": "вороськи"
+        }, 
+        {
+          "content": "); плутовать, хитрить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намазу́рничать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намазурничать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "смазу́рничать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "смазурничать"
+        }, 
+        {
+          "content": "Гляжу – на холодильнике-то лампочка не горит, от как он-от мазу́́рничат", 
+          "translation": "все выключил (о ребенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гляжу – на холодильнике-то лампочка не горит, от как он-от мазурничат"
+        }, 
+        {
+          "content": "Хва́́́тит ужо́́́ мазу́́́рницять-то! С тобой плохо дело иметь, опеть чево-нибудь намазу́рничаёшь", 
+          "translation": "(о ребенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит ужо мазурницять-то! с тобой плохо дело иметь, опеть чево-нибудь намазурничаешь"
+        }, 
+        {
+          "content": "Це́́́сно игра́́́й! Офонька-то опеть севодни что-то смазу́рничал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цесно играй! офонька-то опеть севодни что-то смазурничал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

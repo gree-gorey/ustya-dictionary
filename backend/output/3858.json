@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "лапотник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ла́потник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лапотник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень большой гриб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В лесу матеру́щий ла́потник попалсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в лесу матерущий лапотник попалсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ирон.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") бедный человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

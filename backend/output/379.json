@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "бортануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бортану́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бортануть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свалить с ног, бросить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как он ёво на землю бортануў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как он ево на землю бортануу!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обмануть, надуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зря с им свя́зываиссе, он мо́жот бортану́ть, и оста́ниссе не с чем.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зря с им связываиссе, он можот бортануть, и останиссе не с чем."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

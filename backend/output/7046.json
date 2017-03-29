@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "слеуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слеу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слеуха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "оплеу́шина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оплеушина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оплеуха, пощечина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Слеу́ху даў непощо́. Она, ни слова не говоря, закати́ла ему оплеу́шину.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слеуху дау непощо. она, ни слова не говоря, закатила ему оплеушину."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

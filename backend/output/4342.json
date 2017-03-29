@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "мяндушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мя́ндушка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мяндушка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ме́ндушка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мендушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькая сосенка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "суковатая сосна, которая выросла невысокой («невытяжной»).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Посиди́́́м-ко под ме́́́ндушкой, попа́́́ўжнаём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "посидим-ко под мендушкой, попаужнаем."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жидехонько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жидё́хонько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жидехонько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень жидко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Натвори́ла те́сто жидё́хонько.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натворила тесто жидехонько."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

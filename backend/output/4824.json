@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нискотаниживота", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ни скота́, ни живота́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ни скота, ни живота"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорят о бедняке, бобыле, у которого нет ничего в хозяйстве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У их ни о чём нет заботы, так как нет ни скота́, ни живота́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у их ни о чем нет заботы, так как нет ни скота, ни живота."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

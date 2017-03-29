@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "овин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ови́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "овин"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "курная изба, в которой сушили снопы: небольшое двухъярусное сооружение, в нижней части которого", 
+          "tag": "def"
+        }, 
+        {
+          "content": "подови́нье", 
+          "tag": "quote", 
+          "normalized_content": "подовинье"
+        }, 
+        {
+          "content": "подови́не", 
+          "tag": "quote", 
+          "normalized_content": "подовине"
+        }, 
+        {
+          "content": "выкладывалась", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́менца", 
+          "tag": "quote", 
+          "normalized_content": "каменца"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "намаленько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Намале́нько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "намаленько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ненадолго, кратковременно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забежа́ла к вам намале́нько.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забежала к вам намаленько."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

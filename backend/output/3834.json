@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "кышкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кы́шкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кышкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́кышкать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выкышкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́тышкать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вытышкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "покы́шкать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "покышкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "кышкану́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "кышкануть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгонять кур из огорода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поди-ко кы́шни-ко кур-то, опеть в карто́ви по́рхаютсе. Покы́шкай-ко на кур, вон опеть в огоро́дец пошли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поди-ко кышни-ко кур-то, опеть в картови порхаютсе. покышкай-ко на кур, вон опеть в огородец пошли."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") заставлять пойти или уйти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нуко кы́шни-ко робят-то на улицу, а то уже в избе засидились! Надо итти пьяниц кышкану́ть, некак сами розойтись не можут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко кышни-ко робят-то на улицу, а то уже в избе засидились! надо итти пьяниц кышкануть, некак сами розойтись не можут."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

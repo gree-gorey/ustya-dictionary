@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "изгодиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изгоди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изгодиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пригодиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шапка-та старая, да еще изгоди́тсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шапка-та старая, да еще изгодитсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "оказаться кстати в нужный момент.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хорошо что сын на каникулы приехал, как раз в помощники изгоди́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошо что сын на каникулы приехал, как раз в помощники изгодилсе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

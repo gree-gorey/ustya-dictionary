@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кополий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копо́лий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кополий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тетеревиный, глухариный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Было поверье: если копо́лье гнездо разоришь, то потом обязательно тебя копнёт – заболеешь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "было поверье: если кополье гнездо разоришь, то потом обязательно тебя копнет – заболеешь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́пал", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копал"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "копну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копнуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

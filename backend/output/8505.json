@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "шашкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́шкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шашкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "медленно собираться, делать что-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проша́шкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прошашкаться"
+        }, 
+        {
+          "content": "Да, хватит, давай, ша́шкатьсе, надо на роботу итти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да, хватит, давай, шашкатьсе, надо на роботу итти."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

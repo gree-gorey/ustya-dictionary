@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стритить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стри́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стритить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "встретить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до, на́́́до е́́́хать на Ко́́́стылёво, стри́́́тить госте́́́й-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо, надо ехать на костылево, стритить гостей-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

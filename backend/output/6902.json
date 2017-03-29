@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "сиверко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́верко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сиверко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "си́вёр", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сивер"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сиверо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сиверок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сивёри́йко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сиверийко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заси́верка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "засиверка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "северный ветер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ви́тёр си́вёр. О, как сиверо́к севодни сквозит! Сиверо́́́к, сиверо́́́к, – продерё́́́т, продерё́́́т! Заси́верка бывает на черёмуховый цвет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "витер сивер. о, как сиверок севодни сквозит! сиверок, сиверок, – продерет, продерет! засиверка бывает на черемуховый цвет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

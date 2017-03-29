@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "кукшейсеять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́кшей сеять", 
+        "place": [
+          "Дудино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кукшей сеять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сеять клевер необмолоченными клеверными шишками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если клевер не успели обмолотить и получить чистые семена, сеют ку́кшей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если клевер не успели обмолотить и получить чистые семена, сеют кукшей."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ку́кша", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кукша"
+        }, 
+        {
+          "content": "1", 
+          "tag": "quote", 
+          "normalized_content": "1"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

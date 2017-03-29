@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "накуролесить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Накуроле́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "накуролесить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пошалить, напроказничать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "куроле́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "куролесить"
+        }, 
+        {
+          "content": "Що вы вчера опеть накуроле́сили, Дорофе́й жа́литсе, што у нево ночью поли́нницу дров под окна Ермо́лы перетащили?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що вы вчера опеть накуролесили, дорофей жалитсе, што у нево ночью полинницу дров под окна ермолы перетащили?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

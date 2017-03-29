@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "заторить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Затори́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заторить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "завалить, загромоздить дорогу, русло реки, ручья.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю дорогу снегом затори́ло. Ручей затори́лсе", 
+          "translation": "засорился.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю дорогу снегом заторило. ручей заторилсе"
+        }, 
+        {
+          "content": "На реке зато́р затори́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на реке затор заторило."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тори́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "торить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

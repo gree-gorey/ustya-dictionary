@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "братней", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бра́тней", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "братней"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бра́тнев", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "братнев"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бра́тов", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "братов"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принадлежащий брату.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нало́жь бра́тневы сапоги.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наложь братневы сапоги."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

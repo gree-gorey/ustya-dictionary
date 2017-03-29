@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "рябок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рябо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рябок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесная птица рябчик, издавна объект охоты в наших краях.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

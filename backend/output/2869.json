@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зябло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зя́бло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зябло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "холодно, студено, зябко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Родники студенца́ми называли, а это холодно, зя́бло очень", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "родники студенцами называли, а это холодно, зябло очень"
+        }, 
+        {
+          "content": "Студенец", 
+          "tag": "place"
+        }, 
+        {
+          "content": ". Вероятно, этот поселок получил свое название от родников-студенцов.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

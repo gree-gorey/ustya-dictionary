@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опорос", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опоро́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опорос"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приплод у свиноматки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этом опоро́се было восемь поросят.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этом опоросе было восемь поросят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

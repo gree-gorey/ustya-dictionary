@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "посолониться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посолони́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посолониться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поесть солененького.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дава́́́й-ко посолони́́́мсе мале́́́нько – ры́́́жицьки осоле́́́ли, я ду́́́маю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай-ко посолонимсе маленько – рыжицьки осолели, я думаю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

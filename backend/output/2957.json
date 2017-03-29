@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "измолотитьовин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Измолоти́ть ови́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "измолотить овин"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "провести обмолот высушенных в овине снопов вручную.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

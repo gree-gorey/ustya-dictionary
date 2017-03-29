@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "извольничаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изво́льничаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "извольничаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выйти из повиновения, стать непослушным, отбиться от рук.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парни, которые долго не жонятце – изво́льничеютце, дак беда после с имя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парни, которые долго не жонятце – извольничеютце, дак беда после с имя."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "издура́читься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "издурачиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

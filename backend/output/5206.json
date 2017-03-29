@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "осолеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осоле́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осолеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "усоле́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "усолеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "просолиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гру́зди-то уже осоле́́́ли, можно ись. Грибы-те, еду́маю дак, просоле́ли уж.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грузди-то уже осолели, можно ись. грибы-те, едумаю дак, просолели уж."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

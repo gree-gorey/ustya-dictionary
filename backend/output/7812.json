@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "убоина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Убо́ина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "убоина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мясо и внутренности забитого животного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Приходи́ за́втра к нам, угости́м све́жей убо́иной, сево́дни поросё́нка убра́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приходи завтра к нам, угостим свежей убоиной, севодни поросенка убрали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

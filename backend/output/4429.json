@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "надрюкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Надрю́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надрюкаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "надры́згаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "надрызгаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нажра́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нажраться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "назю́каться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "назюкаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "накероси́ниться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "накеросиниться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наклю́каться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наклюкаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нализа́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нализаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напиться хмельного до сильной степени опьянения.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

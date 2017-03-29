@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нежалухой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нежалу́хой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нежалухой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "без жалости, без ограничений, по потребности, даже сверх меры.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Масла в кашу клади нежалу́хой. Не́слуха настёгала вицей нежалу́хой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "масла в кашу клади нежалухой. неслуха настегала вицей нежалухой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

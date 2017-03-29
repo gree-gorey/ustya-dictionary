@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "евши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́вши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "евши"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "будучи сытым.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы хоть севодни е́вши?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вы хоть севодни евши?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "(при отрицании) быть голодным, без еды, натощак, не съев ничего.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодни с утра и до потёмок не е́вши. Не е́вши робить не заберёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни с утра и до потемок не евши. не евши робить не заберет."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

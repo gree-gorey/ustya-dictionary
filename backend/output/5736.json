@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "подглазник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подгла́зник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подглазник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подгла́зица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подглазица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "синяк под глазом или вокруг глаза.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

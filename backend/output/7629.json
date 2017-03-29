@@ -1,0 +1,95 @@
+{
+  "field_for_sorting": "толокчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Толокчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толокчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тоўкчи́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тоукчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толочь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́толочь", 
+          "tag": "form", 
+          "place": [
+            "Шалимова"
+          ], 
+          "type": "inflected", 
+          "normalized_content": "вытолочь"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "истолокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "истолокчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "натолокчи́, потолокчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "натолокчи, потолокчи"
+        }, 
+        {
+          "content": "На́́́до бы жи́́́то в сту́́́пе толокци́́́ на за́́́спу. Севодни овса на пере́сторону вы́толкла. Надо муто́вкой карто́ви натолокчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо бы жито в ступе толокци на заспу. севодни овса на пересторону вытолкла. надо мутовкой картови натолокчи."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") болтать попусту, без толку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́́́цево во́́́ду-ту в сту́́́пе тоўкчи́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нецево воду-ту в ступе тоукчи."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

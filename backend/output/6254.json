@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "притыка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приты́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "притыка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "усиление подгнивающих", 
+          "tag": "def"
+        }, 
+        {
+          "content": "переты́к угоро́да", 
+          "tag": "quote", 
+          "normalized_content": "перетык угорода"
+        }, 
+        {
+          "content": "путем втыкания в землю с обеих сторон дополнительных кольев и связывания их", 
+          "tag": "def"
+        }, 
+        {
+          "content": "переви́цей", 
+          "tag": "quote", 
+          "normalized_content": "перевицей"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "угоро́д", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "угород"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "переты́ка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перетыка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́льё", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колье"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "переви́ца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перевица"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

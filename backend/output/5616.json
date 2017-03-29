@@ -1,0 +1,100 @@
+{
+  "field_for_sorting": "пирогиходелые", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пироги́ ходе́лые", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пироги ходелые"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пре́сные и неходе́лые", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пресные и неходелые"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "простовики́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "простовики"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загибе́нщики", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загибенщики"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прясновики́:", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прясновики:"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ходе́лые пироги́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ходелые пироги"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пироги́-простовики́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пироги-простовики"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пироги́ загибе́нщики", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пироги загибенщики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пироги с начинкой: рыбники, курники, ягодники, капустники, картовники, сиченики;", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "прясновики́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "прясновики"
+        }, 
+        {
+          "content": "пироги с картофельным пюре, творогом, брусникой, черникой, малиной.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

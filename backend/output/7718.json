@@ -1,0 +1,212 @@
+{
+  "field_for_sorting": "тронуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тро́нуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тронуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "потро́нуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "потронуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дотро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дотронуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "притро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "притронуться"
+        }, 
+        {
+          "content": "Не тронь топор, ты ищё мал!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не тронь топор, ты ище мал!"
+        }, 
+        {
+          "content": "Потро́нь ищё раз!", 
+          "translation": "возьми еще раз!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "потронь ище раз!"
+        }, 
+        {
+          "content": "Она до еды не дотро́нулась. Он типере к спи́чкам не притро́нется.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она до еды не дотронулась. он типере к спичкам не притронется."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "коснуться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дотро́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дотронуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затро́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затронуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дотро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дотронуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "притро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "притронуться"
+        }, 
+        {
+          "content": "Палец нарыва́ёт, нельзя и тро́нуть (", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "палец нарывает, нельзя и тронуть ("
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "потро́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "потронуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "затро́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "затронуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "дотро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "дотронуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "притро́нуться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "притронуться"
+        }, 
+        {
+          "content": "). Больно дотро́нуть.", 
+          "tag": "quote", 
+          "normalized_content": "). больно дотронуть."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "задеть, обидеть, бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затро́нуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затронуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "затра́гивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрагивать"
+        }, 
+        {
+          "content": "Ты почему его тро́нул? Попро́́́буй-ко ищо раз тро́́́нь-ко иё́́́! И тро́́́нуть-то нельзя́́́ – зареви́́́т тут жо! Не бойси, никто тебя не тро́нё́т", 
+          "translation": "не бойся, никто не обидит.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты почему его тронул? попробуй-ко ищо раз тронь-ко ие! и тронуть-то нельзя – заревит тут жо! не бойси, никто тебя не тронет"
+        }, 
+        {
+          "content": "Ты только потро́нь, ты только затро́нь ево ищё раз! Не надо затра́гивать этот вопрос при ей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты только потронь, ты только затронь ево ище раз! не надо затрагивать этот вопрос при ей."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

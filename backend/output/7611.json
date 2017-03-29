@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "тожно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тожно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тожно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тоже (так же как...).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Один сде́лат нела́дно, и другому тожно́!", 
+          "translation": "один напроказит, и другой его копирует.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "один сделат неладно, и другому тожно!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "вто́жно", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "втожно"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

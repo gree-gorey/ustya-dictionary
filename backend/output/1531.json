@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "грибовница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Грибо́вница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грибовница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "суп из грибов.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

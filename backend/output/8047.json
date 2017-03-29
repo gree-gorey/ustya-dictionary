@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "ушлой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́шлой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ушлой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разбитной, опытный, способный; догадливый, сообразительный (без негативного смысла). То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "до́шлый", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "дошлый"
+        }, 
+        {
+          "content": "Да у их поро́́́да така́́́я – все у́́́шлые, а вну́́́к-от то́́́жо у́́́шлой тако́́́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да у их порода такая – все ушлые, а внук-от тожо ушлой такой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

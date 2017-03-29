@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "косаясажень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коса́я са́жень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косая сажень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстояние от большого пальца правой ноги до конца среднего пальца поднятой вверх левой руки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́жень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сажень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́жень махова́я", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сажень маховая"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

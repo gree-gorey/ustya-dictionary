@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "гожий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́жий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гожий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "го́жой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гожой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исправный, пригодный, нужный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

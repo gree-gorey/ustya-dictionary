@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доброхот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доброхо́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доброхот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "благодетель, жертвователь, бескорыстный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В нынешнее время истинные доброхо́́ты встречаются нечасто.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в нынешнее время истинные доброхоты встречаются нечасто."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

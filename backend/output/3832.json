@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кыча", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кы́ча", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кыча"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кы́чка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кычка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кы́ченька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кыченька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "название свиньи (женского пола).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поди́-ко унеси́ кы́чке травы́-то, да карто́ви насы́пь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поди-ко унеси кычке травы-то, да картови насыпь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

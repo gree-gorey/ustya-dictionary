@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "бредник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бредни́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бредник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бре́день", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бредень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой невод, которым ловят рыбу вдвоем, идя бродом. Применялся на небольшой глубине (до 1 м). Рыбаки дугой окружали часть реки и шли с бреднем в сторону берега. Иногда еще специальный человек «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бу́хал", 
+          "tag": "quote", 
+          "normalized_content": "бухал"
+        }, 
+        {
+          "content": "навстречу им по течению и пугали рыб", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бо́талом", 
+          "tag": "quote", 
+          "normalized_content": "боталом"
+        }, 
+        {
+          "content": ". Активное участие при ловле по мелководью (до 50 см) принимали и женщины. С ним «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "броди́ли", 
+          "tag": "quote", 
+          "normalized_content": "бродили"
+        }, 
+        {
+          "content": "» по реке, поэтому", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "бре́день", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "бредень"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

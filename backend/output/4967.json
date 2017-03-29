@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "обряжуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обряжу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обряжуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, выполняющий, как правило, по утрам, какую-либо работу по домашнему хозяйству (топить печь, выпекать хлеб, готовить еду, ухаживать за скотом и др.).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обре́дня", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обредня"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обряжа́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обряжаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

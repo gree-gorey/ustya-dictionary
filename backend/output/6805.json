@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "свиснуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сви́снуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свиснуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "свистану́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свистануть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить, стукнуть, колонуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот как тибе сви́стну по башке-то дак, ищо раз скажи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот как тибе свистну по башке-то дак, ищо раз скажи!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

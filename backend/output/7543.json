@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "те", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Те", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "те"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "то"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ту", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ту"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "частицы, выделяющие слово, с которым произносятся.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот що я скажу-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот що я скажу-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "копотно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́потно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копотно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пыльно, грязно, душно от пыли.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кропотливо, утомительно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́потно больно эти ягоды перебирать, все измятые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копотно больно эти ягоды перебирать, все измятые."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

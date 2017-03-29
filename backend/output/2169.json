@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "жилистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́листый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жилистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выносливый, сильный, сухого телосложения человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

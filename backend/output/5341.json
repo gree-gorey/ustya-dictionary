@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "очес", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очё́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очес"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чесание льна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ие бригадир нарядил завтра на очё́с льна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ие бригадир нарядил завтра на очес льна."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

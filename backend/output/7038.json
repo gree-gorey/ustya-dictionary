@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сланец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сла́нец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сланец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трава в инее, участок луга, покрытый инеем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кой сла́́́нец-то у́́́тресь в лога́́́х, поди́́́ фсе воўну́́́хи уби́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой сланец-то утресь в логах, поди фсе воунухи убило."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "осока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осока́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осока"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гной, жидкость из воспалившейся раны, нарыва.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "су́кровица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сукровица"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

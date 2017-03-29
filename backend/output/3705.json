@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "крюки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крю́ки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крюки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "крюки́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крюки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "цельнокроеный сапог, его форма вытянута из кожи на специальном приспособлении", 
+          "tag": "def"
+        }, 
+        {
+          "content": "крюке́", 
+          "tag": "quote", 
+          "normalized_content": "крюке"
+        }, 
+        {
+          "content": ". Такой сапог имел один шов сзади и пришивную подошву без каблука. Заготовки на такие сапоги делали специалисты", 
+          "tag": "def"
+        }, 
+        {
+          "content": "крюковщики́-раскро́йщики", 
+          "tag": "quote", 
+          "normalized_content": "крюковщики-раскройщики"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "бахвалиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бахва́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бахвалиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хвалиться, хвастаться, самохвальничать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "избахва́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "избахвалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набахва́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набахвалиться"
+        }, 
+        {
+          "content": "Вся избахва́лилась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся избахвалилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

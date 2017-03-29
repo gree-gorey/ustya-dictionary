@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "загородка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загоро́дка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загородка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́городка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загородка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перегородка для скота в хлеву, у дома на улице.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

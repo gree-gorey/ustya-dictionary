@@ -1,0 +1,135 @@
+{
+  "field_for_sorting": "чапаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чапаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чапа́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чапаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгибаться и разгибаться", 
+          "tag": "def"
+        }, 
+        {
+          "content": "о́чапу", 
+          "tag": "quote", 
+          "normalized_content": "очапу"
+        }, 
+        {
+          "content": "при качании", 
+          "tag": "def"
+        }, 
+        {
+          "content": "зы́бки", 
+          "tag": "quote", 
+          "normalized_content": "зыбки"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "качаться на доске, переброшенной через бревно и т. п. (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поча́паться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почапаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "почапа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почапаться"
+        }, 
+        {
+          "content": "Давай поча́паемся. Дава́́́й продё́́́рнем до́́́ску через заво́рницу и бу́́́дём чапа́тьце, чур мы пе́́́рвые!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай почапаемся. давай продернем доску через заворницу и будем чапатьце, чур мы первые!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "качаться на чем-либо из стороны в сторону или вверх-вниз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит ча́патьсе на стуле, опеть бря́кнешьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит чапатьсе на стуле, опеть брякнешьсе!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шататься, прогибаться, будучи плохо прикрепленным.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Теси́на на крыше ча́паетсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тесина на крыше чапаетсе."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болтаться, наклоняясь из стороны в сторону при ходьбе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Идёт ча́паетсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идет чапаетсе!"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ейный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́йный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ейный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "её́́нный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "еенный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "иё́нной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иенной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "её.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Избушка е́йна была. Иё́нное э́то де́ло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "избушка ейна была. иенное это дело!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

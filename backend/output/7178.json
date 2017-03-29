@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "состегнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Состегну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "состегнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сбить с места ударом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повредить ударом кожу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Состегну́ў козвоно́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "состегнуу козвонок."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "ими", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́ми", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ими"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "имя́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "имя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ы́ми", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ыми"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ымя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ымя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ними.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И лешой с и́ми! С имя́ токо свяжи́сь, с мазу́риками! С йы́ми-то не би́си не зди́ютце!", 
+          "translation": "вот уж с ними-то точно ничего не сделается.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и лешой с ими! с имя токо свяжись, с мазуриками! с йыми-то не биси не здиютце!"
+        }, 
+        {
+          "content": "С йы́ми-то не би́си не зди́ютце!", 
+          "translation": "вот уж с ними-то точно ничего не сделается!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с йыми-то не биси не здиютце!"
+        }, 
+        {
+          "content": "С ы́́́ми свя́́́жжыссе, дак сра́́́му не оберё́́́ссе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с ыми свяжжыссе, дак сраму не оберессе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

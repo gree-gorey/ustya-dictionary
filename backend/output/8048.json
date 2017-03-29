@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "фанфурик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фанфу́рик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "фанфурик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая по объему плотно укупоренная стеклянная емкость с лекарством.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В медпункте дали фанфу́рик натирать поясни́цу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в медпункте дали фанфурик натирать поясницу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "проходитевыше", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Проходи́те вы́ше", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "проходите выше"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приглашение пройти в дом, дальше от порога.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Проходи́те вы́ше-то, не стойте под поро́гом-ту!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "проходите выше-то, не стойте под порогом-ту!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вы́ше", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выше"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

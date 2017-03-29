@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выщелнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́щелнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выщелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́щёлнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выщелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́щовнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выщовнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбить, разбить (стекло).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

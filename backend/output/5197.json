@@ -1,0 +1,35 @@
+{
+  "field_for_sorting": "осколоток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осколо́ток", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осколоток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "сколо́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сколот"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

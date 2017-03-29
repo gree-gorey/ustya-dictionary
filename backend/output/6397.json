@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "путаник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пу́таник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "путаник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "несерьезный человек, не хозяин своему слову.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С этим пу́таником лучше не свя́зыватьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с этим путаником лучше не связыватьсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

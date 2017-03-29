@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "пересторона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пере́сторона", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пересторона"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пере́стороны", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "перестороны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "просеянная и провеянная после", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ша́стания", 
+          "tag": "quote", 
+          "normalized_content": "шастания"
+        }, 
+        {
+          "content": "на водяной мельнице овсяная мука, предназначенная для еды человеку. Из нее пекли овсяные блины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот эту муку́ отложи́ на пере́стороны, остально́е вези на корм скоту на ско́тный двор.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот эту муку отложи на перестороны, остальное вези на корм скоту на скотный двор."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

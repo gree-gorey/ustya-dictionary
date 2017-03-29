@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "корежки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корё́жки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корежки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "корё́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "корешки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "примитивные санки для катания с горок в виде широкой загнутой спереди как лыжа доски, иногда с сидением или углублением.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

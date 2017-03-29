@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пашовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пашова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пашовать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бояться, остерегаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он ничево не пашу́ет, лизёт напролом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он ничево не пашует, лизет напролом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

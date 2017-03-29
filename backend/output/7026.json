@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "скусный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ску́сный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скусный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ску́́́сной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скусной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вкусный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ску́́́сной холоде́́́ць-то навари́́́ўсе, ску́́́сной!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скусной холодець-то навариусе, скусной!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гузенная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гузё́нная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гузенная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прямая кишка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У кобы́лы-то от напря́гу гузё́нная выпада́ет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у кобылы-то от напрягу гузенная выпадает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

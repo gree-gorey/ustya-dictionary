@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "хребетница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хребе́тница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хребетница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позвоночник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой как упал на хребе́тницу, дак до чево бо́лько!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой как упал на хребетницу, дак до чево болько!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

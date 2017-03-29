@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "мшиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мшиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изнашиваться, появляться в местах износа ниткам, бахроме («моху») (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замши́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замшиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изомши́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изомшиться"
+        }, 
+        {
+          "content": "Коленки у щано́в замши́́лись, скоро дырки будут. Подол у платья изомши́лсе весь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коленки у щанов замшились, скоро дырки будут. подол у платья изомшилсе весь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

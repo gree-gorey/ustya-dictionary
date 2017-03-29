@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "лыско", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́ско", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лыско"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ветреный и упрямый человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "тертуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Терту́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тертуха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тёрту́́́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тертуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тёрка. Раньше самодельная: металлическая пластинка с проколотыми дырками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бери́́́те-ко, робя́́́та, тёрту́́́хи да матеру́́́щую карто́́́фь-то три́́́те – крахма́́́лу наде́́́лаём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "берите-ко, робята, тертухи да матерущую картофь-то трите – крахмалу наделаем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

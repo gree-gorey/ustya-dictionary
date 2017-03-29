@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "бабьеухо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́бье у́хо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бабье ухо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рыжики-боровики особого вида и особой формы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабеву́х", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабевух"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "баблеу́х", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "баблеух"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабьеу́х", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабьеух"
+        }, 
+        {
+          "content": "Ба́́бье у́хо у нас встречается не очень часто, а по качеству не уступает другим видам рыжиков.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабье ухо у нас встречается не очень часто, а по качеству не уступает другим видам рыжиков."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

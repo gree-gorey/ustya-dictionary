@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>Устьянский словарь</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,300,700&subset=latin,cyrillic-ext,cyrillic'
+          rel='stylesheet' type='text/css'>
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
+
+    <!-- JS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    {#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>#}
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/differentViews.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/smoothscroll.js') }}"></script>
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+
+</head>
+<body>
+
+<!-- Primary Page Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div id="wrapper">
+    <div id="content">
+
+        <div class="container">
+            <div class="row menu">
+                <div class="twelve columns" id="menu">
+                    <input type="button" class="login-button search-button" value="главная"
+                           onClick="window.location='/';"/>
+                    <input type="button" class="login-button search-button" value="поиск"
+                           onClick="window.location='/search';"/>
+                    <input type="button" class="login-button search-button" value="все статьи"
+                           onClick="window.location='/explore?slice=0';"/>
+                    <input type="button" class="login-button search-button" value="скачать"
+                           onClick="window.location='/download';"/>
+                    <input type="button" id="new-entry" class="login-button search-button" value="новая статья"
+                           onClick="window.location='/edit?edit=new';"/>
+                    <span id="greeting"></span>
+                    <span id="name"></span>
+                    <input id="logButton" type="button" class="login-button" value="log in"
+                           onClick="window.location='/login';"/>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row title-and-button">
+                <div class="twelve columns">
+                    <div class="title">Устьянский словарь</div><br>
+                    <hr>
+                    <a class="button description-anchor smoothScroll" href="#description">о словаре</a>
+                </div>
+            </div>
+
+            <div class="row description" id="description">
+                <div class="twelve columns">
+                    Перед Вами электронная версия "Устьянского народного словаря", вышедшего в свет в 2012-13 гг.
+                    (около 4000 слов) и дополненного группой энтузиастов (Мамонов Владимир Павлович,
+                    Пушкин Дмитрий Дмитриевич) в сотрудничестве с МБУК "Устьянский краеведческий музей".
+                    В настоящее время объем словаря составляет около 8 тысяч слов. Электронная версия словаря
+                    разработана Игнатьевым Григорием Александровичем, студентом 4 курса бакалавриата
+                    Школы лингвистики Национального исследовательского университета «Высшая школа экономики»
+                    (г. Москва). Руководство проектом создания электронного словаря осуществляет
+                    Рупрехт фон Вальденфельс, преподаватель Института славянских языков и литератур
+                    Университета Берна и Института основ информатики Польской академии наук (г. Варшава).<br>
+                    В дальнейшем планируется расширение функционала веб-приложения и пополнение его
+                    мультимедийным содержанием, таким как аудиозаписи речи местных жителей.
+                    Кроме того, возможно подключение к словарю Устьянского корпуса<sup>1</sup>
+                    и местных диалектных словарей; в будущем возможна публикация в электронном
+                    виде «Словаря Устьянских народных говоров (1924-34 гг.)» М. И. Романова (около 11 тысяч слов).<br>
+                    <div class="second_part">
+                        <sup>1</sup> <a class="link" href="http://www.slavist.de/Pushkino" target="_blank">Устьянский корпус</a>
+                        представляет собой коллекцию диалектных текстов,
+                        собранных во время диалектологических экспедиций Школы Лингвистики НИУ ВШЭ
+                        в 2013-2016 гг. Корпус включает в себя аудиозаписи, расшифровки этих аудиозаписей
+                        с частеречной разметкой и возможностью поиска как просто по словам и фразам,
+                        так и по грамматическим признакам слов.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container" id="footer">
+        <div class="row">
+            <div class="three columns" id="footer-name">
+                <span>design: gree-gorey</span>
+            </div>
+            <div class="six columns">
+                <span>Устьянский народный словарь, п. Октябрьский, г. Москва, 2016</span>
+            </div>
+            <div class="three columns" id="footer-links-div">
+                <div>
+                    <a class="footer-link" href="/contacts">Обратная связь</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

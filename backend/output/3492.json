@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "короткиеголяшки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коро́ткие голя́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "короткие голяшки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обувь с низкими голенищами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У сапогов короткие голяшки, за ричку не перебрести.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у сапогов короткие голяшки, за ричку не перебрести."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "угорышок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уго́рышок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "угорышок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая возвышенность, холм.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́́́йдём на уго́́́рышок, дак оддохнё́́́м малё́́́хо, фсе уброди́́́лись в лесу́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выйдем на угорышок, дак оддохнем малехо, фсе убродились в лесу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уго́р", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "угор"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

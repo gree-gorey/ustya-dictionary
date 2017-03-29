@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дребедень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дребеде́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дребедень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чушь, вздор, пустяки, вранье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ночами худо спи́тце, ли́зёт в голову всякая дребеде́нь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ночами худо спитце, лизет в голову всякая дребедень."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

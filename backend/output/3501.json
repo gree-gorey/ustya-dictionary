@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "корье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корьё́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кора деревьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заготовляли ивовое корьё́, содержащее дубильные вещества.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заготовляли ивовое корье, содержащее дубильные вещества."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

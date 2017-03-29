@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "дверядить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Две́рядить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дверядить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дви́рядить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "двирядить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свивать две нитки в одну.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "двои́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "двоить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

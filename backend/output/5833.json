@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "подтатыживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подтаты́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подтатыживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепко затягивать, подвязывать, выбирать всю слабину, подпирать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подтаты́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтатыжить"
+        }, 
+        {
+          "content": "Шубу подтаты́жил ремнём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шубу подтатыжил ремнем."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "притаты́жить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "притатыжить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "товарка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Това́рка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "товарка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подруга (по отношению девушка к девушке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мы с ей това́рки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы с ей товарки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

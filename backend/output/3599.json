@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сине", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Синё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сине"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много ягод синего цвета (черники).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут синё́ ягод-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут сине ягод-то."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "красно́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "красно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

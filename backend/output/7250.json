@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "спреми", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спре́ми", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спреми"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "спря́ми", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "спрями"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прямо, напрямую.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди спре́ми, не проло́мишьсе, лёд кре́пкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди спреми, не проломишьсе, лед крепкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

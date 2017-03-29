@@ -1,0 +1,357 @@
+{
+  "field_for_sorting": "пехать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пеха́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пехать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "пехну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "пехнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "пехону́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "пехонуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толкать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пехать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпе́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отпи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отпихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пропи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пропихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "спи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "вы́пехнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отпехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отпехнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подпехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подпехнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пропехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пропехнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "спехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спехнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нет, ты сам меня пехну́л. В круг вы́пехнули, а я и плясать не умию. Эку большую льдину на берег вы́пехнуло. Отпехни́ лодку от берега. Подпехни́ бревно-то ищо немного. Надо как-то изловчи́ться, пропехну́ть верёвку в эту дырку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нет, ты сам меня пехнул. в круг выпехнули, а я и плясать не умию. эку большую льдину на берег выпехнуло. отпехни лодку от берега. подпехни бревно-то ищо немного. надо как-то изловчиться, пропехнуть веревку в эту дырку."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отправить куда-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пехнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехнуть"
+        }, 
+        {
+          "content": "Как выростёт, дак сразу из дому вы́пехнут робёнка, семья у их вели́ка. Опеть козлух вы́пехнули на улицу, а кто пасти будёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как выростет, дак сразу из дому выпехнут робенка, семья у их велика. опеть козлух выпехнули на улицу, а кто пасти будет?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "положить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "напи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запехнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И так полные корманы, а он всё горох запи́хиваёт (напи́хиваёт). Сам рукавицы куды-то запехну́л, а меня спрашиваёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и так полные корманы, а он все горох запихивает (напихивает). сам рукавицы куды-то запехнул, а меня спрашивает."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "давать, совать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подпи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подпихивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запехнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подпехну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подпехнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На дорогу, на оборонные ма́ти мне только каравай хлеба успела пехну́ть. Хоть и большо́́́й ста́́́ў, сам зараба́́́тываёт, а фсё равно́́́ на́́́до каку́́́ю копе́́́йку пехну́́́ть. Всё гледи́т, чтобы ему пехону́ли что-нибудь, вот какой! Где в семьях было уш совсем невмоготу́, она то гороху подпехнё́т, то – жи́тца.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на дорогу, на оборонные мати мне только каравай хлеба успела пехнуть. хоть и большой стау, сам зарабатывает, а фсе равно надо какую копейку пехнуть. все гледит, чтобы ему пехонули что-нибудь, вот какой! где в семьях было уш совсем невмоготу, она то гороху подпехнет, то – житца."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "расчищать пешней полынью от льда (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пехать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпе́хивать", 
+          "tag": "form", 
+          "place": [
+            "Строевское"
+          ], 
+          "type": "inflected", 
+          "normalized_content": "выпехивать"
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "образовать дыру на обуви, воздействуя на нее пальцами или пятой при длительной носке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пехать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпе́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехивать"
+        }, 
+        {
+          "content": "Ка́танец пальцами пеха́ёшь, скоро дырка будёт. На ка́танцах пальцами дырки вы́пехаў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катанец пальцами пехаешь, скоро дырка будет. на катанцах пальцами дырки выпехау."
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

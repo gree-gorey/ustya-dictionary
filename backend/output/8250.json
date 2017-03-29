@@ -1,0 +1,114 @@
+{
+  "field_for_sorting": "цеп", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Цеп", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "цеп"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление для ручной молотьбы, состоящее из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́дцы", 
+          "tag": "quote", 
+          "normalized_content": "кадцы"
+        }, 
+        {
+          "content": "(рукоятки),", 
+          "tag": "def"
+        }, 
+        {
+          "content": "би́ла", 
+          "tag": "quote", 
+          "normalized_content": "била"
+        }, 
+        {
+          "content": "(рабочей части в виде палки) и соединяющих их", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пу́тцы", 
+          "tag": "quote", 
+          "normalized_content": "путцы"
+        }, 
+        {
+          "content": "(кожаного ремня). Служит для выколачивания (молочения) зерна из снопов на гумне.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "о́чеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очеп"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "молоти́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молотило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́чеп", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "очеп"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ка́дца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кадца"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "би́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "било"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пу́тца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "путца"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

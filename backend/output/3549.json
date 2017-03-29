@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "котора", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кото́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "котора"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "которая; какая именно, кто (из нескольких людей).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кото́ра твоя девка-то?", 
+          "translation": "кто из них твоя дочь?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "котора твоя девка-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

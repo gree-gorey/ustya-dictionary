@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "наикрусесть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На икру́ сесть", 
+        "place": [
+          "Вахрушевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "на икру сесть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загустеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Живи́ца как на икру́ се́дёт, дак дожь не страшон, не смоёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "живица как на икру седет, дак дожь не страшон, не смоет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Икра́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "икра"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 7
+}

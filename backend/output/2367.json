@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "задубеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Задубе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "задубеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "дубе́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "дубеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрыться толстой малочувствительной кожей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё лето бе́гал босо́й, дак пятки задубе́ли. Кожа на ладонях дубе́ть стала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все лето бегал босой, дак пятки задубели. кожа на ладонях дубеть стала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") замерзнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все ноги задубе́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все ноги задубели."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

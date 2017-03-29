@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "кочеватик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кочева́тик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кочеватик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кочка́рник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кочкарник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кочкова́тик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кочковатик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кочко́вник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кочковник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "земельный участок, поверхность которого покрыта многочисленными кочками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На том осто́жье наго́льной кочка́рник, косить пора́то неловко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на том остожье нагольной кочкарник, косить порато неловко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

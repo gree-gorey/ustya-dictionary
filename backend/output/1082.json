@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "вцело", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вце́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вцело"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вновь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не почина́й коровай вце́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не починай коровай вцело."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "то, что еще не тронуто, не езжено, не хожено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бери́ ягоды-то с кра́юшку, не лезь вце́́ло-то. Куды́ пра́вишь вце́ло, идь по дороге-то!", 
+          "translation": "а не по снежной целине.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бери ягоды-то с краюшку, не лезь вцело-то. куды правишь вцело, идь по дороге-то!"
+        }, 
+        {
+          "content": "Забрёл вце́ло", 
+          "translation": "(например, пьяный)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забрел вцело"
+        }, 
+        {
+          "content": "свернул с дороги, затем весь «уходился» в снегу.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

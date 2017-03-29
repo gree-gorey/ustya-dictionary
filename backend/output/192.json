@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "безвыводно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Безвы́водно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "безвыводно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно, всегда в наличии.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто робит, у тех деньги есь безвы́водно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто робит, у тех деньги есь безвыводно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "выводи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выводиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

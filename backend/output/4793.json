@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "неспривыку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Неспривы́́́ку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неспривыку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непривычно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неспривы́́ку, конешно косить тяжёло. Это неспривы́ку так кажетсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неспривыку, конешно косить тяжело. это неспривыку так кажетсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

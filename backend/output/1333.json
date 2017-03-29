@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гдечтоесть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Где что есть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "где что есть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рано, быстро.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И́з лесу пришли где что есть, грибов быстро набрали́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из лесу пришли где что есть, грибов быстро набрались."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

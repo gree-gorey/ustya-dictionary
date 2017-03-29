@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "пакостник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́костник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пакостник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "покасту́н", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "покастун"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проказливый ребенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и покасту́н!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и покастун!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

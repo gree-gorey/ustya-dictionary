@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "всякупору", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Всяку́пору", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "всякупору"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "всеку́поры", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "всекупоры"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "секу́поры", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "секупоры"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всегда, во всякое время, теперь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оне всяку́пору сызмале́тства тры́щатце", 
+          "translation": "любят отговариваться.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне всякупору сызмалетства трыщатце"
+        }, 
+        {
+          "content": "Секу́поры не слушаёт, а що будёт, как выростёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "секупоры не слушает, а що будет, как выростет?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

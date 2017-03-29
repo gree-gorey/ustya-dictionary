@@ -1,0 +1,98 @@
+{
+  "field_for_sorting": "посад", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поса́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посад"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загруженные (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "поса́женные", 
+          "tag": "quote", 
+          "normalized_content": "посаженные"
+        }, 
+        {
+          "content": ") в овин для сушки хлебные снопы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осталось вы́сушить два поса́да снопов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осталось высушить два посада снопов."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "уложенные в ряды на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "доло́ни", 
+          "tag": "quote", 
+          "normalized_content": "долони"
+        }, 
+        {
+          "content": "гумна высушенные в овине хлебные снопы для их обмолота вручную.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ови́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "овин"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гумно́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гумно"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "доло́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "долонь"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ряд, линия домов по одной стороне улицы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "обмылок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обмы́лок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обмылок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остаток от куска мыла.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

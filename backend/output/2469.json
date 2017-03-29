@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "залисеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залисе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "залисеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделаться лисым, выцвести, поблекнуть, пожелтеть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "лисе́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "лисеть"
+        }, 
+        {
+          "content": "Рубаха-то у тебя лисе́ть на́чала. На окнах занаве́ски все залисе́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рубаха-то у тебя лисеть начала. на окнах занавески все залисели."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подгореть, опалиться, начать тлеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не стой близко к огню, ка́танцы залиси́ют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стой близко к огню, катанцы залисиют."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

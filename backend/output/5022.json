@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "огрех", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Огре́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огрех"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "некачественно выполняемая часть работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Плуг не отрегули́рован, па́шет с огре́хами", 
+          "translation": "остаются невспаханными отдельные места на земельном участке.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "плуг не отрегулирован, пашет с огрехами"
+        }, 
+        {
+          "content": "Чё ты ко́сишь с огре́хами?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "че ты косишь с огрехами?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

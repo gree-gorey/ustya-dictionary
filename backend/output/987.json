@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "впору", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впо́ру", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впору"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кстати, как раз, вовремя, в меру.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лапти как раз впору пришли́се.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лапти как раз впору пришлисе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "взуздать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взузда́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взуздать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заузда́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зауздать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зузда́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зуздать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взнуздать, вложить удила в рот лошади.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Взузда́й коня-то, а то под угор не удё́ржишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "взуздай коня-то, а то под угор не удержишь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "узда́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уздать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

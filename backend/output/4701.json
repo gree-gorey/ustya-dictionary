@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "невмоготу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Невмоготу́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "невмоготу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надоело, нет сил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Невмоготу́ дома сидить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "невмоготу дома сидить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "невозможно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сильно рука болит, невмоготу́ стало терпить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сильно рука болит, невмоготу стало терпить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

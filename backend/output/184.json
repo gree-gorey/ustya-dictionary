@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "бегун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бегу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бегун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бегу́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бегунья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любитель бега.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ушедший от жены, ушедшая от мужа.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

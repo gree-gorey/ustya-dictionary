@@ -1,0 +1,105 @@
+{
+  "field_for_sorting": "лывина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́вина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лывина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "продолговатая заводь реки, речной залив.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лы́ва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лыва"
+        }, 
+        {
+          "content": "Схожу-ко поу́дить на лы́ву.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "схожу-ко поудить на лыву."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "расчищенный от леса и кустарника участок земли для сенокоса вблизи от основного покоса.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лы́́́винка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лывинка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лы́́́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лывка"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "лы́ва", 
+          "tag": "ref", 
+          "place": [
+            "Крылово"
+          ], 
+          "normalized_content": "лыва"
+        }, 
+        {
+          "content": "Ну оста́́́лосе ешщо́́́ одну́́́ лы́́́вину вы́́́грести, сноси́́́ть и бу́́́дём заро́́́д ста́́́вить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну осталосе ешщо одну лывину выгрести, сносить и будем зарод ставить."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "кули́́́га", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кулига"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заболоченный участок местности.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "густое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Густо́́́е", 
+        "place": [
+          "Шалимово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "густое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заваренное пойло скоту густой консистенции.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до пойти́́́ порося́́́там ещё́́́ два́́́ ведра́́́ густо́́́го свари́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо пойти поросятам еще два ведра густого сварить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

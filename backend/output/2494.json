@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заметывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Замё́тывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заметывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подметать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо мусор сюды замё́тывать, убирай сразу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо мусор сюды заметывать, убирай сразу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

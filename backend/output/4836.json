@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ноженки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Но́женки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ноженки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "но́́́жонки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ножонки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ножницы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пода́́́й-ко но́́́жонки-то, вон на гвозде́́́ ви́́́сятце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подай-ко ножонки-то, вон на гвозде висятце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

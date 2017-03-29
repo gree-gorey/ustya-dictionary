@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "носопыря", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Носопы́ря", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "носопыря"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, который раздувает крылья носа (например, при сморкании).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") капризный в еде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты и носопы́ря, он ищё и нос отвора́чиваёт, ешь, што по́дано.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и носопыря, он ище и нос отворачивает, ешь, што подано."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

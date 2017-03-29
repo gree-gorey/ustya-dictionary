@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "коска", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́ска", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коска"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькая коса (инструмент).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот тебе́́́ ко́́́ска – не тяжола́́́, ловка́́́ – уци́́́сь коси́́́ть траву́́́-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот тебе коска – не тяжола, ловка – уцись косить траву-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

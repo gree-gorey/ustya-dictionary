@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "хресьянсво", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хресья́нсво", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хресьянсво"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крестьянство.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

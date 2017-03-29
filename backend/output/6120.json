@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "правиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пра́виться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "правиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "направляться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куда вы пра́витесь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куда вы правитесь?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

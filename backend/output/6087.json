@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "истрепанный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Истрё́панный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "истрепанный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изношенный.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "затрё́панный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "затрепанный"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "потрё́панный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потрепанный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

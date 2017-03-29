@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "пакли", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́кли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пакли"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́калки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пакалки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́кельки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пакельки"
+      }
+    ], 
+    "style": [
+      "уменьш.", 
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пальцы, (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") руки, которые человек либо куда-то не туда сует, либо не умеет ими правильно пользоваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты куды́́́ па́́́кли-то суё́́́шь?", 
+          "translation": "не суй пальцы (руки), куда не следует.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты куды пакли-то суешь?"
+        }, 
+        {
+          "content": "Не па́́́льцы но́́́не на рука́́́х, а худы́́́е па́́́кли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не пальцы ноне на руках, а худые пакли!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

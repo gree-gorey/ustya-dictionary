@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "веснусь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́снусь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "веснусь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вё́снусь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "веснусь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прошлой весной, весной в текущем году.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Внучке вё́снусь пять годов исполнилось. Вё́снусь тёпла доўго не было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "внучке веснусь пять годов исполнилось. веснусь тепла доуго не было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

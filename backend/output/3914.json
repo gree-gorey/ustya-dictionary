@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лен", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лён", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лен"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень эластичные и прочные сухожилия из шеи животных. Шуточная присказка: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Е́сли па́рень переку́сит лён, то мо́жет жени́ться", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если парень перекусит лен, то может жениться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

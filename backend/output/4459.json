@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наздеваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наздева́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наздеваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одеть на себя много одежди, наодеваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кой моро́́́з, дак как кулё́ма наздева́́́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой мороз, дак как кулема наздевалсе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

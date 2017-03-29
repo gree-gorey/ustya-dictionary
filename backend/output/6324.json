@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "пропадина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пропади́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пропадина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пропаду́щина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пропадущина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "больное, сильно исхудавшее животное.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "труп, мясо павшего животного.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") плохое, скверное, дурное животное.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

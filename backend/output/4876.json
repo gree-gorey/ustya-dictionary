@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "обабок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оба́бок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обабок"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "ба́бки", 
+        "place": [
+          "Квазеньга"
+        ], 
+        "type": "inflected", 
+        "normalized_content": "бабки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подберезовик.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "се", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "се"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": ""
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "рый гриб", 
+          "tag": "ref", 
+          "place": [
+            "Синики"
+          ], 
+          "normalized_content": "рый гриб"
+        }, 
+        {
+          "content": "Оба́́́бкоф-то мно́́́го в бере́́́зницьках-то ростё́́́т, це́́́лыми ку́́́цьками.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обабкоф-то много в березницьках-то ростет, целыми куцьками."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обобщенное название, применяемое к губчатым, но мягким или быстро мякнущим грибам, например,", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "оба́бок", 
+          "tag": "form", 
+          "place": [
+            "Синики"
+          ], 
+          "type": "lemma", 
+          "normalized_content": "обабок"
+        }, 
+        {
+          "content": "моховик , в отличие, скажем, от «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "дороѓого гриба́", 
+          "tag": "quote", 
+          "normalized_content": "дорогого гриба"
+        }, 
+        {
+          "content": "» или молодого подосиновика.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

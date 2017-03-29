@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "черед", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Черё́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "черед"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очередь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тепе́́́ре ваш черё́́́д коро́́́в пасти́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тепере ваш черед коров пасти."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пора, срок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наступи́́́ў уш черё́́́д и Ва́́́ньке в а́́́рмию итти́́́. Ка́́́ждому де́́́лу свой черё́́́д, робя́́́та.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наступиу уш черед и ваньке в армию итти. каждому делу свой черед, робята."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

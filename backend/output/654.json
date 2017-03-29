@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "веретельница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верете́льница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "веретельница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "верете́нница 1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "веретенница 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ящерица (но не зеленая, а черно-серая).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "верете́нник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "веретенник"
+        }, 
+        {
+          "content": "Закро́й ро́т-то, а то верете́нница зали́зёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрой рот-то, а то веретенница зализет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") ветреная женщина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да вы́кинь-ту эту верете́льницу из головы, нужна она тебе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да выкинь-ту эту веретельницу из головы, нужна она тебе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

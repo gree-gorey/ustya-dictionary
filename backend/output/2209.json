@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жоркой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жорко́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жоркой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обладающий хорошим аппетитом (об откармливаемом животном).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Какова сви́шка-та, жорка́я ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "какова свишка-та, жоркая ли?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

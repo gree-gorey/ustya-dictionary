@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "хлыстина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хлысти́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлыстина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинная, толстая ветка дерева.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я хлысти́ной-то ёво отводи́ла", 
+          "translation": "нахлестала.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я хлыстиной-то ево отводила"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тонкий хлыст.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хлысти́́́́ны складываём отдельно от хлысто́в.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хлыстины складываем отдельно от хлыстов."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "питьвприглядку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пить впригля́дку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пить вприглядку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пить чай без сахара.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

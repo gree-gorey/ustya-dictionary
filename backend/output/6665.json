@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "рохлетина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рохле́тина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рохлетина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тучный, рыхлого телосложения, нездоровый человек или животное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У них сын с детства такая рохле́тина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у них сын с детства такая рохлетина."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

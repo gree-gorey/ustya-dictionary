@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нате", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́те", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нате"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот, возьмите, ешьте. Так говорят, когда что-то подают или чем-либо угощают.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́те горечих блинов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нате горечих блинов."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

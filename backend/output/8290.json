@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "часом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ча́сом", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "часом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "случайно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты ча́сом не рехну́лсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты часом не рехнулсе?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "когда еще (это будет)?", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ча́сом ли мы с ношами ягод с болота при́дём! Время к вечору, ча́сом ли робо́ту доде́лаём, мо́жом отёмна́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "часом ли мы с ношами ягод с болота придем! время к вечору, часом ли роботу доделаем, можом отемнать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

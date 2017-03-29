@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кукомака", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кукома́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукомака"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кукома́́́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кукомаха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кукома́́́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кукомак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взлохмаченный, неопрятный, расхристанный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, я сево́́́дни до тово́́́ страшна́́́ – кукома́́́ка це́́́лая!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, я севодни до тово страшна – кукомака целая!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

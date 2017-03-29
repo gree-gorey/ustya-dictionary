@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "запичкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запи́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запичкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запачкать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закормить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тёща-та зятя запи́чкала мясом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теща-та зятя запичкала мясом."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пи́чкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пичкать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

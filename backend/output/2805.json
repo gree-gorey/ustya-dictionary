@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "змовить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Змо́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "змовить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молвить, сказать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дай хоть мне́́́-то змо́́́вить, не фсё тебя́́́ слу́́́шать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дай хоть мне-то змовить, не фсе тебя слушать!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мо́вить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мовить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

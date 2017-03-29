@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "званья", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зва́нья", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "званья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "званья́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "званья"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "незва́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "незванья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем, нисколько.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зва́нья никакой надё́жи нет", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "званья никакой надежи нет"
+        }, 
+        {
+          "content": "–нисколько нельзя понадеяться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не", 
+          "tag": "place"
+        }, 
+        {
+          "content": "зва́нья не ждала́", 
+          "tag": "quote", 
+          "normalized_content": "званья не ждала"
+        }, 
+        {
+          "content": "Незва́нья-та не хороший", 
+          "translation": "нисколько, ничуть, ни капельки не хороший.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "незванья-та не хороший"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

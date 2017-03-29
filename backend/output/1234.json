@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "высосить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́сосить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высосить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выкормить детеныша материнским молоком до необходимого возраста (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "соси́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сосить"
+        }, 
+        {
+          "content": "Овца ягнят вы́сосила. Старшово сына соси́ла ти́ткой чуть не до трёх годов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "овца ягнят высосила. старшово сына сосила титкой чуть не до трех годов."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

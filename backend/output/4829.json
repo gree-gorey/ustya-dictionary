@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "новой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ново́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "новой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иной, другой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ново́й и поду́маёт, да не ска́жот.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "новой и подумает, да не скажот."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

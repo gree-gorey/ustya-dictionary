@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "седелка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Седё́́́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "седелка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "седё́́́лко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "седелко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "часть конской упряжи: небольшое седло, которое служит для поддержания оглобель с помощью чересседельника.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

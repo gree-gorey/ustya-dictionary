@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "вступное", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вступно́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вступное"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вступительный взнос; угощение по поводу вступления в коллектив, организацию.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

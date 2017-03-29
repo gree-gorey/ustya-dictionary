@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "взапреды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взапре́ды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взапреды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взадпереды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взадпереды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задпереды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задпереды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задпе́редом", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задпередом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "задом наперед.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойдём завтра со мной вместя́х лесова́ть! Только надо выходить до́ свету. И выходить надо взапре́ды (задом наперёд)", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Сидорова мельница». М.И. Шалаурова.", 
+          "normalized_content": "пойдем завтра со мной вместях лесовать! только надо выходить до свету. и выходить надо взапреды (задом наперед)"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

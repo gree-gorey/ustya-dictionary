@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "приспичить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приспи́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приспичить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень захотеть. Часто в безличной форме", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "приспи́́́чило", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "приспичило"
+        }, 
+        {
+          "content": "Надо жо, тебя как приспи́чило: подём домой и всё", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жо, тебя как приспичило: подем домой и все"
+        }, 
+        {
+          "content": "Ну веть приспи́́́цило ему́́́ на́́́ ноць гле́́́дя е́́́хать! Що, у́́́тром-то нельзя́́́ ра́́́зве?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну веть приспицило ему на ноць гледя ехать! що, утром-то нельзя разве?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

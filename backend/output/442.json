@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "брызгнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бры́згнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брызгнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бры́знуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "брызнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не подходите сзади к этому коню, он может копытом бры́згнуть. Я вот тибя сичас как бры́зну ве́хтём-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не подходите сзади к этому коню, он может копытом брызгнуть. я вот тибя сичас как брызну вехтем-то!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро отпрыгнуть, убежать, скрыться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заяц в кусты бры́знул.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заяц в кусты брызнул."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

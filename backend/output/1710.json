@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "диеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ди́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "диеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ди́ять", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "диять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "делать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зди́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "здиеть"
+        }, 
+        {
+          "content": "Шчо уж диеть-то?", 
+          "translation": "что делать?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо уж диеть-то?"
+        }, 
+        {
+          "content": "Надо же такое зди́еть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо же такое здиеть?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

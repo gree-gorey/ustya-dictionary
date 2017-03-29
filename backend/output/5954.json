@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "полюбовник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полюбо́вник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полюбовник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полюбо́вница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полюбовница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любовник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́тот мужы́́́к-от полюбо́́́вник е́́́нный, давно́́́ пу́́́таютце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот мужык-от полюбовник енный, давно путаютце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

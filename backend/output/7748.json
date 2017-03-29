@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "туес", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́ес", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "туес"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ту́ис", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "туис"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "берестяной бидончик с плотно прилегающей деревянной крышкой.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "туесо́́́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "туесок"
+        }, 
+        {
+          "content": "Ту́́́есоф-то у мня мно́́́го ра́́́нше бы́́́ло, да куды́́́-то фсе подева́́́лисе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "туесоф-то у мня много ранше было, да куды-то фсе подевалисе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") дурак.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

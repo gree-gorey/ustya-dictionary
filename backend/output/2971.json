@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изойтинанет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изойти́ на не́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изойти на нет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кончиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Муки нету, изошла́ на не́т, а то бы я блинов напекла́! Буди в магазин надо итти по муку-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "муки нету, изошла на нет, а то бы я блинов напекла! буди в магазин надо итти по муку-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

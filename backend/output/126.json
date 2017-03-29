@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "барас", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "барас"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бара́ст", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бараст"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бара́сца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "барасца"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бора́с", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "борас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "баррас, застывшая на стволе сосны смола. Бара́с соскабливали с деревьев и собирали, как и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "живи́цу", 
+          "tag": "quote", 
+          "normalized_content": "живицу"
+        }, 
+        {
+          "content": "Сначала живи́цу", 
+          "translation": "(чистую смолу)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сначала живицу"
+        }, 
+        {
+          "content": "соберут, потом бара́с скоблят – смолу вместе с сосновой стружкой. Ско́белем бора́с скоблили.", 
+          "tag": "quote", 
+          "normalized_content": "соберут, потом барас скоблят – смолу вместе с сосновой стружкой. скобелем борас скоблили."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "живи́ца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "живица"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "вал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вал"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вало́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "валок"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сгребенная воедино и расположенная в ряд (для удобства транспортировки) куча сена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сено в вала́х. Роса опадё́т, дак сено в валки́ грести́ бу́дём. В валка́х сено быстря́е со́хнёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сено в валах. роса опадет, дак сено в валки грести будем. в валках сено быстряе сохнет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

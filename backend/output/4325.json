@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мытый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мы́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мытый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вымытый, выстиранный, чистый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пол-от только що мы́тый.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пол-от только що мытый."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

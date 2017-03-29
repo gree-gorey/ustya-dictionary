@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "седун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Седу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "седун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "седу́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "седуха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "седу́́́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "седунья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ребенок, который долго не начинает ходить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парнё́́́к-от седу́́́н, фсё на но́́́шки не стаё́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парнек-от седун, фсе на ношки не стает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "инвалид от рождения, который не может ходить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Была́́́ ещё́́́ сестра́́́ – ста́́́рая де́́́вка, седу́́́ха: безно́́́гая, но́́́ги не служи́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "была еще сестра – старая девка, седуха: безногая, ноги не служили."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

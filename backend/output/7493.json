@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сыскать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сыска́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сыскать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "найти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо по невесту ехать, уж и кони запряжё́ны, а не могут жениха сыска́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «Иван-да-Марья». М.И. Шалаурова.", 
+          "normalized_content": "надо по невесту ехать, уж и кони запряжены, а не могут жениха сыскать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

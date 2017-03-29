@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доветру", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дове́тру", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доветру"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "справить естественную нужду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду перед сном дове́тру.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду перед сном доветру."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

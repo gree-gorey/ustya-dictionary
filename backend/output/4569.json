@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "нарезаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наре́заться", 
+        "place": [
+          "Миня"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "нарезаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "навязаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наре́зались вы на мою душу!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нарезались вы на мою душу!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

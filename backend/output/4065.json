@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ляхи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́хи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляхи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ноги, бедра, ляжки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты ходишь по такому морозу, ля́хи голые!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты ходишь по такому морозу, ляхи голые!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

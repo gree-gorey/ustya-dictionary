@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "истись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́стись", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "истись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "браниться, ругаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хва́тит и́сьтись-то, на сибя́ погледи́! На роботу-ту лени́ва, а и́стись-то горазна! И́стись красны́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит исьтись-то, на сибя погледи! на роботу-ту ленива, а истись-то горазна! истись красны!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "зае́сть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заесть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

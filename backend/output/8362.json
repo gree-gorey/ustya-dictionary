@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чеща", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чеща́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чеща"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чаща лесная.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завёў ты миня в экую че́щу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завеу ты миня в экую чещу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

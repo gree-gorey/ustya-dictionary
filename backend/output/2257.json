@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "завались", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завали́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завались"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень много.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Брусницы на вы́рубках сейгод – завали́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "брусницы на вырубках сейгод – завались."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

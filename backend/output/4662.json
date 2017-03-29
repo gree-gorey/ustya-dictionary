@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "нахохриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нахо́хриться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нахохриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принять обиженный вид, быть недовольным (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "хо́хриться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хохриться"
+        }, 
+        {
+          "content": "Чево опеть нахо́хрилсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево опеть нахохрилсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

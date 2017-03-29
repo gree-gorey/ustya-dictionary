@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "жаль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жалко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Роду не жаль", 
+          "translation": "совсем не жалко.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "роду не жаль"
+        }, 
+        {
+          "content": "И тебе не жаль?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и тебе не жаль?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

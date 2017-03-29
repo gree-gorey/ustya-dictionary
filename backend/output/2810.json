@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "незнамо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Незна́мо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "незнамо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "применяется в сочетании со словами: что, кто, где, когда, как, какой, куда и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бро́дит незна́мо где!", 
+          "translation": "неизвестно где.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бродит незнамо где!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "зна́мо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "знамо"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "сожгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сожга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сожгать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сожегчи́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сожегчи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сожогчи́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сожогчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сжечь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́нести в огоро́дцы се́но плохоё да сожга́ть! Надо сучья сожегчи́. Пря́́́цьте спи́́́цьки-те от робя́́́т – до́́́ўго ли и́́́збу-ту сожокци́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вынести в огородцы сено плохое да сожгать! надо сучья сожегчи. пряцьте спицьки-те от робят – доуго ли избу-ту сожокци!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

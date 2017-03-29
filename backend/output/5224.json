@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "осунуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Осу́нуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "осунуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "похудеть, «измениться на лицо».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тёткина дочь що-то на лицо осу́нулась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "теткина дочь що-то на лицо осунулась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

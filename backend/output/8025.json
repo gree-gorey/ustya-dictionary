@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "ухлопаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухло́паться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухлопаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно устать от длительной работы.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "урабо́таться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уработаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "уро́биться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уробиться"
+        }, 
+        {
+          "content": "С э́́́той карто́́́вью я чи́́́сто фся ухло́́́паласе, всё одна́́́ да одна́́́ ро́́́блю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с этой картовью я чисто фся ухлопаласе, все одна да одна роблю."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно устать от ходьбы по бездорожью: в лесу, на болоте и т. д.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "уходи́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "уходиться"
+        }, 
+        {
+          "content": "Весь ухло́паўсе на боло́́́те, а принё́́́с-то моро́́́шки с гу́́́лькин нос.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь ухлопаусе на болоте, а принес-то морошки с гулькин нос."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "путний", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пу́тний", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "путний"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пу́́́тной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "путной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "путё́вый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "путевый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "путёвой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "путевой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "(о человеке) толковый, стоящий на правильном жизненном пути.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пу́́́тной мужы́́́к-от ей попа́́́ўсе, да и сама́́́ путё́́́вая ба́́́ба, а то, быва́́́ёт, сойду́́́тце гу́́́сь да гага́́́ра – сла́́́вная па́́́ра, да недо́́́ўго живу́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "путной мужык-от ей попаусе, да и сама путевая баба, а то, бывает, сойдутце гусь да гагара – славная пара, да недоуго живут!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "(о вещи) годный, подобающий, небесполезный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шшаны́ эки пу́тни", 
+          "translation": "штаны еще можно носить.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшаны эки путни"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

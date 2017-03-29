@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "невидко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не ви́дко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не видко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не видно в данный момент, в том числе из-за темноты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экой туман-то на болоте, ничево не ви́дко стало. Рук не ви́дко – все жнут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой туман-то на болоте, ничево не видко стало. рук не видко – все жнут."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "не видно на протяжении длительного периода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ево уж давно здись не ви́дко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ево уж давно здись не видко."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "не видно результата.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дела у тебя не ви́дко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дела у тебя не видко."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

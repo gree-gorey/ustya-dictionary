@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "паточить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́точить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паточить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лить мимо, выливаться через край, неплотную крышку или через дырку из емкости во время переноски, перевозки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напа́точить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напаточить"
+        }, 
+        {
+          "content": "Кто тут напа́точил молока на поў, прямо до порогу поло́й?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто тут напаточил молока на поу, прямо до порогу полой?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

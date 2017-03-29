@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кренуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крену́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кренуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сдвинуться, стронуться, сняться с места; уйти, уехать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Некуды я отсель не крену́сь, тут доживать буду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некуды я отсель не кренусь, тут доживать буду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

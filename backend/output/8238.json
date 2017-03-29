@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "царапалка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Цара́палка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "царапалка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "цара́пка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "царапка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "царапу́лька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "царапулька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сарапу́лька", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "сарапулька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ручное сельскохозяйственное орудие, приспособление для рыхления почвы на овощных грядках.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где у нас царапу́лька лежит? Надо гряды поры́хлить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где у нас царапулька лежит? надо гряды порыхлить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

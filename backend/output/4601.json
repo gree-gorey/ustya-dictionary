@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "насобирываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насоби́рываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насобирываться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "насби́рываться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "насбирываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собраться многим людям в одном месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В клубе вечерами молодёжи полно́ насоби́рывается.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в клубе вечерами молодежи полно насобирывается."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наполняться, собираться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На Среднем болоте клюква добро насби́рываитце. У нас всего трё́шник насоби́рывается.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на среднем болоте клюква добро насбирываитце. у нас всего трешник насобирывается."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

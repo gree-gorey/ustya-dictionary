@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "парнек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Парнё́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "парнек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "парню́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "парнюк"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "парни́шэцько", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "парнишэцько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мальчик, паренёк.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уш тако́́́й хоро́́́шой парни́́́шэцько – фсе бы таки́́́е бы́́́ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уш такой хорошой парнишэцько – фсе бы такие были!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

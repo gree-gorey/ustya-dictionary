@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "избухать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Избу́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "избухать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "израсходовать (о воде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Целый ушат воды избу́хала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целый ушат воды избухала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

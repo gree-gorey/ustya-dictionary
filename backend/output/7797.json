@@ -1,0 +1,290 @@
+{
+  "field_for_sorting": "тянуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тяну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тянуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снимать одежду и обувь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стянуть"
+        }, 
+        {
+          "content": "Тени́ ка́танец на себя, некак не могу с ноги стяну́ть, весь засты́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тени катанец на себя, некак не могу с ноги стянуть, весь застыл."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "набирать вес (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́тянуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "до́тянуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дотянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натянуть"
+        }, 
+        {
+          "content": "Бычок-от до нужного весу ещо не те́нёт. Вы́тянуло 2 пуда муки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бычок-от до нужного весу ещо не тенет. вытянуло 2 пуда муки."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болеть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́тянуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "растяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "растянуть"
+        }, 
+        {
+          "content": "Ногу опеть стало тяну́ть", 
+          "translation": "стала болеть.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ногу опеть стало тянуть"
+        }, 
+        {
+          "content": "Привяжи лист подорожника, может отте́нёт. Руку натяну́л (вы́тянул, растяну́л).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "привяжи лист подорожника, может оттенет. руку натянул (вытянул, растянул)."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "оттяну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оттянуть"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "проникать холоду, дыму, угару (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́тянуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натянуть"
+        }, 
+        {
+          "content": "Не сиди на земле, от земли-то так и те́нёт! Натяну́ло гарью откуда-то. Открой двери, пусь вы́тенёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не сиди на земле, от земли-то так и тенет! натянуло гарью откуда-то. открой двери, пусь вытенет."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "впитывать, вбирать в себя, отсыревать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Здись сыростью те́нёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "здись сыростью тенет."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вызывать изменения погоды, осадки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натянуть"
+        }, 
+        {
+          "content": "Погода к теплу́ те́нёт. Витёр-то какой, тучи на небе так и те́нёт. Туманом всё болото затяну́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "погода к теплу тенет. витер-то какой, тучи на небе так и тенет. туманом все болото затянуло."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выбирать слабину.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Натени́ вожжи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натени вожжи."
+        }
+      ], 
+      "n": "7"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "воровать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стянуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "утяну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "утянуть"
+        }, 
+        {
+          "content": "Ты гледи за им, мазу́риком, а то он у тебя можот що-нибудь утяну́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты гледи за им, мазуриком, а то он у тебя можот що-нибудь утянуть!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "натяну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "натянуть"
+        }
+      ], 
+      "n": "8"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

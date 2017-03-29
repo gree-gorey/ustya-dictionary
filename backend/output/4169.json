@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "менинник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мени́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "менинник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мяни́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мянинник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "именинник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты мени́нник севодни, поздравляем…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты менинник севодни, поздравляем…"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

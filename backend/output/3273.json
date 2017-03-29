@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "клонитьвсон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клони́ть в сон", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клонить в сон"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хотеть спать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Меня що-то в сон кло́нит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "меня що-то в сон клонит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

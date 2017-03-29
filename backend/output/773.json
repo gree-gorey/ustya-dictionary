@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "взыграть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взыгра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взыграть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резко подняться, подскочить вверх (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "взы́грывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взыгрывать"
+        }, 
+        {
+          "content": "Отойди́ пода́ле от де́рева, у ёво́ при ваўке можот ко́мель взыгра́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отойди подале от дерева, у ево при вауке можот комель взыграть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вволю", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вво́лю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вволю"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вво́люшку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вволюшку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вдоволь, сколько хочешь, много.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наелся сёдни грибов вво́люшку. Он до́ўго не жони́ўсе, дак нагуля́ўсе вво́лю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наелся седни грибов вволюшку. он доуго не жониусе, дак нагуляусе вволю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

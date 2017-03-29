@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "ней!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́й!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ней!"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нет!", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ней! Пошчо?", 
+          "translation": "Нет! Почему? С какой стати?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ней! пошчо?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

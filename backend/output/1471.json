@@ -1,0 +1,95 @@
+{
+  "field_for_sorting": "горечиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Горечи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горечиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "горя́читься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "горячиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сердиться, затевать спор, ссору, драку (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "загоречи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "загоречиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изгоречи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изгоречиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "погоречи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "погоречиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разгоречи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разгоречиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сгоречи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сгоречиться"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С утра всё горечи́тся и горечи́тся. Нечево на меня горечи́ться! Вся изгорячи́лась, уймись давай! Ну, чего ты разгоречи́лся? Зря я на нево сгорячи́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с утра все горечится и горечится. нечево на меня горечиться! вся изгорячилась, уймись давай! ну, чего ты разгоречился? зря я на нево сгорячилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

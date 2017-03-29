@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "убеганный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Убё́ганный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "убеганный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно уставший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она севодни вся убё́ганная, столько гостей понае́хало, с утра не присе́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она севодни вся убеганная, столько гостей понаехало, с утра не присела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

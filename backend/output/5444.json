@@ -1,0 +1,153 @@
+{
+  "field_for_sorting": "пахнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пахну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пахнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "опахну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "опахнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мести, чистить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пахнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпахнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запахну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запахнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спахну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спахнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пахну́ла пару раз веником и всё! Вы́пахни мусор из-за печки. Иди-ко запахни́́ у пе́чи-то!", 
+          "translation": "подмети, мусор убери", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пахнула пару раз веником и все! выпахни мусор из-за печки. иди-ко запахни у печи-то!"
+        }, 
+        {
+          "content": "вычисти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опахну́ть ка́танцы", 
+          "translation": "обмести веником, отряхнуть валенки от снега.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опахнуть катанцы"
+        }, 
+        {
+          "content": "Спахни́ снег с крыльца.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спахни снег с крыльца."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "паха́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пахать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повеять холодом, ветром.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Двери открыл, как ветром пахну́ло! Не выходи по́тным на улицу, а то ветром опахнё́т, просты́нёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двери открыл, как ветром пахнуло! не выходи потным на улицу, а то ветром опахнет, простынешь!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повеять каким-либо запахом, дымом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напахну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напахнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "напа́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напахивать"
+        }, 
+        {
+          "content": "Шщо́́́-то бу́́́селью пахну́́́ло – шщо могло́́́ забуси́́́ть-то? Що-то дымом (напахну́ло) стало напа́хивать. Так перега́́́ром-то опахну́́́ло-то дак, срами́на ты, пья́́́ная ро́́́жа!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо-то буселью пахнуло – шщо могло забусить-то? що-то дымом (напахнуло) стало напахивать. так перегаром-то опахнуло-то дак, срамина ты, пьяная рожа!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

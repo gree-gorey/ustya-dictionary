@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "летник1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ле́тник 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "летник 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дорога, по которой ездят только летом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По ле́тнику-то ближе бы ехать, но там не прочи́щён снег.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по летнику-то ближе бы ехать, но там не прочищен снег."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

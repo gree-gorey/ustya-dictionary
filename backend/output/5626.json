@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "письня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пи́сьня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "письня"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пи́сня", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "писня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "песня.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хоть и тяжёло жилось раньше, но всегда пи́сьни запевали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хоть и тяжело жилось раньше, но всегда письни запевали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

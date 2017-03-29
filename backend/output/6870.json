@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "семисел", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Семисё́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "семисел"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "семисё́лка", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "variant", 
+        "normalized_content": "семиселка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непостоянный человек, у кого семь пятниц на неделе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ишь какая семисё́лка! Круто-то изверну́лась!", 
+          "translation": "так раньше говорила бабушка, когда ее обманывали.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ишь какая семиселка! круто-то извернулась!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

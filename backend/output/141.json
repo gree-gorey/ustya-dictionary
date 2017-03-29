@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "басарыга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Басары́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "басарыга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "модница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну уш она у тебя и басары́га, на дню два раза платье переодевает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну уш она у тебя и басарыга, на дню два раза платье переодевает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

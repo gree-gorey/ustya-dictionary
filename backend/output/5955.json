@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "помазейная(одежда)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Помазе́йная (одежда)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "помазейная (одежда)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сшитая из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "помазе́и", 
+          "tag": "quote", 
+          "normalized_content": "помазеи"
+        }, 
+        {
+          "content": "XIX начале XX веков ткани", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бумазе́и", 
+          "tag": "quote", 
+          "normalized_content": "бумазеи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

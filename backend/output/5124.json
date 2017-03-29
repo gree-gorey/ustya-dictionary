@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "опять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Фся́́́ опе́́́ть росстро́́́иласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фся опеть росстроиласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

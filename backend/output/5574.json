@@ -1,0 +1,99 @@
+{
+  "field_for_sorting": "петать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "петать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "с усилием тащить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "допе́тать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "допетать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "припе́тать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "припетать"
+        }, 
+        {
+          "content": "Пошщо́́́ жо таку́́́ю тяжолу́́́нную но́́́шу на́́́до пе́́́тать? Что ты пе́таешь такой мешок во ли́стницу один, веть надорвёшьсе! Как и допе́́́таў-то! Еле припе́тал экой тяжолу́щой мешок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошщо жо такую тяжолунную ношу надо петать? что ты петаешь такой мешок во листницу один, веть надорвешьсе! как и допетау-то! еле припетал экой тяжолущой мешок."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "до предела класть, пихать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запе́тать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запетать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напе́тать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напетать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "упе́тать)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "упетать)"
+        }, 
+        {
+          "content": "Не надо пе́тать полные мешки, а то веть не завяжёшь! Целой пестерь грибов напе́тал. Надо как-то ещо упе́тать рукавицы в кото́мку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо петать полные мешки, а то веть не завяжешь! целой пестерь грибов напетал. надо как-то ещо упетать рукавицы в котомку."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

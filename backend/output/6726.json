@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "сажать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сажа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сажать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "садить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заса́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засаживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уса́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "усаживать"
+        }, 
+        {
+          "content": "Он запёрся в кли́те, едва его оттуда вы́вели. А как надо было его за стол сажа́ть, его долго искали", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бывальщина «Иван-да Марья». М.И. Шалаурова.", 
+          "normalized_content": "он заперся в клите, едва его оттуда вывели. а как надо было его за стол сажать, его долго искали"
+        }, 
+        {
+          "content": "Карто́вью надо было этот угоро́д заса́живать. Будём бабку на телё́гу уса́живать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "картовью надо было этот угород засаживать. будем бабку на телегу усаживать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

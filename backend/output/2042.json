@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "есь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Есь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "есь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "есть, имеется.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Есь – дак живи не бое́сь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(присказка).", 
+          "normalized_content": "есь – дак живи не боесь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

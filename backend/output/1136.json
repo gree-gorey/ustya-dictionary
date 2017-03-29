@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "вызвонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́звонить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вызвонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "всё, без остатка съесть или выпить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё блюдо крошани́ны", 
+          "translation": "(накрошенного в жидкость хлеба)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все блюдо крошанины"
+        }, 
+        {
+          "content": "вы́́звониў.", 
+          "tag": "quote", 
+          "normalized_content": "вызвониу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

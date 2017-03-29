@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "снежница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Снежни́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "снежница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "весенний снег, перемешенный с водой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не бреди́ туды, там такая снежни́ца, сапоги наче́рпаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не бреди туды, там такая снежница, сапоги начерпаешь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

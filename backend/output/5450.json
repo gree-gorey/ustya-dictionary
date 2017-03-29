@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "пачесный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́чесный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пачесный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "домотканый холст (тонкое полотно), изготовленный из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́чеси", 
+          "tag": "quote", 
+          "normalized_content": "пачеси"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

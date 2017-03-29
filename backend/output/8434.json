@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "чурильник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чури́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чурильник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лейка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Набери́-ко чури́льник воды, да пополива́й морковь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "набери-ко чурильник воды, да пополивай морковь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

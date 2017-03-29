@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ране", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ра́не", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ране"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пора́не", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поране"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раньше.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́не-то было ведь по-другому. Пора́не вста́нёшь, боле успиёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ране-то было ведь по-другому. поране встанешь, боле успиешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

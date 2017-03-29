@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заарывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заа́рывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заарывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запахивать навоз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Навозу на этот конец много навозили, трудно будёт ево заа́рывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "навозу на этот конец много навозили, трудно будет ево заарывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

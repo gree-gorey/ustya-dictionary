@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кататься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ката́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кататься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лежать, бездельничая.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит ката́ться, пора става́ть, люди на роботу уже пошли, а ты всё лёжишь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит кататься, пора ставать, люди на роботу уже пошли, а ты все лежишь!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он сёдни целой день ката́ется, не стаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он седни целой день катается, не стает."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

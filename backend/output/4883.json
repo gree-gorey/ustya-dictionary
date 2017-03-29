@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "обвапливать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обва́пливать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обвапливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громким голосом, криком созывать всех в одно место, обратиться к кому-либо издали, остановить идущего (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обвопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обвопить"
+        }, 
+        {
+          "content": "Надо ёво обвопи́ть, пока недалёко ушёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо ево обвопить, пока недалеко ушел."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вопи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вопить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

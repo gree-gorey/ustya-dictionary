@@ -1,0 +1,105 @@
+{
+  "field_for_sorting": "грабаздаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Граба́здаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грабаздаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "находясь в воде, передвигаться, плыть, загребая воду конечностями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Собачонок к берегу граба́́здаитце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собачонок к берегу грабаздаитце."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "грести веслами, плывя в лодке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тепере твоя очередь граба́здаться вёслами.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тепере твоя очередь грабаздаться веслами."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "взбираться вверх, выползать откуда-либо, цепляясь за все подручное (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "взграба́здаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взграбаздаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́грабаздаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выграбаздаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заграба́здаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заграбаздаться"
+        }, 
+        {
+          "content": "Пошла спре́ми, и едва в крутой угор вы́грабаздалась. Как-то надо на чердак взграба́здатьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошла спреми, и едва в крутой угор выграбаздалась. как-то надо на чердак взграбаздатьсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "грама́здаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "грамаздаться"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

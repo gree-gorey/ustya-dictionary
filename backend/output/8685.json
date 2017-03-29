@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "яга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Яга", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "яга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одиноко торчащий передний зуб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куса́ть-то не могу, вон спе́реду одна яга́ тольки и оста́ласе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кусать-то не могу, вон спереду одна яга тольки и осталасе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

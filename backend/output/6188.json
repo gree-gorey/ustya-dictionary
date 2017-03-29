@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "приладить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прила́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приладить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособить, пристроить, прикрепить, приделать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "прила́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прилаживать"
+        }, 
+        {
+          "content": "На́́́до бы пери́́́льца к ли́́́сьнице прила́́́дить, высока́́́ дак. По́лоз у дровней сломалсе, надо как-то ево прила́живать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо бы перильца к лисьнице приладить, высока дак. полоз у дровней сломалсе, надо как-то ево прилаживать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́дить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "2"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

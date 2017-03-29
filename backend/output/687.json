@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вершный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́ршный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вершный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "наве́ршный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "навершный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "едущий верхом на лошади, верховой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мы в подростковом возрасте любили ездить ве́ршными. Во́но бригади́р к нам йи́́дёт наве́ршным.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы в подростковом возрасте любили ездить вершными. воно бригадир к нам йидет навершным."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

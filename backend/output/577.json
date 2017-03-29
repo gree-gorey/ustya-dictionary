@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вглазах", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вглаза́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вглазах"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в видимости, под наблюдением.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скот севодни весь день вглаза́х ходит на ота́ве в Со́гряной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скот севодни весь день вглазах ходит на отаве в согряной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

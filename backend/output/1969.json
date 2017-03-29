@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "егабова", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ега́бова", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "егабова"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "еги́боба", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "егибоба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "злая, коварная женщина, ведьма, «баба-яга».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Остерегайтесь этой еги́бобы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "остерегайтесь этой егибобы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

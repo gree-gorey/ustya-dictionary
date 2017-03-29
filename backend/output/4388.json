@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наводитьрожу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наводи́ть ро́жу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наводить рожу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полнеть, толстеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пей воду, наводи́ ро́жу, а шея как бы́чий хвост", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "пей воду, наводи рожу, а шея как бычий хвост"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "шаламенье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шала́меньё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шаламенье"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек неумелый, неуклюжий, неловкий, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ху́же ба́бы", 
+          "tag": "quote", 
+          "normalized_content": "хуже бабы"
+        }, 
+        {
+          "content": "Шала́меньё ты шала́меньё ходишь, уж этой роботы и то не мог сделать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шаламенье ты шаламенье ходишь, уж этой роботы и то не мог сделать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

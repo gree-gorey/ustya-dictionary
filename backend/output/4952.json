@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "обрало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́брало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обрало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "констатация состояния человека, который потерял равновесие и упал.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нещо о́брало, до чего доляга́лсе!", 
+          "translation": "про пьяного.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нещо обрало, до чего долягалсе!"
+        }, 
+        {
+          "content": "Обнесло́́́ меня́́́ да о́́́брало – ле́́́шо спу́́́цькало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обнесло меня да обрало – лешо спуцькало."
+        }, 
+        {
+          "content": "То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опрахо́тило", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опрахотило"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

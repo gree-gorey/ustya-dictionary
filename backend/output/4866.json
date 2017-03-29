@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нутрености", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ну́трености", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нутрености"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутренности, внутренние органы людей и животных.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "нутро", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нутро"
+        }, 
+        {
+          "content": "Кажитце все ну́трености боля́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кажитце все нутрености болят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

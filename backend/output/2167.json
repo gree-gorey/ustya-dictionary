@@ -1,0 +1,124 @@
+{
+  "field_for_sorting": "жила", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жила"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "жи́лы", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "жилы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сосуды, вены, сухожилия у людей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На роботе в лесу за двадцеть годов все жи́лы вытянуты.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на роботе в лесу за двадцеть годов все жилы вытянуты."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сухожилия животных, используемые в быту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жи́лами шили вместо ниток, из них делали силки и ловушки на птиц и зверей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жилами шили вместо ниток, из них делали силки и ловушки на птиц и зверей."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "один из изолированных проводов в кабеле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пятижи́льный кабель.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пятижильный кабель."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "русло подземного водоема, водоносный слой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Копая колодец, старались попасть на водяную жи́лу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копая колодец, старались попасть на водяную жилу."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "очень худой, тощий человек, о котором говорят: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кость да жи́ла", 
+          "tag": "quote", 
+          "normalized_content": "кость да жила"
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скопидом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну ты и жи́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну ты и жила!"
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

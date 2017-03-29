@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "крутик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крути́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крутик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "круту́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крутушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крутой подъем; крутой берег; крутая возвышенность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В такой крути́к с возом не выехать, есть объездная дорога.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в такой крутик с возом не выехать, есть объездная дорога."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "кру́ча", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круча"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

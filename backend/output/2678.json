@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "затягиваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Затя́гиваться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затягиваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "затяну́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "затянуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "утяну́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "утянуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зайти, уйти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодни далёко в лес затяну́лись, дак едва обратно вышли. Куды-то опеть из дому утяну́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни далеко в лес затянулись, дак едва обратно вышли. куды-то опеть из дому утянулсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "завалиться спать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Затяну́лся на полати и проспал весь день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "затянулся на полати и проспал весь день."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

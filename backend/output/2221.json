@@ -1,0 +1,111 @@
+{
+  "field_for_sorting": "жуцить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жу́цить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жуцить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жу́чить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стегать, хлестать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажу́цить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажуцить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отжу́цить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отжуцить"
+        }, 
+        {
+          "content": "Да вицей его надо жу́цить, а не пинать", 
+          "translation": "(пса).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да вицей его надо жуцить, а не пинать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") пить жадно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́жуцить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выжуцить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажу́читься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажучиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "жу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жучкать"
+        }, 
+        {
+          "content": "Шчо холодя́нку-ту жу́чишь, лучше бы цяю попил! Целую коло́ду воды налил, дак лошади-то воды нажу́чились.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо холодянку-ту жучишь, лучше бы цяю попил! целую колоду воды налил, дак лошади-то воды нажучились."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

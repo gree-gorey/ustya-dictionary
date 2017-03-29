@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "богкамнем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бог ка́мнем", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бог камнем"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "даст)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "даст)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выражение, предупреждающее человека о недопустимости делать или говорить что-либо плохое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не говори так, а то тебе Бог ка́мнем даст.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не говори так, а то тебе бог камнем даст."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

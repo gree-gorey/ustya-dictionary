@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "изорватьвряски", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изорва́́́ть в ря́́́ски", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изорвать в ряски"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в мелкие кусочки, тряпочки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Ря́ски", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ряски"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

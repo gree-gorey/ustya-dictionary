@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поступай, как знаешь, все равно тебя не переубедишь, упрямого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лешаки́ с тобой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лешаки с тобой!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Леша́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лешак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

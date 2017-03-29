@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "копотить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копоти́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копотить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поднимать пыль, копоть; коптить (о лампе).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Машина по дороге копоти́т. Лампа копоти́т порато, убавь пламё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "машина по дороге копотит. лампа копотит порато, убавь пламе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

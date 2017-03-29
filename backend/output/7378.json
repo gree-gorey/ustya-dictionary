@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стуломзастыть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сту́лом засты́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стулом застыть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замерзнуть монолитом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Капуста в уша́те сту́лом засты́ла, можно только топориком наковыря́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "капуста в ушате стулом застыла, можно только топориком наковырять."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

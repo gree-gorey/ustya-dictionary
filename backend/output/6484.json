@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "разориться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разори́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разориться"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приобрести дорогостоящую для себя вещь; истратить деньги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И всё-таки я разори́лась, купила сибе плю́шевую жаке́тку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и все-таки я разорилась, купила сибе плюшевую жакетку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

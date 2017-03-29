@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зашоркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зашо́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зашоркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затереть, загрязнить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо жо так весь пе́ред (перё́д) у куфайки зашо́ркать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жо так весь перед (перед) у куфайки зашоркать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шо́ркать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шоркать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

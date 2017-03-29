@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "хохотунчик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хохоту́нчик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хохотунчик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смешливый, с веселым нравом, никогда неунывающий человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Таки́м хохоту́нчиком ле́гче жизнь прожи́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "таким хохотунчиком легче жизнь прожить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

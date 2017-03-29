@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "баран", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баран"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бора́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "боран"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пустоцвет у черемухи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На черёмухе которой год одне бора́ны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на черемухе которой год одне бораны."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

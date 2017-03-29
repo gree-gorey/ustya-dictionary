@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зачинжирить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачинжи́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачинжирить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зачиньжи́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зачиньжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать моросить дождю.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С утра дожь зачинжи́рит и на весь день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с утра дожь зачинжирит и на весь день."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

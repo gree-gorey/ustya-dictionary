@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "баженик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баже́ник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баженик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баже́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баженник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "боже́ник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "боженик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баже́ница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баженица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "боже́ница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "боженица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баже́нка", 
+        "place": [
+          "Квазеньга"
+        ], 
+        "type": "variant", 
+        "normalized_content": "баженка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "любимый, желанный ребенок, любимец в семье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он у нас баже́нник. Те́шишь как баже́нника! Ди́тятко бажё́ное.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он у нас баженник. тешишь как баженника! дитятко баженое."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

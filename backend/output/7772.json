@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "тырить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ты́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тырить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "красть, брать без спроса (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наты́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натырить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сты́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стырить"
+        }, 
+        {
+          "content": "Гледи за им, он ты́рить горазд. Де эстоко наты́рил? Без зазре́́́нья со́́́вести фсё ты́́́рят и ты́́́рят и никово́́́ в тюрму́́́ не садя́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гледи за им, он тырить горазд. де эстоко натырил? без зазренья совести фсе тырят и тырят и никово в тюрму не садят!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "заты́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "затырить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

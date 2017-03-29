@@ -1,0 +1,103 @@
+{
+  "field_for_sorting": "щуриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щу́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щуриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жмуриться, слегка прикрывать глаза веками (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "защу́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "защуриться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прищу́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прищуриться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разощу́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разощуриться"
+        }, 
+        {
+          "content": "Що щу́́́риссе-то, не ви́́́дишь я́́́тно, що́́́ ли?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що щуриссе-то, не видишь ятно, що ли?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") недобро глядеть (с прищуром) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ощу́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ощуриться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сощу́риться)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сощуриться)"
+        }, 
+        {
+          "content": "Нечего на меня щу́ритьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего на меня щуритьсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

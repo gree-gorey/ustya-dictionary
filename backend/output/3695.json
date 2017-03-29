@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "круче", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кру́че", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "круче"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "круча́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кручая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "покру́че", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покруче"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "покруча́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покручая"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстрее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты кру́че меня ходишь-то, дак иди вперёд, а я одна дойду давай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты круче меня ходишь-то, дак иди вперед, а я одна дойду давай."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "проворнее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она круча́я меня. Дядя Матвей был помоложе, покру́че.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она кручая меня. дядя матвей был помоложе, покруче."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

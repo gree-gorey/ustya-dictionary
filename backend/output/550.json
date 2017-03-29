@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вапа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́па", 
+        "place": [
+          "Студенец"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "вапа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глина красного цвета, использовалась для изготовления краски.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ва́пой писа́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вапой писали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

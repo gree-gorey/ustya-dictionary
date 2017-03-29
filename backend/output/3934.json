@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "листок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Листо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "листок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скол в виде пластины.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лёд-от от досок листка́ми откалывается. Белый сахар легко колется листка́ми.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лед-от от досок листками откалывается. белый сахар легко колется листками."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

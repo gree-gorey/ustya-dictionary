@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "иордан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Иорда́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "иордан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прорубь, полынья для Крещенского освящения воды и купания.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ёрда́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ердань"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ерда́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ердан"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

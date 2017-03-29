@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "издержаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Издержа́ться", 
+        "place": [
+          "Квазеньга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "издержаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "околеть, умереть (о скоте).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера корова издержа́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера корова издержалась."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закончиться (о продуктах птания).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мука у нас вся издержа́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мука у нас вся издержалась."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

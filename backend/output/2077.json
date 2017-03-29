@@ -1,0 +1,163 @@
+{
+  "field_for_sorting": "жамкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жамкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́мкать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жомкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жать, сдавливать руками, отжимать (например, при стирке) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́жамкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выжамкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нажа́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нажамкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пожа́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пожамкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "жа́мнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жамнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "жиману́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жимануть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "жо́мкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "жомкнуть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жа́́́мкай лу́́́цше лопо́́́тьё-то, ци́́́шще бу́́́дёт. Пожа́́́мкай мале́́́нько, да и до́́ро́днё. Всё бельё вы́жамкала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жамкай луцше лопотье-то, цишще будет. пожамкай маленько, да и дородне. все белье выжамкала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сдавливать руками, тискать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не жа́́́мкай ти́́́тку-ту, а сси", 
+          "translation": "соси (грудному ребенку). «", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не жамкай титку-ту, а сси"
+        }, 
+        {
+          "content": "Целова́́́тце не уми́́́ют, то́́́ко ти́́́тки жа́́́мкают", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(о кавалерах", 
+          "normalized_content": "целоватце не умиют, токо титки жамкают"
+        }, 
+        {
+          "content": "из частушки).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обнимать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давно не виделись, дак при встрече как начаў миня жа́мкать в бере́ме!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давно не виделись, дак при встрече как начау миня жамкать в береме!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "месить, перемешивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Аржаноё тесто на коровай перед выпечкой долго жа́мкали, добавляя муку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "аржаное тесто на коровай перед выпечкой долго жамкали, добавляя муку."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лощина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лощи́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лощина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "низкое сырое место в лесу или на сенокосе, поросшее высокой травой и кустарником.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В лощи́не много снегу намело́, на коне с во́зом не проехать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в лощине много снегу намело, на коне с возом не проехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

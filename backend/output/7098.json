@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "смотритель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смотри́тель", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смотритель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смотритель государственных хлебных запасов.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

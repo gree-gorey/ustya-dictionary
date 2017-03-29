@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "семерик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Семери́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "семерик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "что-либо, содержащее в себе семь единиц. Например,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "семери́к", 
+          "tag": "quote", 
+          "normalized_content": "семерик"
+        }, 
+        {
+          "content": "лошадей, веревка из семи прядей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парню-то семери́к сту́кнуло!", 
+          "translation": "мальчику исполнилось семь лет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парню-то семерик стукнуло!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

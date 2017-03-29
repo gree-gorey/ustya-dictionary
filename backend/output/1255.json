@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вытуливаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выту́ливаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вытуливаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выставлять себя напоказ.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит выту́́ливаться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вытуливаться!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

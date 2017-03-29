@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жауко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́ўко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жауко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жалеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В но́вых сапога́х жа́ўко итти́ по грезе́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в новых сапогах жауко итти по грезе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

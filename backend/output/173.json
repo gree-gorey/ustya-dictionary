@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "бахилы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бахи́лы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бахилы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зимняя обувь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В старину мужчины носили бахи́лы из кожи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в старину мужчины носили бахилы из кожи."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "большая, некрасивая, неудобная, разношенная обувь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нащо́ экие бахи́лы-то наволо́к?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нащо экие бахилы-то наволок?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

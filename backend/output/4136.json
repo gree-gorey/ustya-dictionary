@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "матюк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Матю́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "матюк"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "матю́́́г", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "матюг"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собир.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") мат вообще, матерная брань.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А сколь у них матюка́-то!", 
+          "translation": "много матюкаются.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а сколь у них матюка-то!"
+        }, 
+        {
+          "content": "Пошщо́́́ сло́́́ва-та бес матю́́́га не́́́ту? – А матю́́́г у мня́́́ для свя́́́ски сло́́́ф.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошщо слова-та бес матюга нету? – а матюг у мня для свяски слоф."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "определенное матерное выражение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нагну́л матюко́в", 
+          "translation": "употребил много матов, нецензурных выражений.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нагнул матюков"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

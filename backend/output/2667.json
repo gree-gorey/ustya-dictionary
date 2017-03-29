@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "затулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зату́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затулить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "затули́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "затулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запихать, засунуть; положить (поставить) нечто в укромное место (в угол, за печку, на полати), припрятать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На́́́до бы куды́́́ пода́́́льше затули́́́ть буты́́́ўку-ту, шщоп не нашё́́́ў пока́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо бы куды подальше затулить бутыуку-ту, шщоп не нашеу пока."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прикрыть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Затули ́ -ко калитку-ту, куры ведь выбежат!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "затули  -ко калитку-ту, куры ведь выбежат!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заслонить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Седь-ко маленько у ́ сторонь, а то свет затули ́ л!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "седь-ко маленько у  сторонь, а то свет затули  л!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

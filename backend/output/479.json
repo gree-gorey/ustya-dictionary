@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бунт", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бунт", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бунт"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "штабель, кладка бревен, сложенная так, чтобы она нависала над рекой для облегчения сброса бревен в реку во время сплавных работ.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завтра будём бунты́ ката́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра будем бунты катать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

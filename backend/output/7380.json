@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "ступень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сту́пень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ступень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лапоть без задника и завязок (как большие шлепанцы). В сту́́́пнях ходили во двор ко скоту, шоркали голиком пол.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

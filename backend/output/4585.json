@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "наразвал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наразва́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наразвал"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вразва́л", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вразвал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ вспашки, когда начинают пахать с краев участка, отваливая вспаханное на края, и заканчивают одной бороздой по середине участка.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "насва́л", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "насвал"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

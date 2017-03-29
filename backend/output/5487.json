@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перебор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перебо́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перебор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перекат на речке (обычно неглубокое место с быстрым течением воды).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Люблю́́́ я у перебо́́́ра постое́́́ть, послу́́́шать ри́́́чку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "люблю я у перебора постоеть, послушать ричку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

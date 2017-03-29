@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сопнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сопну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сопнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сдвинуть, сбить ударом ноги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гриб сопну́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гриб сопнул."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

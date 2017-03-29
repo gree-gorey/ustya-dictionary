@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "блюзгаузный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Блюзгау́зный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "блюзгаузный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брезгливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уж бо́льно ты блюзгау́зный!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уж больно ты блюзгаузный!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

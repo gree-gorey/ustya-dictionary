@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "увечиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уве́читься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "увечиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "уви́читься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "увичиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "получать травмы, приводяшие к инвалидности", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изуве́читься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изувечиться"
+        }, 
+        {
+          "content": "На такой роботе токо уве́читьсе! Иван ищо́ по мо́лодости в лесу́ изуви́чиўсе, дак всю жизь инвали́дом живё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на такой роботе токо увечитьсе! иван ищо по молодости в лесу изувичиусе, дак всю жизь инвалидом живет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

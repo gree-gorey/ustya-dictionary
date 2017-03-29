@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "изтемнойвтемную", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Из тё́мной в тё́мную", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "из темной в темную"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "от темна до темна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мы раньше ро́били из тё́мной в тё́мную, све́ту бе́лово не ви́дели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мы раньше робили из темной в темную, свету белово не видели."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Втё́мную", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "втемную"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

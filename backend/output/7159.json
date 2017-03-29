@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "сопленосой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соплено́сой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сопленосой"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сопливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, у Луке́рьи робёночок-то дак уш больно соплёно́сой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, у лукерьи робеночок-то дак уш больно сопленосой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

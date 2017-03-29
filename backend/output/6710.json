@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "рясуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рясу́́́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рясуха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ряхо́тьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ряхотье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тряпки, ветошь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да ту́́́тока уш ди́́́льново ницево́́́ не найти́́́ – одно́́́ ряхо́́́тьё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да тутока уш дильново ницево не найти – одно ряхотье."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ря́ски", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ряски"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

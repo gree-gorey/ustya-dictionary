@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "мыкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мы́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мыкаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "умы́каться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "умыкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедствовать, мучаться.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "уставать на работе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит ёму одному мы́каться, пойду помогу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит ему одному мыкаться, пойду помогу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "косовина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косови́на", 
+        "place": [
+          "Починовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "косовина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклон, искривленное положение", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сыздале вижу, столбы с косови́ной поставлены.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сыздале вижу, столбы с косовиной поставлены."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

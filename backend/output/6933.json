@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "ситцевик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́тцевик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ситцевик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "си́течник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ситечник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одежда из ситца.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "си́тчик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ситчик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

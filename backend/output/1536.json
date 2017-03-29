@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "громобой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Громобо́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "громобой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "углубление на стволе дерева, не зарастающее корой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Громобо́й – последствия попадания молнии.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "громобой – последствия попадания молнии."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

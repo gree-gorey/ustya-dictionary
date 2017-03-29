@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "упадь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́падь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "упадь"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чахлая, тощая, малосильная лошадь или другое домашнее животное.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На э́той у́пади далё́ко не уи́дёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на этой упади далеко не уидешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

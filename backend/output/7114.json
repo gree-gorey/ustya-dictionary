@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "сноп", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сноп", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сноп"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "связка сжатых колосьев, соломы, прутьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хлеб вя́жется снопа́ми", 
+          "translation": "пучками в 6-8 четвертей окружности. Обвязка на нем", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хлеб вяжется снопами"
+        }, 
+        {
+          "content": "перевя́зка", 
+          "tag": "quote", 
+          "normalized_content": "перевязка"
+        }, 
+        {
+          "content": "вя́зка", 
+          "tag": "quote", 
+          "normalized_content": "вязка"
+        }, 
+        {
+          "content": "перевя́сло", 
+          "tag": "quote", 
+          "normalized_content": "перевясло"
+        }, 
+        {
+          "content": "; низ снопа", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ко́мель", 
+          "tag": "quote", 
+          "normalized_content": "комель"
+        }, 
+        {
+          "content": "огу́зок", 
+          "tag": "quote", 
+          "normalized_content": "огузок"
+        }, 
+        {
+          "content": "; верх снопа", 
+          "tag": "def"
+        }, 
+        {
+          "content": "голова́", 
+          "tag": "quote", 
+          "normalized_content": "голова"
+        }, 
+        {
+          "content": "воло́сье", 
+          "tag": "quote", 
+          "normalized_content": "волосье"
+        }, 
+        {
+          "content": "коло́сьё", 
+          "tag": "quote", 
+          "normalized_content": "колосье"
+        }, 
+        {
+          "content": "Сноп соломы использовали в процессе производства пива как сито, через которое его процеживали; клали в печь как подкладку, на которой сушили грибы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ставь сноп-то голово́й (коло́сьём) кверху.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ставь сноп-то головой (колосьем) кверху."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

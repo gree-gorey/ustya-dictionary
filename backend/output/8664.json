@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "этта", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́тта", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "этта"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́ттака", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "эттака"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "здесь, в этом месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди сюда. Э́тта ягод много. Э́́́тта ве́́́тром цвет не оду́́́ло, дак и я́́́годы есь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди сюда. этта ягод много. этта ветром цвет не одуло, дак и ягоды есь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

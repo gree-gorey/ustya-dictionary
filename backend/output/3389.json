@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "колько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́лько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сколько.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́́́лько бу́́́дёт пе́́́тью пе́́́ть? – два́́́тцеть пе́́́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колько будет петью петь? – дватцеть петь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

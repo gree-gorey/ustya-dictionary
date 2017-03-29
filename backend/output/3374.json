@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "колотиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колоти́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колотиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заколоти́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заколотиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стучать в ворота, дверь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пришёл за́полночь и коло́титсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришел заполночь и колотитсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "работать, издавая соответствующий звук.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево-то там коло́́тятся", 
+          "translation": "работают, стучат топорами.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево-то там колотятся"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

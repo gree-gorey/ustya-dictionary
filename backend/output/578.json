@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вглухую", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вглуху́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вглухую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплошь, наглухо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Круг дому забор поставили вглуху́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "круг дому забор поставили вглухую."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

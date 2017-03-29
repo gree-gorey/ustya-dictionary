@@ -1,0 +1,109 @@
+{
+  "field_for_sorting": "допереть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Допере́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "допереть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дотащить, донести.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наберёшь пестерь ягод, еле допрё́шь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наберешь пестерь ягод, еле допрешь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "додумать, решить самому какую-либо задачу, проблему.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Некак не мо́́́жот эту задачку допере́ть, всё-то надо ему подсказывать", 
+          "translation": "(о школьнике).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некак не можот эту задачку допереть, все-то надо ему подсказывать"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "уличить в чем-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Допри́ ево, попробуй, ду́машь он тибе чево ска́́́жот?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "допри ево, попробуй, думашь он тибе чево скажот?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пере́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "переть"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "докрыть, закрыть до конца.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "дотвори́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дотворить"
+        }, 
+        {
+          "content": "В печке все угли поту́хли, пора допере́ть трубку", 
+          "translation": "(печную задвижку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в печке все угли потухли, пора допереть трубку"
+        }, 
+        {
+          "content": "Дотвори́ (допри́) двери, щобы мухи в избу не лити́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дотвори (допри) двери, щобы мухи в избу не литили."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

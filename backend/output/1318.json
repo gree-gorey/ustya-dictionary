@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "гармоня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гармо́ня", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "гармоня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гармонь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль-не голоси́сто-то гармо́ня за рекой играёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль-не голосисто-то гармоня за рекой играет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

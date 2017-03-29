@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "залипучка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Залипу́чка", 
+        "place": [
+          "Митинская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "залипучка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запревшее, загнившее в стогу сено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Влажное сено, сгоревшее в стогу, называли залипу́чкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "влажное сено, сгоревшее в стогу, называли залипучкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

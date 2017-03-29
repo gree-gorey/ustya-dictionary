@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́́́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кое"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "какое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коё-где всходы взошли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кое-где всходы взошли."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ко́ю", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кою"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

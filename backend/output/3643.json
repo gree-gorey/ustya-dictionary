@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "кривульник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Криву́льник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кривульник"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лес с кривыми, изогнутыми стволами.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "криву́ля", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кривуля"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

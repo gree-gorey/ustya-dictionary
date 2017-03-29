@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "доит", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дои́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доит"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "даёт молоко (о корове, козе). Если корова", 
+          "tag": "def"
+        }, 
+        {
+          "content": "дои́т", 
+          "tag": "quote", 
+          "normalized_content": "доит"
+        }, 
+        {
+          "content": ", то хозяйка ее", 
+          "tag": "def"
+        }, 
+        {
+          "content": "до́ит", 
+          "tag": "quote", 
+          "normalized_content": "доит"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кормной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кормно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кормной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упитанный, гладкий, сытый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На кормно́м-то коне поўде́ла пахать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на кормном-то коне поудела пахать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

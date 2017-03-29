@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "оводно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́водно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оводно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́вадно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "овадно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "очень много кровососущих насекомых.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В жаркую, безветреную и влажную погоду скоту в пасве о́водно. Ну и день севодни: о́вадно, ко́марно, жом… Гроза никак будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в жаркую, безветреную и влажную погоду скоту в пасве оводно. ну и день севодни: овадно, комарно, жом… гроза никак будет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́ут", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "паут"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гнус", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гнус"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

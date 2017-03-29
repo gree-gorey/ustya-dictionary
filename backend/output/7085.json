@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смокнутьдонитки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смо́кнуть до ни́тки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смокнуть до нитки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "промокнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай раздевайсе скори́е, весь ты смок, до ни́тки смок!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай раздевайсе скорие, весь ты смок, до нитки смок!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

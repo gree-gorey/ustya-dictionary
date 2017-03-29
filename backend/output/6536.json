@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "рассапнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расса́пнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рассапнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росса́пнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "россапнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "росцапну́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "росцапнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расчеснуть, разодрать болячку, нарыв, пораниться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой-ё-ё́́́й! Опе́́́ть-то россапну́́́ла боля́́́цьку-ту, су́́́кровиця-та вон потекла́́́, а гно́́́ю-то ско́́́ко!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой-е-ей! опеть-то россапнула боляцьку-ту, сукровиця-та вон потекла, а гною-то скоко!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разорвать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Россапну́ла на две части платок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "россапнула на две части платок."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

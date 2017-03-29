@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "немоглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Немо́глый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "немоглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "больной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дедя весь немо́́глой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дедя весь немоглой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

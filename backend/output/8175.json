@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "холка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хо́́́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "холка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхняя часть бедра вместе с боковой частью таза до поясницы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

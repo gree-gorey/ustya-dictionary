@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "головасоломойнабита", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голова́ соло́мой наби́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голова соломой набита"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорят о безмозглом, бестолковом человеке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо с его́ взе́ть – голова́ соло́мой наби́та!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо с его взеть – голова соломой набита!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "сбрякать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сбря́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сбрякать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "состучать, например, упасть со стуком; звякнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лешо сбря́кало, как па́ла", 
+          "translation": "упала так, что было слышно удар при падении.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лешо сбрякало, как пала"
+        }, 
+        {
+          "content": "Кажы́́́сь, кольцо́́́ на воро́́́тах збря́́́кало, – ково́́́ несё́́́т нелё́́́гкая в по́́́зний ця́́́с?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кажысь, кольцо на воротах збрякало, – ково несет нелегкая в позний цяс?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бря́кать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "брякать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

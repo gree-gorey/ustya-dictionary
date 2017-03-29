@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лохмачка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лохма́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лохмачка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женщина, девушка с лохматыми не прибранными волосами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты ходишь как лохма́чка, возьми гре́бень-то, да причоши́сь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты ходишь как лохмачка, возьми гребень-то, да причошись!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

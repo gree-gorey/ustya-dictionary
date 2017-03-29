@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "влипить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Влипи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "влипить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "воткнуть, вставить, вонзить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зано́зу в палец глубоко влипи́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "занозу в палец глубоко влипила."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прикрепить, присоединить, приделать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мою фотокарточку в альбом влипи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мою фотокарточку в альбом влипи."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ударить, стукнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не защо́, не пощо́ он влипи́ў мне по щоке́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не защо, не пощо он влипиу мне по щоке."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

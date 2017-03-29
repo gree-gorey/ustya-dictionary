@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мыркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мы́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мыркать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рыча́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рычать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подавать голос, мычать (крупный рогатый скот).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коро́ва весь динь рычи́т, на па́сву про́ситце. Телё́ночок в ста́йке мы́ркаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова весь динь рычит, на пасву проситце. теленочок в стайке мыркает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

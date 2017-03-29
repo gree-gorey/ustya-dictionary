@@ -1,0 +1,110 @@
+{
+  "field_for_sorting": "обшить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обшить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "обшива́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "обшивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сшить всем членам семьи одежду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обши́ла всю семью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обшила всю семью."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пришить верхнее покрытие какой-либо вещи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "потяну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "потянуть"
+        }, 
+        {
+          "content": "Обши́ли мате́рьём старую шубу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обшили матерьем старую шубу."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "облицевать стены здания, помещения специальной обшивочной доской или другими подобными материалами.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "опуши́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "опушить"
+        }, 
+        {
+          "content": "Этой-то вагонки хватит обши́ть избу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этой-то вагонки хватит обшить избу."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прикрепить к остову лодки специальные доски.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обши́ть лодку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обшить лодку."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

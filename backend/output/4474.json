@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "наклюкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наклю́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наклюкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напиться хмельного до сильной степени опьянения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и наклю́кались оне́ вчара́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и наклюкались оне вчара!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "печенина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Печени́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "печенина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "домашняя выпечка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Печени́на-то есть какая (в мага́зине)?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "печенина-то есть какая (в магазине)?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

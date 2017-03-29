@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "кресало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Креса́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кресало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой кусок твердой стали, часто обломок напильника одна из составных частей", 
+          "tag": "def"
+        }, 
+        {
+          "content": "огни́ва", 
+          "tag": "quote", 
+          "normalized_content": "огнива"
+        }, 
+        {
+          "content": ", предназначенного для добывания огня. Резкими ударами кресала о", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кре́мень", 
+          "tag": "quote", 
+          "normalized_content": "кремень"
+        }, 
+        {
+          "content": "высекали искру, воспламеняющую", 
+          "tag": "def"
+        }, 
+        {
+          "content": "трут", 
+          "tag": "quote", 
+          "normalized_content": "трут"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "пла́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "плашка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "огни́во", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "огниво"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кре́мень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кремень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трут", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трут"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

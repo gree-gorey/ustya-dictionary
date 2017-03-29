@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кокоток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кокото́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кокоток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ноготь, ноготок, коготь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Убери свои кокотки́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "убери свои кокотки!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

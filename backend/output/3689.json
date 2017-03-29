@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крупочка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кру́почка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крупочка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крупинка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Снег литит как за́спа – кру́почками.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снег литит как заспа – крупочками."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

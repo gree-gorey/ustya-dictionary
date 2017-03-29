@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "барак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́рак", 
+        "place": [
+          "Коптяевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "барак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "низменная сырая низина, болотина.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ба́гмас", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "багмас"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ва́гмас", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вагмас"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

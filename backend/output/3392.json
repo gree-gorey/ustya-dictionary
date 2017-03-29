@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "колючник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колю́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колючник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "колю́шник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "колюшник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колючая трава, растения с колючками (осот, чертополох и т. п.); кустарник с колючими шипами (шиповник и др.).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

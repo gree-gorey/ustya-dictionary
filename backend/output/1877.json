@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "дрезинный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дрези́нный", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "дрезинный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "топкий, зыбучий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пёнтус – самоё дрези́нное место.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пентус – самое дрезинное место."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

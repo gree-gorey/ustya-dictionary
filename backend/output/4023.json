@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лыманко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́манко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лыманко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "парень большой, высокий, бездельник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экой лы́манко! Лешему до уха вы́рос, а ведра воды не принесёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой лыманко! лешему до уха вырос, а ведра воды не принесет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "щерить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ще́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щерить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ще́риться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щериться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обнажать зубы, оскалить рот (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "още́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ощерить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "още́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ощериться"
+        }, 
+        {
+          "content": "Не надо ще́рить зубы, некрасиво это. Собака пасть още́рила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо щерить зубы, некрасиво это. собака пасть ощерила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

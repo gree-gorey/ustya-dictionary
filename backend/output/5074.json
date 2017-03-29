@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "окольница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Око́льница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окольница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "око́нница", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оконница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стекло в оконной раме.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "око́лышко", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "околышко"
+        }, 
+        {
+          "content": "Не стучи шибко-то, а то веть око́лышко вы́стегнёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стучи шибко-то, а то веть околышко выстегнешь!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "часть окна вместе с переплётами, ограничивающими одно стекло; окно. Слово «окно» просто не употреблялось. Либо «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "око́шко", 
+          "tag": "quote", 
+          "normalized_content": "окошко"
+        }, 
+        {
+          "content": "», как общее понятие отверстия (не обязательно застеклённого), либо «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "око́льница", 
+          "tag": "quote", 
+          "normalized_content": "окольница"
+        }, 
+        {
+          "content": "». Окольница всегда застекленная. Не было стекла пользовались слюдой или свиным пузырем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Осторожно, не розбей око́льницу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "осторожно, не розбей окольницу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

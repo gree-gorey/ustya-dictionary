@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "вешало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́шало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вешало"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "ве́шала", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вешала"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "вешала", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вешала"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жердь(и) под потолком повити, на которых хранят сено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Смечи́-ко сено на ве́шала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "смечи-ко сено на вешала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") легкомысленный, рассеянный, опрометчивый человек; озорник; разгильдяй.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "бран.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неряшливо одетый человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

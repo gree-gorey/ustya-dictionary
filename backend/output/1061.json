@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "втапор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Втапо́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втапор"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "втупо́р", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "втупор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тогда, в ту пору, раньше.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Втапо́р мы ро́били ле́том от зари́ до зари́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "втапор мы робили летом от зари до зари."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

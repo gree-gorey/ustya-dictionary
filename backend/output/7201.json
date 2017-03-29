@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "спазгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спазга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спазгать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выполнить работу по скашиванию, срубанию и т. п., а также шитью, окончательным образом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поди́ гектар спазга́ла!?", 
+          "translation": "уже, наверное, гектар скосила, сколь быстро.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поди гектар спазгала!?"
+        }, 
+        {
+          "content": "Да я уш бумазе́́́йной хала́́́т себе́́́ спазга́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да я уш бумазейной халат себе спазгала."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "напазга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "напазгать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сбе́гать (куда-либо).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В кою пору спазга́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в кою пору спазгал."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сбежать, убежать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То́́́ко хоте́́́ла ещё́́́ одно́́́ де́́́ло ёму́́́ наказа́́́ть сде́́́лать, а он уж спазга́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "токо хотела еще одно дело ему наказать сделать, а он уж спазгау."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пазга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пазгать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мизимин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мизими́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мизимин"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мизини́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мизинин"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мезонин, балкон.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В мизини́́́не-то у мня́́́ молоды́́́е жыву́́́т, добро́́́ хоть е́́́сь куды́́́ отдели́́́тьце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в мизинине-то у мня молодые жывут, добро хоть есь куды отделитьце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

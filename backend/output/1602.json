@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дако", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Да́ко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дако"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дай (от «дай-ка»).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дако сюды́ ножницы-то и не бери́ бо́ле", 
+          "translation": "(ребёнку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дако сюды ножницы-то и не бери боле"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

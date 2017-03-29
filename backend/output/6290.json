@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "прогалея", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прогале́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прогалея"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "прогале́ина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прогалеина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свободное место на воде от льда, плывущих бревен.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай плыви вон в ту прогале́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай плыви вон в ту прогалею."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

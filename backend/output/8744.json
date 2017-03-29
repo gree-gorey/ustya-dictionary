@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нудак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ну́ дак", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ну дак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так, тогда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну дак пойдём бу́ди в гости-то. Завтра рано вставать, ну дак надо ложиться спать. Ну дак шчо́ ты с имя́ сде́лаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну дак пойдем буди в гости-то. завтра рано вставать, ну дак надо ложиться спать. ну дак шчо ты с имя сделаешь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Дак", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 8
+}

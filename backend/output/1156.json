@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вылеваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вылева́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вылеваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "получаться, выходить, удаваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он мастёровой, за що не возьмётце – всё вылева́итце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он мастеровой, за що не возьметце – все вылеваитце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

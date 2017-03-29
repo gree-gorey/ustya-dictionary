@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "рукотерник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рукоте́рник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рукотерник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рукотё́́́рник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рукотерник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рукоте́ртник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рукотертник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рукоте́рпник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рукотерпник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полотенце для рук.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да вон я худу́́́ю руба́́́ху пови́́́сила заме́́́сто рукотё́́́рника, – доро́́́днё дава́́́й, лиш бы ци́́́стая была́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да вон я худую рубаху повисила заместо рукотерника, – дородне давай, лиш бы цистая была."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

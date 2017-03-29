@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "испортиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испо́ртиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испортиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Совсе́́́м ты, зе́́́ть", 
+          "translation": "(зять)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "совсем ты, зеть"
+        }, 
+        {
+          "content": ", испо́́́ртиўсе – смотри́́́ у меня́́́!", 
+          "tag": "quote", 
+          "normalized_content": ", испортиусе – смотри у меня!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

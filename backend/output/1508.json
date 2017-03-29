@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "грамаздаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Грама́здаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грамаздаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хвататься, браться за что-либо, влезая куда-либо или вылезая откуда-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "взграма́здаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взграмаздаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заграма́здаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заграмаздаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́́грамаздаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выграмаздаться"
+        }, 
+        {
+          "content": "Ухватись за край и грама́здайсе на лавку", 
+          "translation": "(подсказка ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ухватись за край и грамаздайсе на лавку"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "граба́здаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "грабаздаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

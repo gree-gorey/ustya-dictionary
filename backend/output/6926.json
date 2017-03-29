@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сирей", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сире́́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сирей"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "густая молочная жидкость, появляющаяся в вымени коровы перед самым отелом.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "моло́зево", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "молозево"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

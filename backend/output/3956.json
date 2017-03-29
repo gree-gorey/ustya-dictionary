@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ловчее", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ловче́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ловчее"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ловча́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ловчае"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удобнее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Возьми ка́танки – ловче́е будёт ходить. Вот э́́́ти та́́́пки-те, пожа́́́луй, лофця́́́е бу́́́дут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "возьми катанки – ловчее будет ходить. вот эти тапки-те, пожалуй, лофцяе будут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

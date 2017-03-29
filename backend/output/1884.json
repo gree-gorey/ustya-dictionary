@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "дристун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дристу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дристун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дристу́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дристуха"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "враль, сплетник, наговорщик, очернитель других. Такие люди в деревнях получали по заслугам такие прозвища.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

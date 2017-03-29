@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "бормотун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бормоту́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бормотун"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ворчун.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "бормота́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бормотало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

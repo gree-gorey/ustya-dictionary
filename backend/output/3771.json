@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кумпол", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́мпол", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кумпол"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голова, лицо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не задирайсе, не то получишь по ку́мполу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не задирайсе, не то получишь по кумполу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сруб(дома", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сруб (до́ма", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сруб (дома"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бани)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бани)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остов (каркас) дома, бани.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

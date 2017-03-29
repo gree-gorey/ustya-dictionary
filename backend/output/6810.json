@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "свитить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Свити́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "свитить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жечь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засвити́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засвитить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "засви́чивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засвичивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пересви́чивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пересвичивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подсви́чивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсвичивать"
+        }, 
+        {
+          "content": "Хватит лучину свити́ть, ложитесь спать! Надо ужо кероси́нку засвити́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит лучину свитить, ложитесь спать! надо ужо керосинку засвитить."
+        }, 
+        {
+          "content": "А седунья говорит: «Не сердитесь на меня сестрицы, я человек убогий, хоть на веселье погляжу, да и пригожусь, – буду лучину пересви́чивать", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Былина «Оселый бор». М.И. Шалаурова.", 
+          "normalized_content": "а седунья говорит: «не сердитесь на меня сестрицы, я человек убогий, хоть на веселье погляжу, да и пригожусь, – буду лучину пересвичивать"
+        }, 
+        {
+          "content": "В этом мисте дрова-то лучше подсви́чивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этом мисте дрова-то лучше подсвичивать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

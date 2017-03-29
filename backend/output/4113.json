@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "марево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́рево", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "марево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "действие большого ветра, дождя, снега.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экое ма́рёво-то на улице поднялосе, что и творитсе, с ног здува́ёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экое марево-то на улице поднялосе, что и творитсе, с ног здувает!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

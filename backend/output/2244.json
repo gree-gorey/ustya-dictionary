@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "забористый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забо́ристый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "забористый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепкий, хмельной напиток, с которого человек быстро пьянеет.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

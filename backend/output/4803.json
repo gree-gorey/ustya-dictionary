@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "нету", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́ту", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нету"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Однако Митро́ша твердил свое: «Ваша власть, ваша, а золота – не́ту, не́ту»", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Дмитриевщина родная… Г.Н. Ипатов.", 
+          "normalized_content": "однако митроша твердил свое: «ваша власть, ваша, а золота – нету, нету»"
+        }, 
+        {
+          "content": "Свету не́ту", 
+          "translation": "электричества нет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свету нету"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

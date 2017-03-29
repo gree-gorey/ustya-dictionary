@@ -1,0 +1,340 @@
+{
+  "field_for_sorting": "хрястать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хря́стать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрястать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ухря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ухрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "хря́стнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрястнуть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не розобравшись ни в чём, начали ево как хря́стать. Всего парня исхря́стали, дураки окаянные! Он вчера его нахря́стал. Не хря́́́стайте ево́́́ – до́́́ўго ли ухря́́́стать целове́́́ка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не розобравшись ни в чем, начали ево как хрястать. всего парня исхрястали, дураки окаянные! он вчера его нахрястал. не хрястайте ево – доуго ли ухрястать целовека!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно ударять по чему-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прихря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прихрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "хря́стнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрястнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "хрястану́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрястануть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прихря́стал золи́зину к бревну", 
+          "translation": "прибил накрепко.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прихрястал золизину к бревну"
+        }, 
+        {
+          "content": "Хрястани́-ко вот тут сильняя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хрястани-ко вот тут сильняя."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "усиленно работать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "хря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрястаться"
+        }, 
+        {
+          "content": "Да он там на улице дрова хря́стает", 
+          "translation": "дрова колет.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да он там на улице дрова хрястает"
+        }, 
+        {
+          "content": "Уже целую полинницу нахря́стал", 
+          "translation": "наколол дров.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже целую полинницу нахрястал"
+        }, 
+        {
+          "content": "Такую волочу́гу сена нахря́стал, што лошадь не те́нёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такую волочугу сена нахрястал, што лошадь не тенет."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "валить лес (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "хря́стнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрястнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Васька-то один за день сколько лесу нахря́стал", 
+          "translation": "нарубил, навалил лесу.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "васька-то один за день сколько лесу нахрястал"
+        }, 
+        {
+          "content": "Дерево-то как упало, да как схря́стало! Надо туды это дерево хря́снуть", 
+          "translation": "(повалить)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дерево-то как упало, да как схрястало! надо туды это дерево хряснуть"
+        }, 
+        {
+          "content": ", а то потом не прои́дёшь.", 
+          "tag": "quote", 
+          "normalized_content": ", а то потом не проидешь."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "есть (о животных) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястаться"
+        }, 
+        {
+          "content": "Вон как поросё́нок-то хря́стаёт, токо уши трясу́тсе. Едо́вая сви́шка-то, що ни пода́й, всё схря́стает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон как поросенок-то хрястает, токо уши трясутсе. едовая свишка-то, що ни подай, все схрястает."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "груб.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") есть (о человеке) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрястать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахря́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахрястаться"
+        }, 
+        {
+          "content": "Хря́́́стать-то он за двои́́́х схря́́́стаёт, а вот ро́́́бить-то, дак и за себя́́́ не мо́́́жот. О какой, целой чугун карто́ви схря́стал. Нахря́стался одной карто́ви и пошёл.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хрястать-то он за двоих схрястает, а вот робить-то, дак и за себя не можот. о какой, целой чугун картови схрястал. нахрястался одной картови и пошел."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сломать, разбить со злостью (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхря́стать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхрястать"
+        }, 
+        {
+          "content": "Со злости посуду исхря́стаў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "со злости посуду исхрястау."
+        }
+      ], 
+      "n": "7"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

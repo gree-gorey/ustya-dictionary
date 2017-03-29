@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ересть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́ресть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ересть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не заслуживающие внимания высказывания, суждения, вздор, глупость, чушь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наговорят всякой е́рести, только слушай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наговорят всякой ерести, только слушай."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

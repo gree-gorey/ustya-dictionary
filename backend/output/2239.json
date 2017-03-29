@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "заблудиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заблуди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заблудиться"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оказаться в затруднительном положении с выполнением какой-либо работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь с бумагами заблуди́лся.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь с бумагами заблудился."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

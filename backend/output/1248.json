@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вытачка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́тачка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вытачка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вшитая складка на одежде.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́тачками подгоняют одежду по фигуре.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вытачками подгоняют одежду по фигуре."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

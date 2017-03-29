@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "мужик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мужи́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мужик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женатый мужчина.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "муж.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ольиной сестры Нинки мужик", 
+          "translation": "муж Нины, сестры Ольги.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ольиной сестры нинки мужик"
+        }, 
+        {
+          "content": "Повезло Надьке с мужико́м-то, непью́́щой да работя́щой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "повезло надьке с мужиком-то, непьющой да работящой."
+        }, 
+        {
+          "content": "Каково́ вот одно́́́й без мужика́́́ жить? Настасья, где твой мужи́к–от? Мне бы надо он.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "каково вот одной без мужика жить? настасья, где твой мужик–от? мне бы надо он."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

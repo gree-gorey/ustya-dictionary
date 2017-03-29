@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "безобидчивый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Безоби́дчивый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "безобидчивый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "безоби́дчивой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "безобидчивой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безобидный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мужик-от безоби́дчивой, с эким дивья́ жить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужик-от безобидчивой, с эким дивья жить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

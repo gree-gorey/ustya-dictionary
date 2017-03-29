@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "бара", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бара"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прозвище грубого, нахального человека. По-видимому, произошло от слова баран (в северных говорах", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ба́́́ра", 
+          "tag": "quote", 
+          "normalized_content": "бара"
+        }, 
+        {
+          "content": "Да иди-ко ты, ба́ра, отсю́ды!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да иди-ко ты, бара, отсюды!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

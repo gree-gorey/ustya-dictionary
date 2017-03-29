@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "заживое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За живо́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "за живое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повредить кожный покров.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ногтя опеть задралось за живо́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у ногтя опеть задралось за живое."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") затронуть унижающий достоинство вопрос для человека, вывести человека из равновесия, «из себя».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Задень-ко ево за живо́ё-то дак, он такую бу́чу устроит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "задень-ко ево за живое-то дак, он такую бучу устроит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

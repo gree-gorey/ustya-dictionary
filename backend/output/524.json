@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "вага", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вага"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепкий длинный кол, «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стяг", 
+          "tag": "quote", 
+          "normalized_content": "стяг"
+        }, 
+        {
+          "content": "», используемый в качестве рычага для поднимания, перекатывания бревен, тяжестей.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стяг", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стяг"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "слега", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "слега"
+        }, 
+        {
+          "content": "́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

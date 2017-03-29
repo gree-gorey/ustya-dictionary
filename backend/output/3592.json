@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "некрасиво", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Некраси́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "некрасиво"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пасмурно, дождливо (о погоде).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "краси́во", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "красиво"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

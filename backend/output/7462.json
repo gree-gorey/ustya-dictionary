@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "сцака", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сца́́́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сцака"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сця́́́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сцяха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сча́́́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "счаха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "моча.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Возьми́́́-ко те́́́бень-то да затри́́́-ко сча́́́ху-ту Ва́́́ськину.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "возьми-ко тебень-то да затри-ко счаху-ту васькину."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

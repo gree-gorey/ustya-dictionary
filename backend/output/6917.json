@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "силышка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́лышка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "силышка"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "си́лышки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "силышки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сила.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́лышки мня поки́нули.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "силышки мня покинули."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

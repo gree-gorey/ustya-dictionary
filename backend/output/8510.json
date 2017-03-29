@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "шебутной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шебутно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шебутной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шобутно́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шобутной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беспокойный, неуравновешенный, причиняющий заботы другим.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

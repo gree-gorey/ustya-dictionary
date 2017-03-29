@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "просто", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Про́сто", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "просто"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пусто, свободно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то у тебя в зобе́ньке про́сто? – Да ничево севодни не нашла грибов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то у тебя в зобеньке просто? – да ничево севодни не нашла грибов."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "просторно, не тесно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спи́те на сеновале севодни, там про́сто, всем места хватит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спите на сеновале севодни, там просто, всем места хватит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

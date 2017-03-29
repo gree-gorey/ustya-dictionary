@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "повести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Повести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "повести"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вызвать наклон или перекос в какую-либо сторону.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зарод повело́", 
+          "translation": "наклонился.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зарод повело"
+        }, 
+        {
+          "content": "Ты пока́́́ до́́́м-от не опу́́́шывай – ево́́́ ещо́́́ повести́́́ мо́́́жот, – пу́́́сь ося́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты пока дом-от не опушывай – ево ещо повести можот, – пусь осядет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

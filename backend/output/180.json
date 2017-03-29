@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "баяны", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бая́ны", 
+        "place": [
+          "Вахрушевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "баяны"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глупости, пустые слова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хорошово не скажот, одне бая́ны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошово не скажот, одне баяны."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

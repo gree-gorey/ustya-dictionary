@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "урмаши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "урмаши́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "урмаши"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "личинки различных насекомых в водоемах.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нельзя пить воду, припадая ртом к ручью, можно мурмаша́ проглотить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нельзя пить воду, припадая ртом к ручью, можно мурмаша проглотить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

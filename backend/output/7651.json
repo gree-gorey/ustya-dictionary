@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "топтаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топта́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топтаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "что-то делать, быть в движении, беспокоиться, хлопотать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мешать, находясь рядом, ничего не делая.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты то́́пчессе тут, не топчи́сь под ногами!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты топчессе тут, не топчись под ногами!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

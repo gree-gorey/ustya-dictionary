@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заростить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заро́стить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заростить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запустить, не ухаживать, дать возможность свободно расти сорнякам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все гряды в угоро́дце заро́стила, надо срочно убирать сорняки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все гряды в угородце заростила, надо срочно убирать сорняки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "дарма", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дарма́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дарма"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "задарма́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "задарма"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "даром, бесплатно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто теперь тебе чево задарма́ даст?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто теперь тебе чево задарма даст?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

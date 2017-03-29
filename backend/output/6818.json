@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "своли", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сво́ли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "своли"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снаружи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дырку в стине сверлить лутше сво́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дырку в стине сверлить лутше своли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

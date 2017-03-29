@@ -1,0 +1,57 @@
+{
+  "field_for_sorting": "уток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уто́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нить, которая помещается в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "челно́к", 
+          "tag": "quote", 
+          "normalized_content": "челнок"
+        }, 
+        {
+          "content": "(при ткании полотна); ткань, порезанная на полоски, тряпичная лента шириной 1,5-2 см, наматываемая на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "челно́к", 
+          "tag": "quote", 
+          "normalized_content": "челнок"
+        }, 
+        {
+          "content": "(при ткании половиков). Если ткань плотная, полоска режется поуже, если тонкая шире.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "челно́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "челнок"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

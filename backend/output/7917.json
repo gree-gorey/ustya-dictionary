@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "упекать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упека́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "упекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лишить свободы, посадить в тюрьму, выслать, сослать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "упе́чь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "упечь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "упекчи́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "упекчи"
+        }, 
+        {
+          "content": "Раньше неблагонадёжных упека́ли в Сибирь. За то, что он сделал, могут упе́чь в тюрьму. Лет тридцать назад и за тунеядство могли упекчи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше неблагонадежных упекали в сибирь. за то, что он сделал, могут упечь в тюрьму. лет тридцать назад и за тунеядство могли упекчи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

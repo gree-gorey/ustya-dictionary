@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "елань", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ела́нь", 
+        "place": [
+          "Филинская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "елань"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесная поляна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ела́нь-та вся кустами заросла́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "елань-та вся кустами заросла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

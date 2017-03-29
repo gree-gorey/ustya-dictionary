@@ -1,0 +1,123 @@
+{
+  "field_for_sorting": "оскаляться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оскаля́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оскаляться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смеяться над кем-либо, насмехаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оска́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "оска́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскаливаться"
+        }, 
+        {
+          "content": "Хватит оскаля́ться над человеком, с вами бы так случилось! Ишь оска́лились!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит оскаляться над человеком, с вами бы так случилось! ишь оскалились!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "смеяться, попусту проводя время (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прооскаля́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прооскаляться"
+        }, 
+        {
+          "content": "Хватит оскаля́ться, пора итти робить. Прооскаля́лись стоко времени!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит оскаляться, пора итти робить. прооскалялись стоко времени!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отставать слою от поверхности, задраться, завернуться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оска́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскалиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "оска́ливаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оскаливаться"
+        }, 
+        {
+          "content": "Глина у плиты начала оскаля́ться. Вся побе́лка на пе́чке оска́лилась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глина у плиты начала оскаляться. вся побелка на печке оскалилась."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ска́литься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скалиться"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

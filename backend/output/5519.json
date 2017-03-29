@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "переналожить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перенало́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "переналожить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "переодеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робёнок весь упрел, его надо переналожи́ть. Рубаха на левой стороне, перенало́жь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робенок весь упрел, его надо переналожить. рубаха на левой стороне, переналожь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

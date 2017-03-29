@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "высокущой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Высоку́щой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высокущой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "высоче́нный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "высоченный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неаккуратный на вид.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зародик смета́ли нето́птанцем, высоче́нным, несура́зным, но зато успели до дождя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зародик сметали нетоптанцем, высоченным, несуразным, но зато успели до дождя."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

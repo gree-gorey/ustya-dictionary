@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "спорый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спо́рый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спорый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "экономный, выгодный, прибыльный, успешный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

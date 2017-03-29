@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "золотойдождь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Золото́й дождь", 
+        "place": [
+          "Кононовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "золотой дождь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дождь при светящем солнце.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Золото́й дождь – самый полезной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "золотой дождь – самый полезной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "виситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ви́ситься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "виситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "соверш.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "повешено, развешено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сено ви́сится", 
+          "translation": "например, повешено на кустах для просушки.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сено висится"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

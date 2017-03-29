@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сороватой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сорова́той", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сороватой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неочищенный, сорный, с примесями, с сором.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Брусницу брали набиру́шкой, дак больно сорова́тая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "брусницу брали набирушкой, дак больно сороватая."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

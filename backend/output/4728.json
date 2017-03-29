@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "незамочь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Незамо́чь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "незамочь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заболеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот незамо́жошь-то, дак не дай Бог!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот незаможошь-то, дак не дай бог!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

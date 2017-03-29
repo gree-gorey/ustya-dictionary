@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "обидня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оби́дня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обидня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обедня, церковная литургия.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

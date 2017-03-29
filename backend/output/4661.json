@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "находить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Находи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "находить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "походи́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "походить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть похожим.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он пора́то на отца́ нахо́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он порато на отца находит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

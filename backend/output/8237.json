@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "цапка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ца́пка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "цапка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяпка: инструмент для окучивания.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "са́пка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сапка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

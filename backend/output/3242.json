@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "киселица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ки́селица", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "киселица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ки́́́слица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кислица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодые побеги дикого щавеля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кисели́́́цы-то нарви́́́, дак ште́́́й нава́́́рим.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "киселицы-то нарви, дак штей наварим."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "красная смородина. Красную смородину называли", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кустова́я ки́селица", 
+          "tag": "quote", 
+          "normalized_content": "кустовая киселица"
+        }, 
+        {
+          "content": "Се́́́йгот ки́́́слицы над ри́́́цькой дак пря́́́мо наве́́́шоно!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейгот кислицы над рицькой дак прямо навешоно!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лесная кислая травка, называемая, по-местному, заячья травка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

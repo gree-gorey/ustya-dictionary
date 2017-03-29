@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "гаук", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гау́к", 
+        "place": [
+          "Дубровская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "гаук"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вид птиц, похожих на ворону. Возможно, имеется в виду галка?", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

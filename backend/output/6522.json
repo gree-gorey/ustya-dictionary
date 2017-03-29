@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "распечаталка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распеча́талка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распечаталка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "консервный нож.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

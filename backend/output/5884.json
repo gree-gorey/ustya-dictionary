@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "покамесь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пока́месь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покамесь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пока́мест", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покамест"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пока́месь он сре́дитце, солнышко взойдёт. Ты пока́́́мест посиди́́́ ту́́́тока.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "покамесь он средитце, солнышко взойдет. ты покамест посиди тутока."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

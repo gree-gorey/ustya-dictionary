@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сутолока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́толока", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сутолока"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясе́ц", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смесь ячневой и овсяной муки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "доробить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доро́бить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доробить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "доработать до определенного срока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хотел на тракторе доро́бить до пенсии, да здоровье сдало и пришлось перейти на ферму.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хотел на тракторе доробить до пенсии, да здоровье сдало и пришлось перейти на ферму."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ро́бить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "робить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

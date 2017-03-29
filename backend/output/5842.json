@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "подхилок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подхи́́́лок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подхилок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подхи́́́лки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подхилки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нижняя часть бедра («под", 
+          "tag": "def"
+        }, 
+        {
+          "content": "хо́́́лкой", 
+          "tag": "quote", 
+          "normalized_content": "холкой"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "хо́́́лка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "холка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "захлебывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Захлё́бывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "захлебывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "захлебну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "захлебнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "залить водой, затопить (Ту́риха).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От ветру волны большие, лодку захлебнё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от ветру волны большие, лодку захлебнет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хлебая, чередовать кушанья, заедать одно другим,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "прихлё́бывать", 
+          "tag": "quote", 
+          "normalized_content": "прихлебывать"
+        }, 
+        {
+          "content": "Кашу захлё́бывали молоком.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кашу захлебывали молоком."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хлеба́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хлебать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

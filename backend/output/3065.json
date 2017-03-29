@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "истокада", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Истока́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "истокада"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "эстакада.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Купиў машину – розвалюху, дак топере для ремонта истока́ду строит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "купиу машину – розвалюху, дак топере для ремонта истокаду строит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

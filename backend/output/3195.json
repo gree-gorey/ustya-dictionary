@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "катом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́том", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "катом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "способ перемещения круглых предметов и грузов по поверхности, перекатывая их с места на место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эти тяжёлые чурки-то передви́нь к дрове́ннику́ ка́том.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эти тяжелые чурки-то передвинь к дровеннику катом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "оболокаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оболока́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оболокаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одеваться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оболокчи́сь", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оболокчись"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оболо́чься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оболочься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оболокну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "оболокнуться"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оболока́йсе тепля́е-то! Бедному оболокну́ться, только подпоя́саться. Оболоки́сь", 
+          "translation": "оденься.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оболокайсе тепляе-то! бедному оболокнуться, только подпоясаться. оболокись"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "разболока́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "разболокаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

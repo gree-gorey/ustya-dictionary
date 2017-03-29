@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "змотаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Змота́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "змотаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "змота́ться на́ ноги", 
+        "place": [
+          "Лихачево"
+        ], 
+        "type": "variant", 
+        "normalized_content": "змотаться на ноги"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повзрослеть, «встать на ноги».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пятнадцети годов змота́лась на ноги, отправили работать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пятнадцети годов змоталась на ноги, отправили работать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

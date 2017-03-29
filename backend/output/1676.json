@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "денной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Денно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "денной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дённо́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "денной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дневной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эту нидилю роблю в денну́ю смену. Не опоздайте на дённо́й автобус.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эту нидилю роблю в денную смену. не опоздайте на денной автобус."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

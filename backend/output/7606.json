@@ -1,0 +1,85 @@
+{
+  "field_for_sorting": "товда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Товда́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "товда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "товды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "товды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "товды́се", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "товдысе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "товды́́́ся", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "товдыся"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "втовды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "втовды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "втовды́́́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "втовдысь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тогда, в то время, не теперь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жили мы товды́ся по-прежнему, жили по-досе́льному. Товды́ся окна были волоковы́е", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "жили мы товдыся по-прежнему, жили по-досельному. товдыся окна были волоковые"
+        }, 
+        {
+          "content": "Он э́́́дак ещё́́́ втовды́́́сь ба́́́еў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он эдак еще втовдысь баеу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

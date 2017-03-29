@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "жеребье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жеребье́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жеребье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жеребьё́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жеребье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жеребе́ек", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жеребеек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отрезок, часть чего-либо, например, земли, доставшейся в надел по жеребьёвке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жеребьё́́́-то у меня́́́ незави́́́дно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жеребье-то у меня незавидно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

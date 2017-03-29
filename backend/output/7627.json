@@ -1,0 +1,218 @@
+{
+  "field_for_sorting": "толнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "То́лнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "толнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́внуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "товнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "то́́́ўнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тоунуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толкнуть, подтолкнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зато́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затолнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перето́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перетолнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подто́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтолнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "росто́внуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ростовнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сто́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "столнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уто́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "утолнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "толкону́́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "толконуть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево ты меня то́лнул? Эй, робя́́́та, по́́́дьте сюды́́́ – на́́́до воз с дровами то́́́ўнуть, а то лошадь не можот вытащить. Машину тол́нули", 
+          "translation": "подтолкнули забуксовавшую машину.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево ты меня толнул? эй, робята, подьте сюды – надо воз с дровами тоунуть, а то лошадь не можот вытащить. машину толнули"
+        }, 
+        {
+          "content": "Подто́́лни лодку, на мель насе́ла. Нуко, перето́лни-ко меня-то за реку-то", 
+          "translation": "перетолкай шестом на лодке на", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подтолни лодку, на мель насела. нуко, перетолни-ко меня-то за реку-то"
+        }, 
+        {
+          "content": "другую сторону.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пробку в бутылке уто́лнул, тепере ие не вы́тащишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пробку в бутылке утолнул, тепере ие не вытащишь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") сказать, произнести речь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну ты, сва́тьюшка, молодец, эку речь то́лнула", 
+          "translation": "произнесла речь (поздравление) за столом.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну ты, сватьюшка, молодец, эку речь толнула"
+        }, 
+        {
+          "content": "Ну́́́-ко, Петро́́́вич, тоўкони́́́-ко ре́́́чь-то, ты веть ма́́́стер выска́́́зыватьсе-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, петрович, тоукони-ко речь-то, ты веть мастер высказыватьсе-то!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") слегка принудить, заставить, толкнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нато́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натолнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подто́лнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подтолнуть"
+        }, 
+        {
+          "content": "Всё-то надо тебя то́́лнуть, сам бы мог сделать без напоминания", 
+          "translation": "все тебе надо указать…", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все-то надо тебя толнуть, сам бы мог сделать без напоминания"
+        }, 
+        {
+          "content": "Ты меня нато́́лнул на мысль", 
+          "translation": "натолкнул на мысль.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты меня натолнул на мысль"
+        }, 
+        {
+          "content": "Пока тебя не подто́лнёшь у́вальня, ты уш воды не принесё́шь", 
+          "translation": "пока не скажешь…", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пока тебя не подтолнешь увальня, ты уш воды не принесешь"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

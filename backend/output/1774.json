@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "доконаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Докона́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доконаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "добиться, допроситься.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ходи, к нему не докона́ешься.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи, к нему не доконаешься."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кона́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "конаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

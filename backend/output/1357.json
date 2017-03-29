@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "гли-ко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гли́-ко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гли-ко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гли́-косе", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гли-косе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ли́ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лико"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гляди-ка, смотри-ка, зри.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ли́ко – расшипе́(и́)рился на всю улицу", 
+          "translation": "смотри, занял собой всю улицу, не пройти, не обойти.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лико – расшипе(и)рился на всю улицу"
+        }, 
+        {
+          "content": "Гли́-косе как ты вы́рос-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гли-косе как ты вырос-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

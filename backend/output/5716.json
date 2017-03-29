@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подберег", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́дберег", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подберег"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "низменная часть берега вдоль самого русла реки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По по́дберегу маленько и проехать-то надо. Надо мусор сожогчи́ в по́дбереге.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по подберегу маленько и проехать-то надо. надо мусор сожогчи в подбереге."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

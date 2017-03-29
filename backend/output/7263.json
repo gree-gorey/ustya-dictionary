@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "сращивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сра́щивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сращивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сро́стить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сростить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "соединить и скрепить концы, края.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо две верёвки сра́щивать, а то не ста́нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо две веревки сращивать, а то не станет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "собрать, соединить в единое целое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Розбитую посудину обратно не сростишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "розбитую посудину обратно не сростишь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

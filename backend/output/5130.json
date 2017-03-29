@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "оплести", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оплести́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оплести"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "оплета́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "оплетать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить, стегнуть (вицей, ремнем, кнутом, плетью).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо коня вицей оплести́, дак побежы́т", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо коня вицей оплести, дак побежыт"
+        }, 
+        {
+          "content": "Сейчас как оплету́ по спине-то дак, узнаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейчас как оплету по спине-то дак, узнаешь!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "жи́гнуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жигнуть"
+        }, 
+        {
+          "content": "Жи́гнуть", 
+          "translation": "это ударить чуть-чуть, а", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жигнуть"
+        }, 
+        {
+          "content": "оплести́", 
+          "tag": "quote", 
+          "normalized_content": "оплести"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро съесть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оплеў блюдо штей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оплеу блюдо штей."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

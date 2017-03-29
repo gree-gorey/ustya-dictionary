@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "ухват", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухва́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухват"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ухва́́́тник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ухватник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рога́ч", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "рогач"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление, с помощью которого ставят в печь и вынимают из печи чугуны, кринки, горшки (рукоять с двумя полукруглыми рогами на конце).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Без ухва́́́та, па́́́ре, и чигуна́́́ в пець не су́́́нуть и на во́́́лю не вы́́́нуть, коль далё́́́ко запё́́́хнут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "без ухвата, паре, и чигуна в пець не сунуть и на волю не вынуть, коль далеко запехнут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

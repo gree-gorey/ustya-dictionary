@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "студено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Студёно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "студено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "холодно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оде́́́нь ша́́́пку – на у́́́лице студёно́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одень шапку – на улице студено."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

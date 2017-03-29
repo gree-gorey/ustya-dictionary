@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "нешчо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́шчо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нешчо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́що", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нещо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наконец-то.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты собраўсе-ли не́що?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты собраусе-ли нещо?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неужели, в самом деле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она не́що дом купила? Не́що дожж-от перестал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она нещо дом купила? нещо дожж-от перестал?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

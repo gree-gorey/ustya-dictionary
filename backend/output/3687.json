@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "круписчатый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крупи́счатый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "круписчатый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пшеничный хлеб из муки высшего сорта.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше белую муку называли крупи́счатой, и белый хлеб из неё – крупи́счатый.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше белую муку называли круписчатой, и белый хлеб из нее – круписчатый."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кресла", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крё́сла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кресла"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "широкие сани с бортами и спинкой для перевозки людей и грузов, с жердями (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кре́клинами", 
+          "tag": "quote", 
+          "normalized_content": "креклинами"
+        }, 
+        {
+          "content": ") по бокам, закрепленными под углом и расширяющими заднюю часть. Разновидность розвальней.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

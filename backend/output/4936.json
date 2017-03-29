@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обойтись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обойти́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обойтись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "суметь прожить, довольствуясь тем, что есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нам надо с этим жи́том до посевно́й как-то обойти́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нам надо с этим житом до посевной как-то обойтись."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

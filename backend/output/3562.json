@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "кочешок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кочешо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кочешок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшой кочан капусты.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "небольшая кочка, заросший пень, на котором растут ягоды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обсобира́й вон тот кочешо́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обсобирай вон тот кочешок."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

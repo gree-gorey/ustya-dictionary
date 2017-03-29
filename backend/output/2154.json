@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "жигало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жига́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жигало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раскаленный металлический стержень, которым вместо сверла прожигали отверстия в деревянных изделиях и заготовках.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "чиквас", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чи́квас", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чиквас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кислятина, очень кислая, годная к употреблению только на любителя, например, перекисший ягодный сок, старое пиво и т. п.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "скырдать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скырда́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скырдать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скрыда́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скрыдать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сдыха́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сдыхать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "здыха́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "здыхать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будёшь потом скырда́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будешь потом скырдать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

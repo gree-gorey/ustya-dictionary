@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мяндач", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мянда́ч", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мяндач"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "менда́ч", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мендач"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место произрастания сосны; сосновая поросль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мянда́́́ч-то как бы́́́стро ростёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мяндач-то как быстро ростет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

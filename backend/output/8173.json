@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ходчае", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ходча́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходчае"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ходче́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ходчее"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "передвигающийся быстрее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты меня ходче́е, дак иди спереди.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты меня ходчее, дак иди спереди."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "более скользящие.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эти лыжи ходча́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эти лыжи ходчае."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

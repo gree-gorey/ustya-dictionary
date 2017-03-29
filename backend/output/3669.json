@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "корданистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Корда́нистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "корданистый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "курда́нистый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "курданистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изобилующий ямами с водой берег, ямами и неровным дном русло реки.Ср.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "круга́нистый", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "круганистый"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "круга́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круган"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

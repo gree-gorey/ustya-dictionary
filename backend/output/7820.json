@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "уважить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ува́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уважить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оказать уважение, знаки внимания (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ува́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уваживать"
+        }, 
+        {
+          "content": "Ой, какой гось-от пришёл, ну́ко хозяйка неси́ на стол, надо ведь го́стя ува́жить", 
+          "translation": "накрывай стол, ставь спиртное.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, какой гось-от пришел, нуко хозяйка неси на стол, надо ведь гостя уважить"
+        }, 
+        {
+          "content": "Гостей-то надо ува́живать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гостей-то надо уваживать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

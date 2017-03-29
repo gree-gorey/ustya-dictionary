@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "вмистях", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вмистя́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вмистях"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вместя́х", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вместях"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вми́сте", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вмисте"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вместе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неприго́же жениху с невестой ля́сы точи́ть. А вот женятся будут вместя́х жить, тогда наговорятся и насоветуются", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Нищая купчиха». М.И. Шалаурова. «", 
+          "normalized_content": "непригоже жениху с невестой лясы точить. а вот женятся будут вместях жить, тогда наговорятся и насоветуются"
+        }, 
+        {
+          "content": "Вми́сте те́сно, врозь ску́чно", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(поговорка).", 
+          "normalized_content": "вмисте тесно, врозь скучно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

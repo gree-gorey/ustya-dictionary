@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "половица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полови́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "половица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полови́цина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "половицина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полови́чина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "половичина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плаха, доска пола.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доотвороту", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доотворо́ту", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доотвороту"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наесться или напиться досыта, вдоволь, до отвращения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вчера на болоте наелся морошки доотворо́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вчера на болоте наелся морошки доотвороту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

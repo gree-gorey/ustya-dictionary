@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "гребины", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Греби́ны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гребины"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грубый холст.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нечово", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́чово", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нечово"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́цово", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "нецово"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не́чего.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́чово боўта́ться, иди́ на робо́ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечово боутаться, иди на роботу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

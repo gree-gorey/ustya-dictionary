@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "волок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́лок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большое расстояние, длинный путь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон какой во́лок идти!", 
+          "translation": "много идти.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон какой волок идти!"
+        }, 
+        {
+          "content": "Большой во́лок прошёл. Сади́сь-ко отдохни́, веть во́лок прошё́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "большой волок прошел. садись-ко отдохни, веть волок прошеу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дорога, по которой при рубке вытаскивали лес хлыстами («", 
+          "tag": "def"
+        }, 
+        {
+          "content": "волочи́ли", 
+          "tag": "quote", 
+          "normalized_content": "волочили"
+        }, 
+        {
+          "content": "») из делянок к месту погрузки на лесовозы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во́локом пойдём", 
+          "translation": "так говорят, когда ходят в лесу по вырубам.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "волоком пойдем"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дорога, по которой перетаскивали лодки, речные суденышки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

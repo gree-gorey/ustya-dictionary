@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "стая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ста́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ста́йка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стайка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загородка, стойло в хлеву для домашнего животного. От этого слово:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "заста́ть", 
+          "tag": "quote", 
+          "normalized_content": "застать"
+        }, 
+        {
+          "content": "Ну жо и сви́́́шка: фсю ста́́́йку изгры́́́зла уш, давно́́́ ли де́́́лал!? Ста́́́йку-ту бы на́́́до попра́́́вить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну жо и свишка: фсю стайку изгрызла уш, давно ли делал!? стайку-ту бы надо поправить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

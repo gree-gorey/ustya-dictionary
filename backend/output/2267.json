@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "завестиконявоглобли", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завести́ коня́ в огло́бли", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завести коня в оглобли"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поставить коня в оглобли для запрягания.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

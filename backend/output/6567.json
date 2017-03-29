@@ -1,0 +1,118 @@
+{
+  "field_for_sorting": "рахать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Раха́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рахать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "рахну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "рахнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "рахану́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "рахануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "рохану́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "рохануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "отрахану́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "отрахануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "отрохану́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "отрохануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "срахну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "срахнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "махать рогами, бодать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коро́́́ва-то комо́́́лая, не рахнё́́́т, не бойсе. Подала́ сена корове, а она токо отрохану́ла", 
+          "translation": "отмахнула рогами.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова-то комолая, не рахнет, не бойсе. подала сена корове, а она токо отроханула"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пехать, толкать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рахану́ как сичас, дак улетишь к поро́гу! Всё со стола срахну́л", 
+          "translation": "(пьяный).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рахану как сичас, дак улетишь к порогу! все со стола срахнул"
+        }, 
+        {
+          "content": "Подбежала она к ёму, да так рохану́ла, что далёко летел.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подбежала она к ему, да так роханула, что далеко летел."
+        }, 
+        {
+          "content": "Возможно, однокоренное со словом «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "опрахо́тить", 
+          "tag": "quote", 
+          "normalized_content": "опрахотить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "рыбина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ры́бина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рыбина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одна особь рыбы, особенно большая. Относительно небольшая особь рыбы", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "ры́бинка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "рыбинка"
+        }, 
+        {
+          "content": ". В магазине продавцу: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Валя, дай мне вон ту ры́бинку!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "валя, дай мне вон ту рыбинку!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

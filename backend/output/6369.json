@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "прядь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прядь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прядь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пря́дка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "прядка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пре́́́дь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "предь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вытянутая из кудели и скрученная нить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пото́́́не", 
+          "translation": "(потоньше)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "потоне"
+        }, 
+        {
+          "content": "пря́́́тки-те бери́́́, поровня́́́е преди́́́-то.", 
+          "tag": "quote", 
+          "normalized_content": "прятки-те бери, поровняе преди-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

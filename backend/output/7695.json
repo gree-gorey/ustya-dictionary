@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "трепескаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трепеска́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трепескаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "затрепеска́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "затрепескаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вертеться, махаться, пытаться освободиться", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёрша вы́удил, вон как трепеска́ется. Птенчик-то как затрепеска́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ерша выудил, вон как трепескается. птенчик-то как затрепескалсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "трепыха́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трепыхаться"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "развеваться, болтаться на ветру.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Витёр-то какой, вон как бельё–то на верёвке трепеска́ется, надо итти снеть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "витер-то какой, вон как белье–то на веревке трепескается, надо итти снеть."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

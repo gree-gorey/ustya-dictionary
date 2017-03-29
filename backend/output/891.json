@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "волокуша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волоку́ша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волокуша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянные сани (конные и тракторные) для перевозки груза.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "струмент", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стру́мент", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "струмент"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "струме́нт", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "струмент"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "инструмент.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У свёкра много столя́рново струме́нта было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у свекра много столярново струмента было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

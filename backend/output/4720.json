@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "недошивки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Недоши́вки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "недошивки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "недоши́тки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "недошитки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "незаконченное шитье.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

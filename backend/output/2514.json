@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заносить2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заноси́ть 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заносить 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затаскать одежду до большого износа.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так руба́́́ху-ту заноси́́́ў, шщо кле́́́тоцёк незна́́́тко", 
+          "translation": "(не видно, не заметно).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так рубаху-ту заносиу, шщо клетоцек незнатко"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

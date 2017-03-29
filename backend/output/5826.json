@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "подсотонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подсотони́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подсотонить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подтолкнуть, подбить на плохое дело (от «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "сотона́́́", 
+          "tag": "quote", 
+          "normalized_content": "сотона"
+        }, 
+        {
+          "content": "чёрт, сатана) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сотони́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сотонить"
+        }, 
+        {
+          "content": "Э́́́то он ево́́́ подсотони́́́ў, ево́́́ рук де́́́ло. Сам подсотони́́́т, а други́́́е – отвеця́́́й! Мастер он сотони́ть-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это он ево подсотониу, ево рук дело. сам подсотонит, а другие – отвецяй! мастер он сотонить-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

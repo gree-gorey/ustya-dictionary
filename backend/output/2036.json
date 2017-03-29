@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "еспедитор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Еспеди́тор", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "еспедитор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сопровождающий товар, грузы, экспедитор.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ванька в сельпе эспеди́тором робит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ванька в сельпе эспедитором робит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

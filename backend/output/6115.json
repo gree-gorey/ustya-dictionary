@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "леваясторона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ле́вая сторона́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "левая сторона"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изнанка ткани, материи, одежды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На левую сторону рубаху-то одел.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на левую сторону рубаху-то одел."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пра́вая сторона́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "правая сторона"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

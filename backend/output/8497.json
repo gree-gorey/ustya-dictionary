@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "шататься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шата́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шататься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить, бродить бесцельно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нашата́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нашататься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прошата́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прошататься"
+        }, 
+        {
+          "content": "Ходит по деревне, шата́етце, вместо тово, чтобы робить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ходит по деревне, шатаетце, вместо тово, чтобы робить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

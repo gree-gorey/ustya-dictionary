@@ -1,0 +1,131 @@
+{
+  "field_for_sorting": "придуривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приду́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "придуривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шалить, дурачиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит вам приду́ривать", 
+          "translation": "(детям).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит вам придуривать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вести себя легкомысленно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заприду́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запридуривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наприду́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напридуривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "придурн́уть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "придурнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не приду́ривай давай, никуды ты не поидёшь, вишь какая погода на улице! Ишь заприду́ривала! Наприду́ривала всево, выбрось из головы! Робить неохота дак придурну́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не придуривай давай, никуды ты не поидешь, вишь какая погода на улице! ишь запридуривала! напридуривала всево, выбрось из головы! робить неохота дак придурнул."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вести себя неадекватно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заприду́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запридуривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "придурн́уть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "придурнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Корова шчо-то заприду́ривала, видно загуля́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова шчо-то запридуривала, видно загуляла."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дури́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дурить"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

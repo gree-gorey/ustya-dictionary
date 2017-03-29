@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "обратый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́братый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обратый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обо́бранный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обобранный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ягодный куст, на котором собраны ягоды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон, смотри, место черницы, ещё никем нео́братое (необо́бранное).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон, смотри, место черницы, еще никем необратое (необобранное)."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

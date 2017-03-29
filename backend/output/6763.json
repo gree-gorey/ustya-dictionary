@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "высарапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́сарапать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "высарапать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́сарапнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "высарапнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вырвать с корнем, выдернуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо сорняки вы́сарапать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо сорняки высарапать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") добиться чего-либо обманом, наглостью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ей токо дай чево, дак она можот у тибя всё вы́сарапать (вы́сарапнуть)!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ей токо дай чево, дак она можот у тибя все высарапать (высарапнуть)!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "осара́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "осарапать"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сара́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сарапать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

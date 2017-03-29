@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "незашчо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́зашчо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "незашчо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не за что (стандартный ответ на выражение благодарности).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спасибо! – Ой, да не́зашчо!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спасибо! – ой, да незашчо!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нет причин, для того чтобы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́зачшо похвалить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "незачшо похвалить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

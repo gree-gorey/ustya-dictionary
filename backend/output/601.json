@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вдосталь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдо́сталь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдосталь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "окончательно, совсем, в придачу ко всему.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если так тихо будём робить, то и вдо́сталь не успи́ём к сроку. Що он вдо́сталь сдуреў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если так тихо будем робить, то и вдосталь не успием к сроку. що он вдосталь сдуреу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

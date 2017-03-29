@@ -1,0 +1,84 @@
+{
+  "field_for_sorting": "лешак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Леша́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лешак"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ле́шой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лешой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "леший персонаж местных преданий (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "множ.", 
+          "content": "лешаки́́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "лешаки"
+        }, 
+        {
+          "content": "́", 
+          "tag": "quote", 
+          "normalized_content": ""
+        }, 
+        {
+          "content": "Это ле́́́шой сде́́́лал с понаро́́́шку, что́́́бы над на́́́ми подшути́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это лешой сделал с понарошку, чтобы над нами подшутить."
+        }, 
+        {
+          "content": "По поводу лешего существует множество различных выражений.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") дурной (самодур), неуправляемый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот уж леша́́́к, дак леша́́́к – хоть ко́́́ў (кол) на голове́́́ тёши́́́, фсё́́́ нипоцё́́́м! Вот ле́шой-то какой!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот уж лешак, дак лешак – хоть коу (кол) на голове теши, фсе нипоцем! вот лешой-то какой!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "тата", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Та́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тата"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "та́тка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "татка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "та́тька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "татька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "та́тя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "татя"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тя́тя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тятя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На па́́́меть та́́́тке и ма́́́мке от до́́́чере Надё́́́жи и зе́́́тя Ана́́́нья", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(дарственная надпись на фото).", 
+          "normalized_content": "на паметь татке и мамке от дочере надежи и зетя ананья"
+        }, 
+        {
+          "content": "Об э́́́том мне ещо́́́ тя́́́тенька роди́́́мой гова́́́риваў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "об этом мне ещо тятенька родимой говаривау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

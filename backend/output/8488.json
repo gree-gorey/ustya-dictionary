@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "шариться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шариться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "искать что-то в темноте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты там в потё́мках ша́риссе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты там в потемках шариссе?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шляться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Погляну́лось ёму́ здись, дак содново́ в дере́вне ша́ритце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поглянулось ему здись, дак содново в деревне шаритце."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

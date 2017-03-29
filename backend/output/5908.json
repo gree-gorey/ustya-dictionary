@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "полевина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поле́вина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полевина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "полина́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полевое сено из сеяных трав.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "крипче", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кри́пче", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крипче"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "крипча́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крипчае"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепче.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Держи коня кри́пче под угор. Вот так завяжи, крипча́е будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "держи коня крипче под угор. вот так завяжи, крипчае будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

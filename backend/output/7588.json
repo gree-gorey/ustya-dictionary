@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "темнокровой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тёмнокро́вой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "темнокровой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек с тяжелым, недоброжелательным характером.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот уш тёмнокро́́́вой-то како́́́й попа́́́ўсе ей!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот уш темнокровой-то какой попаусе ей!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

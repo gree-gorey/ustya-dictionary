@@ -1,0 +1,122 @@
+{
+  "field_for_sorting": "короб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́роб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "короб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая корзина с крышкой. Крышка называется", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ве́ко", 
+          "tag": "quote", 
+          "normalized_content": "веко"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лубяной сундук или выгнутый из драни ящик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Храню́ я ста́рые короба́-та на и́збенце: каки́е с лопо́тьём, ф кото́рых и не́т ницево́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "храню я старые короба-та на избенце: какие с лопотьем, ф которых и нет ницево."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "часть русской печи над", 
+          "tag": "def"
+        }, 
+        {
+          "content": "шестко́м", 
+          "tag": "quote", 
+          "normalized_content": "шестком"
+        }, 
+        {
+          "content": "от устья до прямого дымохода.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шесто́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шесток"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сидение на качели.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сиду́шка", 
+          "tag": "ref", 
+          "place": [
+            "Ростово"
+          ], 
+          "normalized_content": "сидушка"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "специально изготовленная деревянная или плетеная из бересты или дранки емкость с лямками для переноски грузов на спине.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "ку́зов", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кузов"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "песте́рь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пестерь"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

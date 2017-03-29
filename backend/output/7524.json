@@ -1,0 +1,76 @@
+{
+  "field_for_sorting": "тараторить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тарато́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тараторить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро и невнятно говорить, часто не слушая других (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затарато́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затараторить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потарато́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потараторить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "треща́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трещать"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Переста́нь-ко эдак-то тарато́рить, нечево́ не пойму́, скажи че́сью! Собралось три бабы у колодца и затарато́рили наперебо́й. Оне́ лю́бят потарато́рить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перестань-ко эдак-то тараторить, нечево не пойму, скажи чесью! собралось три бабы у колодца и затараторили наперебой. оне любят потараторить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тарато́рка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тараторка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

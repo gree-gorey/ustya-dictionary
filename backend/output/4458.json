@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "назать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наза́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "назать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "назад.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неда́вно и́з дому ушла́, а уж наза́ть идё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "недавно из дому ушла, а уж назать идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

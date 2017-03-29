@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "хабарыснуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хабары́снуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хабарыснуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "резко вылить, выплеснуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Полведра́ молока́ хабары́снула поросёнку в еду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "полведра молока хабарыснула поросенку в еду."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ударить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

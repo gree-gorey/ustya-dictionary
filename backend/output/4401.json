@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нагоить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наго́ить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нагоить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "накопить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во́но Манька-та сколько добра наго́ила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "воно манька-та сколько добра нагоила."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "го́ить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гоить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "прибирало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прибира́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прибирало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, любящий все собирать, подбирать, что надо и не надо.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

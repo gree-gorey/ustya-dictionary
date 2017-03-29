@@ -1,0 +1,98 @@
+{
+  "field_for_sorting": "вдругоряд", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вдруго́ряд", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдругоряд"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдруго́рядь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдругорядь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдруго́редь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдругоредь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вдруго́реть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вдругореть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "друго́рядь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "другорядь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "друго́рять", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "другорять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "друго́редь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "другоредь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "друго́реть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "другореть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в другой раз, во второй раз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я вдруго́реть к тебе приду. Ёво вы́гони раз, дак он вдруго́редь припрё́тце!", 
+          "translation": "его выпроводи", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я вдругореть к тебе приду. ево выгони раз, дак он вдругоредь припретце!"
+        }, 
+        {
+          "content": "он еще раз придет.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

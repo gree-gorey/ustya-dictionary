@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гармонщик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гармо́нщик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гармонщик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гармонист.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Был в деревне Прилуки знаменитый гармо́нщик Николай Кузнецов, а в Будрине – Виктор Шумов.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "был в деревне прилуки знаменитый гармонщик николай кузнецов, а в будрине – виктор шумов."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

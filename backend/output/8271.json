@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "чаеваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чаева́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чаеваться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ча́йничать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чайничать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чаё́вничать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чаевничать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пить чай (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "почаё́вничать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почаевничать"
+        }, 
+        {
+          "content": "Заходи давай ко мне, почаё́вничаём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заходи давай ко мне, почаевничаем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "котляный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́тляный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "котляный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ушибленный или поврежденный участок тела, имеющий темно-красный или синий цвет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Придави́ло ногу деревом, весь передо́к ко́тляной.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "придавило ногу деревом, весь передок котляной."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

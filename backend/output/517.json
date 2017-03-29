@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бытность", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бы́тность", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бытность"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "время в прошлом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В мою бы́тность люди на деревне так не пили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в мою бытность люди на деревне так не пили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

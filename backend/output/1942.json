@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "душа-мера", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Душа́-ме́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "душа-мера"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сколько хочешь, вволю, по потребности, без ограничений.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У ребят ныне сладостей – душа́-ме́ра.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у ребят ныне сладостей – душа-мера."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

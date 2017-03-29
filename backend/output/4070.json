@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "маетно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́етно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маетно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ма́́́ётно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "маетно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тяжело; хлопотно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́етно ему жить на свете. Де́́́ло-то ма́́́ётно пора́́́то, сто́́́ит ли бра́́́тьце за ево́́́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "маетно ему жить на свете. дело-то маетно порато, стоит ли братьце за ево?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

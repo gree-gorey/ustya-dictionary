@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вколинях", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "В коли́нях", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "в колинях"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "баловать, тешить ребенка, держать на руках и на коленях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Этот парень вы́тешён, бабушка до школы дёржала ёво в коли́нях.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот парень вытешен, бабушка до школы держала ево в колинях."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

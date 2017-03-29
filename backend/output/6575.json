@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ревун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Реву́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ревун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "реву́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ревунья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плаксивый ребенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да шщо у мня робя́́́та за реву́́́ны-то таки́́́е! Ну́́́-ко, сти́́́хните!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да шщо у мня робята за ревуны-то такие! ну-ко, стихните!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

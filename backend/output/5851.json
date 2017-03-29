@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "подчистую", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подчисту́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подчистую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "все, без остатка, без следов.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поросёнок всё подчисту́ю съел.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросенок все подчистую съел."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "по́дчисто", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подчисто"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "уволен из вооруженных сил вследствие ранения, болезни без пребывания в запасе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спи́сан подчисту́ю, отвоевался.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "списан подчистую, отвоевался."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

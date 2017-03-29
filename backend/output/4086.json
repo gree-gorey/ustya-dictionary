@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "малестехонько", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Малестё́хонько", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малестехонько"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень мало.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Му́чки-то малестё́хонько осталосе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мучки-то малестехонько осталосе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "малё́хо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "малехо"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

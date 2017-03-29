@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "польник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Польни́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "польник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пульни́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пульник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "самец тетерева, живущего около полей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Са́́́моё вре́́́мя на пу́́́льников поохо́́́титьце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "самое время на пульников поохотитьце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

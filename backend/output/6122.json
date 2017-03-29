@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "правода", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пра́́́вода", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "правода"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "правота́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "правота"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "правда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пра́́́воду ба́́́ёшь, пра́́́воду! Не́́́цево сказа́́́ть тебе́́́, фсё так. Нечево тибе со своей правото́й к ним лизть, сами розберутся!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "праводу баешь, праводу! нецево сказать тебе, фсе так. нечево тибе со своей правотой к ним лизть, сами розберутся!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

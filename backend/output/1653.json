@@ -1,0 +1,116 @@
+{
+  "field_for_sorting": "девать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дева́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "девать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "деть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "деть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "использовать, найти применение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куда дева́ть столько ягод, не унести? У меня своих грибов принесено́, деть некуды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куда девать столько ягод, не унести? у меня своих грибов принесено, деть некуды."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "положить, приложить куда-то и потерять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "задева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "задевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подевать"
+        }, 
+        {
+          "content": "Куда дел топор?", 
+          "translation": "положил, найти не могу.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куда дел топор?"
+        }, 
+        {
+          "content": "Надо же так ону́чи задева́́ть, еле нашёл. Куды мог подева́́ть вилы?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо же так онучи задевать, еле нашел. куды мог подевать вилы?"
+        }, 
+        {
+          "content": "То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "зауши́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "заушить"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "истратить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды́ де́ньги де́ў?", 
+          "translation": "на что потратил?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды деньги деу?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

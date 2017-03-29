@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "тета", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тё́та", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тета"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тё́тка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тетка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тётя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тё́та веле́ла печь топить да самовар грить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тета велела печь топить да самовар грить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

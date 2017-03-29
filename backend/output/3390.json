@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "колькой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колько́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колькой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "который по счету.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Колько́й раз с назьмо́м пое́хаў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колькой раз с назьмом поехау?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

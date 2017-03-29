@@ -1,0 +1,104 @@
+{
+  "field_for_sorting": "бабушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бабу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бабушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спец.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") парная деталь кросен деревянный подвижный блок, предназначенный для поддержания в нужном положении", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ни́ченицы", 
+          "tag": "quote", 
+          "normalized_content": "ниченицы"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "коклю́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коклюшка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кро́сна", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кросна"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ни́ченица", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ниченица"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "игрушка.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бабу́щоцька", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабущоцька"
+        }, 
+        {
+          "content": "Ну и бабу́шек у тебя!", 
+          "translation": "много игрушек.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и бабушек у тебя!"
+        }, 
+        {
+          "content": "Да шчо у него бабу́шек-то много-то, да все-те да баски́е-те!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да шчо у него бабушек-то много-то, да все-те да баские-те!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "травянистое растение с цветами. Хорошо поедается скотом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

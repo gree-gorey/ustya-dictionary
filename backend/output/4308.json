@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "муторно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Му́торно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "муторно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "му́тно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мутно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неприятно, тошнотворно, тяжело.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Му́торно що-то на душе стало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "муторно що-то на душе стало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

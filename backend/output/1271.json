@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вышарить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́шарить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вышарить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выгнать, прогнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Навёў дружков-пьяниц, дак всех да́ве из дому вы́шарила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "навеу дружков-пьяниц, дак всех даве из дому вышарила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

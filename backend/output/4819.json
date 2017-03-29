@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "низ", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Низ", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "низ"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "направление по отношению к течению реки Устьи в сторону устья. То, что ниже Дмитриевской волости, говорили:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На низу́", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на низу"
+        }, 
+        {
+          "content": "Ходили на ни́з ка́танцы катать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ходили на низ катанцы катать."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "верх", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "верх"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

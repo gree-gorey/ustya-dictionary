@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "белить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бели́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "били́ть холст", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "билить холст"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстилать холст весной на снегу (с началом таяния снега) на несколько суток для естественной отбелки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "холст", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "холст"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

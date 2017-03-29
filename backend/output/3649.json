@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кровить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крови́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кровить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кровоточить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю́ доло́нь россади́ла су́ком-то я, всё крови́т и крови́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю долонь россадила суком-то я, все кровит и кровит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

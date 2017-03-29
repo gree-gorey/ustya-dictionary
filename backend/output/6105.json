@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "почеревок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Почерё́вок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "почеревок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подчерё́вок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подчеревок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "живот.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

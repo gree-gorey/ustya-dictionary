@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "храповик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Храпови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "храповик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устройство для включения рабочих органов конной косилки, конных граблей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

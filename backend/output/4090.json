@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "малодела", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ло де́ла", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мало дела"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "безразлично.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ребята все вечера бегают по деревне и нела́дно делают, а родителям до этого ма́ло де́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ребята все вечера бегают по деревне и неладно делают, а родителям до этого мало дела."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ма́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

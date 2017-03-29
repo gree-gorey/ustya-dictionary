@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "вовек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вове́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вовек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вечно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да мне этого вове́к не забыть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да мне этого вовек не забыть."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "никогда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да этово вове́к не бывало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да этово вовек не бывало."
+        }, 
+        {
+          "content": "То же, что и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "навеку́́́", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "навеку"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

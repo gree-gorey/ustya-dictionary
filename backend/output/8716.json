@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ячная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́чная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ячная"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "я́гловая", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ягловая"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ячневая (ячменная крупа, каша).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давно́́́ я́́́чной ка́́́ши не еда́́́ла, дак сево́́́дни чигуно́́́к в печь поста́́́вила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давно ячной каши не едала, дак севодни чигунок в печь поставила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

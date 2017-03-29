@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "телиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тели́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "телиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "давать приплод (крупный рогатый скот).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") очень медленно, нерасторопно идти, работать, выполнять какие-то действия.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну що ты там те́лишьсе, иди́ сюды́ скоря́е!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну що ты там телишьсе, иди сюды скоряе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

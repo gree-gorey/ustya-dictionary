@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "плевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Плёва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сеять очень мелкие семена овощей (капусты, брюквы) на рассаду или в грунт путем расплевывания их ртом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наплёва́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наплевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расплюва́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расплювать"
+        }, 
+        {
+          "content": "Капусты и гала́нки на выре́ц наплёва́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "капусты и галанки на вырец наплевала."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "расплюва́ть капу́сту", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "расплювать капусту"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

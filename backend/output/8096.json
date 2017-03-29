@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "харчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Харчи́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "харчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "еда, продукты питания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завтра будём отправлять подводу с харча́ми на дальний сенокос.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра будем отправлять подводу с харчами на дальний сенокос."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "постыл", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посты́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "постыл"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не мил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Без его весь белый свет посты́л, он один ей до́рог, сердцу мил", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "без его весь белый свет постыл, он один ей дорог, сердцу мил"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

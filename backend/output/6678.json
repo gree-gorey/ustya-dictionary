@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "рукав", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рука́в", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "рукав"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изделие из ивовых веток для ловли рыбы на быстром течении. Похоже на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мо́рду", 
+          "tag": "quote", 
+          "normalized_content": "морду"
+        }, 
+        {
+          "content": ", только без задней части", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мешка́", 
+          "tag": "quote", 
+          "normalized_content": "мешка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

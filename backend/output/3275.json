@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "клубье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клубьё́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клубье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "клубо́вьё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "клубовье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "клубки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "клуб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "клуб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

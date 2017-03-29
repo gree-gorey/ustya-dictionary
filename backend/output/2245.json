@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "заборка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Забо́рка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заборка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "запло́тка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заплотка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "перебо́рка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "переборка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внутренняя стена из досок в доме, строении между помещениями. Например,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "шо́лныша", 
+          "tag": "quote", 
+          "normalized_content": "шолныша"
+        }, 
+        {
+          "content": "от избы отгораживалась заборкой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ковшик-то? – Да на забо́рке ви́сицце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ковшик-то? – да на заборке висицце!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

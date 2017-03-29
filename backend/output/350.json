@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "большак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Больша́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "большак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старший сын (жен.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "большу́ха", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "большуха"
+        }, 
+        {
+          "content": "Больша́к у меня трактористом работает. Большу́ха-то у меня трудолюбивая.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "большак у меня трактористом работает. большуха-то у меня трудолюбивая."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

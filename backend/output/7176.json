@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "соснуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сосну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "соснуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного поспать, прилечь «на часок».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то голова заболела, ужо часо́к сосну́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то голова заболела, ужо часок сосну."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

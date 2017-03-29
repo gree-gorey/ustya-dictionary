@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "коробки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коробки́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коробки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легкие дорожные крестьянские конные сани.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Председатель колхоза уехал в район на коробка́х.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "председатель колхоза уехал в район на коробках."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коше́вки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кошевки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

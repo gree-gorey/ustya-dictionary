@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "запрягалка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запряга́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запрягалка"
+      }
+    ], 
+    "style": [
+      "ирон."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обобщенное прозвище, подчеркивающее характер очень подвижной, бойкой девушки-подростка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Остепени́сь, посиди́ на ми́сте, запряга́лка!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "остепенись, посиди на мисте, запрягалка!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

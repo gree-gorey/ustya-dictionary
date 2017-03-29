@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "наутре", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На у́тре", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на утре"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "в у́тре", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "в утре"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "утром.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отёмна́ли, дак давай в у́тре доде́лаём. Он на у́тре зайдё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отемнали, дак давай в утре доделаем. он на утре зайдет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

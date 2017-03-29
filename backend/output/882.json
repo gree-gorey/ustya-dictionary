@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "волога", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́лога", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волога"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "воло́га", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "волога"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жир, жирные продукты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В эту кашу ищо бы какой-небудь во́логи добавить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в эту кашу ищо бы какой-небудь вологи добавить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "любые продукты питания.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всякой воло́ги к зиме напасли – грибов, ягод, капусты.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всякой вологи к зиме напасли – грибов, ягод, капусты."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сырое место, болотина", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дубровская", 
+          "tag": "place"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

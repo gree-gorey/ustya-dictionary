@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вымывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вымыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вымывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расходовать воду из посуды для мытья в бане.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В бане не вымыва́йте всю воду, ищо бабушка не мы́та.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в бане не вымывайте всю воду, ищо бабушка не мыта."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

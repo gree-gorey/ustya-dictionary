@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подсильный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подси́льный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подсильный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "посильный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Такая робота подси́льная и подросткам.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такая робота подсильная и подросткам."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

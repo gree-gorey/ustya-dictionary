@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "заметь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́меть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заметь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за́метель", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заметель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой сугроб, снежный нанос, обильный снегопад.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К самому крыльцу за́меть надуло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к самому крыльцу заметь надуло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

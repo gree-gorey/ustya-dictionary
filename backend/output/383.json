@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "босовик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Босови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "босовик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лапоть, который носили на босую ногу без портянок (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ону́ч", 
+          "tag": "quote", 
+          "normalized_content": "онуч"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́поть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лапоть"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ону́чи", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "онучи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "оттудова", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отту́дова", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оттудова"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отту́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оттуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отту́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оттуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оттуда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отту́́́дова досю́́́дова – де́́́нь хо́́́ду. Да он не отту́ля родом-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оттудова досюдова – день ходу. да он не оттуля родом-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

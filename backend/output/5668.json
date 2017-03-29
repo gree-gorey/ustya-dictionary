@@ -1,0 +1,115 @@
+{
+  "field_for_sorting": "приваживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прива́́́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приваживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привечать, приманивать, привлекать; приучать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нава́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прива́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "привадить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "заприва́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заприваживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "наприва́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наприваживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сва́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сваживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "посва́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посваживать"
+        }, 
+        {
+          "content": "Е́́́сли бы не прива́́́жывала, дак и не ушо́́́ў бы к ей никовды́́́. Куды дева́тьце от пьениц? А не прива́живай!", 
+          "translation": "не давай в долг и просить не будут.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если бы не приважывала, дак и не ушоу бы к ей никовды. куды деватьце от пьениц? а не приваживай!"
+        }, 
+        {
+          "content": "Наприва́живала к дому эстоко собак. Посва́живал он девок-то с ума.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наприваживала к дому эстоко собак. посваживал он девок-то с ума."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "отва́живать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "отваживать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пова́дить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "повадить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

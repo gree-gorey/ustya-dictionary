@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "сдибрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сди́брить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сдибрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зди́брить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "здибрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сти́брить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стибрить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сти́(ы́)бзить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сти(ы)бзить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "украсть, тайком взять, схватить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кошка рыбку сти́брила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка рыбку стибрила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

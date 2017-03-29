@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "обделывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обде́лывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обделывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обрабатывать что-либо для получения нужного изделия, детали и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обде́лать топори́ще.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обделать топорище."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "добиваться чего-либо не совсем законным путем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Привык обде́лывать делишки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "привык обделывать делишки."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "обстря́пывать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обстряпывать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

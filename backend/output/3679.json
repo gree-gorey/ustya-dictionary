@@ -1,0 +1,210 @@
+{
+  "field_for_sorting": "кружаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кружа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кружаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "закружа́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "закружаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вращаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Колесо у телё́ги худо закружа́лось, надо снимать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колесо у телеги худо закружалось, надо снимать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быть всё время в хлопотах, делах (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "окружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "окружаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "покружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "покружаться"
+        }, 
+        {
+          "content": "Вся цисто за́ день окружа́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся цисто за день окружалась."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ходить по одному и тому же месту, заблудившись в лесу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обкружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обкружаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "окружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "окружаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "скружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скружаться"
+        }, 
+        {
+          "content": "Ой как опкружа́лась-то вцера́, хожу́ – опе́ть на то жо ме́сто приду́. Сево́́́дни я у вы́́́шки", 
+          "translation": "(геодезической)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой как опкружалась-то вцера, хожу – опеть на то жо место приду. севодни я у вышки"
+        }, 
+        {
+          "content": "грибы́́́ собира́́́ла, и ме́́́сто-то вро́́́де знако́́́мое – вдруг фся окружа́́́лась. Ну ника́к жо не ду́мала в э́том ми́сте скружа́ться, да веть окружа́лась цисто фся.", 
+          "tag": "quote", 
+          "normalized_content": "грибы собирала, и место-то вроде знакомое – вдруг фся окружалась. ну никак жо не думала в этом мисте скружаться, да веть окружалась цисто фся."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бегать, летать по кругу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево это самолёт над деревней кружа́итце?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево это самолет над деревней кружаитце?"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "крутиться в танце.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Научи меня кружа́ться в вальсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "научи меня кружаться в вальсе."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "очерчивать магический круг при гадании (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "окружа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "окружаться"
+        }, 
+        {
+          "content": "Перед гаданием надо было чертой окружа́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перед гаданием надо было чертой окружаться."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "повернуться, крутнуться на месте (однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "кружну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "кружнуться"
+        }, 
+        {
+          "content": "Ну-ко кружни́сь, поглежу как платьё сидит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко кружнись, поглежу как платье сидит."
+        }
+      ], 
+      "n": "7"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

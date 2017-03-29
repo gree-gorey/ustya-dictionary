@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "попалотебе!?", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попа́ло тебе!?", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "попало тебе!?"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "получил наказание, например, ложкой по лбу, за какую-то провинность (как правило, говорят ребенку).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Попада́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "попадать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 10
+}

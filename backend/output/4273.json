@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "мот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "после прядения с веретен (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "про́стней", 
+          "tag": "quote", 
+          "normalized_content": "простней"
+        }, 
+        {
+          "content": ") пряжа наматывалась на мотовило и получался мот. Три нити на мотовиле составляли", 
+          "tag": "def"
+        }, 
+        {
+          "content": "чи́сменку", 
+          "tag": "quote", 
+          "normalized_content": "чисменку"
+        }, 
+        {
+          "content": ", из 30 чисменок получалось", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́смо", 
+          "tag": "quote", 
+          "normalized_content": "пасмо"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мотови́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мотовило"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "чи́сменка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чисменка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́смо", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пасмо"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

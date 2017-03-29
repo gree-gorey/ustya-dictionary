@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "испоконвеку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испоко́н ве́ку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испокон веку"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "веко́в", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "веков"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издавна, во все века, которые только помним.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "иско́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "искон"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

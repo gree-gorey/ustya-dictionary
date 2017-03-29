@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "срамота", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Срамота́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "срамота"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "срамоти́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "срамотина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позор, стыд, бесчестье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Срамота́-то какая, на всю деревню!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "срамота-то какая, на всю деревню!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "человек, совершивший порочащий поступок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ходит срамота́ по деревне, срамо́тина!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ходит срамота по деревне, срамотина!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

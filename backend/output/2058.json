@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "ергами", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ё́ргами", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ергами"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(дели́ться)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "(делиться)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деление в игре, с целью выбрать «водящего», когда каждый берется за палку с конца, и все обхватывают ее выше ладонями до последнего человека.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

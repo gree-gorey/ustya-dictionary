@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "кут", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кут", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кут"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угол крестьянской избы, место у задней стены под полатями или на кухне.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Кутё́нка", 
+          "tag": "form", 
+          "place": [
+            "Березник"
+          ], 
+          "type": "lemma", 
+          "normalized_content": "кутенка"
+        }, 
+        {
+          "content": "скамья в кухне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кутё́нка в стену вде́лана, человека три сядут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кутенка в стену вделана, человека три сядут."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

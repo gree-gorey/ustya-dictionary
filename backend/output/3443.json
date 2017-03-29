@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "коптилка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копти́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коптилка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лампа без стекла.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На кухне чаще всего пользовались копти́лкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на кухне чаще всего пользовались коптилкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

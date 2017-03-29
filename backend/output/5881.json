@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "позывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Позыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "позывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "появляться какому либо желанию, потребности, обычно против воли человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Позыва́ть на солёное. Позыва́ть к рвоте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "позывать на соленое. позывать к рвоте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "спрядывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спря́дывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спрядывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дергать ушами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конь ково́-то чу́ёт, вишь как уша́ми спря́дываёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конь ково-то чует, вишь как ушами спрядывает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

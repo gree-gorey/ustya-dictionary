@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ширше", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́рше", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ширше"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ширя́е", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ширяе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шире.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ши́́́рше, ши́́́рше копну́́́-ту разводи́́́, зау́́́зили совсе́́́м, а се́́́на-та поўно́́́ ещо́́́, не войдё́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ширше, ширше копну-ту разводи, заузили совсем, а сена-та поуно ещо, не войдет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

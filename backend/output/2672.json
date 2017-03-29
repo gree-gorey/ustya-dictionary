@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "затускнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зату́скнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затускнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "потускнеть, запотеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зеркало зату́скло. Окна все зату́скли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зеркало затускло. окна все затускли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

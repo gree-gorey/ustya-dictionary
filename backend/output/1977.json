@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "единовальный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Единова́льный", 
+        "place": [
+          "Неклюдовская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "единовальный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "единоличный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Единова́льноё хозяйство было тяжоло вести.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "единовальное хозяйство было тяжоло вести."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

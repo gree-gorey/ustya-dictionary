@@ -1,0 +1,92 @@
+{
+  "field_for_sorting": "хвалить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хвали́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хвалить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одобрять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́хвалить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выхвалить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "захвали́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "захвалить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхвали́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхвалить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нахвали́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нахвалить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перехвали́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перехвалить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похвали́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похвалить"
+        }, 
+        {
+          "content": "Кольку не за що хвалить. Хлеб-то но́не пекут – не похвалю́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кольку не за що хвалить. хлеб-то ноне пекут – не похвалю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "обратать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обрата́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обратать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надеть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "о́брать", 
+          "tag": "quote", 
+          "normalized_content": "обрать"
+        }, 
+        {
+          "content": "(уздечку) на голову лошади.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты поди-ко на широкий двор, обрата́й да ворона́ коня", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Причёт вдовы ко свёкру. М.И. Шалаурова.", 
+          "normalized_content": "ты поди-ко на широкий двор, обратай да ворона коня"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

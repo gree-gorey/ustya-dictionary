@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "иенный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ие́нный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "иенный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "иё́нный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иенный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принадлежащий ей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пощо ие́нный платок-то оде́ла?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пощо иенный платок-то одела?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

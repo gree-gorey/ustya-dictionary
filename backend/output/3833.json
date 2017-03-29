@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "кыча-кыча-кыча!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кы́ча-кы́ча-кы́ча!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кыча-кыча-кыча!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "команда, призыв свиньи, в этом случае ее гладят и приговаривают.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кы́ча", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кыча"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "чё́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чешка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

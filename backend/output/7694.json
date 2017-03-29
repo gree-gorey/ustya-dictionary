@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "трепаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Трепа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трепаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "потрепа́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "потрепаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплетничать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабы любят потрепа́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабы любят потрепаться."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") вести разгульный образ жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она со всеми мужиками тре́плется (потрепа́́лась).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она со всеми мужиками треплется (потрепалась)."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

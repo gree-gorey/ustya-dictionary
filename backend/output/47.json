@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "аржанина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аржани́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аржанина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "черный хлеб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хоро́шой аржани́ны ноне нет в продаже, видно не пекут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошой аржанины ноне нет в продаже, видно не пекут."
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Аржани́ца", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "аржаница"
+        }, 
+        {
+          "content": "ржаная солома.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В угоро́дце осталась копна аржани́цы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в угородце осталась копна аржаницы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

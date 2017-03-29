@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "розной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ро́зной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "розной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изорванный, дырявый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ла́пти опеть ро́зные, придё́тце одева́ть но́вые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лапти опеть розные, придетце одевать новые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

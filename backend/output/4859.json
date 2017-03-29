@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "ну", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ну", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ну"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "да, так, хорошо, вообще выражение согласия или подтверждения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойдё́шь с нами купа́ться?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдешь с нами купаться?"
+        }, 
+        {
+          "content": "Ну", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

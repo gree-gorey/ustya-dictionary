@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "эсюйды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́сюйды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "эсюйды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́сюйда", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "эсюйда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "(идти) сюда, здесь, этим путем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́сюйды ступа́́́йте, тут не прова́́́литесь. Э́́́сюйда на́́́до итти́́́, а не э́́́там, как ты пока́́́зываў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эсюйды ступайте, тут не провалитесь. эсюйда надо итти, а не этам, как ты показывау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

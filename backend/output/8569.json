@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шорснатой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шорсна́́́той", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шорснатой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрытый шерстью, лохматый, мохнатый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А это кто тако́́́й шорсна́́́той?", 
+          "translation": "(о чебурашке, когда эти игрушки только появились).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а это кто такой шорснатой?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

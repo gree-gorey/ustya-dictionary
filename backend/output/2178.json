@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жинсы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жи́нсы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жинсы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "джинсовые брюки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тепере все в жи́нсах ходят, що робята, що девки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тепере все в жинсах ходят, що робята, що девки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

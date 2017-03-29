@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "домики1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́мики 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "домики 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "личинки ручейника, обитающие в «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "до́миках", 
+          "tag": "quote", 
+          "normalized_content": "домиках"
+        }, 
+        {
+          "content": "» из коры.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На до́мики всех лучше рыба ловится.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на домики всех лучше рыба ловится."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

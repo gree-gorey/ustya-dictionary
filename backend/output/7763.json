@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "турок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ту́рок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "турок"
+      }
+    ], 
+    "style": [
+      "ирон."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отзыв о человеке, который сделал что-то не подумавши.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо ты, ту́́́рок, ро́́́бишь-то? Хоть бы меня́́́ спроси́́́ў снаця́́́ла!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо ты, турок, робишь-то? хоть бы меня спросиу снацяла!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

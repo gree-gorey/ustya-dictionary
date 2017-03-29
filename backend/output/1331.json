@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гдепупрезан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Где пуп ре́зан", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "где пуп резан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, где родился.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Некуды́ отсе́ля не пое́ду, буду дожива́ть где пуп ре́зан. Всегда тянет туда, где пуп ре́зан.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некуды отселя не поеду, буду доживать где пуп резан. всегда тянет туда, где пуп резан."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

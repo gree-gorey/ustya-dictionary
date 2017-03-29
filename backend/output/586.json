@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "вдарить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вда́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вдарить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стукнуть, ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо было посильня́е вда́рить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо было посильняе вдарить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро опьянеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хмель в голову вда́риў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хмель в голову вдариу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дохать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дохать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кашлять сильно и продолжительно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ишь как простыў, всю ночь до́хаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ишь как простыу, всю ночь дохает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,114 @@
+{
+  "field_for_sorting": "шарашить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шара́шить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шарашить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздвигать ноги (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обшара́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обшарашить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расшара́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расшарашить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "расшара́шивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расшарашивать"
+        }, 
+        {
+          "content": "Не́чево ноги шара́шить, седь нормально! Не росшара́шивай-ко ноги-то, надо веть всем на ла́винке умести́тьце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево ноги шарашить, седь нормально! не росшарашивай-ко ноги-то, надо веть всем на лавинке уместитьце!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "растопы́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "растопырить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "передвигаться медленно, неловко, с трудом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошара́шить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошарашить"
+        }, 
+        {
+          "content": "Вон твой-от идё́́́т, е́́́ле но́́́ги шара́шит, опе́́́ть где́́́́́́-то нализа́́́ўсе! Бабка опеть пошара́шила куды-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон твой-от идет, еле ноги шарашит, опеть где-то нализаусе! бабка опеть пошарашила куды-то."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "слоняться, ходить впустую.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "До́лго ещё бу́дёшь шара́шить?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долго еще будешь шарашить?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

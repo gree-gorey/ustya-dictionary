@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "стрилить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стрили́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стрилить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "стри́лить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стрилить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "стриле́́́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "стрилеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выстрелить", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "убить, подстрелить.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

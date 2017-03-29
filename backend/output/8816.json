@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "вряскивзять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вря́ски взять", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вряски взять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "износить одежду или обувь до сплошных дыр, истрепать; разорвать, исполосовать на мелкие кусочки; разломать на негодные никуда составные части.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Ря́ски", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ряски"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 1
+}

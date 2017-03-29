@@ -1,0 +1,72 @@
+{
+  "field_for_sorting": "быват", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Быва́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "быват"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бат", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "variant", 
+        "normalized_content": "бат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "может быть, авось.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "быва́ёт", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бывает"
+        }, 
+        {
+          "content": "Быва́т, не бу́дёт дожжя́. Быва́т и проскочу́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "быват, не будет дожжя. быват и проскочу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бывает, случается.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Быва́т и на роботу не ходят, как запьют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "быват и на роботу не ходят, как запьют."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "стылый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сты́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стылый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сты́́́лой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стылой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "застылый, замерзший, затвердевший от холода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сты́лая уже земля стала – поўлопа́́́ты не ли́́́зёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стылая уже земля стала – поулопаты не лизет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "остывший.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не е́́́шь-ко сты́́́лой су́́́п-от, розогри́́́й в пеце́́́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ешь-ко стылой суп-от, розогрий в пеце-то!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

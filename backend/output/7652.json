@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "топучий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Топу́чий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "топучий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "топкий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На том болоте много топу́чих мест.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на том болоте много топучих мест."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

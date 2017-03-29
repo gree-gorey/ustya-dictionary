@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ато", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ато́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ато"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иначе, в противном случае, или.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отойди́ от миня́, ато́ що́вну! Дава́й сево́дни э́то доде́лаём, ато́ за́втра бу́дёт недосу́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отойди от миня, ато щовну! давай севодни это доделаем, ато завтра будет недосук."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

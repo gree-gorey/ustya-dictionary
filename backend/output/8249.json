@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "ценки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Це́нки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ценки"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деталь", 
+          "tag": "def"
+        }, 
+        {
+          "content": "кро́сен", 
+          "tag": "quote", 
+          "normalized_content": "кросен"
+        }, 
+        {
+          "content": "ни́точную осно́ву", 
+          "tag": "quote", 
+          "normalized_content": "ниточную основу"
+        }, 
+        {
+          "content": "для образования перекрещивания в виде восьмерки. Вставляются между", 
+          "tag": "def"
+        }, 
+        {
+          "content": "наво́йкой", 
+          "tag": "quote", 
+          "normalized_content": "навойкой"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ни́ченицей", 
+          "tag": "quote", 
+          "normalized_content": "ниченицей"
+        }, 
+        {
+          "content": ". В процессе ткания ценки, чтобы не разъезжались вдоль ниточной основы, привязываются к", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стани́не", 
+          "tag": "quote", 
+          "normalized_content": "станине"
+        }, 
+        {
+          "content": "кросен.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

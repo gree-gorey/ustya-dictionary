@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "боркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́ркать", 
+        "place": [
+          "Мяткурга"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "боркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "царапать, звенеть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

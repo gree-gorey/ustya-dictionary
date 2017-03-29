@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "на", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́́́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "на́́́-ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "на-ко"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "на́́́те", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "нате"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "на́́́те-ко", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "нате-ко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "част.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "(вот) возьми(те), бери(те), держи(те).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Н́а виту́шку, ешь на здоровьё. На́́́ ру́́́цьку-ту, да не роне́́́й бо́́́ле, пишы́ уро́́́ки-те. На́́́те-ко ша́́́ньгу-ту, то́́́ко из пе́́́ци вы́́́нела.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на витушку, ешь на здоровье. на руцьку-ту, да не роней боле, пишы уроки-те. нате-ко шаньгу-ту, токо из пеци вынела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

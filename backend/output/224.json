@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "белушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Белу́шка", 
+        "place": [
+          "Васьковская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "белушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "белок яйца.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Если белу́шка смешаитце с жё́лтышем, яйцо не вы́преет, будёт болту́н.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "если белушка смешаитце с желтышем, яйцо не выпреет, будет болтун."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

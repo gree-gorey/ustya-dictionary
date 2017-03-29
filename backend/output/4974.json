@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обсудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обсуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обсудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вынести судом обвинительный приговор.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ваньку Марьиного обсуди́ли на пять годов за воровство.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ваньку марьиного обсудили на пять годов за воровство."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подвянуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подвя́нуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подвянуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подсохнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не будём сырую картовь сразу в погреб сыпать, пусь подвя́нёт на вольном воздухе под крышей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не будем сырую картовь сразу в погреб сыпать, пусь подвянет на вольном воздухе под крышей."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

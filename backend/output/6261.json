@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "прихлебатель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прихлеба́тель", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прихлебатель"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иждивенец, пользующийся всем готовым, живущий за чужой счет.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

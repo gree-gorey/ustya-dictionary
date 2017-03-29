@@ -1,0 +1,103 @@
+{
+  "field_for_sorting": "управить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Упра́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "управить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "упра́виться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "управиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделать, справиться с работой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "управля́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "управлять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "управля́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "управляться"
+        }, 
+        {
+          "content": "Ещё только петухи запе́ли, а она уже управля́ется", 
+          "translation": "делает домашнюю работу.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "еще только петухи запели, а она уже управляется"
+        }, 
+        {
+          "content": "С работой сегодня рано упра́вилсе. Иди́́́, иди́́́! Упра́́́влюсе я как-нибу́́́дь и без тебя́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с работой сегодня рано управилсе. иди, иди! управлюсе я как-нибудь и без тебя!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пра́вить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "править"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "1", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "1"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "го́иться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гоиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обряди́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обрядиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

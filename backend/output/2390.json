@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "зажить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зажи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зажить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забродить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Варенье за́жило", 
+          "translation": "забродило, начало портиться.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "варенье зажило"
+        }, 
+        {
+          "content": "Тесто за́́́жило", 
+          "translation": "начало подниматься (на закваске, дрожжах).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тесто зажило"
+        }, 
+        {
+          "content": "Сла́́́ва Бо́́́гу, те́́́сто за́́́жило, а то бы не зна́́́ю, как и испе́́́ць корова́́́и-те.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слава богу, тесто зажило, а то бы не знаю, как и испець короваи-те."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

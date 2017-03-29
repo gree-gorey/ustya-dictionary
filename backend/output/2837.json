@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "зорче", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зо́рче", 
+        "place": [
+          "Будрино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "зорче"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ярче.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

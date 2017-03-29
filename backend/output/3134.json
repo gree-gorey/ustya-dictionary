@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "каменье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Каме́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "каменье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ками́ньё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "каминье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "камни; каменистое место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не огоро́́́дец у меня́́́, а одно́́́ ками́́́ньё – вот беда́́́-та!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не огородец у меня, а одно каминье – вот беда-та!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

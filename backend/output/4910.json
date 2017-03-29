@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "обиходный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обихо́дный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обиходный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "опрятный, чистоплотный, хозяйственный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он обихо́дный мужик-от.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он обиходный мужик-от."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "будничный, ежедневный, непраздничный (об одежде).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "обы́денный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обыденный"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

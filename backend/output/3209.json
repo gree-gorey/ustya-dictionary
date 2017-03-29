@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кашемировик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кашеми́ровик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кашемировик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предмет одежды, например, платок, кофта, из популярной раньше ткани кашеми́ра.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

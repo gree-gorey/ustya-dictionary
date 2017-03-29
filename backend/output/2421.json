@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "закликать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заклика́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закликать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угомонять, урезонивать, образумливать, делать замечание прикрикнув, чтобы некто перестал делать то, что делает в данный момент. Таже", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "оклика́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "окликать"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "однокр.", 
+          "content": "окли́кнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "окликнуть"
+        }, 
+        {
+          "content": "Закли́чь робят-то, не слышно!", 
+          "translation": "взрослые беседуют, но им мешает детский шум, они просят хозяев приструнить детей.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закличь робят-то, не слышно!"
+        }, 
+        {
+          "content": "Закли́́́кни-ко (окликни-ко) робя́́́т-то, совсе́́́м раздури́́́лись, ушибу́́́тьце ве́́́ть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закликни-ко (окликни-ко) робят-то, совсем раздурились, ушибутьце веть!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "кли́кать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кликать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

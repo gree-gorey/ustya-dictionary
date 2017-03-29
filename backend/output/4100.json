@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "малосоло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Малосо́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "малосоло"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "молосо́ло", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "молосоло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недосолено.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Малосо́ло, надо суп посоли́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "малосоло, надо суп посолить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "дебелый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дебе́лый", 
+        "place": [
+          "Ульюха"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "дебелый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепкий, прочный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Этот старинный стол дебе́лый, служит многим поколениям.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "этот старинный стол дебелый, служит многим поколениям."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

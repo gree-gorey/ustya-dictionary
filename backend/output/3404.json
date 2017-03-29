@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "комшиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́мшиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "комшиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щипа́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щипаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чистить перья (о курах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́рицы ко́мшатце – дожж бу́дёт", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(примета).", 
+          "normalized_content": "курицы комшатце – дожж будет"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

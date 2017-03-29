@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бригадирить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бригади́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бригадирить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать бригадиром.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Три года бригади́рил, после сбег.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "три года бригадирил, после сбег."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

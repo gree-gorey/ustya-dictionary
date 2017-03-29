@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "поденщик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поде́нщик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поденщик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подё́нщик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поденщик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свободный человек, нанятый на разные работы с оплатой", 
+          "tag": "def"
+        }, 
+        {
+          "content": "подё́нно", 
+          "tag": "quote", 
+          "normalized_content": "поденно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "сушоница(ча)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́шоница(ча)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сушоница(ча)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шу́шонича(ца)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шушонича(ца)"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сошуни́́́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сошуница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шошуни́́́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шошуница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шушени́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шушеница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "засохшая носовая слизь, козявка в носу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну́́́-ко, вы́́́тащи-ко су́́́шоницы-то из но́́́су у робё́́́нка, меша́́́ют дыша́́́ть-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко, вытащи-ко сушоницы-то из носу у робенка, мешают дышать-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") худенькая, «сухая», девушка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "стрекануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стрека́нуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стрекануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "стрекакану́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стрекакануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "стрекну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "стрекнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "стрека́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "стрекать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лягнуть, ударить ногами (о животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не подходи близко сзади, конь можот стрекну́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не подходи близко сзади, конь можот стрекнуть."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вскочить и убежать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заец-то как стрекану́л, токо и ви́дели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заец-то как стреканул, токо и видели."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

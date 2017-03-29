@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "нахвостить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нахвости́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нахвостить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "насплетничать, наговорить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "хвости́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хвостить"
+        }, 
+        {
+          "content": "Это она опеть нахвости́ла, ну и сплетница!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это она опеть нахвостила, ну и сплетница!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

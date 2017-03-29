@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "грызет", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Грызё́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грызет"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ощущается ноющая, свербящая боль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, в спи́не-то грызё́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, в спине-то грызет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "гры́зтись", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "грызтись"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

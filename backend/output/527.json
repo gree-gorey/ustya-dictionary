@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "вада", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́́́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вада"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тот, кто «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ва́дит", 
+          "tag": "quote", 
+          "normalized_content": "вадит"
+        }, 
+        {
+          "content": "», ведущий в игре.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

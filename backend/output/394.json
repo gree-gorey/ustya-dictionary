@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "бочага", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боча́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бочага"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бурча́га", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бурчага"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яма, наполненная водой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На сенокосе провалился до подпа́зух в боча́гу. Угудиў в бурча́гу, дак едва вылез.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на сенокосе провалился до подпазух в бочагу. угудиу в бурчагу, дак едва вылез."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "яма на дне реки, омут.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не заплыва́́йте далёко от берега, там боча́́́́́́́́га.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не заплывайте далеко от берега, там бочага."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

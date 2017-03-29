@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "грамотка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гра́мотка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грамотка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гума́жка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гумажка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лист бумаги.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "всякая бумажка.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "письмо, письмецо.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "газета.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

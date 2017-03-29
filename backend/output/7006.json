@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "скотница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́тница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скотница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работница сельхозпредприятия, обслуживающая закрепленную за ней группу скота.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ско́тник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скотник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

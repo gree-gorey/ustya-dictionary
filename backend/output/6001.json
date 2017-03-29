@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "попона", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попо́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "попона"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "покрывало из холста для накрывания вспотевших лошадей при отдыхе в холод.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

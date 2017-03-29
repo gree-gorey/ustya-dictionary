@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "слышко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слы́шко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слышко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слышно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где и Колька: не слы́шко, не ви́дко?! Шщо слы́́́шко о но́́́вых пе́́́нзиях-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где и колька: не слышко, не видко?! шщо слышко о новых пензиях-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

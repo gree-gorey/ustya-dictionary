@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "тык-впритык", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тык-вприты́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тык-впритык"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "точь-в-точь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "точь-в-точь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень плотно.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вприты́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "впритык"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

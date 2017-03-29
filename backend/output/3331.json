@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "кокнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́кнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кокнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разбить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́́́кни ицо́́́-то", 
+          "translation": "(яйцо)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кокни ицо-то"
+        }, 
+        {
+          "content": "да маци́́́", 
+          "tag": "quote", 
+          "normalized_content": "да маци"
+        }, 
+        {
+          "content": "с хле́́́бом-то, ску́́́сно веть! Стекло́́́ нёс, дак чу́́́ть не ко́́́кнуў.", 
+          "tag": "quote", 
+          "normalized_content": "с хлебом-то, скусно веть! стекло нес, дак чуть не кокнуу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "убить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он веть двух сыче́́́й", 
+          "translation": "(ястребов)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он веть двух сычей"
+        }, 
+        {
+          "content": "ле́́́тось ко́́́кнуў, кур да ципля́́́т фсё таска́́́ли дак.", 
+          "tag": "quote", 
+          "normalized_content": "летось кокнуу, кур да циплят фсе таскали дак."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

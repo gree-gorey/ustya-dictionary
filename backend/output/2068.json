@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "жакетка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жаке́тка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жакетка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женская приталенная кофта с длинными рукавами; женское короткое пальто на ватной подкладке.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "плю́шевая жаке́тка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "плюшевая жакетка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

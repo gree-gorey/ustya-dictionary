@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "баслави", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баслави́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баслави"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "благослови. Начиная новое дело, говорили: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Баслави́, Господи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баслави, господи!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

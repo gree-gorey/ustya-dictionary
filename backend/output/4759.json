@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "нял", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нял", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нял"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "няв", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "няв"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мог.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кабы я ня́́́ў это зде́́́лать, дак тебя́́́ бы и не проси́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кабы я няу это зделать, дак тебя бы и не просиу."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "не́нять", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ненять"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

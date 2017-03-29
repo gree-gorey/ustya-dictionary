@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "расчалить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расча́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расчалить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "расча́ливать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "расчаливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разъединить, расцепить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Расча́ль верёвку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "расчаль веревку."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сча́лить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "счалить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

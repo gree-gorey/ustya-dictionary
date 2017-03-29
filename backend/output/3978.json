@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "лопатить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лопа́тить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лопатить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "точить косу бруском (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "лопа́ткой", 
+          "tag": "quote", 
+          "normalized_content": "лопаткой"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "переворачивать зерно лопатой на гумне, чтоб не согрелось и не «сгорело» (почернело, испортилось) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перелопа́тить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перелопатить"
+        }, 
+        {
+          "content": "Ой, ско́́́ко зерна́́́ на́́́до перелопа́́́тить, не́́́вковды сиди́́́ть-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, скоко зерна надо перелопатить, невковды сидить-то!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

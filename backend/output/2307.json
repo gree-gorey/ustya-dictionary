@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "загибистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заги́бистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загибистый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загибу́листый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загибулистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изогнутый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дерево-то какоё заги́бистое на болоте вы́росло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дерево-то какое загибистое на болоте выросло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "достояться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Достоя́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "достояться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настояться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо настойке дать достоя́ться, а потом пить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо настойке дать достояться, а потом пить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "недостоя́лый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "недостоялый"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "недостоя́лый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "недостоялый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

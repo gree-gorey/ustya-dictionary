@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "отсадить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отсади́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отсадить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отлучить ребенка от груди матери, теленка от коровы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро отрубить, отрезать часть от целого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Больно много отсади́л, коротка́ жердь будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "больно много отсадил, коротка жердь будет."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пересадить на другое место рассаду, молодые побеги кустов и деревьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рассаду огурцов отсади́ла в выре́ц.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рассаду огурцов отсадила в вырец."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

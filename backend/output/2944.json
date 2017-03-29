@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "издыхать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Издыха́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "издыхать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно болеть, ни жить ни умирать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

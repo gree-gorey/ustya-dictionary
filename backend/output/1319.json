@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "гарусник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́русник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гарусник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сарафан, платок, накидка, сшитые из гаруса, цветной шерстяной ткани, вытканной из крученых нитей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

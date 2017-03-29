@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доспроситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доспроси́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доспроситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пытаться узнать, расспрашивать, желая получить нужную информацию.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нека́к не могла доспроси́тце, где шляўсе двадни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некак не могла доспроситце, где шляусе двадни."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

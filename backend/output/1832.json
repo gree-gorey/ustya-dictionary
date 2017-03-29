@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "дородне", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доро́дне", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дородне"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "доро́дьнё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дородьне"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хорошо, добро, красиво.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мне и так доро́днё! Ой, как доро́дьнё она письню поёт, аш за́ серце взя́ло. Со старшими спорить ро́ду недоро́днё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мне и так дородне! ой, как дородьне она письню поет, аш за серце взяло. со старшими спорить роду недородне."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "достаточно, хватит.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Доро́днё давай, куды с добром!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дородне давай, куды с добром!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обеспеченно, в достатке, без нужды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сваты у нас живут доро́днё, не в чём нужды у их нет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сваты у нас живут дородне, не в чем нужды у их нет."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "одобрение дел и поступков.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пора́то доро́дне учитце парень, молодец!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "порато дородне учитце парень, молодец!"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

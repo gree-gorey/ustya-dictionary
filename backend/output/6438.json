@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "рабливать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ра́бливать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рабливать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать (в прошлом) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зара́бливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зарабливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отра́бливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отрабливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прира́бливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прирабливать"
+        }, 
+        {
+          "content": "Ра́бливала я побо́льше вашево, поро́били бы вы с моё! Семья-то большая, дак приходитсе и на другой работе прира́бливать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рабливала я побольше вашево, поробили бы вы с мое! семья-то большая, дак приходитсе и на другой работе прирабливать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "робить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "робить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

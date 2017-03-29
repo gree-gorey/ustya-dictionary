@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "беспаметной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беспаме́тной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беспаметной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "имеющий слабую память, забывчивый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К старости-то некоторые беспа́метными бывают.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к старости-то некоторые беспаметными бывают."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

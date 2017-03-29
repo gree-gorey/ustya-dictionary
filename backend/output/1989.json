@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "едруха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Едру́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "едруха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ёдру́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "едруха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "корова ёдрой масти.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ё́дрый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "едрый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

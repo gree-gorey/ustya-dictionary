@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "аляпистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Аля́пистый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "аляпистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яркий, контрастный, сильно бросающийся в глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Мару́ськи пла́тьё бульши́ми кра́сными цвета́ми, пора́то аля́пистоё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у маруськи платье бульшими красными цветами, порато аляпистое."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "аляпова́тый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "аляповатый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

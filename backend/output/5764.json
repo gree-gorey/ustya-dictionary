@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "подкладывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подкла́дывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подкладывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кастрировать домашних животных (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подложи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подложить"
+        }, 
+        {
+          "content": "Ой, паре, где-то надо бе́лово", 
+          "translation": "(бутылку водки)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, паре, где-то надо белово"
+        }, 
+        {
+          "content": "достать. За́втре ветирина́р прид́ёт, обеща́ў поросёнка подложи́ть.", 
+          "tag": "quote", 
+          "normalized_content": "достать. завтре ветиринар придет, обещау поросенка подложить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

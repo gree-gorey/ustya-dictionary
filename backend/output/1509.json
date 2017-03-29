@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "грамм", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гра́мм", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грамм"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "малое количество вообще, а не в весовом значении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Денежок-то гра́ма нет! Муки ни гра́мма.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "денежок-то грама нет! муки ни грамма."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "заржать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заржа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заржать"
+      }
+    ], 
+    "style": [
+      "вульг."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "громко неуместно засмеяться, вызывая недовольство окружающих (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ржать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ржать"
+        }, 
+        {
+          "content": "Чево заржа́ли, как кобы́лы, с вами бы так!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево заржали, как кобылы, с вами бы так!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

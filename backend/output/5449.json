@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "пачеси", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́чеси", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пачеси"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́чесное льноволокно́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пачесное льноволокно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льноволокно, полученное после второго чесания щетью. А остающееся в повесме после второго чесания льноволокно с длинными тонкими волокнами использовалось для ткания самого тонкого льняного полотна (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "про́стыни", 
+          "tag": "quote", 
+          "normalized_content": "простыни"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "па́чесный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пачесный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

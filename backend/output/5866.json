@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пожидко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́жидко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пожидко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жидковато.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́жидко тесто-то затвори́ла, надо муцьки добавить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пожидко тесто-то затворила, надо муцьки добавить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изобижать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изобижа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изобижать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обижать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Братья не любили его и часто его изобижа́ли", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой перстень». М.И. Шалаурова.", 
+          "normalized_content": "братья не любили его и часто его изобижали"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

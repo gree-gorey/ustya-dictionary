@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сночи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С но́чи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с ночи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "после ночной смены.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не шумите, дайте ему отдохнуть с но́чи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не шумите, дайте ему отдохнуть с ночи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

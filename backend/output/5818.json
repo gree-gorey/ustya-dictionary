@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "подсадить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подсади́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подсадить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помочь взобраться, например, на лошадь верхом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заменить неприжившиеся растения новой рассадой.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подложить под курицу, выпаривающую цыплят, дополнительные яйца", 
+          "tag": "def"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

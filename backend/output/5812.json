@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "подпорог", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подпоро́г", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подпорог"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подпоро́гом", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подпорогом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место около порога в доме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не стой в подпоро́ге (подпоро́гом) , проходи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не стой в подпороге (подпорогом) , проходи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

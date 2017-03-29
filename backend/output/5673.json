@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "поваренка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поварё́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поваренка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поварё́́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поварешка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разливочная ложка, черпак.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

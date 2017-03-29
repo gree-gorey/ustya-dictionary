@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "раструбить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Раструби́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "раструбить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разболтать по всей деревне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тепере все знают, що у нас было, сусе́дка роструби́ла по всей деревне.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тепере все знают, що у нас было, суседка рострубила по всей деревне."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

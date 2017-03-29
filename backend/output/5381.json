@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "пакарукий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пакару́кий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пакарукий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пакору́кий", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пакорукий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пакору́кой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пакорукой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неловкий, неумелый тот, у кого из рук всё валится (возможно, от слов «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́кли", 
+          "tag": "quote", 
+          "normalized_content": "пакли"
+        }, 
+        {
+          "content": "» или «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "па́кши", 
+          "tag": "quote", 
+          "normalized_content": "пакши"
+        }, 
+        {
+          "content": "Пакору́кая, не так зашила рукавицу-то! Ну шщо как пакару́́́кие-то – удёржа́́́ть не мо́́́жоте!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пакорукая, не так зашила рукавицу-то! ну шщо как пакарукие-то – удержать не можоте!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

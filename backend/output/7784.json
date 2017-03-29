@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "тюня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тю́ня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тюня"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тю́́́тя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тютя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неумелый, робкий человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты и тю́ня! Он у их тако́́́й тю́́́тя ростё́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты и тюня! он у их такой тютя ростет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

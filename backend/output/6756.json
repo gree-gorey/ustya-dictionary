@@ -1,0 +1,117 @@
+{
+  "field_for_sorting": "сапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сапать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жадно хватать, брать; интенсивно собирать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заса́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сса́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ссапать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "са́пнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сапнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Са́́́пать-то она́́́ уж гора́́́зна – двои́́́мя рука́́́ми са́́́паёт. Дай ей волю, дак она бы всё заса́пала (сса́пала). Собака-то вон какой кусок сса́пала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сапать-то она уж горазна – двоимя руками сапает. дай ей волю, дак она бы все засапала (ссапала). собака-то вон какой кусок ссапала!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "полоть с помощью тяпки (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "са́пки", 
+          "tag": "quote", 
+          "normalized_content": "сапки"
+        }, 
+        {
+          "content": "ца́пки", 
+          "tag": "quote", 
+          "normalized_content": "цапки"
+        }, 
+        {
+          "content": "небольшой мотыги.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сопеть, швыркать носом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засапать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засапать"
+        }, 
+        {
+          "content": "Чево но́сом опеть заса́пал, просты́л, наверно?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево носом опеть засапал, простыл, наверно?"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

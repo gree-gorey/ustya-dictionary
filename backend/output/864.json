@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воженица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вожени́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воженица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нянька.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В вожени́цы отдавали с десети́ – двенадце́ти годоф.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в воженицы отдавали с десети – двенадцети годоф."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "объездить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Объез́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "объездить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приучить молодую лошадь к езде на ней человека, хождению в упряжи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тибе этово коня не объе́здить, расшибёт, мал ищо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тибе этово коня не объездить, расшибет, мал ищо."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

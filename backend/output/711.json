@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "вечер", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вечё́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вечер"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вечо́р", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вечор"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вечере́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вечересь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нареч.", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "вчера вечером, накануне вечером.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вечё́р Манька поболтать забегала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вечер манька поболтать забегала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сегодня вечером.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В вечё́р-то собирайтесь до нас", 
+          "translation": "вечером приходите к нам.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в вечер-то собирайтесь до нас"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "запад.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Со́нце на вечору́ уж, пора конче́ть роботу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сонце на вечору уж, пора кончеть роботу."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сиеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сиеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сеять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Фсё, земля поспе́́́ла, на́́́до си́́́еть, си́́́еть! Сыпь жи́́́то в решёто́́́, пора́́́ жи́́́то си́́́еть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фсе, земля поспела, надо сиеть, сиеть! сыпь жито в решето, пора жито сиеть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

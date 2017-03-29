@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "биздеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бизде́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "биздеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпускать газы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "плохо топиться (о печке, в которую положили сырых дров).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") трусить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бзде́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бздеть"
+        }, 
+        {
+          "content": "Что, бзди́́́шь? Что, забзде́́́л?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что, бздишь? что, забздел?"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") врать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не бизди́!", 
+          "translation": "не ври, не сочиняй", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не бизди!"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

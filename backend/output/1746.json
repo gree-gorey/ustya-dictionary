@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "доведенный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доведё́нный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доведенный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испорченный.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "доводи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "доводить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

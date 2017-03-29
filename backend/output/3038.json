@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "испичкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испи́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "испичкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испачкать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты так рубаху-ту всю испи́чкал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты так рубаху-ту всю испичкал?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "избить по щекам.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пи́чкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пичкать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

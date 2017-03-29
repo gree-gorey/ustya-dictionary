@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "метелить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мете́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "метелить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измете́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изметелить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намете́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наметелить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отмете́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отметелить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перемете́лить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переметелить"
+        }, 
+        {
+          "content": "И начала она ёво́ пья́ново мете́лить. Не попада́йсе по́д руку, а то отмете́лю. Попа́́ўсе робя́там из друго́й дере́вни, оне́ так измете́лили. Наших было больше, дак всех ульюша́н перемете́лили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и начала она ево пьяново метелить. не попадайсе под руку, а то отметелю. попаусе робятам из другой деревни, оне так изметелили. наших было больше, дак всех ульюшан переметелили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

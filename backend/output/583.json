@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "вгудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вгуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вгудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вдеть, продеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, паре, що за ока́зья, не могу нитку в иго́ўку вгуди́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, паре, що за оказья, не могу нитку в игоуку вгудить."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "непреднамеренно точно попасть куда-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бро́сиў камень и в лицо ёму вгуди́ў, хорошо не в глаз.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бросиу камень и в лицо ему вгудиу, хорошо не в глаз."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "угуди́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "угудить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

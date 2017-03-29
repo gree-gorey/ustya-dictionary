@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "улепетывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Улепё́тывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "улепетывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро уходить, убегать со всех ног (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "улепета́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "улепетать"
+        }, 
+        {
+          "content": "Улепё́тывайте-ко вы все отсю́дова! Куры как увидели меня, дак быстряе давай с угоро́дца улепё́тывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "улепетывайте-ко вы все отсюдова! куры как увидели меня, дак быстряе давай с угородца улепетывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

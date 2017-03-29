@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "микитки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мики́тки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "микитки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грудь, грудки, подвздошье, подреберье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дал под мики́тки. Взял за мики́тки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дал под микитки. взял за микитки."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

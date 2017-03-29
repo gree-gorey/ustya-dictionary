@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "проверзина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прове́рзина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "проверзина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая дыра; яма.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ливнём прове́рзину на дороге вы́мыло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ливнем проверзину на дороге вымыло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

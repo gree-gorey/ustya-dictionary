@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "щепать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щепа́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щепать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "откалывать от сухого полена", 
+          "tag": "def"
+        }, 
+        {
+          "content": "лучи́ны", 
+          "tag": "quote", 
+          "normalized_content": "лучины"
+        }, 
+        {
+          "content": ", откалывать (отдирать) из сосновых заготовок вдоль волокон дранку (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исщепа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исщепать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нащепа́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нащепать"
+        }, 
+        {
+          "content": "Нащипа́й лучи́н на расто́пку. Всё поле́но исщепа́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нащипай лучин на растопку. все полено исщепал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "рюхать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рю́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рюхать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "зарю́хать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "зарюхать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "зрю́хать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "зрюхать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кашлять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь ты цисто простудилсе, эдак рю́хаёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь ты цисто простудилсе, эдак рюхаешь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") сердито говорить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево на меня эдак рю́хать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево на меня эдак рюхать!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

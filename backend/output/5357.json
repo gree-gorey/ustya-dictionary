@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "ощепка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Още́пка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ощепка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "още́пок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ощепок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остаток от полена для растопки печки,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "лучи́нина", 
+          "tag": "quote", 
+          "normalized_content": "лучинина"
+        }, 
+        {
+          "content": "Перестань, не мели́ пустых басён, пока още́пком не изводи́ла. Поди́ робь", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "перестань, не мели пустых басен, пока ощепком не изводила. поди робь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

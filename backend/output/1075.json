@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "втянуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Втяну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втянуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привыкнуть, приспособиться морально и физически (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "втя́гиваться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "втягиваться"
+        }, 
+        {
+          "content": "Сразу было тяжело на работе, а потом втяну́лся и стало легче. После каникул трудно втя́гиваться в учёбу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сразу было тяжело на работе, а потом втянулся и стало легче. после каникул трудно втягиваться в учебу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

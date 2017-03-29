@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "желобина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Желоби́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "желобина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жолоби́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жолобина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "углубленное место с отлогими краями между двумя возвышенностями, покатостями.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "шершавина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шерша́вина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шершавина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неровность, шероховатость на коже, поверхности.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

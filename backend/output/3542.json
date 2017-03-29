@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "косящатое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косяща́тое", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косящатое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "косячное окно, стояло между волоковыми окнами посередине в избе XIX века.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

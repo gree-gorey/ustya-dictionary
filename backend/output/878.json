@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "волгеницы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́лгеницы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волгеницы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́вгеницы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вовгеницы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́лденцы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "волденцы"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́вденци", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вовденци"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "во́ўденци", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "воуденци"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "волнухи (грибы).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Насолила кадушку во́лдениц.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "насолила кадушку волдениц."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

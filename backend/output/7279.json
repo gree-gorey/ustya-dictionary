@@ -1,0 +1,167 @@
+{
+  "field_for_sorting": "сряжаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сряжа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сряжаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одеваться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "снаряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "снаряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пересряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пересряжаться"
+        }, 
+        {
+          "content": "Куды эдак насряжа́лась, веть споти́ёшь! Севодня холодно, надо тепляе сряжа́тьсе (снаряжа́тьсе). Весь ты цисто промо́к, пересряжа́йсе быстряе давай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак насряжалась, веть спотиешь! севодня холодно, надо тепляе сряжатьсе (снаряжатьсе). весь ты цисто промок, пересряжайсе быстряе давай!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наряжаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наснаряжа́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наснаряжаться"
+        }, 
+        {
+          "content": "В Бестужеве-то обряжа́ютце, в Бережной гулять сряжа́ютце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из песни).", 
+          "normalized_content": "в бестужеве-то обряжаютце, в бережной гулять сряжаютце!"
+        }, 
+        {
+          "content": "Как вечор, дак она опеть куды-то снаряжа́етце! Куды эдак насряжа́лась (наснаряжа́лась), опеть на гуля́нку?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как вечор, дак она опеть куды-то снаряжаетце! куды эдак насряжалась (наснаряжалась), опеть на гулянку?"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "собираться куда-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засряжаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заснаряжаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заснаряжаться"
+        }, 
+        {
+          "content": "Как начнут куда́ сряжа́ться, день прои́щут хомута́", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как начнут куда сряжаться, день проищут хомута"
+        }, 
+        {
+          "content": "(из частушки).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Время подошло́ в путь-дороженьку снаряжа́́́ться. Куды опеть Опро́шка засряжа́ласе (заснаряжа́ласе)?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "время подошло в путь-дороженьку снаряжаться. куды опеть опрошка засряжаласе (заснаряжаласе)?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "разряжа́́́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "разряжаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "среди́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "средиться"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

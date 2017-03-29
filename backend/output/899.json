@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "волотина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волоти́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волотина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебель травы, сена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не оставляй волоти́ны-то, чищще греби", 
+          "translation": "на сенокосе нельзя оставлять остатки сена.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не оставляй волотины-то, чищще греби"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сени́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сенина"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

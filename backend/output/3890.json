@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "леньперекатная", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лень перека́тная", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лень перекатная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полная, беспросветная лень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ево одолела лень перека́тная, ничево не делаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ево одолела лень перекатная, ничево не делает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

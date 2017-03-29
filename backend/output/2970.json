@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "изойти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изойти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изойти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "осыпаться зерну из колосьев на корню.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо скоря́е рожь жать да в девятки ставить, а то изойдё́т", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо скоряе рожь жать да в девятки ставить, а то изойдет"
+        }, 
+        {
+          "content": "Туриха", 
+          "tag": "place"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "умереть от кровопотери.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От сильной раны изошё́л кровью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от сильной раны изошел кровью."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

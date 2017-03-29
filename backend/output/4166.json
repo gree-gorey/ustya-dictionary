@@ -1,0 +1,122 @@
+{
+  "field_for_sorting": "мене", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ме́не", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мене"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поме́не", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "помене"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "меньше.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я ме́не ягод насбира́ла. Зло-то всё на виду, а доброта ме́не заметна. У меня́́́ ры́́́бина-та поме́́́не кила́́́ вы́́́тенула", 
+          "translation": "в магазине продали рыбу весом чуть меньше килограмма.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я мене ягод насбирала. зло-то все на виду, а доброта мене заметна. у меня рыбина-та помене кила вытенула"
+        }, 
+        {
+          "content": "Ты поме́не", 
+          "translation": "(поуже)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты помене"
+        }, 
+        {
+          "content": "стёжки́-то делай, дак аккуратнее зашьёшь! Ты поме́не за парнями-то бегай, дак сами за тобой забегают!", 
+          "tag": "quote", 
+          "normalized_content": "стежки-то делай, дак аккуратнее зашьешь! ты помене за парнями-то бегай, дак сами за тобой забегают!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "меньше (по времени).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты меня ме́не робил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты меня мене робил!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "короче.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо сюды ме́не гвоздик вбить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо сюды мене гвоздик вбить."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ниже (ростом).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он-то тебя ме́не ростом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он-то тебя мене ростом."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "моложе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По годам-то он поме́не, а ростом-то побо́ле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по годам-то он помене, а ростом-то поболе."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

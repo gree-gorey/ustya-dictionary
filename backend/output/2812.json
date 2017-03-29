@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "знаткой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зна́ткой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "знаткой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заметный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это моя коса́, у ие́ косьё́ зна́ткоё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это моя коса, у ие косье знаткое."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

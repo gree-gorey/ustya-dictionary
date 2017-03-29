@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "пособить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пособи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пособить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подсоби́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подсобить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помочь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пособля́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пособлять"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подсобля́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсоблять"
+        }, 
+        {
+          "content": "Пособи́ маленько-то? А ты що не пособле́ёшь? Брюх́о боли́т, не зна́ешь чем и пособи́ть. Мне и подсоби́ть-то вам не́чем. Надо идти пособля́ть ему.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пособи маленько-то? а ты що не пособлеешь? брюхо болит, не знаешь чем и пособить. мне и подсобить-то вам нечем. надо идти пособлять ему."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

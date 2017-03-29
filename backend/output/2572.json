@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "запустошить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запустоши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запустошить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запустить, оставить без ухода, обработки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В деревнях почти все поля и сенокосы запустоши́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в деревнях почти все поля и сенокосы запустошили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

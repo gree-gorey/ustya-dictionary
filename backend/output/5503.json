@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "передок1", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Передо́́́к 1", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "передок 1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "передняя часть саней,", 
+          "tag": "def"
+        }, 
+        {
+          "content": "дро́́́вень", 
+          "tag": "quote", 
+          "normalized_content": "дровень"
+        }, 
+        {
+          "content": "чу́́́нок", 
+          "tag": "quote", 
+          "normalized_content": "чунок"
+        }, 
+        {
+          "content": "с загнутыми кверху полозьями, скреплёнными между собой черёмуховыми, ивовыми", 
+          "tag": "def"
+        }, 
+        {
+          "content": "переви́́́чками", 
+          "tag": "quote", 
+          "normalized_content": "перевичками"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "передки́́́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "передки"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "голо́́́вки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "головки"
+        }, 
+        {
+          "content": "Сади́́́сь на передо́́́к спино́́́й к ло́́́шади-то, а то закида́́́ёт сне́́́гом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись на передок спиной к лошади-то, а то закидает снегом."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "передний привод автомобиля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гляди́́́, как передо́́́к гребё́́́т!", 
+          "translation": "(о машине, выбирающейся из грязи, снега и буксующей передними колесами).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "гляди, как передок гребет!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

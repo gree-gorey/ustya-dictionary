@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "полегло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полегло́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полегло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наклонилось (о растениях).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "После таково дожжа всё жито полегло́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после таково дожжа все жито полегло."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "лё́глый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "леглый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

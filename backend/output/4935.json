@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "обоймать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обойма́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обоймать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обыма́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обымать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обнимать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Люди жо́нятце, не каютце, с молоди́цами не ма́ютце. С молоди́цами не ма́ютце, токо знают обойма́ютце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(из песни).", 
+          "normalized_content": "люди жонятце, не каютце, с молодицами не маютце. с молодицами не маютце, токо знают обоймаютце!"
+        }, 
+        {
+          "content": "Обыйма́л да обыйма́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обыймал да обыймал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

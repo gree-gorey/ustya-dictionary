@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "поелику", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пое́лику", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поелику"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так как, поэтому. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А поелику мне доходят жалобы многих жителей", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а поелику мне доходят жалобы многих жителей"
+        }, 
+        {
+          "content": "Из акта Дмитриевской волостной избы 1783 г.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

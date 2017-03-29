@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сырняк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сырня́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сырняк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сырые дрова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Раньше дрова заранее не запаса́ли, и всю зиму топили печи берёзовым сырняко́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раньше дрова заранее не запасали, и всю зиму топили печи березовым сырняком."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

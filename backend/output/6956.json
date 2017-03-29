@@ -1,0 +1,140 @@
+{
+  "field_for_sorting": "скать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прясть и наматывать на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "веретено́", 
+          "tag": "quote", 
+          "normalized_content": "веретено"
+        }, 
+        {
+          "content": "выпряденную нить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо куде́лю скать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо куделю скать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ткать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Половики́ скать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "половики скать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "скручивать вместе две или более ниток, вить веревку (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наска́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наскать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "соска́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "соскать"
+        }, 
+        {
+          "content": "Тогда сами напря́ли, верёвки соска́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тогда сами напряли, веревки соскали."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "раскатывать тесто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Со́чни скать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сочни скать."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") перебирать ногами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скё́т нога́ми", 
+          "translation": "перебирает ножками: говорят про младенца, когда у него что-нибудь болит.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скет ногами"
+        }, 
+        {
+          "content": "Не ски́́́, дава́́́й, нога́́́ми-то, голубо́чик, потерпи́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ски, давай, ногами-то, голубочик, потерпи!"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

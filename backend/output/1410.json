@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "голкаксокол", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гол, как соко́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гол, как сокол"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ничего не имеет, беден.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он сам гол, как соко́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он сам гол, как сокол."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

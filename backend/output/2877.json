@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "ивина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́вина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ивина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "и́венка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ивенка"
+      }
+    ], 
+    "style": [
+      "уменьш."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дерево ива.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С и́венок дуб драли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с ивенок дуб драли."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ивня́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ивняк"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

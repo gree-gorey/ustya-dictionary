@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "желна", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жё́лна", 
+        "place": [
+          "Бритвино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "желна"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "желна, черный дятел.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

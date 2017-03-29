@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "отлынивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отлы́нивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отлынивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "увиливать, уклоняться от дела (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отлы́нить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отлынить"
+        }, 
+        {
+          "content": "Ему бы токо от роботы отлы́нить. Ты чево отлы́ниваёшь, все ро́бят, а ты стоишь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему бы токо от роботы отлынить. ты чево отлыниваешь, все робят, а ты стоишь?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

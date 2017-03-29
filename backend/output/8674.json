@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "юксы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ю́ксы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юксы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мягкие лыжные крепления из кожи, лыжный ремень. Считается, что слово заимствовано из саамского", 
+          "tag": "def"
+        }, 
+        {
+          "content": "juksa", 
+          "tag": "quote", 
+          "normalized_content": "juksa"
+        }, 
+        {
+          "content": "Ю́́́ксы съезжа́́́ют с пя́́́тки, на́́́до реми́́́нь подтену́́́ть тужа́́́е.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "юксы съезжают с пятки, надо реминь подтенуть тужае."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

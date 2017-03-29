@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "глиной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глино́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глиной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гнилой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Верёвка глина́я, дак сразу урвала́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "веревка глиная, дак сразу урвалась."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "глинь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "глинь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

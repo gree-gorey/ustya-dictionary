@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "икчится", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́кчится", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "икчится"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно икается, взял приступ икоты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И́кчитсе, дак попей воды и всё пройдёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "икчитсе, дак попей воды и все пройдет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "икта́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "иктаться"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

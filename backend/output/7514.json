@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тальянка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Талья́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тальянка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гармонь двухрядка с колокольчиками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "О празниках плясали под талья́нку, хоть и немного было гармони́стов с талья́нками.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "о празниках плясали под тальянку, хоть и немного было гармонистов с тальянками."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

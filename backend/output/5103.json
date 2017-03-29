@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "олух", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́лух", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "олух"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестолковый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скоко раз-то тибе, о́луху, говорить-то надо?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко раз-то тибе, олуху, говорить-то надо?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

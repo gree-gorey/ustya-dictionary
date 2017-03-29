@@ -1,0 +1,163 @@
+{
+  "field_for_sorting": "стегать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стёга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стегать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стегать (бить) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́стёгать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выстегать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изстёга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изстегать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "настёга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настегать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стёгну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стегнуть"
+        }, 
+        {
+          "content": "однокр.,", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "стёжи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стежить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "настёжи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настежить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "постёжи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "постежить"
+        }, 
+        {
+          "content": "Нечево коня стёга́ть, он и так еле воз та́щит! На́́́до тебя́́́, не́́́слуха, опе́́́ть, ви́́́дно, стёгану́́́ть, а шщо – ви́́́цька ко́́́стоцки не ло́́́мит, а па́́́меть даё́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево коня стегать, он и так еле воз тащит! надо тебя, неслуха, опеть, видно, стегануть, а шщо – вицька костоцки не ломит, а паметь дает."
+        }, 
+        {
+          "content": "Он давай коней стёжи́ть по цепям. Цепи распались", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой перстень». М.И. Шалаурова. «", 
+          "normalized_content": "он давай коней стежить по цепям. цепи распались"
+        }, 
+        {
+          "content": "Иван настёжи́л коня, всю лестницу перескакал", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иван настежил коня, всю лестницу перескакал"
+        }, 
+        {
+          "content": "Ты уздо́й помаши́, по цепи вдарь, постёжи́. Садись на коня", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Тетёра». М.И. Шалаурова.", 
+          "normalized_content": "ты уздой помаши, по цепи вдарь, постежи. садись на коня"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пристёга́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пристегать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пристегну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пристегнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Рукав вот так лучше стёга́ть. Стёга́й ровня́́́е, затя́́́гивай поту́́́же ни́́́тку-ту. Сейчас дратвой пристёга́ю сте́льку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рукав вот так лучше стегать. стегай ровняе, затягивай потуже нитку-ту. сейчас дратвой пристегаю стельку."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

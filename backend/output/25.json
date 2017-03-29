@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "алконавт", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Алкона́вт", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "алконавт"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "анкаго́лик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "анкаголик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "алкоголик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Анкаго́лики вино сопу́т кажной день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "анкаголики вино сопут кажной день."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "тетеря", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тете́ря", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тетеря"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глухарь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Чё́рная тете́ря", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "черная тетеря"
+        }, 
+        {
+          "content": "самец,", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "се́рая тете́ря", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "серая тетеря"
+        }, 
+        {
+          "content": "самка глухаря.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") невнимательный человек, который не слышит, что ему говорят.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Глуха́я тете́ря! Тете́ря худо́й!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глухая тетеря! тетеря худой!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

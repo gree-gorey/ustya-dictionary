@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "втюриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Втю́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "втюриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "влюбиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Фтю́риўсе в ие́ с пе́рвово взгля́ду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фтюриусе в ие с первово взгляду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мудрено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мудрёно́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мудрено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трудно, непросто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В семье-то мудрёно́ жить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в семье-то мудрено жить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

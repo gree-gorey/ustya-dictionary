@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "жеребушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жеребу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жеребушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жеребенок женского рода, «лошадка», кобылка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Федо́́́ры-то", 
+          "translation": "(кличка кобылы)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у федоры-то"
+        }, 
+        {
+          "content": "тепе́́́ре жеребу́́́шка е́́́сь.", 
+          "tag": "quote", 
+          "normalized_content": "тепере жеребушка есь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

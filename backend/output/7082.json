@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "смирница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сми́рница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смирница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скромница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У тебя дочь сми́рница.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у тебя дочь смирница."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "смирная, не бодливая (о животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Корова-та у меня сми́рница. Ой ты, моя ме́́́зонька, сми́́́рница ты моя́!", 
+          "translation": "(ласковое обращение к корове).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова-та у меня смирница. ой ты, моя мезонька, смирница ты моя!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

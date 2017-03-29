@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "черничник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Черни́чник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "черничник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заросли, кусты черники.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Се́́́йгод в черни́́́чниках-то сини́́́м-синё́́́ черни́́́цы-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейгод в черничниках-то синим-сине черницы-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пирог с черникой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколь ни скусё́́́н черни́́́чник-то, уда́́́ча!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь ни скусен черничник-то, удача!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

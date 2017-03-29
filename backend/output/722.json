@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "верткий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вё́рткий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "верткий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "увё́ртистый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "увертистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подвижный, ловкий.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вертова́тый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вертоватый"
+        }, 
+        {
+          "content": "Вё́рткий какой робёнок-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "верткий какой робенок-то!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

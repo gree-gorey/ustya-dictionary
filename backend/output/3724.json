@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кувырда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кувы́рда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кувырда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неловкая, неумелая.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

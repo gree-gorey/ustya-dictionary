@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "чебурахнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чебура́хнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чебурахнуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чебурда́хнуться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чебурдахнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть с высоты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Держись крипче на возу, а то чебура́хнешьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "держись крипче на возу, а то чебурахнешьсе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

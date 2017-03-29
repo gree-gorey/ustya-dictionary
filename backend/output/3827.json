@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кщеный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кщё́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кщеный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крещеный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Батюшка сам иногда приходил детей крестить. Да я и сама кщё́ная.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "батюшка сам иногда приходил детей крестить. да я и сама кщеная."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

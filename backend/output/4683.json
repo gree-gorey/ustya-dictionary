@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "неахти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не ахти", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не ахти"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(како́́й)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "(какой)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не очень, оставляет желать лучшего.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ахти́ кака́я карто́вь уроди́ласе. Жи́́́сь у е́́́й не ахти́́́ кака́́́я, не позави́́́дуёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ахти какая картовь уродиласе. жись у ей не ахти какая, не позавидуешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

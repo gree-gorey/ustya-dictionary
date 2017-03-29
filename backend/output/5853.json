@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "подшашки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подша́шки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подшашки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́́́дшастки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подшастки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́дчашки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подчашки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отходы от шастания жита, льна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́́́тшаски-то куды́́́ дева́́́ть бу́́́дём? – Скоту́́́ згодя́́́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "потшаски-то куды девать будем? – скоту згодятце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

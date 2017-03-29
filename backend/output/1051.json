@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "встричу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Встри́чу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "встричу"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "навстри́чу", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "навстричу"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "настри́чу", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "настричу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "навстречу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодни мне в лесу мидви́дь встри́чу попаўсе, ну и перепужа́лись мы с им друг дружки. Подё́м навстри́чу оди́н друго́му. Не попада́йсе настри́чу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни мне в лесу мидвидь встричу попаусе, ну и перепужались мы с им друг дружки. подем навстричу один другому. не попадайсе настричу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

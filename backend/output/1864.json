@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "дохтур", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "До́хтур", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дохтур"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дохтури́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дохтурица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "доктор, врач, фельдшер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наш до́хтур подня́ў миня́ на ноги.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наш дохтур подняу миня на ноги."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

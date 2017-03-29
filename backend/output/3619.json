@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "кремень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кре́мень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кремень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепкий камень для высекания искры, добывания огня, составная часть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "огни́ва", 
+          "tag": "quote", 
+          "normalized_content": "огнива"
+        }, 
+        {
+          "content": ". При ударе", 
+          "tag": "def"
+        }, 
+        {
+          "content": "креса́ла", 
+          "tag": "quote", 
+          "normalized_content": "кресала"
+        }, 
+        {
+          "content": "о кремень появляется искра, воспламеняющая", 
+          "tag": "def"
+        }, 
+        {
+          "content": "трут", 
+          "tag": "quote", 
+          "normalized_content": "трут"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "огни́во", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "огниво"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "креса́ло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кресало"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "трут", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трут"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "комельная смоливая часть дерева с более твердой древесиной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это дерево тяжёло тесать, у него комель наго́льный кре́мень.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это дерево тяжело тесать, у него комель нагольный кремень."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

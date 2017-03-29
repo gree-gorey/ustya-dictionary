@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "купитьсруб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Купи́ть сруб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "купить сруб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "купить только остов (каркас) сооружения, нуждающегося еще в достройке, а не уже готовый объект (дом, баню и т. п.).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сруб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сруб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "голбец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́лбец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голбец"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "го́бец", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гобец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полка, расположенная под потолком, для хранения лука.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пола́тци", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полатци"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кладовка с полками за печью.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

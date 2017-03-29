@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "мереть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мере́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мереть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "морить себя голодом, сидеть на строгой диете (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замере́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замереть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намере́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намереться"
+        }, 
+        {
+          "content": "Было бы из-за чево мере́ть, а то, видите ли, фигура своя не нравитсе!", 
+          "translation": "это выражение более актуально сейчас, раньше мало кто добровольно морил себя голодом.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "было бы из-за чево мереть, а то, видите ли, фигура своя не нравитсе!"
+        }, 
+        {
+          "content": "Весь за́мёр за годы учёбы. Намё́рся за́ день.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь замер за годы учебы. намерся за день."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "поплавень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́плавень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поплавень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рыболовная снасть из тонких ивовых прутьев, постепенно сужающаяся к одному концу. Устанавливалась в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ез", 
+          "tag": "quote", 
+          "normalized_content": "ез"
+        }, 
+        {
+          "content": "широкой частью (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "го́рлом", 
+          "tag": "quote", 
+          "normalized_content": "горлом"
+        }, 
+        {
+          "content": ") по течению, в отличие от", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мо́рды", 
+          "tag": "quote", 
+          "normalized_content": "морды"
+        }, 
+        {
+          "content": ", устанавливаемой горлом против течения речки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "су́рпа", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сурпа"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

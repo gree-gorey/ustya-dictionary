@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "коло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "около, близко, примерно, почти, рядом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сядь ко́ло печки, а то холодно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сядь коло печки, а то холодно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

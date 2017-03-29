@@ -1,0 +1,52 @@
+{
+  "field_for_sorting": "газовать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Газова́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "газовать"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пьянствовать, неумеренно пить алкогольные напитки.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "гужева́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гужевать"
+        }, 
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Зеть которой уж день газу́ёт. Все деревенские пьяницы у Федьки гужу́ют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зеть которой уж день газует. все деревенские пьяницы у федьки гужуют."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

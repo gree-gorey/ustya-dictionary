@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "уши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́ши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уши"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "авостри́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "авострить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "почуять (о животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кошка у́ши навостри́ла, видно мышку чуёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка уши навострила, видно мышку чует."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") подслушивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево у́ши навостри́л, тебя это не касаетсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево уши навострил, тебя это не касаетсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

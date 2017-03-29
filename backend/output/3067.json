@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "истопить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Истопи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "истопить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вытопить баню, печку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ма́́́мка пе́́́чку истопи́́́ла – угольки́́́ холо́́́дные. Па́́́пка де́́́ньги пропива́́́ёт – мы сиди́́́м голо́́́дные", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "(частушка).", 
+          "normalized_content": "мамка печку истопила – угольки холодные. папка деньги пропивает – мы сидим голодные"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "топи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "топить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем ни к чему.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нале́шево мне это надо!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "налешево мне это надо!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Леша́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "лешак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "жаровой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жарово́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаровой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прямой, вытяжной, высокоствольный строевой лес.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жарово́го леса близко к деревням не осталось.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жарового леса близко к деревням не осталось."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "стройный, подтянутый человек или животное.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "поджа́рый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поджарый"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

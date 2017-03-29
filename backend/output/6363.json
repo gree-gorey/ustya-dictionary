@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "пружок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пружо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пружок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снасть для ловли птиц (клестов) из елового кола с суком вместо пружины, сторожком и силышком (клестов ловили для еды).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

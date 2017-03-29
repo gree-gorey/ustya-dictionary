@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "кика", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ки́ка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кика"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ки́чка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кичка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женский головной убор с выдающимися вперед выступами", 
+          "tag": "def"
+        }, 
+        {
+          "content": "рога́ми", 
+          "tag": "quote", 
+          "normalized_content": "рогами"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

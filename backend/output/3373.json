@@ -1,0 +1,209 @@
+{
+  "field_for_sorting": "колотить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колоти́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колотить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "исколоти́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "исколотить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударять, стучать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́́́колотить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проколотить"
+        }, 
+        {
+          "content": "Подём-ко перину вы́колотим. Дрова-то не ко́лкие были, дак всю колоту́шку исколоти́л. Валько́м нужно лучше бельё проколоти́ть. Надо севодни все снопы проколоти́ть", 
+          "translation": "обработать ударами", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подем-ко перину выколотим. дрова-то не колкие были, дак всю колотушку исколотил. вальком нужно лучше белье проколотить. надо севодни все снопы проколотить"
+        }, 
+        {
+          "content": "кичи́ги", 
+          "tag": "quote", 
+          "normalized_content": "кичиги"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "цепа́", 
+          "tag": "quote", 
+          "normalized_content": "цепа"
+        }, 
+        {
+          "content": "хлебные снопы при молотьбе вручную.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разбивать на мелкие кусочки, частички (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переколотить"
+        }, 
+        {
+          "content": "Чево тебе делать – колоти́ да колоти́ дресву́. Наколоти́л дресвы́ пол мыть? Переколоти́ вот ищо этот камень", 
+          "translation": "измельчи в дресву.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево тебе делать – колоти да колоти дресву. наколотил дресвы пол мыть? переколоти вот ищо этот камень"
+        }, 
+        {
+          "content": "Он пьяной всю посуду переколоти́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он пьяной всю посуду переколотил."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поколотить"
+        }, 
+        {
+          "content": "Оне схватили ево и давай колоти́ть. Исколоти́ли ево ни за що!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оне схватили ево и давай колотить. исколотили ево ни за що!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прибивать что-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "переколотить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проколоти́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проколотить"
+        }, 
+        {
+          "content": "Надо гвозь переколоти́ть, не в том ми́́́сте вколоти́л. Все гвозди исколоти́ли", 
+          "translation": "вбили, и они закончились.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо гвозь переколотить, не в том мисте вколотил. все гвозди исколотили"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

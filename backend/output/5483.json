@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "перебиватьаппетит", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перебива́ть аппети́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перебивать аппетит"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "портить аппетит перед приемом пищи чем–либо сладким (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "переби́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перебить"
+        }, 
+        {
+          "content": "Не тронь варенья, а то перебьё́шь аппетит, сичас будём все обедать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не тронь варенья, а то перебьешь аппетит, сичас будем все обедать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

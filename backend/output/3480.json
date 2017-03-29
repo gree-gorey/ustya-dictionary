@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "коробица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Короби́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коробица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коробе́йка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коробейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький, небольшой (плетёный) короб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ф короби́́́це-то у меня́́́ ни́́́тки-да, иго́́́ўки-да, пу́́́говичи-да, лепешки́́́ для запла́́́т-да, но́́́жонки-да", 
+          "translation": "(ножницы)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ф коробице-то у меня нитки-да, игоуки-да, пуговичи-да, лепешки для заплат-да, ножонки-да"
+        }, 
+        {
+          "content": "в углу́́́ на по́́́ўке стои́́́т.", 
+          "tag": "quote", 
+          "normalized_content": "в углу на поуке стоит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

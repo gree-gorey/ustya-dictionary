@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ледянки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ледя́нки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ледянки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "коньки для катания на льду. При помощи ремней крепились к обуви сапогам, ботинкам, валенкам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За́бережники-то уже большие, подём на ледя́нках кататьсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забережники-то уже большие, подем на ледянках кататьсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

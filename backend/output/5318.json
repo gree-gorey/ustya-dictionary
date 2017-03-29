@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "отчесать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отчеса́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отчесать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбранить, отругать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как добром отчё́шет мужика, дак и живут нормально какоё-то время.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как добром отчешет мужика, дак и живут нормально какое-то время."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

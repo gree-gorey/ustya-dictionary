@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "завидушничать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завиду́шничать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завидушничать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть завистливым, завидовать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот веть какая баба, всё то́ко завиду́шничаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот веть какая баба, все токо завидушничает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

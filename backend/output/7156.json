@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "сомить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соми́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сомить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отесывать бревно, стесывая выступающие части бревна, делая его ровным (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посомить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подсоми́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подсомить"
+        }, 
+        {
+          "content": "Комель толстоват, надо его посоми́ть", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "комель толстоват, надо его посомить"
+        }, 
+        {
+          "content": "подсоми́ть", 
+          "tag": "quote", 
+          "normalized_content": "подсомить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

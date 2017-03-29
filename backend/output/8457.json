@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "шаеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́еть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шаеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ша́ять", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шаять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гореть без пламени, тлеть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заша́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашаеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проша́еть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прошаеть"
+        }, 
+        {
+          "content": "Дрова́́́-та сево́́́дни ро́́́ду не горя́́́т, то́́́ко ша́́́ют, сыры́́́е, ви́́́дно! Отодви́ньсе от огни́!", 
+          "translation": "от огня.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дрова-та севодни роду не горят, токо шают, сырые, видно! отодвиньсе от огни!"
+        }, 
+        {
+          "content": "Не чу́ёшь, куфа́йка заша́яла? Угольки-то все проша́ели.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не чуешь, куфайка зашаяла? угольки-то все прошаели."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") сильно внутренне хотеться выпить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ишь заша́яло у них, снова в мага́зин побежа́ли за вино́м!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ишь зашаяло у них, снова в магазин побежали за вином!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

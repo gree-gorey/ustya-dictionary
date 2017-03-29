@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "кутюшник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́тюшник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кутюшник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брусничный лист.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́тюшник зава́ривала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кутюшник заваривала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мокрица (трава, которую клюют куры).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́́́тюшника-та, мокри́́́цы-то насеки́́́ поме́́́ўце", 
+          "translation": "(помельче)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кутюшника-та, мокрицы-то насеки помеуце"
+        }, 
+        {
+          "content": ", да цыпля́́́ткам пода́́́й.", 
+          "tag": "quote", 
+          "normalized_content": ", да цыпляткам подай."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мокре́ц", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мокрец"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

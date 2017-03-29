@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "колоколец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Колоко́лец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колоколец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колокольчик, звонок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Колоко́́́лец-то коль ни зво́́́нок – фсе у́́́ши оглуши́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "колоколец-то коль ни звонок – фсе уши оглушиу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сва́дебный колоко́лец", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "свадебный колоколец"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

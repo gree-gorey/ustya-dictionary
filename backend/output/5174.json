@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "опушить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опуши́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опушить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "припуши́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "припушить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "опуша́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "опушать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выровнять, очесать зарод, копну.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Возьми вилы, а лучше грабли и опуши́ зарод с той стороны.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "возьми вилы, а лучше грабли и опуши зарод с той стороны."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обшить дом шпунтованной доской (вагонкой).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коль ни ба́́́ско до́́́м-от опушы́́́ў, молоде́́́ць!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коль ни баско дом-от опушыу, молодець!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

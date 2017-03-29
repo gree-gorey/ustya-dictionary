@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "хинькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хи́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хинькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хныкать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похи́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похинькать"
+        }, 
+        {
+          "content": "Ну, хватит давай хи́нькать, успокойсе! Похи́нькай ищо у меня!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, хватит давай хинькать, успокойсе! похинькай ищо у меня!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

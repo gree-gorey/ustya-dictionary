@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вставыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вста́выш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вставыш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отрезок, клин, вставляемый между двумя или несколькими элементами швейного изделия.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сзади в брюки вшит вста́выш.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сзади в брюки вшит вставыш."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вши́вка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вшивка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

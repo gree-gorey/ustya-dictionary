@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "мужня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Му́жня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мужня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "принадлежащая мужу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Му́́́жня руба́́́ха", 
+          "translation": "рубаха мужа.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужня рубаха"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "замужняя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я тепе́́́рича не де́́́фка, а му́́́жня жона́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я теперича не дефка, а мужня жона."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

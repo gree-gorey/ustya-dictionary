@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выодеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́одеть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выодеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Снаря́́́дна она сево́́́дни – кра́́́сной маре́́́нник вы́́́одела!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снарядна она севодни – красной маренник выодела!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

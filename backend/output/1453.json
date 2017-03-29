@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гонористый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́нористый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гонористый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гордый, заносчивый, человек с гонором.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Муж у дочери го́нористой, трудно с им жить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "муж у дочери гонористой, трудно с им жить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

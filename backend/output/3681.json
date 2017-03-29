@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "круженцы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Круженцы́", 
+        "place": [
+          "Едьма"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "круженцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льдины на реке.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

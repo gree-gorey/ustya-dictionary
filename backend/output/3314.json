@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "козел", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́зел", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "козел"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "козё́́́л", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "козел"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "козело́́́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "козелок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тренога, на которую устанавливалась", 
+          "tag": "def"
+        }, 
+        {
+          "content": "воро́ба", 
+          "tag": "quote", 
+          "normalized_content": "вороба"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "четырёхногий подмост с лесенкой для производства работ на высоте, особенно ремонтно-строительных.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́́́ше поли́́́нёнку (поле́́́нницу) с козла́́́ бу́́́ду кла́́́сь – подава́́́й мне дро́́́фца-та!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выше полиненку (поленницу) с козла буду клась – подавай мне дрофца-та!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

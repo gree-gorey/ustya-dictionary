@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "хлебный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хле́бный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хлебный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хле́бной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хлебной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "откормленный, упитанный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поросёнок-от у их хле́бной сево́годы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросенок-от у их хлебной севогоды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

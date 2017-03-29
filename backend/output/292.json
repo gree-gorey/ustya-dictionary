@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "бласловить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бласлови́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бласловить"
+      }
+    ], 
+    "style": [
+      "прост."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "благословить, позволить, разрешить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "бласловля́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "бласловлять"
+        }, 
+        {
+          "content": "Бласлови́ Бог, топе́ре пойду́ да́льше.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бласлови бог, топере пойду дальше."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "когототиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Когототи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "когототиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "торопливо, суетливо делать что-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закоготи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закоготиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "покоготи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "покоготиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "прокоготи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прокоготиться"
+        }, 
+        {
+          "content": "Коготи́лсе, коготи́лсе, и всё напрасно. Вон смотри-ко как у Аню́шки-то все закоготи́лись, видно сваты́ приезжают. Целое утро около печи прокоготи́ласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коготилсе, коготилсе, и все напрасно. вон смотри-ко как у анюшки-то все закоготились, видно сваты приезжают. целое утро около печи прокоготиласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

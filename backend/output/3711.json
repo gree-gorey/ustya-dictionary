@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крякнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кря́́кнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крякнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уходиться, погибнуть, умереть, загнуться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мно́го мужико́в от алкого́ля кря́кнуло в после́дние два деся́тка лет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много мужиков от алкоголя крякнуло в последние два десятка лет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

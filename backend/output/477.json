@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "бумазея", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бумазе́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бумазея"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "помазе́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "помазея"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плотная, ворсистая хлопчато-бумажная ткань фабричного производства.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бумазе́йник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бумазейник"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

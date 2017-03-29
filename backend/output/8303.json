@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "чейдаоткуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чей да отку́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чей да откуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чья да отку́ль", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чья да откуль"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спрашивают о незнакомом человеке.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ирон.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") о человеке, стремящемся выделиться среди других.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чья да отку́ль ты тут э́дакая!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чья да откуль ты тут эдакая!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "лыжи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́жи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лыжи"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большие и длинные ступни ног.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, и лы́жи отро́стил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, и лыжи отростил!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

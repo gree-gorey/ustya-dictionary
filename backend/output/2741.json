@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "збудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Збуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "збудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разбудить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабушка збу́дит, то́ко солнышко дры́гнуло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабушка збудит, токо солнышко дрыгнуло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

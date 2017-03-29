@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "пакши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́кши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пакши"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "руки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Убери свои па́кши со стола. Хоть бы па́́́кши свои́́́ вы́́́мыў, а ешщо́́́ за сто́́́ў сади́́́ссе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "убери свои пакши со стола. хоть бы пакши свои вымыу, а ешщо за стоу садиссе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

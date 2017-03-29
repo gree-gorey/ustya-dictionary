@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ситник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ситник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хлеб, муку для приготовления которого просеивают сквозь сито.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "К па́́́ўжне си́́́тник возьми́́́, да молока́́́, да ицо́́́ хоть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к паужне ситник возьми, да молока, да ицо хоть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

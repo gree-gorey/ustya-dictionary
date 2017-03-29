@@ -1,0 +1,137 @@
+{
+  "field_for_sorting": "шептать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шепта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шептать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шопта́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шоптать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "нашопта́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "нашоптать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ворожить, лечить с помощью знахарства (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зашопта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашоптать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошопта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошоптать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зашо́птывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашоптывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пришепта́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пришептать"
+        }, 
+        {
+          "content": "Тё́тка Маня шепта́ла на зубную боль. Раньше зашо́птывали вере́дьё. Хоть вирь – не вирь, а шщо́́́-то пошопта́́́ла, и ле́́́кце ста́́́ло ведь. Пришопта́ли, ви́дно, Архи́па-то к Пелаге́е, никак от ие не отхо́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тетка маня шептала на зубную боль. раньше зашоптывали вередье. хоть вирь – не вирь, а шщо-то пошоптала, и лекце стало ведь. пришоптали, видно, архипа-то к пелагее, никак от ие не отходит."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "загова́ривать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заговаривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "привора́чивать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приворачивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "присуши́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "присушить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тайно сплетничать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Онуфрий злость таит, как хозяйку со свету сжить. Бегал, ворожил, шопта́́л, ничего им не помогает", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "онуфрий злость таит, как хозяйку со свету сжить. бегал, ворожил, шоптал, ничего им не помогает"
+        }, 
+        {
+          "content": "Нашопта́ла тибе Офи́мья на́ ухо, а ты пови́рил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нашоптала тибе офимья на ухо, а ты повирил!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

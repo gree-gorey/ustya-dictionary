@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "выпроводить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́проводить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выпроводить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заставить уйти (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпрова́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпроваживать"
+        }, 
+        {
+          "content": "Наконец-то хоть ево из избы вы́проводили, до чево надоел!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наконец-то хоть ево из избы выпроводили, до чево надоел!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

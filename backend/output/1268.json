@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "выцеплять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выцепля́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выцеплять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вычепля́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вычеплять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "выце́пливать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выцепливать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "выче́пливать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вычепливать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "вы́цепить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выцепить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поднимать с помощью домкратов или рычагов.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́цепи-ко ко́мель", 
+          "translation": "подними рычагом толстый конец бревна.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выцепи-ко комель"
+        }, 
+        {
+          "content": "Доўгой слего́й угоў у дома вы́чепили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доугой слегой угоу у дома вычепили."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в строительстве поднимать дом для замены нижних бревен (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "венцо́в", 
+          "tag": "quote", 
+          "normalized_content": "венцов"
+        }, 
+        {
+          "content": "выцепля́ть дом", 
+          "tag": "quote", 
+          "normalized_content": "выцеплять дом"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

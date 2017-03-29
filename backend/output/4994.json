@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обычейной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обы́чейной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обычейной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смирный, покладистый, неприхотливый (о людях и животных).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С обы́чейным–то поўде́ла жить, вот поживи-ко с необы́чейным.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с обычейным–то поудела жить, вот поживи-ко с необычейным."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,122 @@
+{
+  "field_for_sorting": "запружить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запру́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запружить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перевернуть емкость кверху дном.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Запру́ж ведро-то на лавку!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "запруж ведро-то на лавку!"
+        }, 
+        {
+          "content": "То же, что", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "опру́́́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "опружить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пру́жить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пружить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "загородить дорогу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Навали́́́ли оси́́́н-то, дак фсю доро́́́гу запру́́́жили, хоть как перебира́́́йсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "навалили осин-то, дак фсю дорогу запружили, хоть как перебирайсе!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "завалить яму, заполнить емкость.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вся зы́́́бка запру́́́жона", 
+          "translation": "ребенок сильно опи́сался.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся зыбка запружона"
+        }, 
+        {
+          "content": "Фся телё́́́га запру́́́жона пестеря́́́ми с лопо́́́тьём – бу́́́цить пое́́́хали дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фся телега запружона пестерями с лопотьем – буцить поехали дак."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "залить водой, «опи́́́сать» (о ребенке).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Фсе пелё́́́нки уш запру́́́жоны, не́́́ во шщо и заверну́́́ть ребё́́́ноцька-те.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "фсе пеленки уш запружоны, не во шщо и завернуть ребеноцька-те."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пру́дить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "прудить"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

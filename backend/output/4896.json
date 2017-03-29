@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "оберемок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обере́мок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "оберемок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "количество груза, которое можно унести за один раз в руках (в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бере́ме", 
+          "tag": "quote", 
+          "normalized_content": "береме"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

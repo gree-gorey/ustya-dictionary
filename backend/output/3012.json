@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "иновды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́новды", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "иновды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "иновды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иновды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "и́ногды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иногды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "иногды́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "иногды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иногда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Катенька все мовчи́т, и и́новды и поревё́т, а про жониха ничего́шеньки, не мо́вит, не говорит", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "катенька все мовчит, и иновды и поревет, а про жониха ничегошеньки, не мовит, не говорит"
+        }, 
+        {
+          "content": "Дорогу-то топит в паводок? – Иногды́ быва́т… Лони́сь топи́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дорогу-то топит в паводок? – иногды быват… лонись топило."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

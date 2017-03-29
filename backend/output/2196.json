@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "жнива", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жни́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жнива"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стерня, стоящие остатки стеблей зерновых на поле после жатвы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ныне комбайном зерновые жнут, так оставляют жни́ву до колена.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ныне комбайном зерновые жнут, так оставляют жниву до колена."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

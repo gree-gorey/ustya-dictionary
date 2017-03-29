@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "датькопоти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дать ко́поти", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дать копоти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "что-то сделать яркое, запоминающееся, отвести душу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, она вчера́сь на пра́знике и дала́ (всем) ко́поти, до тово́ довыпля́сывала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, она вчерась на празнике и дала (всем) копоти, до тово довыплясывала!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "отругать, призвать к порядку.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "дава́́ть ко́поти", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "давать копоти"
+        }, 
+        {
+          "content": "Детям – не́слухам приходится дава́ть ко́поти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "детям – неслухам приходится давать копоти."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

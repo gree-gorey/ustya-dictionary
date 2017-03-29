@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "антересно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Антере́сно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "антересно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "интересно, любопытно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нам всё антере́сно, пощо́ сусе́ди браня́тце и деру́тце чуть не ка́жной день?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нам все антересно, пощо суседи бранятце и дерутце чуть не кажной день?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

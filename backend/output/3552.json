@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "которужиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Котору́житься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "которужиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собираться, намереваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды эдак накотору́жилась?", 
+          "translation": "куда поехала (собралась), по каким делам?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак накоторужилась?"
+        }, 
+        {
+          "content": "Ты уж деушка как хошь, а Ванька обратно с тобой котору́жится ехать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты уж деушка как хошь, а ванька обратно с тобой которужится ехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

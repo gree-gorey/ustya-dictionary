@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "разостегивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разостё́гивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разостегивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "расстегивать, открывать застежки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разостегну́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разостегнуть"
+        }, 
+        {
+          "content": "Пальцы замё́рзли, не могу пуговицы у куфайки разостегну́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пальцы замерзли, не могу пуговицы у куфайки разостегнуть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

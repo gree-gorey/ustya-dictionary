@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "распалый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распа́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распалый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дырявый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ка́танцы-то у тебя распа́лые.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катанцы-то у тебя распалые."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "распада́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "распадать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

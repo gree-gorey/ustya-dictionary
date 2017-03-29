@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "кыс-кыс", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кыс-кыс", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кыс-кыс"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подзывные слова для кошек.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "кы́ска", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кыска"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

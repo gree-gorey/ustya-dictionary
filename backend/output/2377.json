@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "зажатьрот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зажа́ть рот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зажать рот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замолчать, заставить замолчать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "зажима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зажимать"
+        }, 
+        {
+          "content": "Зажа́ў рот дак слова тепе́ре не добье́ссе от ёво́. Ну щё ты мне всё рот зажима́ёшь, сло́ва не даё́шь сказать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зажау рот дак слова тепере не добьессе от ево. ну ще ты мне все рот зажимаешь, слова не даешь сказать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

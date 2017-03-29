@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "яма", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Я́ма", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "яма"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "погреб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо карто́фь спустить в я́му.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо картофь спустить в яму."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

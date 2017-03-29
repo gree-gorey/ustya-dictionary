@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "шпакурить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шпаку́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шпакурить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "действовать исподтишка, вредить, пакостить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нашпаку́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нашпакурить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пошпаку́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошпакурить"
+        }, 
+        {
+          "content": "И как им не надоеда́ёт шпаку́рить? Опеть кто-то нашпаку́риў нам с тобой. Ево хлебом не корми, а дай пошпаку́рить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и как им не надоедает шпакурить? опеть кто-то нашпакуриу нам с тобой. ево хлебом не корми, а дай пошпакурить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

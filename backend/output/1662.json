@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "дедко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Де́дко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дедко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дед.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Де́дко-то у нас пора́то хоро́шой бы́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дедко-то у нас порато хорошой быу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пожилой мужчина, старик.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "муж-старик.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

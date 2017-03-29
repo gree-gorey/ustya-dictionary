@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "опороть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опоро́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опороть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отпоро́ть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Старые пуговицы у жаке́тки опори́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "старые пуговицы у жакетки опори."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "кучамала!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́ча мала́!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "куча мала!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "восклицание, употребляется в детской игре, когда устраивается общая свалка. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ку́ча ма́ла, наро́ду звала́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куча мала, народу звала!"
+        }, 
+        {
+          "content": "обычное восклицание в общей детской свалке.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

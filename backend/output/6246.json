@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "притворить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Притвори́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "притворить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прикрыть (например, двери).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Притвори́-ко воро́тьца-те!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "притвори-ко воротьца-те!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "алтын", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Алты́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "алтын"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старинная серебряная монета, 3 копейки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

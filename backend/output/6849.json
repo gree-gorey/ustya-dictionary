@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "сегменты", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сегме́нты", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сегменты"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "треугольной формы рабочие части ножа косилки, жнейки, они непосредственно срезают стебли.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

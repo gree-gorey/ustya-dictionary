@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "нахлебаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нахлеба́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нахлебаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наесться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну шщо, нахлеба́́́лисе? Пора́́́ и за де́́́ло бра́́́тьце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну шщо, нахлебалисе? пора и за дело братьце."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хлеба́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хлебать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

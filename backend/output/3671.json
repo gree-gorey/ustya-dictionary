@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "круглечик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кругле́чик", 
+        "place": [
+          "Нагорская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "круглечик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вид травянистого растения, лисенькая травка (какая?), большая не растет.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,212 @@
+{
+  "field_for_sorting": "трать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "трать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "измельчать, тереть на терке (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изотра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изотрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потрать"
+        }, 
+        {
+          "content": "Сейчас буду картофь на крахма́л трать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сейчас буду картофь на крахмал трать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "чистить, мыть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́трать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ототра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ототрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "потра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "потрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "протра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "протрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сотра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сотрать"
+        }, 
+        {
+          "content": "Затри́ на столе вот этой тряпкой. Надо это пятно чем-то ототра́ть. Сотри́-ко с доски́-то напи́санное.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "затри на столе вот этой тряпкой. надо это пятно чем-то ототрать. сотри-ко с доски-то написанное."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "травмировать трением, натирать мозоли (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изотра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изотрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сотра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сотрать"
+        }, 
+        {
+          "content": "У меня ногу трёт. Седё́лко у коня спину натира́ёт, надо подтяну́ть. Картошку-ту тра́ла, дак все пальцы изотра́ла (сотра́ла).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у меня ногу трет. седелко у коня спину натирает, надо подтянуть. картошку-ту трала, дак все пальцы изотрала (сотрала)."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мазать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натрать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разотра́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разотрать"
+        }, 
+        {
+          "content": "К но́че скипида́ром надо ногу натра́ть (разотра́ть), боли́т що-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "к ноче скипидаром надо ногу натрать (разотрать), болит що-то."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

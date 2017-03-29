@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "покуль", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поку́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "покуль"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поку́́́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поку́́́ле", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покуле"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поку́да", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "покуда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "по какое место (с показом рукой на себе).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забрёл во́ поку́ль. В я́́́мке-то вон поку́́́ля бу́́́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забрел во покуль. в ямке-то вон покуля будет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бери́́́ дава́́́й, да неси́́́, поку́́́ле я не переду́́́маў. Поку́да могу, дак буду ро́бить, а уж не замогу́, дак потом отдохнём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бери давай, да неси, покуле я не передумау. покуда могу, дак буду робить, а уж не замогу, дак потом отдохнем."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

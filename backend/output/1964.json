@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ебистос", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ебисто́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ебистос"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бестолковый, ветреный, ненадежный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну как ты живёшь с таким ебисто́сом?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну как ты живешь с таким ебистосом?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

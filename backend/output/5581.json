@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "петница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́тница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "петница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пе́тнича", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "петнича"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пятница.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нево семь пе́тниц на нидиле.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нево семь петниц на нидиле."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "изабелловый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изабе́лловый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изабелловый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "конская масть светло-соловая, изжелта белесоватая, при белом хвосте и гриве.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

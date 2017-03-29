@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "темко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тё́мко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "темко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тё́мно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "темно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "темно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пожилым женщинам предложили пройти в зал, а одна из них, заглянув в зал, заметила: «Там тё́мко». На улице-то поди́ уж тё́мно!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пожилым женщинам предложили пройти в зал, а одна из них, заглянув в зал, заметила: «там темко». на улице-то поди уж темно!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

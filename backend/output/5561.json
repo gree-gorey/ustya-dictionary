@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перстики", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́рстики", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перстики"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пальцы ног.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ходить на пе́рстиках.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ходить на перстиках."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "взамок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Взамо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "взамок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ продольного соединения бревен при рубке стен, когда конец одного бревна входит в выемку (паз) другого.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

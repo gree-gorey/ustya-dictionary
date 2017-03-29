@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "напузыриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напузы́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напузыриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпить много какой-либо жидкости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пи́ва напузы́рились от души́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пива напузырились от души."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "выздануться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́здануться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выздануться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ужить, подняться тесту", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Васьково", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Севодни неудача, тесто не вы́зданулось.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодни неудача, тесто не вызданулось."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вспучиться, вспухнуть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Беклемишево", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Ки́ла на брюхе вы́зданитце от тяжести.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кила на брюхе вызданитце от тяжести."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

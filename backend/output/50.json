@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "артильно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Арти́льно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "артильно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "арте́льно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "артельно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совместно, группой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Объединившись в колхоз, крестьяне поняли, что арти́льно жить и ро́бить лучше, чем единолично.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "объединившись в колхоз, крестьяне поняли, что артильно жить и робить лучше, чем единолично."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

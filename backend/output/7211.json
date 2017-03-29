@@ -1,0 +1,178 @@
+{
+  "field_for_sorting": "спехнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спехну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спехнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "переместить толкая (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спихивать"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спехни́ лодку в воду. Подём брёвна с о́тмели в воду спи́хивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спехни лодку в воду. подем бревна с отмели в воду спихивать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пеха́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пехать"
+        }, 
+        {
+          "content": "сбросить сверху, скинуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спихивать"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду снег с крыши спи́хивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду снег с крыши спихивать."
+        }, 
+        {
+          "content": "столкнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо сарай спехну́ть, пока ково-нибудь не задави́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо сарай спехнуть, пока ково-нибудь не задавил."
+        }, 
+        {
+          "content": "снять надетое, скинуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спехну́ла с себя мокрую одежду и не розви́сила!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спехнула с себя мокрую одежду и не розвисила!"
+        }, 
+        {
+          "content": "избавиться от чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спехну́ла она на тибя это дело!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спехнула она на тибя это дело!"
+        }, 
+        {
+          "content": "отправить, сбыть с рук, пристроить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спехну́ла она на тебя заботу о ём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спехнула она на тебя заботу о ем."
+        }, 
+        {
+          "content": "затолкнуть, поместить во что-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спеха́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спехать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "спи́хивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "спихивать"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты що, это всё хочёшь в один мешок спехну́ть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты що, это все хочешь в один мешок спехнуть?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

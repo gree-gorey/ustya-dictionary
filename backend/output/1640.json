@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "скотныйдвор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́тный двор", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скотный двор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ферма.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "двор", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "двор"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

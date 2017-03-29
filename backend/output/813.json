@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "вица", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ви́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ви́ча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вича"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прут, срезанная ветка, применяемая, например, для выпаса скота.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "материал для изготовления плетеных изделий.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "традиционное орудие наказания для острастки детишек, всегда была на виду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ви́ца на тебя надо!", 
+          "translation": "ничего не понимаешь.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вица на тебя надо!"
+        }, 
+        {
+          "content": "Ужо́-ко я вас ви́цей-то! Ужо́, где у мня ви́ця-та!", 
+          "translation": "последнее предупреждение.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ужо-ко я вас вицей-то! ужо, где у мня виця-та!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

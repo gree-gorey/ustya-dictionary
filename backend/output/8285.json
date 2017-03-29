@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "чаповитая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чапови́тая", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чаповитая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чепови́тая", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чеповитая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "(ло́дка)", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "(лодка)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неустойчивая, хватающая бортами воду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На э́́́кую чапови́́́тую ло́́́дку мно́́́го не сади́́́тесь, перевё́рнитесь к лешака́м!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на экую чаповитую лодку много не садитесь, перевернитесь к лешакам!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

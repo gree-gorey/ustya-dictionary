@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "полосатик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полоса́тик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полосатик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бурундук.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́́́шка опе́́́ть полоса́́́тика излови́́́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка опеть полосатика изловила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

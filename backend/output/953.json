@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "востроглаз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вострогла́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "востроглаз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вострогла́зой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "востроглазой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек с хорошим зрением; приметливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот вострогла́з, всё видит, ничего не скроёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот востроглаз, все видит, ничего не скроешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

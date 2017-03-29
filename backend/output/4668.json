@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "нацевка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нацё́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нацевка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ночлег, ночёвка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пустите на нацёвку. Нацё́́́фка-та доро́́́дна ли была́́́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пустите на нацевку. нацефка-та дородна ли была?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

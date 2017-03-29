@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "маячить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мая́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маячить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быть видным издали, находиться постоянно на глазах, «мозо́лить глаза» (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замая́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замаячить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "намая́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "намаячить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "помая́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "помаячить"
+        }, 
+        {
+          "content": "Иди отсюда, не мая́чь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди отсюда, не маячь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

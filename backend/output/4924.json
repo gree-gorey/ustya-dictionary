@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обметывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обмё́тывать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обметывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обметать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Снег с ка́́танцов-то надо лучше обмё́тывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "снег с катанцов-то надо лучше обметывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

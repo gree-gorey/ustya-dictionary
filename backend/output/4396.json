@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "навостритьлыжи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Навостри́ть лы́жи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "навострить лыжи"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собраться куда-либо, намереваться идти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды опеть лы́жи навостри́л?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды опеть лыжи навострил?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "навостри́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "навостриться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

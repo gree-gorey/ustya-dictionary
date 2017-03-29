@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ровня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ро́вня", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ровня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "равный по возрасту, силе, способностям.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отступи́сь, нашёл себе ро́вню! Не́чево обижать маленьких! Он тебе не ро́вня!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отступись, нашел себе ровню! нечево обижать маленьких! он тебе не ровня!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

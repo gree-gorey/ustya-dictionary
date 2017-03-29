@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "бурдомага", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бурдома́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бурдомага"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "самодельный слабоалкогольный напиток, брага, бурда.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "бормоту́ха", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бормотуха"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

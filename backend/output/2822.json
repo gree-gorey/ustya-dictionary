@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "знимать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Знима́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "знимать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поднимать; поднимать руки, ноги (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "вызнима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вызнимать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "навызнима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навызнимать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повызнима́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повызнимать"
+        }, 
+        {
+          "content": "Зними́́́-ко мне корзи́́́ну-ту на плецё́́́, дак понесу́. Много сейгод карто́ви навызнима́ли, всю не рассади́ть. Не надо так ноги знима́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зними-ко мне корзину-ту на плеце, дак понесу. много сейгод картови навызнимали, всю не рассадить. не надо так ноги знимать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "знеть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "знеть"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выдерживать вес (о снеге, льду).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лёд знима́ет. По́ насту знима́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лед знимает. по насту знимает."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вздыма́ть 1", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вздымать 1"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

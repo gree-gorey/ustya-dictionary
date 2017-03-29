@@ -1,0 +1,68 @@
+{
+  "field_for_sorting": "огребалка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Огрё́балка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огребалка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "огрё́бовка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "огребовка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "инструмент для окучивания (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "огреба́ния", 
+          "tag": "quote", 
+          "normalized_content": "огребания"
+        }, 
+        {
+          "content": "огрё́бки", 
+          "tag": "quote", 
+          "normalized_content": "огребки"
+        }, 
+        {
+          "content": ") картофеля тяпка.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "секе́ра", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "секера"
+        }, 
+        {
+          "content": "Ох и огрёбалка тяжёла, с экой токо на медвидя…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох и огребалка тяжела, с экой токо на медвидя…"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

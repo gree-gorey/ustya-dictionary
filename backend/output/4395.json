@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "навостриться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Навостри́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "навостриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собраться куда-то идти.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды эдак навостри́лась-то опеть?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эдак навострилась-то опеть?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

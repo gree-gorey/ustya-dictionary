@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "какнашел", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Как нашё́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "как нашел"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорят о повторном использовании уже забытой вещи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Во вишь сапоги-то как ра́з теперь, как нашли́…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "во вишь сапоги-то как раз теперь, как нашли…"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

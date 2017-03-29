@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "издаля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "И́здаля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "издаля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "издаля́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "издаля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издалека, издали.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "издаля́я", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "издаляя"
+        }, 
+        {
+          "content": "Председателя в колхоз издаля́ послали. Бабка пошла́ в красном платочке, дак издаля́я ви́дко её.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "председателя в колхоз издаля послали. бабка пошла в красном платочке, дак издаляя видко ее."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "не сразу, осторожно, постепенно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И́здаля разговор-то заво́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "издаля разговор-то заводит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

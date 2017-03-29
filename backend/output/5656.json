@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "побасульки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Побасу́льки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "побасульки"
+      }, 
+      {
+        "style": [], 
+        "ana": "ед.", 
+        "content": "побасу́лька", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "побасулька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "украшения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Любит она на себя-то всякие побасу́льки нацепля́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "любит она на себя-то всякие побасульки нацеплять."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

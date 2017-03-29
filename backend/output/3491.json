@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "коротехонькой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коротё́хонькой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коротехонькой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень короткий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вся спина отстыла в коротё́хонькой куфаечке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся спина отстыла в коротехонькой куфаечке."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

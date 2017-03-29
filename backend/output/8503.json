@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "шауга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шаўга", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шауга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ровная по рельефу площадь, занятая смешанным лесом с умеренно увлажненной почвой, где произрастают черника и грибы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

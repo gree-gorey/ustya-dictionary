@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "завить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "За́вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гнездо белки, свитое обычно на елке.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "гарно́", 
+          "tag": "ref", 
+          "place": [
+            "Коптяевская"
+          ], 
+          "normalized_content": "гарно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

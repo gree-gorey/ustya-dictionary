@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "кутница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́тница", 
+        "place": [
+          "Васьковская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кутница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помещение для кур в избе.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На зиму под порогом делали ку́тницу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на зиму под порогом делали кутницу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

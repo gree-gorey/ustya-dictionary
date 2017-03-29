@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "зматюкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зматюка́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зматюкаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зматюга́́́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зматюгаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "взматюка́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "взматюкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выматериться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зматюкну́́́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зматюкнуться"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пришёл, увидал, шчо неладно делают – взматюка́лсе. Шщо, нельзя́́́ и зматюгну́́́тьце?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пришел, увидал, шчо неладно делают – взматюкалсе. шщо, нельзя и зматюгнутьце?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "матюка́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "матюкаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

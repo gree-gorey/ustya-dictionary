@@ -1,0 +1,111 @@
+{
+  "field_for_sorting": "сопреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сопре́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сопреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испортиться от тепла и влажности, подгнить, покрыться плесенью (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "сопрева́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сопревать"
+        }, 
+        {
+          "content": "Лопотьё до тово долежа́ло, аш всё сопре́ло, на́ли бу́сенью покры́лось! Топта́ть зарод не надо, а то сено сырова́́́то – сопри́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лопотье до тово долежало, аш все сопрело, нали бусенью покрылось! топтать зарод не надо, а то сено сыровато – соприет."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "спреть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "спреть"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "разрушиться льду в процессе таяния.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь лёд на реке сопре́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь лед на реке сопрел."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "преть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "преть"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "украсть.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "спере́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "спереть"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "упере́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "упереть"
+        }, 
+        {
+          "content": "Он такой, можот и сопре́ть. Вот какие, упё́рли мешок карто́ви.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он такой, можот и сопреть. вот какие, уперли мешок картови."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

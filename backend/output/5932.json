@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "положить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поло́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "положить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "положи́ть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Может, поло́жил где?", 
+          "translation": "где-то положи́л?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "может, положил где?"
+        }, 
+        {
+          "content": "Поло́́́жь, отку́́́дова взе́́́ў, мо́́́ды не ими́́́й бес спро́́́су бра́́́ть, по́́́неў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "положь, откудова взеу, моды не имий бес спросу брать, понеу?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

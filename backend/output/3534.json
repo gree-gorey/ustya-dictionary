@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "костра", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Костра́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "костра"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "костри́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кострица"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кости́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "костица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жесткая кора, оболочка льна, удаляемая при обработке; обломки стебля, отходы от трепания и чесания льна.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ле́́́н-то трепа́́́ли трё́палом, сто́́́ко костры́́́ натресё́́́м, пока́́́ куде́́́ля-та не вы́́́йдет.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лен-то трепали трепалом, стоко костры натресем, пока куделя-та не выйдет."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "треста́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "треста"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

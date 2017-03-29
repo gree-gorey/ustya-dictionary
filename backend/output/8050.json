@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "фершал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фе́ршал", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "фершал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работник медпункта, фельдшер.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Порезала серпо́м руку, дак хожу к фе́ршалу на перевязку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "порезала серпом руку, дак хожу к фершалу на перевязку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

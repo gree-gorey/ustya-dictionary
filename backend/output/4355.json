@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "наберуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наберу́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наберуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плетеная из лыка (бересты) корзинка для сбора ягод, грибов.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "зобе́нька", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зобенька"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "опнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опну́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остановиться, побыть какое-то время в данном месте (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "опина́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опинаться"
+        }, 
+        {
+          "content": "Приехала из городу, а дома и не опну́ласе, всё с подружками.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "приехала из городу, а дома и не опнуласе, все с подружками."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "взять хотя бы самую малость чужого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За чужую нитку не опну́лась", 
+          "translation": "чужого ничего не брала.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за чужую нитку не опнулась"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

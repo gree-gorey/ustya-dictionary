@@ -1,0 +1,92 @@
+{
+  "field_for_sorting": "хрумкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хру́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрумкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жевать, грызть с хрустом, хрустеть едой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исхру́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исхрумкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "похру́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "похрумкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схру́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрумкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "хру́мкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "хрумкнуть"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Слышишь, как кони сено хру́мкают", 
+          "translation": "жуют-хрустят.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "слышишь, как кони сено хрумкают"
+        }, 
+        {
+          "content": "Она весь сухарик исхру́мкала", 
+          "translation": "изгрызла.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она весь сухарик исхрумкала"
+        }, 
+        {
+          "content": "Нако дитятко похру́мкай морковку", 
+          "translation": "похрусти морковкой.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нако дитятко похрумкай морковку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

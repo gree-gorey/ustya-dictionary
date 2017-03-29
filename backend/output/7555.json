@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "телушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Телу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "телушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодая, еще не телившаяся корова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Взаме́́́н ста́́́рой-то коро́́́вы уш ди́́́льная телу́́́шка вы́́́кормлёна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "взамен старой-то коровы уш дильная телушка выкормлена."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "телу́́́шечка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "телушечка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тё́лка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "телка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

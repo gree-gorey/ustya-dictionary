@@ -1,0 +1,100 @@
+{
+  "field_for_sorting": "дерево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дерё́во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дерево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дерево (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "множ.", 
+          "content": "дерё́ва", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "дерева"
+        }, 
+        {
+          "content": "Надо бы с десяток дерё́в приволочь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо бы с десяток дерев приволочь."
+        }, 
+        {
+          "content": "Также", 
+          "tag": "def"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "нечто большое, длинное, как дерево.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды э́ки дерё́ва поволо́к?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды эки дерева поволок?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бревно.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "деревянная заготовка, сделанная по форме ноги для ручного пошива сапог, ботинок, изготовления валенок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "коло́дка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колодка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "опра́вить ва́ленок", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оправить валенок"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

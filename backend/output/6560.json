@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "расшибчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Расши́бчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "расшибчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разбить, расколоть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот какая, надо жо так кри́нку расши́бчи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот какая, надо жо так кринку расшибчи!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно ушибить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На улице сли́зко, не торопи́сь, а то можно голову росши́бчи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на улице слизко, не торопись, а то можно голову росшибчи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ши́бчи", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шибчи"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

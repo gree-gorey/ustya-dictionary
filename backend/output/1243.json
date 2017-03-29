@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выстроиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́строиться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выстроиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "построить дом с хозяйственными постройками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сын тепере вы́строиўсе, дак полегче им будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сын тепере выстроиусе, дак полегче им будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

@@ -1,0 +1,188 @@
+{
+  "field_for_sorting": "реветь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Реве́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "реветь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "реви́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ревить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рёви́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ревить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плакать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "взреве́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взреветь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́ревить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выревить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зареве́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зареветь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нареве́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нареветь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пореве́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пореветь"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изре́веться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изреветься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нареве́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нареветься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обреве́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обреветься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "уреве́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уреветься"
+        }, 
+        {
+          "content": "Да ско́́́ко мо́́́жно реви́́́ть-то! Фсе у́́́ши оглуши́́́ў! Реви́́́ не реви́́́, – а рё́́́вом ницево́́́ у мня не вы́́́ревишь, по́́́няў! Нуко, иди успоко́й робёнка, а то гры́жу можот нареви́ть! Новось-то услышала, дак цисто вся уреве́ласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да скоко можно ревить-то! фсе уши оглушиу! реви не реви, – а ревом ницево у мня не выревишь, поняу! нуко, иди успокой робенка, а то грыжу можот наревить! новось-то услышала, дак цисто вся уревеласе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подавать голос диким зверям (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "взреве́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взреветь"
+        }, 
+        {
+          "content": "Лоси ревя́т, у них сейча́с гон. Медве́дь взреве́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лоси ревят, у них сейчас гон. медведь взревел."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") жаловаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мати всё реви́т, шчо бо́льно худ", 
+          "translation": "мать сетует, что сын худого телосложения.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мати все ревит, шчо больно худ"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "ря́вкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рявкать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "напилок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напи́лок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напилок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напильник.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пода́́́й-ко э́́́вон тот напи́́́лок-от, это́́́т уш не берё́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подай-ко эвон тот напилок-от, этот уш не берет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "шахаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шаха́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шахаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толкаться. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не шаха́йся!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не шахайся!"
+        }, 
+        {
+          "content": "не толкайся (когда, например, лезут в автобус).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

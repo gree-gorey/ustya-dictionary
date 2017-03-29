@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "воп", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воп", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воп"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крик, плач.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У них во́пу-то сколько, сходи посмотри, чего они развопи́лись.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у них вопу-то сколько, сходи посмотри, чего они развопились."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

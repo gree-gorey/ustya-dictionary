@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "по-вороськи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По-во́роськи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "по-вороськи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "по-воровскому, тайком.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Во́роськи", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вороськи"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 9
+}

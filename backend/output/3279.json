@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "клыпы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клы́пы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клыпы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинные костлявые ноги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Убери́ клы́пы-то свои, весь прохо́д загороди́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "убери клыпы-то свои, весь проход загородиу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

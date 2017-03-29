@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "самадругая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сама́ друга́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сама другая"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беременная (о женщине).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сама́ пя́тая", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сама пятая"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сама́ девя́та", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сама девята"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "обождать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обожда́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обождать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подождать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обожди́-ко меня́́́ мале́́́нько!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обожди-ко меня маленько!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

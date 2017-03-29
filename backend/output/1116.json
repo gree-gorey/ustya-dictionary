@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "выгорода", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́города", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выгорода"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́городка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выгородка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заго́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загон"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заго́нка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загонка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "огороженное место для скота под открытым небом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "отживаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отжива́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отживаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выздоравливать после тяжелой болезни, выходить из предсмертного состояния (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отжи́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отжиться"
+        }, 
+        {
+          "content": "Собака-то отжила́сь, ись на́чала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собака-то отжилась, ись начала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

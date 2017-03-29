@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "исподнее", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испо́днее", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исподнее"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нательное, нижнее бельё.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "испо́дки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "исподки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "тодильной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тоди́льной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тодильной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "годный, подходящий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мешок тоди́льной под меўкую картовь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мешок тодильной под меукую картовь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свободный, ничем не занятый, способный выполнять какую-либо работу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она тоди́льная в няньках сидить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она тодильная в няньках сидить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

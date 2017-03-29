@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "пригревина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пригре́вина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пригревина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место, где пригревает солнце.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

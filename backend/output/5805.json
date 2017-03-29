@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "подпечь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́дпечь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подпечь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подпе́́́чек", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подпечек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подпе́́́чок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подпечок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деревянное основание русской печи и пространство внутри его «под печью» (под", 
+          "tag": "def"
+        }, 
+        {
+          "content": "по́́́дом", 
+          "tag": "quote", 
+          "normalized_content": "подом"
+        }, 
+        {
+          "content": "). В подпечь в морозы кур или другую мелкую живность помещали, хранили печной инвентарь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где у тебя́́́ все ухва́́́тники, сковоро́́́дники? – Да ф потпе́́́цёк пиха́́́ю, не меша́́́ют там.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где у тебя все ухватники, сковородники? – да ф потпецек пихаю, не мешают там."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "прила́вник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "прилавник"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "подшесто́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подшесток"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

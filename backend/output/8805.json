@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "подисглаз!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поди́ с глаз!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поди с глаз!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уйди, чтобы я тебя тут не видел!", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Поди́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поди"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 10
+}

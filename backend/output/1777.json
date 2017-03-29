@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "долбануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долбану́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долбануть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выпить спиртного.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По три стопки водки долбану́ли и розошлись хто куды.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "по три стопки водки долбанули и розошлись хто куды."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

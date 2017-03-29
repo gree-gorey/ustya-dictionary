@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "плетень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Плете́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плетень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "плетешо́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "плетешок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щавель.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нарви плетешко́в на суп.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нарви плетешков на суп."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

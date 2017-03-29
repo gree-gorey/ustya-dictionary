@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кукан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кука́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кукан"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздвоенная ветка для нанизывания на нее пойманной рыбы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "диковина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дико́вина", 
+        "place": [
+          "Лосевская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "диковина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запустение, одичание.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ныне по пожням всё заросло, кругом дико́вина.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ныне по пожням все заросло, кругом диковина."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

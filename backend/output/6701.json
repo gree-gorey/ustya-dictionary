@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "рябины", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ряби́ны", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рябины"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "веснушки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "стригчи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стри́гчи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стригчи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стричь (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исстри́гчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исстригчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "настри́гчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "настригчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "остри́гчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "остригчи"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "подстри́гчи", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подстригчи"
+        }, 
+        {
+          "content": "Завтра будём с овец шерсть стри́гчи. Всё старое лопотьё надо на половики исстри́кчи, только место в шкапах занимаёт. Мне шерсти столько не настри́гчи. Волосьё тибе надо остри́гчи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завтра будем с овец шерсть стригчи. все старое лопотье надо на половики исстрикчи, только место в шкапах занимает. мне шерсти столько не настригчи. волосье тибе надо остригчи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

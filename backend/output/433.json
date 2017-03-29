@@ -1,0 +1,112 @@
+{
+  "field_for_sorting": "бросать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Броса́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бросать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "бро́сить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "бросить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "класть, укладывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо сюды ещо три нави́льника бро́сить", 
+          "translation": "(при укладывании зарода).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо сюды ещо три навильника бросить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "устанавливать в воду рыболовные снасти (сети, морды. удочку и т. п.) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забро́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забросить"
+        }, 
+        {
+          "content": "Надо удочку вон оттуда забро́сить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо удочку вон оттуда забросить."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перестать пользоваться, изъять из употребления, избавиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забро́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забросить"
+        }, 
+        {
+          "content": "Тебе надо броса́ть курить. Уже два года как пить бро́сил. Он это дело давно забро́сил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе надо бросать курить. уже два года как пить бросил. он это дело давно забросил."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ощущать наступление притупа сильного волнения, болезни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От испугу аш в пот бро́сило. В жар бро́сило.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от испугу аш в пот бросило. в жар бросило."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

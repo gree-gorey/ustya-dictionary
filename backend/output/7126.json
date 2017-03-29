@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "собачиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соба́читься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "собачиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "повести себя беспринципно, нагло, по-хамски (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "засоба́читься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "засобачиться"
+        }, 
+        {
+          "content": "Не надо так с людьми соба́читься. Чево опеть засоба́чилась?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо так с людьми собачиться. чево опеть засобачилась?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "насоба́́читься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "насобачиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

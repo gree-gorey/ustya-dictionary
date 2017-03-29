@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "гоголь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́голь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гоголь"
+      }
+    ], 
+    "style": [
+      "ирон."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "франт, высокомерный, надменный, заносчивый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Андрюха пожиў в городе дак ходит по деревне го́голём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "андрюха пожиу в городе дак ходит по деревне гоголем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

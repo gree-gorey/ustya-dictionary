@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ожигнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ожи́гнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ожигнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стегнуть (вицей, ремнем, крапивой).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ожи́гну сичас, дак жи́во побежишь по воду-то – всё сто раз сказать надо!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ожигну сичас, дак живо побежишь по воду-то – все сто раз сказать надо!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "жи́гать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жигать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

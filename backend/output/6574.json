@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ревмяреветь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ревмя́́́ реве́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ревмя реветь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плакать навзрыд, громко, истошно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Беда́́́ у их э́́́кая. Ма́́́ти уш ревмя́́́ ревё́́́т ско́́́ко дё́́́н.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "беда у их экая. мати уш ревмя ревет скоко ден."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "реве́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "реветь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

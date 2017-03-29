@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "спеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спеть"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удариться, созвенеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Токо пи́вица во́ пол спе́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "токо пивица во пол спела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выгонка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́гонка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выгонка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лесосплавные работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На вы́гонке ищо в молодости все ноги простуди́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на выгонке ищо в молодости все ноги простудила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

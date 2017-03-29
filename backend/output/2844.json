@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "зубат", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зуба́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зубат"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остер на язык.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зуба́т ты шибко. – Да вот, скажи правду, так и зуба́т", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Воспоминания. М.И. Романов.", 
+          "normalized_content": "зубат ты шибко. – да вот, скажи правду, так и зубат"
+        }, 
+        {
+          "content": "Зуба́́́т пора́то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зубат порато!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "зуба́титься", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зубатиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

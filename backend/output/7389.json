@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "стяг", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Стяг", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "стяг"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крепкая жердь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На волочу́ге стяг подтени́. Нарубил стяжко́в на оглобли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на волочуге стяг подтени. нарубил стяжков на оглобли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

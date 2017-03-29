@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ситево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Си́тево", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ситево"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ситеву́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ситевуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лыковое или лубяное лукошко. Из него сеяли вручную зерно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где́́́-то у нас на по́́́дволоке-то ешщо́́́ си́́́тево храни́́́цце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где-то у нас на подволоке-то ешщо ситево храницце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "одеяние", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Одея́ние", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "одеяние"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одежда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В сундуке празничноё одея́ние.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в сундуке празничное одеяние."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зарости", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зарости́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зарости"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать расти, давать хороший урожай.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Без назьму́ картовь в угоро́дце не заросла́. После дождей грибы заросли́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "без назьму картовь в угородце не заросла. после дождей грибы заросли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

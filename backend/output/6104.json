@@ -1,0 +1,98 @@
+{
+  "field_for_sorting": "почать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поча́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "почать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поче́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "почеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо жито поче́ть жать. Надо половики́́́ поце́́́ть тка́́́ть – мно́́́го клубо́́́ф настри́́́гла уш.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жито почеть жать. надо половики поцеть ткать – много клубоф настригла уш."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "начать использовать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "почина́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "починать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "почи́нывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "починывать"
+        }, 
+        {
+          "content": "Поча́ть бутылку, банку. Надо новый рулон (сена) поче́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "почать бутылку, банку. надо новый рулон (сена) почеть."
+        }, 
+        {
+          "content": "Вечером каравай не почина́ют", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вечером каравай не починают"
+        }, 
+        {
+          "content": "поговорка, предупреждающая о том, чтобы члены большой семьи вечером и ночью не съели этот каравай всухомятку с солью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо эту ба́́́́́́нку почи́нывать, ишщо́́́ и та недое́́́дёна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо эту банку починывать, ишщо и та недоедена."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

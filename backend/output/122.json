@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "барабыши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бара́быши", 
+        "place": [
+          "Лихачево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "барабыши"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дети.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "абара́бки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "абарабки"
+        }, 
+        {
+          "content": "Вы ищо не спите, барабыши?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вы ищо не спите, барабыши?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "абора́бки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "аборабки"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

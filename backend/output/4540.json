@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "напокась", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́покась", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напокась"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "на́пакось", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напакось"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "напо́кась", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напокась"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "напока́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "напокась"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "назло, нарочно (сделать что-то плохое, напакостить). От слова «пакость».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну шщо ты за целове́́́к-от! Фсё то́́́ко бы на́́́пакось сро́́́бить!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну шщо ты за целовек-от! фсе токо бы напакось сробить!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

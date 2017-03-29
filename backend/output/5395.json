@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "паленый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Палё́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паленый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обгорелый, обугленный, черный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Картошка-то палё́ная уже, надо вынима́ть из костра.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "картошка-то паленая уже, надо вынимать из костра."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

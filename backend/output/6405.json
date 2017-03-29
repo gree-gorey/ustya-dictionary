@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "путник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пу́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "путник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сера́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сераха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сера́шка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "серашка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький пластинчатый гриб, коричневого или серого цвета, с концентрическими окружностями на шляпке горькушка (Lactarius rufus).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Воўну́́́хи шщо́́́-то мне не попада́́́лисе, добро́́́ хоть на пу́́́тники нарва́́́ўсе, дак принё́́́с корзи́́́ну.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "воунухи шщо-то мне не попадалисе, добро хоть на путники нарваусе, дак принес корзину."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

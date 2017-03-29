@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "напрягчись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напрягчи́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напрягчись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приложить разовое усилие для выполнения работы, например, вытащить лодку из воды на берег.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

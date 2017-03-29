@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "сбитьспанталыку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сбить с панталы́ку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сбить с панталыку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сбить с толку.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "панталы́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "панталык"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "жарынь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жары́нь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жарынь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жари́́́ща", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жарища"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жарина́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жарина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жара, сильный жар, зной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кая жары́́́нь-то стои́́́т всё ли́́́тико!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экая жарынь-то стоит все литико!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "зарывчивый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зары́вчивый", 
+        "place": [
+          "Бережная"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "зарывчивый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "усердный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я на роботу зары́вчивая, всегда на передовой была.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я на роботу зарывчивая, всегда на передовой была."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

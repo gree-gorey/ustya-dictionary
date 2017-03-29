@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поранно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́ранно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поранно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рановато.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды так по́ранно собралисе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды так поранно собралисе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

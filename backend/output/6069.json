@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "потачка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пота́чка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потачка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поблажка, послабление.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Любит пота́чки делать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "любит потачки делать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,119 @@
+{
+  "field_for_sorting": "заворачивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Завора́́́чивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заворачивать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "завороти́́́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заворотить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заверну́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "завернуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возвращать, заставлять вернуться обратно (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "вора́чивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ворачивать"
+        }, 
+        {
+          "content": "Надо ево завороти́ть (вора́чивать), а то он через ричку не переи́дёт, глубо́ка стала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо ево заворотить (ворачивать), а то он через ричку не переидет, глубока стала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изменять направление движения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Завора́чивай лошадь, там не вы́знимиссе, снегом всё перемело́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заворачивай лошадь, там не вызнимиссе, снегом все перемело."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вороти́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "воротить"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "заходить, заезжать по пути следования.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты ко мне-то не забывай, когда бываёшь-то дак, завора́чивай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты ко мне-то не забывай, когда бываешь-то дак, заворачивай."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "привора́́́чивать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приворачивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "завороти́лось", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заворотилось"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

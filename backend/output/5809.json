@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "подполье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подпо́лье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подполье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "по́дпол", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подпол"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помещение под полом для хранения продуктов. Ход в него, как правило, из самой избы, для чего предусмотрена небольшая (квадратная) дверца в полу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спусьти́́́сь-ко в подпо́́́льё да воўну́́́х доста́́́нь из уша́́́тика.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "спусьтись-ко в подполье да воунух достань из ушатика."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "подкле́́́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подклеть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

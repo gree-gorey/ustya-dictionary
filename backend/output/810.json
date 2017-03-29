@@ -1,0 +1,183 @@
+{
+  "field_for_sorting": "вить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скручивать, плести, сплетать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зави́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "свить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "завива́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "свива́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свивать"
+        }, 
+        {
+          "content": "Надо верёвки вить. Ты потоньше на веретено́ нитки-то вей, куды́ экую толстую! Эти две нитки надо вми́́сте свить. Сви́ть мо́рду", 
+          "translation": "сплести из ивовых виц рыболовную ловушку.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо веревки вить. ты потоньше на веретено нитки-то вей, куды экую толстую! эти две нитки надо вмисте свить. свить морду"
+        }, 
+        {
+          "content": "Когды корзину-ту плетёшь, дак вицы-то надо вот эдак завива́ть. Свива́́й вот так верёвки-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "когды корзину-ту плетешь, дак вицы-то надо вот эдак завивать. свивай вот так веревки-то."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мотать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нави́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "свить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "навива́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "свива́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свивать"
+        }, 
+        {
+          "content": "Надо два клубка ниток нави́ть. Во́́́но ско́́́ко клубо́́́в навила́́́, дак половицько́́́ф навяжу́́́. Мне некогда, надо нитки с воро́б на тюрики́ навива́ть. Свива́й с веретё́н нитки-то в клубок.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо два клубка ниток навить. воно скоко клубов навила, дак половицькоф навяжу. мне некогда, надо нитки с вороб на тюрики навивать. свивай с веретен нитки-то в клубок."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изготовлять фигурное мучное изделие витушку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Марфа – мастерица виту́шки-то вить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "марфа – мастерица витушки-то вить."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "дуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "навить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "завива́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завивать"
+        }, 
+        {
+          "content": "Эка вьюга-то как на улице вьёт, сугро́бы кругом завива́ёт, не пройдё́шь. Как вью́га-то на самом берегу такие сугробы навьё́т, дак не вы́знимиссе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эка вьюга-то как на улице вьет, сугробы кругом завивает, не пройдешь. как вьюга-то на самом берегу такие сугробы навьет, дак не вызнимиссе."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

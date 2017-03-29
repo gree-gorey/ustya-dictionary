@@ -1,0 +1,89 @@
+{
+  "field_for_sorting": "пелиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пелиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пя́литься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пялиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пристально, бестактно смотреть, вызывая раздражение (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́пелиться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпелиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "опе́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "опелиться"
+        }, 
+        {
+          "content": "Не пя́лься на меня-то! Чего вы́пелился (уста́́́вился), как баран на новые ворота!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не пялься на меня-то! чего выпелился (уставился), как баран на новые ворота!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "долго работать над одним и тем же, тратить много времени (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пропе́литься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пропелиться"
+        }, 
+        {
+          "content": "Стоко времени пропе́лился, пока очистил все меёвы. Боле не буду с ними пе́литься, чисти сама.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стоко времени пропелился, пока очистил все меевы. боле не буду с ними пелиться, чисти сама."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "воронко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воронко́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "воронко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "черный конь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Вороно́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вороной"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 1
+}

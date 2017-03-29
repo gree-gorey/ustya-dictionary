@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "едакий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́дакий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "едакий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́дакой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "едакой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́такий", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "етакий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́такой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "етакой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вот какой, такой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Е́дакой витёр со снегом, глаз не откроёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "едакой витер со снегом, глаз не откроешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

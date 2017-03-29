@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "путаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пу́́́́таться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "путаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "запу́таться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "запутаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пребывать в неопределенности, жить без цели, на самотек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пу́таитце меж двумя семьями и не можот пристать к одному берегу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "путаитце меж двумя семьями и не можот пристать к одному берегу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "находиться в интимной связи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Си́дор с Офи́мьей пу́таитце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сидор с офимьей путаитце."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

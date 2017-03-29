@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "таган", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тага́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "таган"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая жердь, на которую подвешивают котел с водой, варевом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

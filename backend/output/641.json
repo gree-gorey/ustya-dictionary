@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "веньгало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́ньгало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "веньгало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нытик, плакса.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всем известно, что он ве́ньгало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всем известно, что он веньгало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

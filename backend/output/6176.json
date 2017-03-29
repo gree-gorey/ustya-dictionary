@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "прикалындыш", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прикалы́ндыш", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прикалындыш"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая часть, остаток, непоместившаийся в основной объем укладки чего-либо и уложенный рядом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прикалы́ндыш к зароду сена.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прикалындыш к зароду сена."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

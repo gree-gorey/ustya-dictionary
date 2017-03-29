@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "изопреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изопре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изопреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испортиться от гниения (о ткани, сене и т. п.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сено-то всё изопре́ло в заро́де", 
+          "translation": "согрелось, сгнило (так как было непросохшее).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сено-то все изопрело в зароде"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "согрева́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "согреваться"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "покрыться потом, испариной.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

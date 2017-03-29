@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "лежка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лё́жка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лежка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место в лесу, где лежат, отдыхая, звери.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

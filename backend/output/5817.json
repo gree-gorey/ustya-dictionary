@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "подрядиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подряди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подрядиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взяться за выполнение какой-либо работы по устному или письменному договору подряда.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

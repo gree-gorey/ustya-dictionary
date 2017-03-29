@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ветшанка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́тшанка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ветшанка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скатерка для закрытия квашонки с тестом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Закрой ве́тшанкой квашо́нку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрой ветшанкой квашонку."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

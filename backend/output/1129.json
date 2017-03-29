@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "выживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выжива́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зарабатывать, заслуживать что-то за работу с проживанием в другом доме, у других хозяев (жить в казаках) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́жить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выжить"
+        }, 
+        {
+          "content": "Молодые девушки выжива́́ли в казака́х себе выходную одежду и обувь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молодые девушки выживали в казаках себе выходную одежду и обувь."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "каза́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "казак"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

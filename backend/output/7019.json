@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "скукожить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скуко́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скукожить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смять, скомкать.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

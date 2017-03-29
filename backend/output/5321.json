@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отъедаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отъеда́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отъедаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "огрыза́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "огрызаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сердито отговариваться, защищая себя, негативно реагировать на критику.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Быва́ло начнё́шь Они́ку-то руга́ть, дак он начнё́т как отъеда́тьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бывало начнешь онику-то ругать, дак он начнет как отъедатьсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

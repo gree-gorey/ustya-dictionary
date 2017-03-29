@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "отговаривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отгова́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отговаривать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отгова́́́риваться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отговариваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пререкаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты мне давай тут не отгова́ривай! Ишь, ешшо будёт мне отгова́ривать!", 
+          "translation": "не пререкайся со мной.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты мне давай тут не отговаривай! ишь, ешшо будет мне отговаривать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

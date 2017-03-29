@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "худоба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Худоба́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "худоба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "худощавость, худое телосложение, тощая упитанность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёво хоть корми́, хоть не корми́, он всё такая худоба́ – ко́жа да ко́сти.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ево хоть корми, хоть не корми, он все такая худоба – кожа да кости."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

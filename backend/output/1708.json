@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дигональ", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дигона́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дигональ"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "диагональ разновидность ткани.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Из городу привезли брюки из дигона́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "из городу привезли брюки из дигонали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

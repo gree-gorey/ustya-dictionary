@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "заурнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зау́рнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заурнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забросить, зашвырнуть куда-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды́́́-то зау́́́рнуў ме́́́ць-то", 
+          "translation": "(мяч)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды-то заурнуу мець-то"
+        }, 
+        {
+          "content": "и найти́́́ не мо́́́жом.", 
+          "tag": "quote", 
+          "normalized_content": "и найти не можом."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "у́рнуть 1", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "урнуть 1"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

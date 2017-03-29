@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "усовещать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Усовеща́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "усовещать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отговаривать, убеждать. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Настенька, было, её учала усовеща́ть рано замуж за купца не ходить", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "настенька, было, ее учала усовещать рано замуж за купца не ходить"
+        }, 
+        {
+          "content": "Бабья гора. М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

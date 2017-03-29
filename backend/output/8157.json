@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "ходара", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хода́ра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходара"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хода́рина", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ходарина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тазобедренный сустав человека.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ой, болит нога в хода́ре-то! Болит хода́рина, что хошь с ей делай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ой, болит нога в ходаре-то! болит ходарина, что хошь с ей делай!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "задняя нога коровы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пеструха вчерась хода́рину расши́бла, дак сёдни не вы́пушшу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пеструха вчерась ходарину расшибла, дак седни не выпушшу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

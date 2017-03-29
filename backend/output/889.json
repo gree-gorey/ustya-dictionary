@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "волоковоеокно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Волоково́е окно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волоковое окно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленькое задвижное оконце в избах, в которое также выволакивает дым в курных избах.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

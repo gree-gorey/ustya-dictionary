@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "эвон", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́вон", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "эвон"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́воно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "эвоно"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́воно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "евоно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вон там.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "э́вонде", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "эвонде"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "е́вонде", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "евонде"
+        }, 
+        {
+          "content": "Э́́́вон доро́́́га-та, э́́́вон, фсё о́́́коло е́́́й и то́́́пчёссе! Э́вонде видне́ется.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эвон дорога-та, эвон, фсе около ей и топчессе! эвонде виднеется."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вот как.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эвон как получилось. Э́́́воно как на са́́́мом-то ди́́́ле бы́́́ло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эвон как получилось. эвоно как на самом-то диле было!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

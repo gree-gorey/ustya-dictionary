@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "перепенка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перепё́́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перепенка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пленка под скорлупой яйца.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Перепё́нка-то коль не толста, не розорвёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перепенка-то коль не толста, не розорвешь."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "любая другая тонкая перепонка, пленка в организме живых существ.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дикуша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дику́ша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дикуша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "невежественная, отсталая некультурная женщина. Чаще применяется в переносном смысле.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну и дику́ша, пощо им пови́рила?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и дикуша, пощо им повирила?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

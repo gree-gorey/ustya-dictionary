@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "погонец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пого́нец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "погонец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пого́нщик лошади.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тот, кто догоняет (животное в стаде).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай твою корову пого́ним, а мой-то пого́нец прибежит", 
+          "translation": "(отставший бычок).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай твою корову погоним, а мой-то погонец прибежит"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

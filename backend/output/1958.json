@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дюже", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дю́же", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дюже"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень, сильно, весьма.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нынешнее лето дю́же жаркое.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нынешнее лето дюже жаркое."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

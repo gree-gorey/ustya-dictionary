@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дерябнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Деря́бнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дерябнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть, удариться при падении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "С коня на ходу деря́бнулсе, ушиб коле́нко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "с коня на ходу дерябнулсе, ушиб коленко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

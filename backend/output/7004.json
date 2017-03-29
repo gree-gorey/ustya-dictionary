@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "скотнаяизбушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́тная избушка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скотная избушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "избушка для приготовления кормов для скота, кормокухня.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

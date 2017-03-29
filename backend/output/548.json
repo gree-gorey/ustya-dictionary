@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "ванда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ва́нда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ванда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сплетенная из ивовых виц (прутьев) рыболовная снасть круглой формы диаметром около 0,5 метра и длиной до 1 метра.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "мо́рда", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "морда"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

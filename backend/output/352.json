@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "большенький", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́льшенький", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "большенький"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уже большой по росту и возрасту, но не взрослый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как переехали в другую деревню, я уж бо́льшенькой был.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как переехали в другую деревню, я уж большенькой был."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

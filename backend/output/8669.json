@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "юзгаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ю́згаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "юзгаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мараться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заю́згаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заюзгаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ую́згаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "уюзгаться"
+        }, 
+        {
+          "content": "Где ты так уюз́галсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты так уюзгалсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

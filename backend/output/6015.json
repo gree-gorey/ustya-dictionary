@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "порозной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поро́зной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "порозной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пустой, порожний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обра́́́тно-то поро́́́зные пой́́́дём, дак бы́́́стро придём.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обратно-то порозные пойдем, дак быстро придем."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

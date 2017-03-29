@@ -1,0 +1,97 @@
+{
+  "field_for_sorting": "съешкануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Съёшкану́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "съешкануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "съешкану́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "съешкануть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "съёшкану́́́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "съешкануться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть, соскользнув откуда-то; упасть, нечаянно повернувшись (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съё́шкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съешкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "съё́шкнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "съешкнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́́́ть вну́́́к-от со сту́́́ла съёшкану́́́ў, ле́́́шо схло́́́пало. Не удержа́́́ласе, да с копё́́́шки съёшкану́́́ласе, добро́́́ хоть не высо́́́ко бы́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть внук-от со стула съешкануу, лешо схлопало. не удержаласе, да с копешки съешкануласе, добро хоть не высоко было."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "́шкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шкать"
+        }, 
+        {
+          "content": "ё", 
+          "tag": "quote", 
+          "normalized_content": "е"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "сверну́́́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "свернуться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

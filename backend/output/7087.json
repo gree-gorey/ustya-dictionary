@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "смоливый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смоли́вый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "смоливый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "смолистый, содержащий в себе смолу (о древесных материалах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дрова смоли́вые, вишь какой запах в избе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дрова смоливые, вишь какой запах в избе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

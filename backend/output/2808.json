@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "знаменье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Знаме́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "знаменье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зна́мя", 
+        "place": [
+          "Камкино"
+        ], 
+        "type": "variant", 
+        "normalized_content": "знамя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "знак, отметка, метка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На скота знаме́нье ставили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на скота знаменье ставили."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "пятно́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пятно"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

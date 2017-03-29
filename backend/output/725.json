@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вжисть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вжисть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вжисть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "невжи́сть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "невжисть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "никогда, ни за что, ни в коем случае, никогда в жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вжись не с кем не спа́ривала. Да я невжи́сь в город жить не поеду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вжись не с кем не спаривала. да я невжись в город жить не поеду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

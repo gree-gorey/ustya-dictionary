@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "вытохнуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́тохнуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вытохнуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испариться, потерять потребительские свойства, испортиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "вытыха́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "вытыхаться"
+        }, 
+        {
+          "content": "Флакон одеколона не закрыт пробкой, так весь вы́тохсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "флакон одеколона не закрыт пробкой, так весь вытохсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

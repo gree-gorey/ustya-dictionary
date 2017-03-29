@@ -1,0 +1,59 @@
+{
+  "field_for_sorting": "сестренка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сестрё́́́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сестренка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родная, двоюродная или троюродная сестра.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ведь она-то мне сестре́ницей будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ведь она-то мне сестреницей будет."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "сестре́ница", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сестреница"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "младшая двоюродная сестра", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Синики", 
+          "tag": "place"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

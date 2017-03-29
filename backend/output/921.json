@@ -1,0 +1,126 @@
+{
+  "field_for_sorting": "вопить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вопи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вопить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "развопи́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "развопиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кричать (громко), например, в лесу, орать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обвопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обвопить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "обва́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обвапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "пова́пливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повапливать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "взвопи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "взвопить"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вопи́ гро́мце-то, дак услы́шат! Бабка-то севодни с утра пова́пливаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вопи громце-то, дак услышат! бабка-то севодни с утра повапливает."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") громко говорить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо во́пишь-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо вопишь-то?"
+        }, 
+        {
+          "content": "–громко говоришь?", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не вопи́! Ишь, развопи́лсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не вопи! ишь, развопилсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

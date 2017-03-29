@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "непереломится", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не перело́мится", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "не переломится"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не перетрудится.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он уш не перело́митсе, на нево где сядёшь, там и слизёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он уш не переломитсе, на нево где сядешь, там и слизешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

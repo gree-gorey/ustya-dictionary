@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "внавал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Внава́л", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "внавал"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "без укладки, как попало.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дрова свалёны внава́л, надо прикладывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дрова свалены внавал, надо прикладывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мозглый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мо́зглый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мозглый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начавший портиться, киснуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пиво в бочке мо́зглоё, придётце выплеснуть мимо.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пиво в бочке мозглое, придетце выплеснуть мимо."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "промо́зглый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "промозглый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

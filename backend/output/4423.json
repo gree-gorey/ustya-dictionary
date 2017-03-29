@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "надобыть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На́до быть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "надо быть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "наверно, вероятно, по-видимому.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там на́до быть всё равно кто-то есть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там надо быть все равно кто-то есть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "девятибратник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Девятибра́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "девятибратник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "девяти́льник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "девятильник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пижма травянистое лекарственное растение с белыми или желтыми цветками в форме пуговок.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

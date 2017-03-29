@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "робятки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Робя́тки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "робятки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "робя́тка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "робятка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "робяти́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "робятишки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "робятё́шки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "робятешки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "робятё́нки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "робятенки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ребятня́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ребятня"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дети вообще.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "свои дети.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робя́́́тка-та у их фсе, как оди́́́н, просу́́́жые росту́́́т, робо́́́тные.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робятка-та у их фсе, как один, просужые ростут, роботные."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

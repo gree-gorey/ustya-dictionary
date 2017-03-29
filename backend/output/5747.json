@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поддыхало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поддыха́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поддыхало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "солнечное сплетение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как дам тибе в поддыха́ло, будёшь знать!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как дам тибе в поддыхало, будешь знать!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

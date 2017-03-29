@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "завор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заво́р", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заменяющая ворота разборная часть изгороди из выдергиваемых жердей (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "заво́рин", 
+          "tag": "quote", 
+          "normalized_content": "заворин"
+        }, 
+        {
+          "content": "заво́рниц", 
+          "tag": "quote", 
+          "normalized_content": "заворниц"
+        }, 
+        {
+          "content": "Вы́гонишь коров на па́сву и заво́рины все задё́рни. Коро́вы-то поди́ уж у заво́ра!", 
+          "translation": "время идти встречать коров (", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выгонишь коров на пасву и заворины все задерни. коровы-то поди уж у завора!"
+        }, 
+        {
+          "content": "открыва́ть заво́р", 
+          "tag": "quote", 
+          "normalized_content": "открывать завор"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

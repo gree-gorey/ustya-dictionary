@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кринка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кри́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кринка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "крынка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "крынка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глиняная посуда в виде блюда, горшка без горлышка разных размеров, прототип небольшой кастрюли. В основном туда наливали молоко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Принеси́́́-ко кри́́́нку-то с молоко́́́м, вон на мосту́́́, ф шка́́́пцике стои́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "принеси-ко кринку-то с молоком, вон на мосту, ф шкапцике стоит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

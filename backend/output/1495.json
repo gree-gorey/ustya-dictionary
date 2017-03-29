@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "гостинец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гости́нец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гостинец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подарок, привозимый с собой откуда-то или даримый гостем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Па́рни-то с гости́нцами прие́хали", 
+          "translation": "сыновья приехали из города и привезли подарки родным.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парни-то с гостинцами приехали"
+        }, 
+        {
+          "content": "На, бу́́ди это тебе в гости́нец!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на, буди это тебе в гостинец!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "угощение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он её ласкает, гости́нцем угощает", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он ее ласкает, гостинцем угощает"
+        }, 
+        {
+          "content": "Бабья гора. М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

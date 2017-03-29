@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "йисть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Йи́сть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "йисть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "style": [], 
+          "ana": "см.", 
+          "content": "и́сть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "исть"
+        }, 
+        {
+          "content": "Ковды́́́ йи́́́сь-то бу́́́дём?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ковды йись-то будем?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

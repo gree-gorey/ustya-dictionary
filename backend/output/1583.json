@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "густнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гу́стнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "густнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "загу́стнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "загустнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "становиться густым.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В толчёные сухари нальют кипятку, а как загу́стнёт, добавят масла и едят эту суха́рницу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в толченые сухари нальют кипятку, а как загустнет, добавят масла и едят эту сухарницу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

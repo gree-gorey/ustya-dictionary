@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "пластаница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пластани́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пластаница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пла́станица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пластаница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "драка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У клуба такая пластани́ца идёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у клуба такая пластаница идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

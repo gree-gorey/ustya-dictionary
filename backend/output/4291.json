@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "мудохаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мудо́хаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мудохаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мучаться, путаться, увязнуть в работе и нерешенных проблемах, выбираться из беды (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "замудо́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "замудохаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измудо́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измудохаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "промудо́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "промудохаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "умудо́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "умудохаться"
+        }, 
+        {
+          "content": "Вся она измудо́халась со своей ора́вой робят. Хоть кто дак замудо́хаитце, если пособи́ть не́кому. Взялась половики ткать и всю вё́сну промудо́халась с и́ми.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся она измудохалась со своей оравой робят. хоть кто дак замудохаитце, если пособить некому. взялась половики ткать и всю весну промудохалась с ими."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

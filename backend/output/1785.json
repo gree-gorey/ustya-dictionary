@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "долгонорой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Долгоно́рой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "долгонорой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "долгоны́рый", 
+        "place": [
+          "Чадрома"
+        ], 
+        "type": "variant", 
+        "normalized_content": "долгонырый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "длинномордый (о свиньях).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Долгоно́рой поросёнок любит рыть землю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долгонорой поросенок любит рыть землю."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

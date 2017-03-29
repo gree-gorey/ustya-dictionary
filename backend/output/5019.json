@@ -1,0 +1,35 @@
+{
+  "field_for_sorting": "огородцы", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Огоро́дцы", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "огородцы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "топоним", 
+          "tag": "pos"
+        }, 
+        {
+          "content": "заливной луг.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

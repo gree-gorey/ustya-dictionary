@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "сробить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сро́бить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сробить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сделать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо эко сро́бил?", 
+          "translation": "что такое сделал?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо эко сробил?"
+        }, 
+        {
+          "content": "Щё сро́бишь с им, как заупре́митсе, так не переломишь! Как э́дак и сро́блёно!?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ще сробишь с им, как заупремитсе, так не переломишь! как эдак и сроблено!?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ро́бить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "робить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "породить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "наро́бить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "наробить"
+        }, 
+        {
+          "content": "Только одне́х девок в семье наро́бил. Парнечка́ сро́бил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "только однех девок в семье наробил. парнечка сробил."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

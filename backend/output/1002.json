@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "впуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на пользу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколько не хапают, всё равно впуть не идёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколько не хапают, все равно впуть не идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

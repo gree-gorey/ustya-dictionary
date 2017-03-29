@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "притця", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "При́тця", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "притця"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "при́тча", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "притча"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нежданное событие, явление.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот так при́тця, за ночь снегу напа́ло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот так притця, за ночь снегу напало!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неприятность, беда, несчастье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Случилась же такая при́тча!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "случилась же такая притча!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

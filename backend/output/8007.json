@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "утянуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Утяну́́́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утянуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уйти не сказавшись.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох жо, и шулы́́́кан жо ты – с утра́́́ куды́́́-то утену́́́ўсе – и ищи́́́-свищи́́́ тебя́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох жо, и шулыкан жо ты – с утра куды-то утенуусе – и ищи-свищи тебя!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

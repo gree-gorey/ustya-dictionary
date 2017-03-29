@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "отводить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отводи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отводить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приводить в сознание (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "отва́живать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отваживать"
+        }, 
+        {
+          "content": "Наси́лу его отводи́ли, чуть не умёр.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "насилу его отводили, чуть не умер."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "стукнуть несколько раз, побить (наказать).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сегодня как голико́м чужую собаку отводи́ла, дак боле не придё́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сегодня как голиком чужую собаку отводила, дак боле не придет!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

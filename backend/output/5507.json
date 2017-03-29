@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "передью", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́́́редью", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "передью"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "впереди.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты пе́́́редью иди́́́, а мы за тобо́́́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты передью иди, а мы за тобой."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "передом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да э́́́вона тот дом, пе́́́редью к нам стои́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да эвона тот дом, передью к нам стоит."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

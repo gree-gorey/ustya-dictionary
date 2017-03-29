@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "копошиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Копоши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копошиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "ископоши́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "ископошиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "накопоши́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "накопошиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "покопоши́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "покопошиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выполнять незаметную, утомительную работу.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Накопоши́лась ты за день-то, ляг, отдохни. Севодня пришлось много тебе покопоши́тьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "накопошилась ты за день-то, ляг, отдохни. севодня пришлось много тебе покопошитьсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "суетиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что ты копоши́шьсе, как кура, давай, подём скори́е. Что-то робёнок весь ископоши́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты копошишьсе, как кура, давай, подем скорие. что-то робенок весь ископошилсе."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

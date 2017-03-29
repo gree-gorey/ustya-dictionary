@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "биси", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Би́си", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "биси"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бе́си", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "беси"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бесы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она бисей знает", 
+          "translation": "с бесами водится (про «колдунью»).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она бисей знает"
+        }, 
+        {
+          "content": "Ма́ти удё́т, дак они то́ко би́сятце", 
+          "translation": "дети, в отсутствии матери, «бесятся», шалят.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мати удет, дак они токо бисятце"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

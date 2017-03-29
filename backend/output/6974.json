@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "сковородница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сковоро́дница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сковородница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сковородка, большая сковорода.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

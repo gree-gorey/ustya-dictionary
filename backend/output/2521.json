@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ходитьпозаосичью", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ходить по заоси́чью", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходить по заосичью"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вести себя неадекватно, странно, нарушать мораль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опе́ть Галька ходит по заоси́чью", 
+          "translation": "так говорили про женщину, которая ударилась в пьянку и бродила неприкаянно по деревне.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть галька ходит по заосичью"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "заоси́чье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "заосичье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

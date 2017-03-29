@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лебеза", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лебеза́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лебеза"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "льстец, угодник, подлиза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох, она и лебеза́, к кому хошь подъи́дёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, она и лебеза, к кому хошь подъидет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

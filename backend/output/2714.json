@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зачин", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачи́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачин"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начин, начало.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Главное в любом деле – зачи́н. Зачи́н есть – дело будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "главное в любом деле – зачин. зачин есть – дело будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

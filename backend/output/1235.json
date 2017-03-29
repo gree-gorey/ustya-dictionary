@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выспать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́спать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выспать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проспать, очень долго спать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Столько времени надо вы́спать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "столько времени надо выспать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

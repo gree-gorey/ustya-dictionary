@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вытешек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́тешек", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вытешек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "истешенный, избалованный ребенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Што будете делать с этем вы́тешком, ковды выростёт?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "што будете делать с этем вытешком, ковды выростет?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "те́шить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тешить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

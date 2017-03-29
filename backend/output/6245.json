@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "притатыжить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Притаты́жить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "притатыжить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "притуты́жить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "притутыжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "припереть, прислонить, прижать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нуко притаты́жил трактор к берёзе – ручку не провернуть!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко притатыжил трактор к березе – ручку не провернуть!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "присоединить тут, туда. Пришил, приколотил тоже можно было сказать «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "притуты́жил", 
+          "tag": "quote", 
+          "normalized_content": "притутыжил"
+        }, 
+        {
+          "content": "», только с оттенком, что это было сделано наспех, не очень ладно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коё-как притуты́́́жыў – и так доро́́́днё!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кое-как притутыжыу – и так дородне!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

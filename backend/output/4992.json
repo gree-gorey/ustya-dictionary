@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "обыденник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обы́денник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обыденник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "овы́денник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "овыденник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "обу́денник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "обуденник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́денник", 
+        "place": [
+          "Миня"
+        ], 
+        "type": "variant", 
+        "normalized_content": "выденник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хлеб круглой или овальной формы из жидкого жилого ржаного теста. Для большой семьи овыденников хватало только на один день, поэтому такой хлеб и называли «овыденник» (об один день).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Обы́денник только что и́з печи вы́нела, ешьте, пока горячей.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обыденник только что из печи вынела, ешьте, пока горячей."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

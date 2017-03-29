@@ -1,0 +1,77 @@
+{
+  "field_for_sorting": "гоношиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гоноши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гоношиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "загоноши́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "загоношиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "изгоноши́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "изгоношиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "суетиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да что он всё гоноши́тся?", 
+          "translation": "что он все делает? (люди уж все сделали, а он все чего-то делает).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да что он все гоношится?"
+        }, 
+        {
+          "content": "Не гоноши́сь-ко!", 
+          "translation": "не суетись!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не гоношись-ко!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "делать что-то с раздражением, недовольством.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну чего ты гоноши́шьсе, седь посиди. Изгоноши́лась вся!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну чего ты гоношишьсе, седь посиди. изгоношилась вся!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

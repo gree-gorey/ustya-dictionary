@@ -1,0 +1,57 @@
+{
+  "field_for_sorting": "фыкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Фы́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "фыкать"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выражать недовольство, издавая отдельные возгласы, звуки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зафы́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зафыкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "фы́ркать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "фыркать"
+        }, 
+        {
+          "content": "Чево опеть зафы́кала? Що, не по нутру́ опеть? Только фы́кать гора́зда!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево опеть зафыкала? що, не по нутру опеть? только фыкать горазда!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

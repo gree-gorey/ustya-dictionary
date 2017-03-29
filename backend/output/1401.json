@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "годовое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Годово́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "годовое"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "годови́ца", 
+        "place": [
+          "Едьма"
+        ], 
+        "type": "variant", 
+        "normalized_content": "годовица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "озимой хлеб.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Годово́е летом сеяли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "годовое летом сеяли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

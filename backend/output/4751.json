@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "нем", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нем"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "не́мко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "немко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немой человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мати вышла за не́ма", 
+          "translation": "вышла замуж за немого.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мати вышла за нема"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") не говорящий, молчащий в том случае, если должен говорить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Прошёл как нем!", 
+          "translation": "не поздоровался.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "прошел как нем!"
+        }, 
+        {
+          "content": "Шшо сиди́шь как не́мко? Говори уж шшо-нибудь! Кота, помню, называл (кот тоже баженик был) его гладят, разговаривают, а он молчит: «Эх, ты не́мко!»", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшо сидишь как немко? говори уж шшо-нибудь! кота, помню, называл (кот тоже баженик был) его гладят, разговаривают, а он молчит: «эх, ты немко!»"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

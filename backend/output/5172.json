@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "опрясть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опря́сть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опрясть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "провести пряжу кудели, закончить пряжу всего, что запланировано.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пре́сть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "престь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

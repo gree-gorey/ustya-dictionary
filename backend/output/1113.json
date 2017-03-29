@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "выгонить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́гонить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выгонить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "выгоня́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выгонять"
+      }, 
+      {
+        "style": [], 
+        "ana": "многокр.", 
+        "content": "выга́нивать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "выганивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прогнать, выпроводить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поди́-ко его из гостей вы́гони.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поди-ко его из гостей выгони."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выгнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо коров и́з поля выга́нивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо коров из поля выганивать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

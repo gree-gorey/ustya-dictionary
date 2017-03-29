@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "наговорный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нагово́рный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наговорный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "навороженный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Катеньку нагово́рной водой напои́ла, умыла и спать уложила", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "катеньку наговорной водой напоила, умыла и спать уложила"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "приворо́тный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приворотный"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

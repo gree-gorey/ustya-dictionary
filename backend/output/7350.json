@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "страхолюдина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Страхолю́дина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "страхолюдина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "некрасивый, страшилище.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

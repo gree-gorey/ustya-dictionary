@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "подвода", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подво́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подвода"
+      }
+    ], 
+    "style": [
+      "перен.", 
+      "шутл."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "транспорт.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сижу одетая, жду подво́ды", 
+          "translation": "автобуса или машины.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сижу одетая, жду подводы"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

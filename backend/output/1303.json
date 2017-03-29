@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "галить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гали́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "галить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бросать вверх; подавать мяч в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "лапте́", 
+          "tag": "quote", 
+          "normalized_content": "лапте"
+        }, 
+        {
+          "content": ", шар в игре (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "выга́ливать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выгаливать"
+        }, 
+        {
+          "content": "). Упрощенный вариант лапты назывался: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бить, гали́ть, в поле", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бить, галить, в поле"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

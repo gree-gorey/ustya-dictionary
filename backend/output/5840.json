@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "подхват", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подхва́т", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подхват"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ремень уздечки, закрепляемый под горлом лошади. Служит для прочной фиксации уздечки на лошадиной голове.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

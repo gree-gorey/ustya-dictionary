@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "перебрать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перебра́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перебрать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очистить от мусора.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "перебира́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "перебирать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпить лишнего.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мужик-от мой на празнике перебра́л немношко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужик-от мой на празнике перебрал немношко."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

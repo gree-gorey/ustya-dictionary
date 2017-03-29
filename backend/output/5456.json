@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "певкий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́вкий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "певкий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "певко́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "певкой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "звонкий, звучный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пе́вкие голоса.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "певкие голоса."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

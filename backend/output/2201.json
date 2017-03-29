@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "жом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жо́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жом"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скупой, прижимистый человек жадина, скряга.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хозе́́́ин-то тако́́́й жо́́́м – не вы́́́сказать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хозеин-то такой жом – не высказать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

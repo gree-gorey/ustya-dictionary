@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "шириться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ши́риться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шириться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жить вольготно, без стеснения, без помех (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поши́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошириться"
+        }, 
+        {
+          "content": "Одна в э́ком большо́м до́ме ши́ритце. Не удало́сь Никола́ю поши́ритьце, хоро́шую робо́ту потеря́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "одна в эком большом доме ширитце. не удалось николаю поширитьце, хорошую роботу потеряу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "дотыкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дотыка́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дотыкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "просить, обращаться с просьбой (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "доткну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доткнуться"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто зна́ёт, мо́жот придё́тце ишшо́ дотыка́ться до и́х", 
+          "translation": "обращаться к ним с просьбой.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто знает, можот придетце ишшо дотыкаться до их"
+        }, 
+        {
+          "content": "Не́ к кому доткну́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не к кому доткнуться."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

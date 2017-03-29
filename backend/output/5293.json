@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "отруб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́труб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отруб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "участок земли, выделявшийся в личную собственность крестьянину при выходе его из общины (в 1906-1916 гг.).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

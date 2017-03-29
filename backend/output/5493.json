@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "перевицить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Переви́цить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перевицить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "перевязать вицами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо переви́цыть дро́вни, а то эти переви́чины урву́тсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо перевицыть дровни, а то эти перевичины урвутсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

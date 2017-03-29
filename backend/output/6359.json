@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "прудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пру́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прудить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обильно лить, мочить; мочиться, пи́́́сать, делать лужу (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напру́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напрудить"
+        }, 
+        {
+          "content": "Ско́́́ко мо́́́жно пру́́́дить-то – на тебя́́́ и шщано́́́в не напасё́́́сьсе! Опеть напру́дил", 
+          "translation": "(о ребенке).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоко можно прудить-то – на тебя и шщанов не напасесьсе! опеть напрудил"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "делать преграду из грунта, дерева и других материалов (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "запру́ду", 
+          "tag": "quote", 
+          "normalized_content": "запруду"
+        }, 
+        {
+          "content": ") на ручье (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запру́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запрудить"
+        }, 
+        {
+          "content": "Пойдём ручейки пру́дить?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдем ручейки прудить?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

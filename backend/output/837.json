@@ -1,0 +1,162 @@
+{
+  "field_for_sorting": "внахлест", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Внахлё́ст", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "внахлест"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "внахлё́стку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "внахлестку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "способ укладки снопов на гумне при обмолоте вручную, когда вершины снопов с колосьями одного ряда накрываются вершинами снопов с колосьями противоположного ряда, и два ряда снопов обмолачиваются одновременно.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "способ размещения досок (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "тё́са", 
+          "tag": "quote", 
+          "normalized_content": "теса"
+        }, 
+        {
+          "content": ") при устройстве крыши, когда верхняя доска по всей длине частично накрывает нижнюю (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гонт", 
+          "tag": "quote", 
+          "normalized_content": "гонт"
+        }, 
+        {
+          "content": "), или когда верхняя доска (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "наще́льник", 
+          "tag": "quote", 
+          "normalized_content": "нащельник"
+        }, 
+        {
+          "content": ") частично накрывает две нижних (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "рядови́́цы", 
+          "tag": "quote", 
+          "normalized_content": "рядовицы"
+        }, 
+        {
+          "content": "), когда кроют", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́ртой", 
+          "tag": "quote", 
+          "normalized_content": "картой"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гонт", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гонт"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ка́рта", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "карта"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рядови́ца", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рядовица"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "наще́льник", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "нащельник"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тёс", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тес"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "способ укладки стройматериалов в конструкции, при котором верхнее частично перекрывает нижнее или их соединения между собой. Таким способом кладут кирпич в кладке, составные бревна в стенах срубов, доски при устройстве крыш и дощатых стен, перегородок и т. п.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "взакро́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "взакрой"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "внакро́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "внакрой"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вразбе́жку", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вразбежку"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

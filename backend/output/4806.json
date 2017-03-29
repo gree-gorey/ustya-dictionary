@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "неуедно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Неу́едно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "неуедно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "голодно, неуютно, плохо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вдале́ от до́ма неу́едно, дак домо́й вороти́ўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вдале от дома неуедно, дак домой воротиусе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

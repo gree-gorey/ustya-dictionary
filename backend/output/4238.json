@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "молоденек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моло́денёк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "молоденек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "молоде́нёк", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "молоденек"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "молодой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Молоде́нёк, да мало де́нёг!", 
+          "translation": "молод-то он молод, только беден слишком. В некоторых случаях ударение (на «", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "молоденек, да мало денег!"
+        }, 
+        {
+          "content": "Е", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "») подчёркивает, что человек «молодой» относительно, например, занимаемой должности.", 
+          "normalized_content": "е"
+        }, 
+        {
+          "content": "А не молоде́нёк-ли ты в председатели-те?", 
+          "translation": "не слишком ли ты молод для того, чтобы руководить?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а не молоденек-ли ты в председатели-те?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

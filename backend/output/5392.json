@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "паленина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Палени́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паленина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выжженный участок в лесу для посева льна.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

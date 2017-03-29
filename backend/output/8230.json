@@ -1,0 +1,108 @@
+{
+  "field_for_sorting": "хрястнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хря́стнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хрястнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хрясну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хряснуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она́шка-то как россерди́лсе и хря́снул Ана́нию по ро́же. Хря́́́сьни-ко колуно́м-то сильня́́́е по чу́рке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "онашка-то как россердилсе и хряснул ананию по роже. хрясьни-ко колуном-то сильняе по чурке."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сваливать срубленное дерево.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо это дерево туды хря́снуть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо это дерево туды хряснуть."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "хрустнуть, сломаться, лопнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "схря́стнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "схрястнуть"
+        }, 
+        {
+          "content": "Доска хря́с(т)нула", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "доска хряс(т)нула"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "схря́снула", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "схряснула"
+        }, 
+        {
+          "content": "сломалась (с треском).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хря́стать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хрястать"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

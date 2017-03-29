@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "утычью", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́тычью", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "утычью"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "у́тычьмя", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "утычьмя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстро, бегом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Испужа́лись, ак у́тычью убежали…", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "испужались, ак утычью убежали…"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лицом вниз:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "упасть у́тычью", 
+          "tag": "quote", 
+          "normalized_content": "упасть утычью"
+        }, 
+        {
+          "content": "лежать у́тычью.", 
+          "tag": "quote", 
+          "normalized_content": "лежать утычью."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

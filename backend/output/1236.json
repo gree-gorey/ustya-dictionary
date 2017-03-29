@@ -1,0 +1,106 @@
+{
+  "field_for_sorting": "выставить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́ставить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выставить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "убрать, вынуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́ставить зимние рамы на́ лето.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выставить зимние рамы на лето."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "экспресс.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") выбить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́ставить окно (дверь)", 
+          "translation": "выбить целиком.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выставить окно (дверь)"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "Вы́ставить сенокос", 
+          "translation": "закончить.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выставить сенокос"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вывихнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вы́вернуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вывернуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "подверну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подвернуть"
+        }, 
+        {
+          "content": "Не прыгай, тут высо́ко, ноги вы́ставишь! Нело́вко спры́гнул с заро́да, кажется ногу вы́вернул (подверну́л).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не прыгай, тут высоко, ноги выставишь! неловко спрыгнул с зарода, кажется ногу вывернул (подвернул)."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

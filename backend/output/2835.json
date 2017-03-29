@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "зоркнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зо́ркнуть", 
+        "place": [
+          "Подгорная"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "зоркнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вспыхнуть разом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мох на ёлке виситце, спичку чиркнёшь, дак только зо́ркнёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мох на елке виситце, спичку чиркнешь, дак только зоркнет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

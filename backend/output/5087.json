@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "окощеливаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окоще́ливаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окощеливаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собираться (произноситься с раздражением).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А ты поскорей окоще́ливайся, да поезжай!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная устьянская свадьба. М.И. Шалаурова.", 
+          "normalized_content": "а ты поскорей окощеливайся, да поезжай!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

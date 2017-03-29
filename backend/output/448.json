@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "брякаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бря́каться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "брякаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стучаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В воро́та кто-то бря́каетце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в ворота кто-то брякаетце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

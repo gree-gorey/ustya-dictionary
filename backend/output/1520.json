@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "грезь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Грезь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "грезь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гресь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гресь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грязь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Скоря́е бы снег пал, надоела гресь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоряе бы снег пал, надоела гресь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

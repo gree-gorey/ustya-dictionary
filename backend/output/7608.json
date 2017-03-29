@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "тово-тамдни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тово́-там дни́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тово-там дни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тово́дни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "товодни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в день, связанный с каким-то событием, упоминаемым в текущем разговоре.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В ле́́́с-от мы ходи́́́ли тово́́́-там дни. Тово́дни мы сено косили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в лес-от мы ходили тово-там дни. товодни мы сено косили."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "то́т-там день", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тот-там день"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

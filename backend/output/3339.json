@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "кокошник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коко́шник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кокошник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарядный женский головной убор сооружение в виде полукруглого щитка надо лбом и с тульей сзади.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

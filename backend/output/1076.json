@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вува", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ву́ва", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вува"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собака, собачка (детское название).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пей молоко, а то ву́ва съест.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пей молоко, а то вува съест."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

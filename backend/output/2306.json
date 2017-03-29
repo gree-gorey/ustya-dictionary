@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "загибанец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заги́банец", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загибанец"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заги́баник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загибаник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог с какой-либо начинкой: рыбник, капустник, губник и т. п.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

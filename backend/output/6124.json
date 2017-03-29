@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "прелой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пре́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "прелой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испаренный, упаренный, сварившийся в печи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "упре́лой", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "упрелой"
+        }, 
+        {
+          "content": "Пей пре́лое молоко. Суп упре́́́ў – мо́́́жно и́́́сь", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пей прелое молоко. суп упреу – можно ись"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гнилой из-за перегревания при хранении.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "изопре́лой", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "изопрелой"
+        }, 
+        {
+          "content": "Сенцо́́́-то пре́́́лоё, бу́́́дёт ли коро́́́ва и́́́сь ево́́́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сенцо-то прелое, будет ли корова ись ево?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

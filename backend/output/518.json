@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "быто", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бы́то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "быто"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бы́вано", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бывано"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бы́вывано", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бывывано"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бы́ванось", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "быванось"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уже кто-то побывал.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Здесь уже бы́то, все ягоды о́бобраны. Нашла такой кус черники, где не бы́вано.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "здесь уже быто, все ягоды обобраны. нашла такой кус черники, где не бывано."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

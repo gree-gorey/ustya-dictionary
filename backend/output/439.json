@@ -1,0 +1,138 @@
+{
+  "field_for_sorting": "бруснить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Брусни́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бруснить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "бруси́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "брусить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "брусну́ть", 
+        "place": [
+          "В. Березник, Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "бруснуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "срывать ягоды с веток, листья с деревьев особым способом. Рука обхватывает ветку (стебель), сжимает, идет вдоль нее, ягоды (листья) собираются в ладони (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набруси́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набрусить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набрусни́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набруснить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набрусну́ть", 
+          "tag": "form", 
+          "place": [
+            "Бестужево, Едьма", 
+            "Синики", 
+            "Строевское", 
+            "В. Березник"
+          ], 
+          "type": "inflected", 
+          "normalized_content": "набруснуть"
+        }, 
+        {
+          "content": "Брусни́ть лист", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бруснить лист"
+        }, 
+        {
+          "content": "Цюйу – зашол в овёс и давай овёс брусну́ть, йись, он не рвёт во́лоти, забирайот, а лапами брусьнё́т", 
+          "translation": "(медведь)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "цюйу – зашол в овес и давай овес бруснуть, йись, он не рвет волоти, забирайот, а лапами брусьнет"
+        }, 
+        {
+          "content": "Ну и крута, живо ягод зобеньку набруси́ла", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну и крута, живо ягод зобеньку набрусила"
+        }, 
+        {
+          "content": "Я набрусну́ла листу", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я набруснула листу"
+        }, 
+        {
+          "content": ". Обычно бруснили ивовый лист для корма скоту.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обдирать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "сбрусну́ть)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "сбруснуть)"
+        }, 
+        {
+          "content": "Кожу на ноге сбрусну́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кожу на ноге сбруснуть."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "земь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Земь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "земь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "о́земь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "оземь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "земля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ле́зай на черёмуху высоко́, а то как падёшь на́ земь!", 
+          "translation": "(ребенку).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не лезай на черемуху высоко, а то как падешь на земь!"
+        }, 
+        {
+          "content": "Офоня поскользнулсе, да как брякнулсе о́ земь. Коса не забрала, видно задел остриём о́земь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "офоня поскользнулсе, да как брякнулсе о земь. коса не забрала, видно задел острием оземь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "продых", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Про́дых", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "продых"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кратковременный отдых.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будет ли у нас когды-нибудь про́дых? Ро́бим скоко времени без про́дыху.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будет ли у нас когды-нибудь продых? робим скоко времени без продыху."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

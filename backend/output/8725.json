@@ -1,0 +1,34 @@
+{
+  "field_for_sorting": "", 
+  "header": {
+    "forms": [], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "таки́́́е и беру́́́тся", 
+          "tag": "quote", 
+          "normalized_content": "такие и берутся"
+        }, 
+        {
+          "content": "» (поговорка) в семью принимают только таких людей, которые подобны хозяевам, похожи на них самих.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Вести́сь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вестись"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom"
+}

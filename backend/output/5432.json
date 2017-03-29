@@ -1,0 +1,226 @@
+{
+  "field_for_sorting": "пасть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́сть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пасть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "па́́́сти", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пасти"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "упасть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "упа́сти", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "упасти"
+        }, 
+        {
+          "content": "Обнесло, па́ла", 
+          "translation": "покачнуло, упала.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "обнесло, пала"
+        }, 
+        {
+          "content": "Не пади́!", 
+          "translation": "смотри, не упади!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не пади!"
+        }, 
+        {
+          "content": "Дёржы́́́ся за ко́́́лышок-то, не падё́́́шь, не бо́́́йсе. Иди́́́ тихо́́́нько по жерди́́́нке-то – до́́́ўго ли упа́́́сти!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "держыся за колышок-то, не падешь, не бойсе. иди тихонько по жердинке-то – доуго ли упасти!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неожиданно наступить, внезапно начаться (о ветре, дожде и т. д.).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Такое тепло па́ло – всё роста́яло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такое тепло пало – все ростаяло."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выпасть (о снеге).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мокрый снег пал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мокрый снег пал."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "понизиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "упа́сть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "упасть"
+        }, 
+        {
+          "content": "Уровень воды сильно упал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уровень воды сильно упал."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вспомниться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запа́сть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запасть"
+        }, 
+        {
+          "content": "Пасть на ум. Запа́ло на ум.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пасть на ум. запало на ум."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "достаться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "выпасть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпасть"
+        }, 
+        {
+          "content": "Вы́пасть на долю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выпасть на долю."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "случайно обнаружить, наткнуться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напа́сть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напасть"
+        }, 
+        {
+          "content": "Напа́л на ягодное место.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "напал на ягодное место."
+        }
+      ], 
+      "n": "7"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "влиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "впасть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "впасть"
+        }, 
+        {
+          "content": "Скоро в этом мисте ручей можот впасть в ричку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "скоро в этом мисте ручей можот впасть в ричку."
+        }
+      ], 
+      "n": "8"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

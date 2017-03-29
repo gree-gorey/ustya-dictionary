@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "бывало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Быва́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бывало"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "быва́лочи", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "бывалочи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "происходило, свершалось давно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Много чево раньше быва́ло, всё не упомнишь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много чево раньше бывало, все не упомнишь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "полозовина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Полозови́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полозовина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "след от полоза саней, дровней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "После метели ходили по полозови́нам.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после метели ходили по полозовинам."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

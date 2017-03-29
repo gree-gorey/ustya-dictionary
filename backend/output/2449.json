@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "закуток", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закуто́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закуток"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "укромное местечко.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нашей бабушки есть за печкой свой закуто́к.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нашей бабушки есть за печкой свой закуток."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

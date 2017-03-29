@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "зачупа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачу́па", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачупа"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зачупа́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зачупаха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "постоянно грязный, любитель пачкаться.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "затрё́па", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "затрепа"
+        }, 
+        {
+          "content": "Где ты так са́жей-то вы́мазалсе, зачу́па!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты так сажей-то вымазалсе, зачупа!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

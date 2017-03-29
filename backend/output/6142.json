@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "привершило", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приверши́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "привершило"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хуже некуда; еще не лучше.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Лизы уж другой мужик, у Ольи масе́д, а я-то приверши́ло – увела мужика!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у лизы уж другой мужик, у ольи масед, а я-то привершило – увела мужика!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "соскочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Соскочи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "соскочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "встать, быстро подняться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как и́сь позва́ли дак бы́стро с крова́ти соскочи́ў!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как ись позвали дак быстро с кровати соскочиу!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "спрыгнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он соскочи́л с крыши в снег.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он соскочил с крыши в снег."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сорваться, слететь чему-либо с чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Двери с пе́тель могут соскочи́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двери с петель могут соскочить."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быстро возникнуть, вздуться, вскочить (шишке, чирью, волдырю, нароговице).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наро́говица-то у тебя ккая соскочи́ла на лбу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нароговица-то у тебя ккая соскочила на лбу."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "скочи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "скочить"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

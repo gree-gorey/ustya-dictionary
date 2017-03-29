@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "удобить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Удо́́́бить", 
+        "place": [
+          "Строевское"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "удобить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оборудовать, делать удобным.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Удо́бь себе место на пече́ и спи!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "удобь себе место на пече и спи!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

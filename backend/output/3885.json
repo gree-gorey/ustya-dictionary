@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "лекрут", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ле́крут", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лекрут"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "парень, достигший возраста для службы в армии, призывник.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

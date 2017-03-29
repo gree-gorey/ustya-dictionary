@@ -1,0 +1,96 @@
+{
+  "field_for_sorting": "шалыкан", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шалы́кан", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шалыкан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шилы́кан", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шилыкан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шулы́́́кан", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шулыкан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шулы́хан", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шулыхан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шылы́кун", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шылыкун"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мифический персонаж: лесной человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") безответственный человек, который где-то ходит и не предупредил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот шалы́кан бродит не зна́мо где! Ох жо, и шулы́́́кан жо ты – с утра́́́ куды́́́-то утену́́́ўсе – и ищи́́́-свищи́́́ тебя́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот шалыкан бродит не знамо где! ох жо, и шулыкан жо ты – с утра куды-то утенуусе – и ищи-свищи тебя!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неопрятно одетый, неряшливый человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

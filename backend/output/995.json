@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вприскачку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впри́скачку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вприскачку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подпрыгивая на ходу, будучи в добром настроении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я до дому впри́скачку добежала, как узнала хорошую новость.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я до дому вприскачку добежала, как узнала хорошую новость."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

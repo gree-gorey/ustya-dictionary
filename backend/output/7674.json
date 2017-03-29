@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "тот", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тот", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тот"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "указывает на определенное время, обычно применяется с союзами «за», «по».", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За то́т раз. По то́т год. По той поре. По то́т раз.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за тот раз. по тот год. по той поре. по тот раз."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

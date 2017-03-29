@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "баса", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баса", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баса"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "красота.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "басота́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "басота"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "басоты́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "басотынь"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бась", 
+          "tag": "ref", 
+          "place": [
+            "Синики"
+          ], 
+          "normalized_content": "бась"
+        }, 
+        {
+          "content": "Наводить басу́", 
+          "translation": "наводить красоту.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наводить басу"
+        }, 
+        {
+          "content": "Басоты́нь-то какая!", 
+          "translation": "(о природе).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "басотынь-то какая!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "красавица.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Баса́ ненаглядная.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "баса ненаглядная."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

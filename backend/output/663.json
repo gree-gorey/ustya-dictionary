@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вертаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Верта́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вертаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "возвращаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пошли по ягоды, но начаўсе дожь, и пришлось верта́тце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пошли по ягоды, но начаусе дожь, и пришлось вертатце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

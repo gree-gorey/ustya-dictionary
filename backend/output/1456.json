@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "гонт", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гонт", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гонт"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кровельный материал тонкие пиленые доски, нижний слой крыши, устанавливаемый поперек ската крыши, сверху по нему вдоль по скату кроют крышу", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка́ртой", 
+          "tag": "quote", 
+          "normalized_content": "картой"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

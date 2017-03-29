@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шантрапа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шантрапа́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шантрапа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сброд, проходимцы, бродяги.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вся шантрапа́ но́не у Фе́дьки собира́итце, не́кому их розгони́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вся шантрапа ноне у федьки собираитце, некому их розгонить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

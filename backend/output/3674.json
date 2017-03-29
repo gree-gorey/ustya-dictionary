@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "кругом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Круго́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кругом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вокруг.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Круго́м один лес.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кругом один лес."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "постоянно, всё время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не успе́ла встать, как круго́м все ись про́сят", 
+          "translation": "(о домашних животных).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не успела встать, как кругом все ись просят"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в среднем.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "кру́глым счё́том", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круглым счетом"
+        }, 
+        {
+          "content": "На трудодень вышло кру́глым счё́том за год по одному рублю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на трудодень вышло круглым счетом за год по одному рублю."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "в обход, в объезд.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Идите круго́м, через ГЭС, ри́чка разлила́се, не перейти́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "идите кругом, через гэс, ричка разлиласе, не перейти."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

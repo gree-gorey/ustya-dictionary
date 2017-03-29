@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дасться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Да́сться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дасться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "взбрести (на ум), втемяшиться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Как да́стьсе тибе що-нибудь в го́лову, дак никак не переубеди́шь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как дастьсе тибе що-нибудь в голову, дак никак не переубедишь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

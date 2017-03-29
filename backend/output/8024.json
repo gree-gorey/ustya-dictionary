@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ухлопать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ухло́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ухлопать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно избить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всего парня ухло́пали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всего парня ухлопали."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хло́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хлопать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

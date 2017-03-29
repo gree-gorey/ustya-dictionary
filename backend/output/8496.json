@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "шастаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́статься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шастаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ходить долгое время (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наша́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нашастаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проша́статься", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "прошастаться"
+        }, 
+        {
+          "content": "Наша́стались мы севодни а грибов не нашли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нашастались мы севодни а грибов не нашли."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

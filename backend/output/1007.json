@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вразу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вразу́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вразу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в расцвете сил.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парень-от тепере вразу́, дак на́чели дом строить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парень-от тепере вразу, дак начели дом строить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

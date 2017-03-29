@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "дренькать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дре́нькать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дренькать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тре́нькать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тренькать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "играть неумело на музыкальном инструменте бренчать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "задре́нькать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "задренькать"
+        }, 
+        {
+          "content": "Санька-то опять на балалайке не пойми что задре́нькал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "санька-то опять на балалайке не пойми что задренькал."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") болтать ерунду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит дре́нькать, всё не то несёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит дренькать, все не то несешь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

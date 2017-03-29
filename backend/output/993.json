@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "вприглядку", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впригля́дку", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вприглядку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пить чай без сахара.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вприку́ску", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вприкуску"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "внакла́дку", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "внакладку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

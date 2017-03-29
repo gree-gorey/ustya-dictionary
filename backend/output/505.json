@@ -1,0 +1,154 @@
+{
+  "field_for_sorting": "бухать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бу́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бухать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "брести, плыть по воде с шумом, бить палкой, колотить по воде, бросать в воду (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забу́хать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забухать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набу́хать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набухать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбу́хать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбухать"
+        }, 
+        {
+          "content": "однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бу́хаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бухаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забу́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забухаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пробу́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пробухаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сбу́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбухаться"
+        }, 
+        {
+          "content": "Ну́ко, не бу́хайсе порато! Набу́хали тут, и рыба не ловится. Видно рыба сбу́халась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нуко, не бухайсе порато! набухали тут, и рыба не ловится. видно рыба сбухалась."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "много набирать, наполнять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набу́хать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набухать"
+        }, 
+        {
+          "content": "Целой пестерь груздей набу́хал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целой пестерь груздей набухал."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неэкономно использовать воду (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́бухать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выбухать"
+        }, 
+        {
+          "content": "В бане мылась , дак эстоко воды вы́бухала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в бане мылась , дак эстоко воды выбухала!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

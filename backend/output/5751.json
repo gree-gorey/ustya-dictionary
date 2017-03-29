@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́день", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в один из недавних дней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́день мы пошли по грибы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подень мы пошли по грибы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

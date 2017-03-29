@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "плетуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Плету́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "плетуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая плетеная из дранки корзина с крышкой под ненужные и неиспользуемые в повседневном быту вещи, находилась в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "чула́не", 
+          "tag": "quote", 
+          "normalized_content": "чулане"
+        }, 
+        {
+          "content": "или на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "мезони́не", 
+          "tag": "quote", 
+          "normalized_content": "мезонине"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "короб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "короб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "чечуля", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чечу́ля", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чечуля"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чичу́ля", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чичуля"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "часть, кусок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отрежь-ко мне-то чичу́льку!", 
+          "translation": "маленькую часть пирога или торта.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "отрежь-ко мне-то чичульку!"
+        }, 
+        {
+          "content": "Да чичу́ля славная будёт!", 
+          "translation": "большой кусок чего-то.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да чичуля славная будет!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "замзу́ля", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "замзуля"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

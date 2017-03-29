@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "ольшина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ольши́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ольшина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дерево ольхи.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "о́́́лиха", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "олиха"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "коситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коси́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коситься"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "искоси́ться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "искоситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хмуриться, кривить лицо, смотреть недоброжелательно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що ты на меня ко́сишьсе? Козёл-от как искоси́лсе, сичас как боднё́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты на меня косишьсе? козел-от как искосилсе, сичас как боднет."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "терять форму, крениться, кривиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "накоси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "накоситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "коси́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "косить"
+        }, 
+        {
+          "content": "Копна-то що-то коси́ть начинаёт, ишь накоси́лась в эту сторону, надо подопре́ть подпо́рой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "копна-то що-то косить начинает, ишь накосилась в эту сторону, надо подопреть подпорой."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

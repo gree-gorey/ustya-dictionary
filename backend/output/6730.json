@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "саженки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сажё́нки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "саженки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плавание вольным стилем, поочередно выбрасывая вперед руки и с силой загребая воду при движении рук назад, как бы отмеряя сажени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В деревне все умели сажё́нками плавать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в деревне все умели саженками плавать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

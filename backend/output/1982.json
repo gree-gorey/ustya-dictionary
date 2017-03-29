@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "едмище", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Е́дмище", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "едмище"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́дома", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "едома"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болотистая земля, плохое угодье, а также всякая отдаленная земля. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тех сёл едмища и ловища, и пожни, и лесы", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тех сел едмища и ловища, и пожни, и лесы"
+        }, 
+        {
+          "content": "из духовной грамоты Фёдора Остафьевича Своеземцева, 1435 г.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "возвышенность, гора с лесом, лес на горе, возвышенности", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дубровская", 
+          "tag": "place"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

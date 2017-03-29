@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "сызмогать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сызмога́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сызмогать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "терпеть, переносить боль и неприятности.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хватит сызмога́ть, иди к фершали́це.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит сызмогать, иди к фершалице."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "помогать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сызмоги́ ради Бога, век не забуду!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сызмоги ради бога, век не забуду!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

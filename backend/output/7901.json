@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "умазаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ума́заться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "умазаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "умазю́каться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "умазюкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запачкаться, замараться всему человеку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нале вся умазю́калась! Умазю́́́каўсе сево́́́дни весь на ремо́́́нте.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нале вся умазюкалась! умазюкаусе севодни весь на ремонте."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

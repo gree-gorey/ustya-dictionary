@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "завитреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зави́треть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завитреть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "заве́триться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "заветриться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зави́триться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завитриться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подсохнуть, испортиться (о скоропортящихся продуктах, долго находящихся на воздухе без упаковки, в результате чего они теряют свои качества и приобретают неприятный запах).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Убери хлеб–от в мешок, а то заве́трится, потом некак ись будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "убери хлеб–от в мешок, а то заветрится, потом некак ись будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

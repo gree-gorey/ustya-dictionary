@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "вголовах", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вголова́х", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вголовах"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вго́ловы", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вголовы"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место под головой для лежания и сна.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "изголо́вье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "изголовье"
+        }, 
+        {
+          "content": "Вголова́х ни́ско, положь ищо хоть куфа́йку. Ужо, ищо чово-небудь вго́ловы надо добавить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вголовах ниско, положь ищо хоть куфайку. ужо, ищо чово-небудь вголовы надо добавить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

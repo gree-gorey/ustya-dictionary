@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "само", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Са́мо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "само"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как раз, как следует, как надо, вполне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это пальто ему са́мо в по́ру. Ты принёс са́мо то, что я хотел?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это пальто ему само в пору. ты принес само то, что я хотел?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

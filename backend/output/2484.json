@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "заманно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зама́нно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заманно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "увлекательно, интересно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Когда ягод-то много, дак зама́нно собирать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "когда ягод-то много, дак заманно собирать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

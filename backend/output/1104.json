@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "выворотень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́воротень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выворотень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водоворот, омут.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В Соденьге много вы́воротней, вон соседка утонула.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в соденьге много выворотней, вон соседка утонула."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

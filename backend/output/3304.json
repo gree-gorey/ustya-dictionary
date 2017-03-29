@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кое-ковды", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коё-ковды́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кое-ковды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кой-ковды́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кой-ковды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иногда; изредка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Покормлю да по стопке коё-ковды́ подаю да, резвой сделается!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "покормлю да по стопке кое-ковды подаю да, резвой сделается!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

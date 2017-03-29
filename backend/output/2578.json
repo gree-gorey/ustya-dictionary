@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "зараз", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зара́з", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зараз"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "за ра́з", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "за раз"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прямо сейчас, не откладывая, сию минуту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зара́з пойду разбираться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зараз пойду разбираться."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "всё сразу, вместе, одновременно, за один раз.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "на разу́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "на разу"
+        }, 
+        {
+          "content": "Сробь всё за ра́з, да и не ду́́́маётце", 
+          "translation": "сделай всё сразу, чтобы об этом не думать (", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сробь все за раз, да и не думаетце"
+        }, 
+        {
+          "content": "на разу", 
+          "tag": "quote", 
+          "normalized_content": "на разу"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

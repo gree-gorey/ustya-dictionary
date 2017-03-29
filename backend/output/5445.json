@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "пахом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пахо́м", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "пахом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непутевый человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эх, ты, пахо́м! Ведь тебе гово́рёно, как надо делать, а ты всё не слушаёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эх, ты, пахом! ведь тебе говорено, как надо делать, а ты все не слушаешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

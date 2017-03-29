@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "коево", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́ево", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коево"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "когда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́ево это было?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коево это было?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "какого, которого.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́ево дня (месяца, числа) это было?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коево дня (месяца, числа) это было?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

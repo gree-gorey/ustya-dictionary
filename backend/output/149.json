@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "баски", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ба́ски", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баски"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кружева.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На кофте-то какие ба́ски.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на кофте-то какие баски."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

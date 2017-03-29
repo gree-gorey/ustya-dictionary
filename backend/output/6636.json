@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "родилка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Роди́лка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "родилка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "родильный дом, родильное отделение больницы.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

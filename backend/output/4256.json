@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "мормыши", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мормы́ши", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мормыши"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мормыши́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мормыши"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мурмаши́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "мурмаши"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мальки рыб.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "личинки комаров, жучков или быстро снующие по воде (на мелководье, в лужах) комары, жучки, стрекозы и т. д.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "По́́́ўная ля́́́га мурмаше́́́й, развели́́́сь в тепле́́́ дак.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поуная ляга мурмашей, развелись в тепле дак."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

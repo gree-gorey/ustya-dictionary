@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "впритворе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Впритво́ре", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "впритворе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в выемках в косяках, куда входит запертая дверь, открывающееся окно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Двери не запира́ютце, лёд настыў впритво́ре.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "двери не запираютце, лед настыу впритворе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

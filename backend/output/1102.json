@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вывоздить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́воздить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вывоздить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "извози́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "извозить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно замарать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Набежа́ли с гря́зными нога́ми, весь пол вы́воздили. Где ты так всю куфа́йку извози́л?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "набежали с грязными ногами, весь пол вывоздили. где ты так всю куфайку извозил?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

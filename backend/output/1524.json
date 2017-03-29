@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "греханеобобраться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Греха́ не обобра́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "греха не обобраться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "получить массу неприятностей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Свежи́сь с им, дак греха́ не оберё́ссе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свежись с им, дак греха не оберессе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

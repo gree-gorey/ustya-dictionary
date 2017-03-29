@@ -1,0 +1,60 @@
+{
+  "field_for_sorting": "скольни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ско́ль ни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сколь ни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень, до чего, как (ни); насколько.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколь ни рабо́тен (робо́тен-то́)!", 
+          "translation": "очень трудолюбив.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь ни работен (роботен-то)!"
+        }, 
+        {
+          "content": "Сколь ни красё́н!", 
+          "translation": "до чего силен!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь ни красен!"
+        }, 
+        {
+          "content": "Вот веть сколь ни упря́́́м-от! Сколь ни вре́́́дён парнё́́́к-от, ле́́́кце пе́́́теро вы́́́ростить, цем одново́́́ ево́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот веть сколь ни упрям-от! сколь ни вреден парнек-от, лекце петеро выростить, цем одново ево."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сколь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сколь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

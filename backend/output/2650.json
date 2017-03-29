@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "затаривать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зата́ривать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "затаривать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заполнять мешки и другую тару (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "та́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "тарить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зата́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затарить"
+        }, 
+        {
+          "content": "Надо мешки та́рить. Все мешки зата́рили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо мешки тарить. все мешки затарили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

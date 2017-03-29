@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "дракуша", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Драку́ша", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дракуша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дроку́ша", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дрокуша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "драгу́ша", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "драгуша"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дрогу́ша", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "дрогуша"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "название хлеба (большой, белый).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "блюдо, приготовленное в печи из молока первого удоя после отела коровы (твердой консистенции, с виду похожее на сыр).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Садись давай к столу, чаю налью́, драгу́шей вот угощайсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись давай к столу, чаю налью, драгушей вот угощайсе!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

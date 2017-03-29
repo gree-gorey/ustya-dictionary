@@ -1,0 +1,179 @@
+{
+  "field_for_sorting": "натягать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Натяга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "натягать"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "натя́гивать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "натягивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "надевать одежду, обувь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Натяга́й эту рубаху, на работу ищо пойдё́т. Натя́гивай ка́танцы, босико́м по́ полу не ходи́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натягай эту рубаху, на работу ищо пойдет. натягивай катанцы, босиком по полу не ходи."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "стяга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стягать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "достигать, набирать вес.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бычок-от требуемого весу ещо не натя́гиваёт. Надо лучше кормить, тогды и будёт натяга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бычок-от требуемого весу ещо не натягивает. надо лучше кормить, тогды и будет натягать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "доводить до болезненного состояния, нарывать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Палец опеть натяга́ет", 
+          "translation": "болит, нарывает.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "палец опеть натягает"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "оття́гать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "оттягать"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "проникать холоду, дыму, угару.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Закрой двери, а то холод натяга́ет. Ишь сколько дыму в ызбу натяга́ло!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закрой двери, а то холод натягает. ишь сколько дыму в ызбу натягало!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "вытяга́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вытягать"
+        }, 
+        {
+          "content": ".", 
+          "tag": "quote", 
+          "normalized_content": "."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пропитываться влагой, отсыревать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не ставь песок рядом с ведром, а то будёт воду натяга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ставь песок рядом с ведром, а то будет воду натягать."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выбирать слабину.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Натяга́й вожжи-то сильняя!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "натягай вожжи-то сильняя!"
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "натаскивать с усилием одно на другое.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Будём натя́гивать обручи на бочку.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "будем натягивать обручи на бочку."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "тяну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тянуть"
+        }
+      ], 
+      "n": "7"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

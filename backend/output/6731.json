@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "сак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сак", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женский утепленный льняной куделей длинный жакет из репса или саржи с подкладкой, использовался только на выход и по праздникам. В ХХ веке стали шить из фабричной материи сак, с подкладью из кудели, вместо шугая.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Портные шили шубы, пиджаки, тулупы, са́ки и шапки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "портные шили шубы, пиджаки, тулупы, саки и шапки."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "название одной из сторон", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ба́бки", 
+          "tag": "quote", 
+          "normalized_content": "бабки"
+        }, 
+        {
+          "content": "ба́бки", 
+          "tag": "quote", 
+          "normalized_content": "бабки"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ба́бки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бабки"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

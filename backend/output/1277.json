@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "вышоркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́шоркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вышоркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "затереть, вымыть; тщательно вымыть (оттереть) добела некрашеный пол с голиком и дресвой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́шоркай вот ту полови́цину как следует. Всю избу вы́шоркала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вышоркай вот ту половицину как следует. всю избу вышоркала."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "шо́ркать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "шоркать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "дресва́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дресва"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

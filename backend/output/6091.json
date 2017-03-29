@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "потшевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́тшевать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потшевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "угощать, потчевать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запо́тшевать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запотшевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "напо́тшевать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "напотшевать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "попо́тшевать)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "попотшевать)"
+        }, 
+        {
+          "content": "Ну, це́́́м жо по́́́тшевать-то тебя́́́? Запо́тшевали меня всю. Надо гостя попо́тшёвать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, цем жо потшевать-то тебя? запотшевали меня всю. надо гостя попотшевать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "беситься", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беси́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беситься"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шалить, бегать, прыгать, вертеться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "забеси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забеситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "набеси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "набеситься"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пробеси́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пробеситься"
+        }, 
+        {
+          "content": "Хва́тит беси́ться, возьми́ кни́жку и посиди́ споко́йно хоть у́повод. Набеси́ться не можите!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит беситься, возьми книжку и посиди спокойно хоть уповод. набеситься не можите!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

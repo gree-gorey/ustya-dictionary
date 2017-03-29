@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "запонок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запоно́к", 
+        "place": [
+          "Задорье"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "запонок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водное растение кувшинка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Запонки́ в реке расцветают, а корень у них в земле под водой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "запонки в реке расцветают, а корень у них в земле под водой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,2 +1,2 @@
-# ustya-dictionary
+# Ustya dictionary
 Dictionary of Ustya dialect (Russian)

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "жахнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жа́хнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жахнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жо́хнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жохнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много или всё не жалея отдать, вложить, влить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жа́хнула муки́ в пойло́ скоту́ нежалу́хой. Все оста́тки де́нёг жо́хнуў на вино́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жахнула муки в пойло скоту нежалухой. все остатки денег жохнуу на вино."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "доведаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дове́даться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доведаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "дове́дываться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "доведываться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "узнать, разузнать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ужо пойду к нему, сама дове́даюсь, как у них там было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ужо пойду к нему, сама доведаюсь, как у них там было."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наведываться, ходить в гости", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Илатово", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Пора́то не дове́дываюсь, всё боле дома сижу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "порато не доведываюсь, все боле дома сижу."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

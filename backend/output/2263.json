@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "завернуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заверну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завернуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сверну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "свернуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "завё́ртывать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "завертывать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "довести до смерти болезнью или по другим причинам.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Надо жо как, ево в кою по́ру заверну́ло (сверну́ло)! Много мужиков от вина заверну́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "надо жо как, ево в кою пору завернуло (свернуло)! много мужиков от вина завернуло."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "чураться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чура́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чураться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сторониться, не общаться (изначально находиться поближе к покровителю рода", 
+          "tag": "def"
+        }, 
+        {
+          "content": "чу́ру", 
+          "tag": "quote", 
+          "normalized_content": "чуру"
+        }, 
+        {
+          "content": "», к границе охраняемой им территории, подальше от остальных) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зачура́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зачураться"
+        }, 
+        {
+          "content": "Чево чура́ёшьсе?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево чураешьсе?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

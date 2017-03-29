@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "ситеуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ситеу́ха", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "ситеуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большая корзина, зобенька.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грибов-то ситеу́ху насобира́ла, еле домой припё́рла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грибов-то ситеуху насобирала, еле домой приперла."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

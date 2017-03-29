@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "по-новой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По-но́вой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "по-новой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снова.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бабка видно забы́ла, опеть по-но́вой начала́ роска́зывать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бабка видно забыла, опеть по-новой начала росказывать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

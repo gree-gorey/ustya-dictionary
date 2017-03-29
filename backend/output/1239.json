@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "выстегнутой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́стегнутой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выстегнутой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выбитой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зубы вы́стегнутые надо вставлеть. Кто бы вы́стегнутые стёкла вставил?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зубы выстегнутые надо вставлеть. кто бы выстегнутые стекла вставил?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вывихнутый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В больнице вы́стёгнутую из плеча руку на место вставили.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в больнице выстегнутую из плеча руку на место вставили."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "очутившийся в состоянии беспамятства, обморока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не раз уж бывала вы́стегнутая из ума.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не раз уж бывала выстегнутая из ума."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

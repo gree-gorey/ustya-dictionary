@@ -1,0 +1,67 @@
+{
+  "field_for_sorting": "завизнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зави́знуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "завизнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "завизну́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завизнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "завизе́нить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "завизенить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "забросить, зашвырнуть, запустить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зави́зни-ко шарик вон в ту дырку. Не маши́́́́сь-ко па́́́́вкой-то", 
+          "translation": "(палкой)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "завизни-ко шарик вон в ту дырку. не машись-ко павкой-то"
+        }, 
+        {
+          "content": ", а то завизну́́ на крышу, дак поповза́й пото́м. Шарик вон куды завизе́нил.", 
+          "tag": "quote", 
+          "normalized_content": ", а то завизну на крышу, дак поповзай потом. шарик вон куды завизенил."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ви́знуть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "визнуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

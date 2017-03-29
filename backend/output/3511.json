@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "косиковатые(поля)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Косикова́тые (поля)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "косиковатые (поля)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неудобные для обработки поля, с неровностями и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "косика́ми", 
+          "tag": "quote", 
+          "normalized_content": "косиками"
+        }, 
+        {
+          "content": "На Высо́кой-то все поля косикова́тые ко́нями паха́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на высокой-то все поля косиковатые конями пахали."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коси́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "косик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

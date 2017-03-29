@@ -1,0 +1,36 @@
+{
+  "field_for_sorting": "защовнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Защо́внуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "защовнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрыть", 
+          "tag": "def"
+        }, 
+        {
+          "content": "защо́вку", 
+          "tag": "quote", 
+          "normalized_content": "защовку"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

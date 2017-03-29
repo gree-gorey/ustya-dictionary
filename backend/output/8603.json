@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "шшас", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шша́с", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шшас"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как бы не так, сейчас (в значении отрицания), не будет так.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шша́с, пустим мы тибя с ими! Шшас, розбежа́лись делать это!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшас, пустим мы тибя с ими! шшас, розбежались делать это!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сейчас, быстро, сию минуту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В магазин я шша́с сбегаю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в магазин я шшас сбегаю."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

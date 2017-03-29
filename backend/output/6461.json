@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "разеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Разе́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "разеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "розе́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "розеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рози́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "розить"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "разева́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "разевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "от удивления широко открыть рот или раскрыть глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "От удивления все глаза разе́ли. Що рот-от розеў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "от удивления все глаза разели. що рот-от розеу?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болтать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Им бы только рот рози́ть, да похохота́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "им бы только рот розить, да похохотать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кромко кричать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що опеть пасть-то розе́ла, закрой, а то ворона залети́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що опеть пасть-то розела, закрой, а то ворона залетит!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

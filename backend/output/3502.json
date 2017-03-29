@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "корюх", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́рюх", 
+        "place": [
+          "Ростово"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "корюх"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "небольшая донная рыба, живущая в песке, бычок-подкаменщик.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "пара́ха", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "параха"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "полежа́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полежай"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

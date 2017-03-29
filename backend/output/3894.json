@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "лесина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Леси́́́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лесина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "необработанное бревно, хлыст.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

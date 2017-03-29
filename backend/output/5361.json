@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ощупя", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́́́щупя", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ощупя"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в полной темноте, без света, ничего не видя, на ощупь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оболока́́лсе и выходил из бани о́щупя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оболокалсе и выходил из бани ощупя."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

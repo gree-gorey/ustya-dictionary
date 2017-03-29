@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "намаеться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нама́еться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "намаеться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "нама́яться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "намаяться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "намучиться, очень устать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так нама́́́ёссе за́́́ день, шщо, кажы́́́сь, легла́́́ бы и не фста́́́ла ниди́́́лю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так намаессе за день, шщо, кажысь, легла бы и не фстала нидилю."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ма́еться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "маеться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

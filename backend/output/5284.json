@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "отпираться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Отпира́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "отпираться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отказываться от своих слов, не сознаваться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Царевич Иван от жони́тьбы отпира́ется", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой рожок». М.И. Шалаурова.", 
+          "normalized_content": "царевич иван от жонитьбы отпирается"
+        }, 
+        {
+          "content": "Ему ни в чём не вирь, он от своих слов всегда отопрё́тсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему ни в чем не вирь, он от своих слов всегда отопретсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

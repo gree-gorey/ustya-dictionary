@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "кошевки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коше́вки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кошевки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́шевни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошевни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кошё́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошевка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кошо́вки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошовки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарядные глубокие конные сани с высоким задком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На ко́шевнях свататься поехали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на кошевнях свататься поехали."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "шалаш на плоту при сплаве, в котором хранят продукты", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ивашевская", 
+          "tag": "place"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коробки́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коробки"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

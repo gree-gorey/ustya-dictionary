@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сметанник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Смета́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сметанник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пирог со сметаной.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Смета́́́нники-те уда́́́цьны у мня сево́́́дни, в са́́́мой ра́́́с.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сметанники-те удацьны у мня севодни, в самой рас."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

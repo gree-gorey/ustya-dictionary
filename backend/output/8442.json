@@ -1,0 +1,87 @@
+{
+  "field_for_sorting": "чучкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́́́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чучкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "есть, оставляя следы от еды (как правило о животных) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зачу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зачучкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "исчу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "исчучкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "начу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "начучкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "почу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "почучкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "счу́чкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "счучкать"
+        }, 
+        {
+          "content": "). Так, например, свинья ест с характерным звуком, чавканьем.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сви́шка весь краси́к зачу́чкала. Поросёнок почу́чкал, почу́чкал немного, да и боле исть не стал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свишка весь красик зачучкала. поросенок почучкал, почучкал немного, да и боле исть не стал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

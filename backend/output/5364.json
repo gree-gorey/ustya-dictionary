@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "паволока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Па́волока", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "паволока"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поволо́ка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поволока"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "след на земле или на снегу от чего-то перенесенного или протащенного волоком.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кто-то сено со скотнево двора таска́л, оста́влена поволо́ка до деревни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кто-то сено со скотнево двора таскал, оставлена поволока до деревни."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

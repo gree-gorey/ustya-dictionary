@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "подворье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подво́рье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подворье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "земельный участок, на котором располагался жилой дом и хозяйственные постройки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подво́́́рьё-то у нас большо́́́е, бога́́́тоё бы́́́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подворье-то у нас большое, богатое было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

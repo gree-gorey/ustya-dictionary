@@ -1,0 +1,88 @@
+{
+  "field_for_sorting": "засветить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Засвети́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "засветить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "засвити́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "засвитить"
+      }
+    ], 
+    "style": [
+      "экспресс."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ударить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он засвети́л ему вчера́сь и синя́́́к-от под гла́́́зом посади́́́ў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он засветил ему вчерась и синяк-от под глазом посадиу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "бросить, кинуть чем-нибудь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот ведь ерети́́́к-от – засвети́́́ў ка́́́мнем в око́́́шко, фсе стё́́́кла вы́́́стегнуў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот ведь еретик-от – засветиу камнем в окошко, фсе стекла выстегнуу."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "зажечь, добыть свет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тёмнаитце, надо лампу засвити́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "темнаитце, надо лампу засвитить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "свити́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "свитить"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

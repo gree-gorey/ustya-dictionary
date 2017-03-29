@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лыжница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лы́жница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лыжница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лыжня.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зимой мы старались содержать лы́жницу, чтобы ходить в школу на лыжах за шесть километров.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зимой мы старались содержать лыжницу, чтобы ходить в школу на лыжах за шесть километров."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

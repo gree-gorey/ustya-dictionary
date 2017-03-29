@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "сбирать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сбира́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сбирать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "збира́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "збирать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "собирать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насбира́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насбирать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "осбира́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "осбирать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посбира́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посбирать"
+        }, 
+        {
+          "style": [], 
+          "ana": "многокр.", 
+          "content": "сби́рывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "сбирывать"
+        }, 
+        {
+          "content": "Пойдё́́́м-ко по ру́́́цьям кисли́́́цу збира́́́ть, пока́́́ не вы́́́поўзано. Надо полную зобеньку черници насбира́ть, тогды и домой можно итти. Иди-ко посбира́й черёмуху, пока не опа́ла. Сби́рывала и я ягод по э́стоко, когда была молода́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойдем-ко по руцьям кислицу збирать, пока не выпоузано. надо полную зобеньку черници насбирать, тогды и домой можно итти. иди-ко посбирай черемуху, пока не опала. сбирывала и я ягод по эстоко, когда была молода."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "брать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "брать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,102 @@
+{
+  "field_for_sorting": "справный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спра́вный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "справный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хороший, качественный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спра́вный овёс нынче уроди́лсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "справный овес нынче уродилсе."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обладающий навыками.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он спра́вный мётальщик.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он справный метальщик."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "видный, статный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спра́вный парень ростёт у Луке́рьи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "справный парень ростет у лукерьи."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "полный, упитанный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спра́вный поросёночек.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "справный поросеночек."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "зажиточный, богатый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Спра́вный хозяин.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "справный хозяин."
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

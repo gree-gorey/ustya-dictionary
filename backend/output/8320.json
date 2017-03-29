@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "черепага", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Черепа́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "черепага"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "черепа́жка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "черепажка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "черепе́нька", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "черепенька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "глиняная посудина.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

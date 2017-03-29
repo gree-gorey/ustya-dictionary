@@ -1,0 +1,115 @@
+{
+  "field_for_sorting": "выноснойконь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выносно́й конь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выносной конь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "третья лошадь, работающая в экипаже жнейки", 
+          "tag": "def"
+        }, 
+        {
+          "content": "на вы́носе", 
+          "tag": "quote", 
+          "normalized_content": "на выносе"
+        }, 
+        {
+          "content": "Ее идущие от хомута", 
+          "tag": "def"
+        }, 
+        {
+          "content": "постро́мки", 
+          "tag": "quote", 
+          "normalized_content": "постромки"
+        }, 
+        {
+          "content": "свободными концами прикрепляются к", 
+          "tag": "def"
+        }, 
+        {
+          "content": "за́пряжням", 
+          "tag": "quote", 
+          "normalized_content": "запряжням"
+        }, 
+        {
+          "content": "коренного коня, впряженного в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ды́шло", 
+          "tag": "quote", 
+          "normalized_content": "дышло"
+        }, 
+        {
+          "content": "жнейки. Эта лошадь шла впереди коренного коня, помогая тащить жнейку. Управлялась подростком, сидящим на ней верхом.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "жне́йка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "жнейка"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "хому́т", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хомут"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "постро́мки", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "постромки"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "за́пряжень", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "запряжень"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "коренно́й конь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коренной конь"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ды́шло", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "дышло"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

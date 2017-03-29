@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "беспробуду", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Беспробу́ду", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "беспробуду"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "долго спать, не просыпаясь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Так устал, что спал полсуток беспробу́ду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "так устал, что спал полсуток беспробуду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

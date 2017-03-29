@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мармазелька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мармазе́лька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мармазелька"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "красивая, видная девушка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Авдотья мармазе́лька идёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "авдотья мармазелька идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

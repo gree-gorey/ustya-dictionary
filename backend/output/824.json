@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "владать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Влада́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "владать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "владе́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "владеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "иметь в собственности (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завладе́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завладеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "повладе́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повладеть"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "уметь управлять, использовать, работать ( и", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "влада́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "владать"
+        }, 
+        {
+          "content": "Он влада́ёт мотоциклом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он владает мотоциклом."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быть здоровым, способным действовать (об органах и теле человека) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завлада́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завладать"
+        }, 
+        {
+          "content": "Оправился от болезни и завлада́л рукой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оправился от болезни и завладал рукой."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "шмотье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шмотьё́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шмотье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "старая, поношенная, рваная одежда.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На по́дволоке два сундука шмотья́. Это шмотьё́ тепере никому не нужно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на подволоке два сундука шмотья. это шмотье тепере никому не нужно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

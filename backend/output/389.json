@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "боты", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бо́ты", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "боты"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "женские резиновые полусапожки, которые надевались на туфли для защиты от грязи; (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") обувь типа ботинок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бо́ты надо беречь, севодня тепло на улице, и босиком побе́гаёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "боты надо беречь, севодня тепло на улице, и босиком побегаешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

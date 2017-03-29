@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "кавкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́вкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кавкать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ка́́́ўкать", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "каукать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́вчить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ковчить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кау́чить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "каучить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мяукать ( вместо «мяу» наши предки говорили «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ка ́́́ў", 
+          "tag": "quote", 
+          "normalized_content": "ка у"
+        }, 
+        {
+          "content": "», обозначая мяуканье кошек", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зака́вкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закавкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закау́чить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закаучить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пока́ўкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "покаукать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "ска́ўкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "скаукать"
+        }, 
+        {
+          "content": "Кошка за дверями ка́вкает, надо впустить в избу. Ну́́́-ко, не ка́́́ўкай, не ка́́́ўкай, бо́́́ле не полу́́́цишь молока́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошка за дверями кавкает, надо впустить в избу. ну-ко, не каукай, не каукай, боле не полуцишь молока."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

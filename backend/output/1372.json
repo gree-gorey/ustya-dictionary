@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "глызовато", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глызова́то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глызовато"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "комковато.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Грезь застыла, дак на дороге глызова́то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "грезь застыла, дак на дороге глызовато."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

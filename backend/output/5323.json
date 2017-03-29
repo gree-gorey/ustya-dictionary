@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "охже!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "О́х же!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ох же!"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ну́ же ведь!", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ну же ведь!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крайнее осуждение (такое, что и слов нет).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

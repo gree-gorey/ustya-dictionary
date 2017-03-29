@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "закухтало", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заку́хтало", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закухтало"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заснежило.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заку́хтало, пусть оду́нёт", 
+          "translation": "(потом дальше пойдем)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "закухтало, пусть одунет"
+        }, 
+        {
+          "content": "охотники решили переждать снег.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

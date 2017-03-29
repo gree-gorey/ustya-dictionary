@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гденато", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Где́ на то", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "где на то"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "как хорошо; гораздо лучше.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где́ на то в бане с веником попариться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где на то в бане с веником попариться!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

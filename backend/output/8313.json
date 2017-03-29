@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "червленить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Червлени́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "червленить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "окрашивать червленою краскою.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "червлене́ц", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "червленец"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "червле́ный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "червленый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

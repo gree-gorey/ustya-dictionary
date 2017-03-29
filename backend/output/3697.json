@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крылец", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крыле́ц", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крылец"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крыльцо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Крыле́́́ц-то коль ни высо́́́к вы́́́делан, как и подыма́́́цце, но́́́ги-то уж не слу́́́жат ро́́́ду", 
+          "translation": "(совсем).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "крылец-то коль ни высок выделан, как и подымацце, ноги-то уж не служат роду"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

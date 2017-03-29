@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "загненой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Загнё́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "загненой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "загнё́нный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "загненный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загнутый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У чу́нок головки загнё́ные.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у чунок головки загненые."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

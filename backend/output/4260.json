@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "морок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мо́рок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "морок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пасмурная дождливая погода, туман; мелкий, моросящий дождь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Целой день идёт такой морок. Заморочи́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "целой день идет такой морок. заморочило."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

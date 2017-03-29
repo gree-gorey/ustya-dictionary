@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "швейка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шве́йка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "швейка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приспособление для ручного шитья. Изготовлялась аналогично", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пре́снице", 
+          "tag": "quote", 
+          "normalized_content": "преснице"
+        }, 
+        {
+          "content": "(прялке). Состояла из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гу́зна", 
+          "tag": "quote", 
+          "normalized_content": "гузна"
+        }, 
+        {
+          "content": ", на которое садились при работе со швейкой, и перпендикулярной к гузну стойке называемой", 
+          "tag": "def"
+        }, 
+        {
+          "content": "копы́л", 
+          "tag": "quote", 
+          "normalized_content": "копыл"
+        }, 
+        {
+          "content": ", на которой на уровне плеч человека прикреплялся небольшой ремешок с металлическим острым крючком держателем ткани при шитье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Садись за шве́йку и учись рукави́цы шить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "садись за швейку и учись рукавицы шить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "околачиваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окола́чиваться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "околачиваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слоняться без дела в одном месте.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нечево тут без дела окола́чиватьсе!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево тут без дела околачиватьсе!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

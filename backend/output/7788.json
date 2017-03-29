@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "тюрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тю́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тюрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "писать в штаны, на постель (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натю́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натюрить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "обтю́риться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обтюриться"
+        }, 
+        {
+          "content": "То́лько переболокла́ п́арня, а он опе́ть натю́риў в щаны́. Не знаю, що экоё случилось с внуком, севодня обтю́рилсе ночью.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "только переболокла парня, а он опеть натюриу в щаны. не знаю, що экое случилось с внуком, севодня обтюрилсе ночью."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

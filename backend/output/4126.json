@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "матереть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Матере́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "матереть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полнеть, раздаваться в плечах, становиться крепким, сильным (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заматере́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заматереть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разматере́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разматереть"
+        }, 
+        {
+          "content": "О́ська-то матере́ть начал. Си́дор-то вон как разматере́л, уже совсем мужиком становитсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "оська-то матереть начал. сидор-то вон как разматерел, уже совсем мужиком становитсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

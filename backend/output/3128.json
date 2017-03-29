@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "кальга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ка́льга", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кальга"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кальга", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кальга"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "калья́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "калья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колея.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вы́плесни ведро в ка́льгу", 
+          "translation": "раньше помои выливали на дорогу.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "выплесни ведро в кальгу"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

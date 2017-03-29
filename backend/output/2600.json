@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зарушать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зару́шать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зарушать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заре́зать (скотину).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Поросёнка третьё́водни зару́шали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросенка третьеводни зарушали."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ру́шать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "рушать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

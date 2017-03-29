@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "зоб", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зоб", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зоб"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нагруженный грибами или ягодами, выпирающий наружу верх пестеря.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Видела, как ты пестерь-то пё́рла, экой зоб набо́нькала! Сколько зобе́нечек-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "видела, как ты пестерь-то перла, экой зоб набонькала! сколько зобенечек-то?"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "горб", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "горб"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

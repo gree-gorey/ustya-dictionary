@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "наметывальщик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Намё́тывальщик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наметывальщик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "намё́тывальщица", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "наметывальщица"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работник, занятый погрузкой на транспортное средство грубых и сочных кормов, навоза и т. п. вручную.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "мета́льщик", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "метальщик"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

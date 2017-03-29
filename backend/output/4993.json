@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "обыдень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обы́день", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обыдень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "овы́день", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "овыдень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в один день.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вовы́день", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вовыдень"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

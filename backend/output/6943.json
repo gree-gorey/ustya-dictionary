@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "скакатьнадоске", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скака́́ть на доске́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скакать на доске"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прыгать вдвоем поочередно, стоя на обоих концах доски, положенной на бревно (деревенская игра) (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "перескака́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "перескакать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наскака́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наскакаться"
+        }, 
+        {
+          "content": "Давай на доске скака́ть, кто ково перескачет. Я тябя перескака́ла!", 
+          "translation": "удержалась на доске.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай на доске скакать, кто ково перескачет. я тябя перескакала!"
+        }, 
+        {
+          "content": "Хватит давай скака́ть-то, наскака́тьсе не можоте!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит давай скакать-то, наскакатьсе не можоте!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

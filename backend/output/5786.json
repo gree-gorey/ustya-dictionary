@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "подначить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подна́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подначить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подтрунивать, дразнить, выводить из себя (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подна́чивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подначивать"
+        }, 
+        {
+          "content": "Найдутся люди, будут всё время подна́чивать, а ты переживай да страдай.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "найдутся люди, будут все время подначивать, а ты переживай да страдай."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

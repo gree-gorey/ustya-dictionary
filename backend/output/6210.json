@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "припетать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Припе́тать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "припетать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "притащить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На каку́ бо́лесь эту дуру", 
+          "translation": "(большую штуковину)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на каку болесь эту дуру"
+        }, 
+        {
+          "content": "припе́тал?", 
+          "tag": "quote", 
+          "normalized_content": "припетал?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пе́тать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "петать"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

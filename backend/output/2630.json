@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "застать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заста́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "застать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запереть в хлев скот (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "застава́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заставать"
+        }, 
+        {
+          "content": "Заста́ла корову", 
+          "translation": "пригнала в хлев корову.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "застала корову"
+        }, 
+        {
+          "content": "Корова мычи́т у заво́ра, надо идти застава́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "корова мычит у завора, надо идти заставать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

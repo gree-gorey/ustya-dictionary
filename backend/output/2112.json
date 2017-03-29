@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "жеманиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жема́ниться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жеманиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "манерничать, чваниться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зажема́ниться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зажеманиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изжема́ниться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изжеманиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пожема́ниться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пожеманиться"
+        }, 
+        {
+          "content": "Деушка-та вся уж изжема́нилась, как будто нихто́ ие́ не знаёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "деушка-та вся уж изжеманилась, как будто нихто ие не знает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

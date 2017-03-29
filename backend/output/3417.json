@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "коновод", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коново́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коновод"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "конево́д", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коневод"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "должностное лицо в колхозе, ответственное за разведение и использование лошадей.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

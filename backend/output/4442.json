@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "наезжий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Нае́зжий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наезжий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приезжающий от случая к случаю не местный человек.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

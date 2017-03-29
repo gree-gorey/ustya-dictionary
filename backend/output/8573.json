@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "шоферить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шофери́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шоферить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "работать шофёром (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "отшофери́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "отшоферить"
+        }, 
+        {
+          "content": "Я в лесопункте 20 лет шофери́л на вывозке леса.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я в лесопункте 20 лет шоферил на вывозке леса."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

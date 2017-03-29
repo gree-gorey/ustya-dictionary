@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "закочутываться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закочу́тываться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "закочутываться"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "кочу́таться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "кочутаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "укутываться в одежду, одеяло.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́дак закочу́таласе, одне глаза видко, как кулё́ма.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эдак закочуталасе, одне глаза видко, как кулема."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

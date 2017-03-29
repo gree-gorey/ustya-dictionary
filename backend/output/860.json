@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "водычина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Воды́чина", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "водычина"
+      }
+    ], 
+    "style": [
+      "прост."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "малое количество, капля воды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В избе́ воды́́́чины нету, а оне́ сидя́т и дожида́́ютце, хто бы принё́с!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в избе водычины нету, а оне сидят и дожидаютце, хто бы принес!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "воды́чка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "водычка"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

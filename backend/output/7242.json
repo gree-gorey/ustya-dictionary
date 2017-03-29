@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "спорной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спо́рной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спорной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "деловой, работящий, работающий «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "спо́́́ро", 
+          "tag": "quote", 
+          "normalized_content": "споро"
+        }, 
+        {
+          "content": "сноровисто, быстро, хватко, успешно. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А Катеньке в дом принять парня бравого, скромного, работника спо́рного, да удалого", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а катеньке в дом принять парня бравого, скромного, работника спорного, да удалого"
+        }, 
+        {
+          "content": "Бабья гора. М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

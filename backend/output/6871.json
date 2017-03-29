@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "семихвостка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Семихво́стка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "семихвостка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вица с боковыми ветками, «имеющая семь хвостов». Служит для устрашения и наказания за серьезные проступки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "бумажник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бума́жник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бумажник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "предметы одежды из", 
+          "tag": "def"
+        }, 
+        {
+          "content": "бума́жной ткани", 
+          "tag": "quote", 
+          "normalized_content": "бумажной ткани"
+        }, 
+        {
+          "content": "гума́ги", 
+          "tag": "quote", 
+          "normalized_content": "гумаги"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "бума́жная ткань", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "бумажная ткань"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

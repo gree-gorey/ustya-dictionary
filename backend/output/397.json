@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "боягузоватый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боягузова́тый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "боягузоватый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "трусливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он боягузова́т больно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он боягузоват больно."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "боягу́з", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "боягуз"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

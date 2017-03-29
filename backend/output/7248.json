@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "справно", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спра́вно", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "справно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "умело, аккуратно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она справно научилась ткать на кроснах.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она справно научилась ткать на кроснах."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "добросовестно, так как надо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он справно чинит сбрую.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он справно чинит сбрую."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

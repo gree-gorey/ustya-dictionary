@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "постылой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посты́лой", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "постылой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "посты́лый", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "постылый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немилый, нелюбимый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мой посты́лый муж на скамье сидит. Он шё́лкову плеть во рука́х держи́т. Меня мо́лоду хочет уму-ра́зуму учить", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Старинная песня. М.И. Шалаурова.", 
+          "normalized_content": "мой постылый муж на скамье сидит. он шелкову плеть во руках держит. меня молоду хочет уму-разуму учить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "исполстить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Испо́лстить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "исполстить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "испо́ўстить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "испоустить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "израсходовать пряжу, нитки без пользы, ради игры, баловства.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо подавать в игрушки робёнку клубки ниток, он их испо́ўстиў, и нитки тепе́ре некуды́ не го́жи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо подавать в игрушки робенку клубки ниток, он их испоустиу, и нитки тепере некуды не гожи."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "по́лстить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полстить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

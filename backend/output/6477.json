@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "перемовиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Перемо́виться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "перемовиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "немного поговорить, перекинуться словами.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё один да один, не с кем словом перемо́витьсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все один да один, не с кем словом перемовитьсе."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "мо́вить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мовить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "размо́виться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "размовиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

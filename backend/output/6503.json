@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "раннеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ра́ннеть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "раннеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "рани́на", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ранина"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "раньё́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ранье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "рань, раннее утреннее время.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́ннеть э́кая! Куды́́́ вста́́́ў-то, в ранне́́́ть-то э́́́кую! Косили по росе́ с ра́ннего ранья́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "раннеть экая! куды встау-то, в раннеть-то экую! косили по росе с раннего ранья."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

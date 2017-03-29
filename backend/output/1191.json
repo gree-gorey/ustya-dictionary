@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "выписной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Выписно́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "выписной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "выписна́я", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "выписная"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приглашенный путем переписки и принятый в семью в качестве мужа, жены.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У Настасьи быў мужик выписно́й, токо не доўго пожиў, убежаў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у настасьи быу мужик выписной, токо не доуго пожиу, убежау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

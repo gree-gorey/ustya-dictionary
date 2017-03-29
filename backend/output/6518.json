@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "распатрушить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Распа́трушить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "распатрушить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "роспа́трушить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "роспатрушить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "роспатро́нить", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "роспатронить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "разобрать, разбить, разорвать что-либо на части.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

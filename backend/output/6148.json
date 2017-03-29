@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "приводиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приводи́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приводиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "привести́сь", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "привестись"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "появляться, оказываться где-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Хорошо вот он тут как раз привё́лсе, дак сразу и потушил огонь...", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хорошо вот он тут как раз привелсе, дак сразу и потушил огонь..."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "оказываться вынужденным делать что-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все одной приво́дится делать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все одной приводится делать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "быть в родстве.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да она мне снохо́й приво́дитсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да она мне снохой приводитсе."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "пользоваться тем, что есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот ещё раз будёшь пристава́ть, дак чем приведё́тся, тем и наверну́! Угости́ла чем привело́сь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот еще раз будешь приставать, дак чем приведется, тем и наверну! угостила чем привелось."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "заняться(огню)", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Заня́ться (огню́)", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заняться (огню)"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "загореться; разгореться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Туши траву, пока дом на заня́все!", 
+          "translation": "не загорелся.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "туши траву, пока дом на занявсе!"
+        }, 
+        {
+          "content": "Ковды уж дрова займу́тце? Всю лучину перевела́", 
+          "translation": "(разжигают дрова в печи, а они никак не разгораются в полную силу).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ковды уж дрова займутце? всю лучину перевела"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

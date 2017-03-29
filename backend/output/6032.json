@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "посеред", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Посерё́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "посеред"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "посере́дь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "посередь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "посреди, в середине.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Заморозки посерё́д лета бывают редко. Явился домой посере́дь ночи.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заморозки посеред лета бывают редко. явился домой посередь ночи."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

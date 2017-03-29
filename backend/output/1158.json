@@ -1,0 +1,124 @@
+{
+  "field_for_sorting": "вылежать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вы́лежать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вылежать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "вы́лежаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "вылежаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "вылё́живать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вылеживать"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "вылё́живаться", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "вылеживаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "пролежать до определенного времени, например, дождавшись конца работы, и уж затем присоединиться ко всем, когда работа уже была сделана.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь-то день-то бездельник вы́лежал!", 
+          "translation": "(осуждение).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь-то день-то бездельник вылежал!"
+        }, 
+        {
+          "content": "Нечего вылё́живать, иди робь, только бы вылё́живаться!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечего вылеживать, иди робь, только бы вылеживаться!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "достигнуть степени готовности при превращении", 
+          "tag": "def"
+        }, 
+        {
+          "content": "льносоло́мки", 
+          "tag": "quote", 
+          "normalized_content": "льносоломки"
+        }, 
+        {
+          "content": "(стеблей льна) в", 
+          "tag": "def"
+        }, 
+        {
+          "content": "тресту́", 
+          "tag": "quote", 
+          "normalized_content": "тресту"
+        }, 
+        {
+          "content": "во время нахождения на", 
+          "tag": "def"
+        }, 
+        {
+          "content": "стли́ще", 
+          "tag": "quote", 
+          "normalized_content": "стлище"
+        }, 
+        {
+          "content": "Лён вы́лежался, пора снимать со стли́ща.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лен вылежался, пора снимать со стлища."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "треста", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "треста"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "стли́ще", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "стлище"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

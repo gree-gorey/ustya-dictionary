@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "щиловка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щи́ловка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щиловка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "шшило́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "шшиловка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мелкая рыбешка, малек (меньше ме́евы).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Щи́́́ловок-то ско́́́ко у бе́́́рега, на со́́́внышке гри́́́ютце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "щиловок-то скоко у берега, на совнышке гриютце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

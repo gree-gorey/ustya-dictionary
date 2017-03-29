@@ -1,0 +1,138 @@
+{
+  "field_for_sorting": "тряско", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тряско́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тряско"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "треско́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "треско"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясу́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тресу́́́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тресун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясоголо́вик", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясоголовик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясоголо́вой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясоголовой"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "трясу́нья", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "трясунья"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "неугомонный, везде сующийся человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Треско́, опеть стакан розбил!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "треско, опеть стакан розбил!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "нетерпеливый человек. Слово происходит от «трестись» трястись. Имеется в виду, что его трясет от нетерпения.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот треско́, не можот до за́втрева дожда́тце!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот треско, не можот до завтрева дождатце!"
+        }, 
+        {
+          "content": "или", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Нете́рпицце ёму, вот где треско́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нетерпицце ему, вот где треско-то!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лентяй, бездельник; невнимательный, безответственный человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Та́́́кой уш трясоголо́́́вой вну́́́к-от ростё́́́т, хоть ко́́́ў на голове́́́ тёши́́́, а он и не ту́́́ркаёт!", 
+          "translation": "не думает, не реагирует.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "такой уш трясоголовой внук-от ростет, хоть коу на голове теши, а он и не туркает!"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "жмот, скупердяй.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

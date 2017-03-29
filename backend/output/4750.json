@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "нелюбо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Не́любо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "нелюбо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недоброжелательно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что так не́любо на меня смотришь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что так нелюбо на меня смотришь?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "не по нраву.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "То-то не́любо!", 
+          "translation": "не нравится, когда попрекают.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "то-то нелюбо!"
+        }, 
+        {
+          "content": "Не́́́любо, ковды́́́ пра́́́вду-ту говоря́́́т!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нелюбо, ковды правду-ту говорят!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

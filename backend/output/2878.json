@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ивняк", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ивня́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ивняк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заросли ивы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В ричке но́не все берега́ заросли ивняко́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в ричке ноне все берега заросли ивняком."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

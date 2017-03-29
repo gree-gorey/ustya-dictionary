@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "износиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Износи́ться", 
+        "place": [
+          "Кузоверская"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "износиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "исчезнуть, сойти на нет.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Износи́лась деревня, на том месте нет ничего.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "износилась деревня, на том месте нет ничего."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "вы́куриться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выкуриться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

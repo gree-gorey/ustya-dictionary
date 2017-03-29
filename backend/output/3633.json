@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "крек", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крёк", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кряк", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кряк"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "лягушачья икра.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весной лягушки га́кают, крёк выпускают в воду.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весной лягушки гакают, крек выпускают в воду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

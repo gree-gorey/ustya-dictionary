@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "баловливый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Баловли́вый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "баловливый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "баловли́вой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "баловливой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шаловливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Все робята у их баловли́вые ростут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все робята у их баловливые ростут."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "гулящий, ведущий дурной образ жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мужик-от баловли́вой, не прозева́ёт и на сторону сбегать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мужик-от баловливой, не прозевает и на сторону сбегать."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

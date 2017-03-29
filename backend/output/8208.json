@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "хромыгать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хромыга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хромыгать"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хромыля́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хромылять"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "хомыля́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "хомылять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "передвигаться, хромая на одну или обе ноги, ковылять.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

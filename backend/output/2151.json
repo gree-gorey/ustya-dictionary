@@ -1,0 +1,129 @@
+{
+  "field_for_sorting": "животник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Живо́тник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "животник"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "живо́т", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "живот"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "живота́н", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "variant", 
+        "normalized_content": "животан"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "до́мник", 
+        "place": [
+          "Бестужево"
+        ], 
+        "type": "variant", 
+        "normalized_content": "домник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мужчина, женившийся на женщине и поселившийся жить в ее доме; тот, кто ушел «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "в животы", 
+          "tag": "quote", 
+          "normalized_content": "в животы"
+        }, 
+        {
+          "content": "́», живет «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "в живота́х", 
+          "tag": "quote", 
+          "normalized_content": "в животах"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Живота́нка", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "животанка"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "живота́ниха", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "животаниха"
+        }, 
+        {
+          "content": "жена животника.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "Живота́новы", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "животановы"
+        }, 
+        {
+          "content": "дети", 
+          "tag": "def"
+        }, 
+        {
+          "content": "живо́тника", 
+          "tag": "quote", 
+          "normalized_content": "животника"
+        }, 
+        {
+          "content": "и", 
+          "tag": "def"
+        }, 
+        {
+          "content": "живота́нки", 
+          "tag": "quote", 
+          "normalized_content": "животанки"
+        }, 
+        {
+          "content": "Мне мужик-живо́тник не нужё́н!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мне мужик-животник не нужен!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

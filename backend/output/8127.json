@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "хиреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хире́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хиреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "отставать в росте и развитии, подвергаться застою и разрушению (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "захире́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "захиреть"
+        }, 
+        {
+          "content": "Поросё́ночок що-то хи́реть на́чаў. За последние 20 лет все деревни и лесные посёлки захире́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поросеночок що-то хиреть начау. за последние 20 лет все деревни и лесные поселки захирели."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

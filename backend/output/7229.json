@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сподряд", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сподря́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сподряд"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "попорядку, одно за другим, без выбора, все что есть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Забирайте всё сподря́д.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "забирайте все сподряд."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

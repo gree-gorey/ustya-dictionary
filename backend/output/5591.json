@@ -1,0 +1,43 @@
+{
+  "field_for_sorting": "печенка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Печё́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "печенка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "испеченная в русской печи или на углях в костре целиком, в кожуре картофелина. Очень вкусная получается печёнка из испеченной в русской печи целиком и в кожуре", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гала́нки", 
+          "tag": "quote", 
+          "normalized_content": "галанки"
+        }, 
+        {
+          "content": "Подходи́ к огню́ и угоща́йсе печё́нкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подходи к огню и угощайсе печенкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

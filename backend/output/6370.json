@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пряженый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пряжё́ный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пряженый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "запеченный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Севодня наелся пряжё́ных пирогов с гала́нкой.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севодня наелся пряженых пирогов с галанкой."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ходовая", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ходова́я", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ходовая"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "1", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "1"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "быстрая.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё бегом веть бегала, ходова́я была.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все бегом веть бегала, ходовая была."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

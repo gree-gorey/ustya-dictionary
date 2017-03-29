@@ -1,0 +1,41 @@
+{
+  "field_for_sorting": "закреститьдом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Закрести́ть дом", 
+        "place": [
+          "Едьма"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "закрестить дом"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "изобразить крест, перекрестить.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "закрести́ть две́ри", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "закрестить двери"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

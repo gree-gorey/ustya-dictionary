@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "привидинье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Привиди́ньё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "привидинье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "привидение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Насопу́тся и ползают как привиди́нья", 
+          "translation": "(про пьяниц).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "насопутся и ползают как привидинья"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

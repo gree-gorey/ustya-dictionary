@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "голопупик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Голопу́пик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "голопупик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ласковое название маленького ребенка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди ко мне, голопу́пик мой хороший!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди ко мне, голопупик мой хороший!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

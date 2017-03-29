@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "петушиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Петуши́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "петушиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "горячиться, сердиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "запетуши́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запетушиться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "распетуши́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "распетушиться"
+        }, 
+        {
+          "content": "Что ты петуши́шьсе-то? Вот уш кара́́́ктель у ево́́́, прости́́́ Госпо́́́ди! Как запетуши́́́тце, да забе́́́гаёт, да завзгля́́́дываёт – дак бо́́́йсе ево́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты петушишьсе-то? вот уш карактель у ево, прости господи! как запетушитце, да забегает, да завзглядывает – дак бойсе ево!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

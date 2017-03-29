@@ -1,0 +1,122 @@
+{
+  "field_for_sorting": "вытягать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вытяга́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вытягать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тащить, выволакивать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Начелись за́бережники, пора лодку на берег вытяга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "начелись забережники, пора лодку на берег вытягать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "растягивать, деформировать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо так сильно рукава́ вытяга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо так сильно рукава вытягать."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "тянуть на весах, весить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шерсти мешок пять фунтов вытя́гивает, на большие ка́танцы хватит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шерсти мешок пять фунтов вытягивает, на большие катанцы хватит."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "впитывать, вбирать в себя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Меж рамами раньше у́гольё клали, чтобы влагу вытяга́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "меж рамами раньше уголье клали, чтобы влагу вытягало."
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "выводить мелодию голосом при пении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Эту письню я не могу вытяга́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "эту письню я не могу вытягать."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "покрывать поверхность.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Долонь на гувне́ глиной вытяга́ли", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "долонь на гувне глиной вытягали"
+        }, 
+        {
+          "content": "Строевское", 
+          "tag": "place"
+        }
+      ], 
+      "n": "6"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

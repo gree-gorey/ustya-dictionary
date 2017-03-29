@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зараньше", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зара́ньше", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зараньше"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заранее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты бы зара́ньше сказала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты бы зараньше сказала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

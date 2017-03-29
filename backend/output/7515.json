@@ -1,0 +1,73 @@
+{
+  "field_for_sorting": "тамжить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тамжи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тамжить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "складывать, уплотнять, пихать с усилием (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натамжи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натамжить"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "укладывать спать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "утамжи́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "утамжить"
+        }, 
+        {
+          "content": "Еле ребёнка утамжи́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "еле ребенка утамжила."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "затамжи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "затамжить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

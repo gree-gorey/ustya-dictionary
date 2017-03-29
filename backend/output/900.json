@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "волоть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́лоть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "волоть"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебли травы, сена.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ты не блей-ко, баран, сена во́лоти", 
+          "translation": "(клока сена)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты не блей-ко, баран, сена волоти"
+        }, 
+        {
+          "content": "не дам.", 
+          "tag": "quote", 
+          "normalized_content": "не дам."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "непрокошенные остатки при скашивании; остатки при сгребании сена. За эту «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "во́лоть", 
+          "tag": "quote", 
+          "normalized_content": "волоть"
+        }, 
+        {
+          "content": "» на сенокосе старики сильно ругались и хотели привязать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "непроко́с", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "непрокос"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "харчистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Харчи́стый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "харчистый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "харчи́стой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "харчистой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "жадный, ненасытный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Конь-от тако́й харчи́стой, що всю доро́гу по́ходя траву́ хвата́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "конь-от такой харчистой, що всю дорогу походя траву хватает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

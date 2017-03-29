@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "жом", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жо́м", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жом"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "3", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "3"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "остатки ягод или другого сырья, из которых выжата в процессе обработки жидкая субстанция сок, масло, и т. п.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

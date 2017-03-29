@@ -1,0 +1,40 @@
+{
+  "field_for_sorting": "подушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поду́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нижняя широкая часть косяка окна.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "земляное плотное небольшое возвышение, предохраняющее стекание воды при таянии снега к дому.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

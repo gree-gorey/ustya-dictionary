@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "кучко", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кучко", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кучко"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кобель, пёс.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У тя сука ощени́лась, дак нет ли кучка́?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у тя сука ощенилась, дак нет ли кучка?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") блудливый мужчина, муж, парень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шщо ты как куцько́́́-то по фсем ба́́́бам бе́́́гаёшь? Ро́́́же-то не сты́́́дно?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шщо ты как куцько-то по фсем бабам бегаешь? роже-то не стыдно?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

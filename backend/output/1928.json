@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "дурак", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дура́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дурак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, отличающийся безоглядным и своевольным поведением (например, пьяный).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, мой и дурак!", 
+          "translation": "муж, когда напьется, чудит.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, мой и дурак!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ненормальный, сумасшедший, тот, кого считают дурачком.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

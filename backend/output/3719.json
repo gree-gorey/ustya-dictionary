@@ -1,0 +1,95 @@
+{
+  "field_for_sorting": "кубарь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Куба́рь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кубарь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кула́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кулак"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гриб бычок.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "балу́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "балуй"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "валу́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "валуй"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "евда́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "евдак"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "елда́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "елдак"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "залупа́й", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "залупай"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "колпа́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колпак"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "куба́стый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кубастый"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

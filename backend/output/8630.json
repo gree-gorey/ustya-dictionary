@@ -1,0 +1,115 @@
+{
+  "field_for_sorting": "щелнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Щё́лнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "щелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "щё́́́ўнуть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "щеунуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "защё́лнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "защелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "прищё́лнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "прищелнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сощё́лнуть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сощелнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "щёлкнуть, стукнуть, ударить (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "вы́щёлнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выщелнуть"
+        }, 
+        {
+          "content": "Зачем ты ево щё́лнул? Щё́лни-ко яичко-то в тесто. Вот какая, съи́дник, стакан из рук у меня вы́шёлнула! Отойди от нево, а то ненаро́ком можот защё́лнуть! Па́́́лец прищё́ўнуў", 
+          "translation": "прижал (например, дверью).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "зачем ты ево щелнул? щелни-ко яичко-то в тесто. вот какая, съидник, стакан из рук у меня вышелнула! отойди от нево, а то ненароком можот защелнуть! палец прищеунуу"
+        }, 
+        {
+          "content": "Сощё́ўнул у ево ке́пку с головы. Сощё́лни-ко сосульки-то с крыши.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сощеунул у ево кепку с головы. сощелни-ко сосульки-то с крыши."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "закрыть, захлопнуть что-либо (", 
+          "tag": "def"
+        }, 
+        {
+          "content": "нащё́лнуть", 
+          "tag": "quote", 
+          "normalized_content": "нащелнуть"
+        }, 
+        {
+          "content": "Дверью щё́лнул и убежал. Защё́лни окошко. Замок на двери нащё́лнул. Сощё́лни створки-то окна.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дверью щелнул и убежал. защелни окошко. замок на двери нащелнул. сощелни створки-то окна."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "щё́́лкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "щелкать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,53 @@
+{
+  "field_for_sorting": "насмелиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насме́литься", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насмелиться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "осме́литься", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "осмелиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "набраться смелости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он едва насме́лилсе с ла́вы под щеть у мельницы прыгнуть", 
+          "translation": "(при купании).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он едва насмелилсе с лавы под щеть у мельницы прыгнуть"
+        }, 
+        {
+          "content": "Да я фсё сказа́́́ть-то боя́́́ласе, а тут насме́́́лиласе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да я фсе сказать-то бояласе, а тут насмелиласе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

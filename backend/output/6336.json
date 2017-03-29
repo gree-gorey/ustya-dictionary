@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "просказаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Просказа́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "просказаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "проговориться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сам просказа́лсе, а то бы никто и не знал.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сам просказалсе, а то бы никто и не знал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

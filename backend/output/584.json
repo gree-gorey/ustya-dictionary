@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вгустую", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вгусту́ю", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вгустую"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "много, густо, избыточно какого-то компонента в растворе, в приготовленном кушании.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всё жа́лятце, що худо живут, а у самих мяса в супе вгусту́ю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все жалятце, що худо живут, а у самих мяса в супе вгустую."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гу́сто", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "густо"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

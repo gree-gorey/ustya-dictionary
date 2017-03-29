@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "дресвище", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дресви́ще", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дресвище"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кладбище.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "бу́ево", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "буево"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

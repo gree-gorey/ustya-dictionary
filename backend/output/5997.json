@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "попо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "попо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приставка к глаголам, указывающая на непродолжительность выполнения действия, например:", 
+          "tag": "def"
+        }, 
+        {
+          "content": "попобежа́л", 
+          "tag": "quote", 
+          "normalized_content": "попобежал"
+        }, 
+        {
+          "content": "попое́хал", 
+          "tag": "quote", 
+          "normalized_content": "попоехал"
+        }, 
+        {
+          "content": "попоре́зал", 
+          "tag": "quote", 
+          "normalized_content": "попорезал"
+        }, 
+        {
+          "content": "поподава́л.", 
+          "tag": "quote", 
+          "normalized_content": "поподавал."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

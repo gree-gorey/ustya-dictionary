@@ -1,0 +1,114 @@
+{
+  "field_for_sorting": "присуха", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прису́ха", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "присуха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колдовской приворот.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "А глазная-то прису́ха всего на свете хуже, от неё не скоро отворо́жишься, и бывает, що и не посо́бишься", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "а глазная-то присуха всего на свете хуже, от нее не скоро отворожишься, и бывает, що и не пособишься"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "средство для колдовского приворота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Видно в этом поясе вся приворо́тная прису́ха", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка", 
+          "normalized_content": "видно в этом поясе вся приворотная присуха"
+        }, 
+        {
+          "content": "«Волшебный пояс». М.И. Шалаурова.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сухота́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сухота"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "уро́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "урок"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "нагово́рный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "наговорный"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "приворо́тный", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "приворотный"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сгла́зить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сглазить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "обуро́чить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обурочить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "присуши́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "присушить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

@@ -1,0 +1,107 @@
+{
+  "field_for_sorting": "копал", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́пал", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "копал"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́пол", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "копол"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́пала", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "копала"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "копали́́́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "копалиха"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́палка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "копалка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́полка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кополка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кополи́ха", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кополиха"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "польник, глухарь или тетерев самец.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вон копали́́́ха-то сиди́́́т у берё́́́зы, ско́́́ро польники́́́", 
+          "translation": "(самцы)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вон копалиха-то сидит у березы, скоро польники"
+        }, 
+        {
+          "content": "к е́́́й налетя́́́т.", 
+          "tag": "quote", 
+          "normalized_content": "к ей налетят."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "копну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "копнуть"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "копо́лий", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кополий"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

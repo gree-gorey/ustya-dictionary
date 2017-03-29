@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "опреть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Опре́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "опреть"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "отопре́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "отопреть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оттаять, растаять льду, наледи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Куды ты идёшь, видишь тут у берега опре́ло? Добро́́́ тепе́́́рь – уш за́́́ динь-то отопри́́́ёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "куды ты идешь, видишь тут у берега опрело? добро теперь – уш за динь-то отоприет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

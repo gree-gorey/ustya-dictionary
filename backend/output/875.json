@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вокорень", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во́корень", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вокорень"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "полностью, подчистую.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ему бы токо разорить во́корень, ни о цём не думает.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему бы токо разорить вокорень, ни о цем не думает."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

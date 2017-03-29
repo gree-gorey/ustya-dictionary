@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "тройники", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тройники́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тройники"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тройня, приплод из трех новорожденных. У людей довольно редкое явление. У овец и коз явление обычное.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

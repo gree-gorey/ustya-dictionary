@@ -1,0 +1,92 @@
+{
+  "field_for_sorting": "токарить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тока́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "токарить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "класть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затока́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затокарить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "натока́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натокарить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "стока́рить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стокарить"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "затока́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затокаривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "натока́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "натокаривать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "стока́ривать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "стокаривать"
+        }, 
+        {
+          "content": "После па́ужны будём жито на гумне́ в мешки тока́рить. Надо бо́ле соломы-то в пери́нник стока́рить, а то слёжи́тся, пери́на тонка́ будёт. Свати́ў корова́й с поли́цы и дава́й в кото́мку затока́ривать, ду́маў нехто́ не уви́дит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после паужны будем жито на гумне в мешки токарить. надо боле соломы-то в перинник стокарить, а то слежится, перина тонка будет. сватиу коровай с полицы и давай в котомку затокаривать, думау нехто не увидит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

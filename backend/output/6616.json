@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ремешик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ремё́шик", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ремешик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "маленький ремень, ремешок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неси́́́-ко де́́́цкой ремё́́́шик-от, дак шщаны́́́-то не бу́́́дут до коле́́́н спада́́́ть у тя.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "неси-ко децкой ремешик-от, дак шщаны-то не будут до колен спадать у тя."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "рими́нь", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "риминь"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

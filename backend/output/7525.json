@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "тараторка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тарато́рка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тараторка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тарата́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тарата"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "говорунья.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "трещё́тка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "трещетка"
+        }, 
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": "Овдо́тья така́я и есь тарато́рка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "овдотья такая и есь тараторка."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "тарато́рить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тараторить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

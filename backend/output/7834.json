@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "угадать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Угада́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "угадать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "попасть в цель (угодить).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Перестань каменьё-то кидать! Угада́ёшь Ваньке в глаз-от, дак що робить-то будём?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "перестань каменье-то кидать! угадаешь ваньке в глаз-от, дак що робить-то будем?"
+        }, 
+        {
+          "content": "Также", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "вгада́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "вгадать"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "гада́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "гадать"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "поспеть в нужное место к определенному времени.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вре́мё к ве́чору, дак мне к им сево́дни наве́рно не угада́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "време к вечору, дак мне к им севодни наверно не угадать."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "подгада́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подгадать"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

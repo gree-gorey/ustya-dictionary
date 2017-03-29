@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "натолочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Натолочи́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "натолочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "накрошить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Опеть наточи́л да натолочи́л. Ешь ладо́м!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть наточил да натолочил. ешь ладом!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

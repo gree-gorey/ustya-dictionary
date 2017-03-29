@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "онокося", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Оно́кося", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "онокося"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем недавно.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Оно́кося бабы в деревне так красиво запева́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "онокося бабы в деревне так красиво запевали."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

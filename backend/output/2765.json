@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "здор", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Здор", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "здор"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "вздор.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що иё слушать, один здор несёт!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ие слушать, один здор несет!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "чайдасахар!", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чай да сахар!", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чай да сахар!"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приветствие пришедшего хозяевам, пьющим чай за столом.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

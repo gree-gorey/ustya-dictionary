@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "очертиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Очерти́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "очертиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обвести свое местонахождение круговой чертой во время святочных гаданий и ворожения.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

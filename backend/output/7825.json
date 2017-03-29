@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "увещевать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Увещева́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "увещевать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "уговаривать, отговаривать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не́чево бо́ле увеще́вать их, пора́ влась примини́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нечево боле увещевать их, пора влась приминить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

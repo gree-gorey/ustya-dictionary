@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "чугун", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чугу́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чугун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чигу́́́н", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чигун"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чугуно́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чугунок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чигуно́́́к", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чигунок"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "чугу́нник", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "чугунник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "литой чугунный горшок для варки и других нужд.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Стафь-ко чугуны́́́-то с карто́́́вью для скота́́́ в печь. Хоть чигуно́́́к ка́́́ши карто́́́вной на молоке́́́ поста́́́влю для робя́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "стафь-ко чугуны-то с картовью для скота в печь. хоть чигунок каши картовной на молоке поставлю для робят."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

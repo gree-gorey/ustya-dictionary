@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "увичье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уви́чьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "увичье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "увечье, травма с серьезными последствиями, вред здоровью.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подава́ть снопы́ в молоти́ўку – опа́сная робо́та, недо́ўго и уви́чьё получи́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подавать снопы в молотиуку – опасная робота, недоуго и увичье получить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

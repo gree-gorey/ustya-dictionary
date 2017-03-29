@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "ушитое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Уши́тое", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ушитое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "одежда и бельё с заплатами.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "заши́тое", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "зашитое"
+        }, 
+        {
+          "content": ". На деревенскую работу носили заши́тую одежду.", 
+          "tag": "quote", 
+          "normalized_content": ". на деревенскую работу носили зашитую одежду."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

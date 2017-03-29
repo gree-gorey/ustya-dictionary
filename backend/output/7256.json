@@ -1,0 +1,160 @@
+{
+  "field_for_sorting": "спускать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Спу́скать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "спускать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "спусти́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "спустить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "устанавливать в яму сруб колодца, погреба.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "После обеда будём погребни́цу спуска́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "после обеда будем погребницу спускать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "загружать в погреб, подполье овощи, продукты.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю картовь в погреб спусти́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю картовь в погреб спустили."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "с помощью специальных приспособлений изготовлять веревки, канаты.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сливать сусло через отверстие в дне судна при варке домашнего пива.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "изнашивать одежду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За мисец щаны спусти́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за мисец щаны спустил."
+        }
+      ], 
+      "n": "5"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "смывать грязь.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В бане с себя пуд грези спусти́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в бане с себя пуд грези спустил."
+        }
+      ], 
+      "n": "6"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "худеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Що-то ты за лето спусти́ла жирку-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що-то ты за лето спустила жирку-то."
+        }
+      ], 
+      "n": "7"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "переставать следить за собой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не надо спуска́ть себя, а то совсем исхудаёшь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо спускать себя, а то совсем исхудаешь!"
+        }
+      ], 
+      "n": "8"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прекращать что-либо делать, действовать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не спуска́й это дело на тормоза. А то совсем руки опусти́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не спускай это дело на тормоза. а то совсем руки опустил."
+        }
+      ], 
+      "n": "9"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

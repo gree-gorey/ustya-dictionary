@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кабызнатье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кабы́ знатьё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кабы знатье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "если б знать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кабы́ знатьё́, что в район поидите, дак и я с вами поехала бы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кабы знатье, что в район поидите, дак и я с вами поехала бы."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "Кабы́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кабы"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "idiom", 
+  "class": 5
+}

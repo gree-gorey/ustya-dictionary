@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "глядь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гля́дь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глядь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гля́дь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глядь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гледи́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гледи"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "ко"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гледи́-косе", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гледи-косе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "погляди, посмотри.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Гля́дь-ко, кто там идёт? Гледи́-ко, поросёночёк-от поправиўсе, думала не выживёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "глядь-ко, кто там идет? гледи-ко, поросеночек-от поправиусе, думала не выживет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

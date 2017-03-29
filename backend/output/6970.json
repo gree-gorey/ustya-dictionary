@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "скобарить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Скоба́рить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скобарить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "скобари́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "скобарить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подбирать все что надо и не надо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заскобари́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заскобарить"
+        }, 
+        {
+          "content": "Всё подряд скобари́т. Куды топор заскобари́л?", 
+          "translation": "подобрал, не спросясь, и куда-то спрятал.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все подряд скобарит. куды топор заскобарил?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

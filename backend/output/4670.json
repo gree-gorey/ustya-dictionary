@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "начасу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На часу́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на часу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "совсем скоро, сейчас.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На часу́́ посулилась быть. Давай заро́д метать, на часу́ дожь будёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на часу посулилась быть. давай зарод метать, на часу дожь будет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

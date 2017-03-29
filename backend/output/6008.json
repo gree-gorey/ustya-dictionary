@@ -1,0 +1,69 @@
+{
+  "field_for_sorting": "попути", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Попути́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "попути"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "попуте́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "попуте"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "попыте́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "попыте"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "попу́тно", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "попутно"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "по дороге, заодно, одновременно с выполнением какого-либо дела.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Купи-ко попыте́ (попути́) чё́рново краюху", 
+          "translation": "буханку черного хлеба.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "купи-ко попыте (попути) черново краюху"
+        }, 
+        {
+          "content": "Вот на мельнице и ро́бил. В Во́рбазе попу́тно рыбу ловил.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот на мельнице и робил. в ворбазе попутно рыбу ловил."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

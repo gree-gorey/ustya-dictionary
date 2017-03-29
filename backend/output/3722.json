@@ -1,0 +1,66 @@
+{
+  "field_for_sorting": "кубовик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кубови́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кубовик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нарядный сарафан из яркой домотканой", 
+          "tag": "def"
+        }, 
+        {
+          "content": "пе́стряди", 
+          "tag": "quote", 
+          "normalized_content": "пестряди"
+        }, 
+        {
+          "content": "или", 
+          "tag": "def"
+        }, 
+        {
+          "content": "гума́жной", 
+          "tag": "quote", 
+          "normalized_content": "гумажной"
+        }, 
+        {
+          "content": "разноцветной ткани, окрашенной красильщиком.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "краси́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "красик"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "красильщик ткани.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

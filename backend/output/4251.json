@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "монатки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мона́тки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "монатки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "мана́тки", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "манатки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скарб, пожитки.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Собирай монатки и катись!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "собирай монатки и катись!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

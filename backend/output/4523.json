@@ -1,0 +1,70 @@
+{
+  "field_for_sorting": "напахнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Напахну́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "напахнуть"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "напа́хивать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "напахивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "внезапно почувствовать какой-то новый запах, принесенный движением воздуха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Отку́да-то ды́мом напахну́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "откуда-то дымом напахнуло."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пахну́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пахнуть"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "надеть, иногда очень быстро, второпях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Да я токо жаке́тку упела напахну́ть. Нечёво на робёнка столько одёжи напа́хивать, споти́ёт весь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "да я токо жакетку упела напахнуть. нечево на робенка столько одежи напахивать, спотиет весь."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

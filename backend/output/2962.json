@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "изнемоганье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Изнемога́нье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "изнемоганье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "мученье.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Это не работа, а изнемога́нье одно.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "это не работа, а изнемоганье одно."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

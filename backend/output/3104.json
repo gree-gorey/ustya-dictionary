@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "казиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кази́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "казиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "казаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тебе начинает кази́ться уже. Тебе уж кази́тся!", 
+          "translation": "кажется.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тебе начинает казиться уже. тебе уж казится!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

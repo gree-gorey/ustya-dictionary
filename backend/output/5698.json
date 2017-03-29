@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "погода", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пого́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "погода"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ненастье, непогода.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Э́́́кая пого́́́да-то розыгра́́́лась, софсе́́́м бы не ко вре́́́мени.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экая погода-то розыгралась, софсем бы не ко времени."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

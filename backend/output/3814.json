@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "кутька", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ку́тька", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кутька"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ку́тюшка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кутюшка"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "ку́тьки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "кутьки"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "ку́тюшки", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "кутюшки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "кура, ку́рица. (Кур ведь даже подзывали не «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "цып–цып", 
+          "tag": "quote", 
+          "normalized_content": "цып–цып"
+        }, 
+        {
+          "content": "», а «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "куть-куть", 
+          "tag": "quote", 
+          "normalized_content": "куть-куть"
+        }, 
+        {
+          "content": "ку́тю–ку́тю", 
+          "tag": "quote", 
+          "normalized_content": "кутю–кутю"
+        }, 
+        {
+          "content": "Ку́тьки в садовнике всё роспо́рхали.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кутьки в садовнике все роспорхали."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") писун.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

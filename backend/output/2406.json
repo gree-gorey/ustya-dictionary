@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "зайти", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зайти́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зайти"
+      }, 
+      {
+        "style": [], 
+        "ana": "несов.", 
+        "content": "заходи́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заходить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поселиться во вновь построенном доме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В этот дом мы год назад зашли́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в этот дом мы год назад зашли."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "забраться, расположиться, попасть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чужой баран с овцами во двор зашё́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чужой баран с овцами во двор зашел."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "вступить в организацию.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Некоторые крестьяне долго в колхоз не заходи́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "некоторые крестьяне долго в колхоз не заходили."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

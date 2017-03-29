@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "ганивать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Га́нивать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ганивать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гонять (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "дога́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "доганивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нага́нивать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наганивать"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "обга́нивать)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "обганивать)"
+        }, 
+        {
+          "content": "Га́нивали и мы лошадей. Дога́нивай их давай быстрее, торопись! Они уехали-то давно, надо как-то нага́нивать их.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ганивали и мы лошадей. доганивай их давай быстрее, торопись! они уехали-то давно, надо как-то наганивать их."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

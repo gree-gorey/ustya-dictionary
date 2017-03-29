@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "слань", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Слань", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "слань"
+      }, 
+      {
+        "style": [], 
+        "ana": "множ.", 
+        "content": "сла́ни", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "слани"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "настланный из жердей, кольев, тонких деревьев переход через речку, ручей, топкое место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Переходи́́́-ко по сла́́́ням, а то прова́́́лиссе куды́́́-нибу́́́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "переходи-ко по сланям, а то провалиссе куды-нибуть."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "настил из жердей ниже мельничной плотины, предназначенный для укрепления дна речки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

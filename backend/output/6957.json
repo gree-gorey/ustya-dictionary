@@ -1,0 +1,58 @@
+{
+  "field_for_sorting": "скаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ска́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "скаться"
+      }
+    ], 
+    "style": [
+      "перен."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "торопиться, бестолково суетиться (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заска́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заскаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "изоска́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "изоскаться"
+        }, 
+        {
+          "content": "Что ты всё скё́шьсе? Опеть заска́лсе! Надо же, весь изоска́лсе! Не скись!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что ты все скешьсе? опеть заскалсе! надо же, весь изоскалсе! не скись!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

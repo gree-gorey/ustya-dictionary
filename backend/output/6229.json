@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "приставленной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Приставле́нной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "приставленной"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "приставлённой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "приставленной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "шутник, шут (гороховый), кривляка, притворщик.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Парнё́к-от у их дак такой приставлё́нной!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "парнек-от у их дак такой приставленной!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

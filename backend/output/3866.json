@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лафа", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лафа́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лафа"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "удача, везенье, успех.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ёму́ лафа́ подвали́ла, дак что не жить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему лафа подвалила, дак что не жить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

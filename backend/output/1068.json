@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "второе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Второ́ё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "второе"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "пе́рвоё", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "первое"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "школьные классы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Внука ходит во второ́ё, а внук в пе́рвоё.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "внука ходит во второе, а внук в первое."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "бодачий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бода́чий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бодачий"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бодливый.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бык-от у Егоре́нихи до чево бода́чий, на всех наки́дываетсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бык-от у егоренихи до чево бодачий, на всех накидываетсе."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

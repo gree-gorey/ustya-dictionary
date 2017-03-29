@@ -1,0 +1,101 @@
+{
+  "field_for_sorting": "глянуться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гля́нуться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глянуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гляну́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глянуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "гле́нуться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гленуться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "глену́ться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "гленуться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нравиться; быть любимым (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "погляну́ться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поглянуться"
+        }, 
+        {
+          "style": [], 
+          "ana": "", 
+          "content": "пригляну́ться)", 
+          "tag": "form", 
+          "place": [], 
+          "type": "lemma", 
+          "normalized_content": "приглянуться)"
+        }, 
+        {
+          "content": "Ка́таночки эте мне бо́льно гле́нутце", 
+          "translation": "валеночки новые мои мне очень нравятся.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "катаночки эте мне больно гленутце"
+        }, 
+        {
+          "content": "Царевичу гляну́лось гостить у пастуха", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Сказка «Золотой рожок». М.И. Шалаурова.", 
+          "normalized_content": "царевичу глянулось гостить у пастуха"
+        }, 
+        {
+          "content": "Он мне гле́нится (сразу погляну́лсе)", 
+          "translation": "нравится (понравился).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он мне гленится (сразу поглянулсе)"
+        }, 
+        {
+          "content": "Погляну́лось тебе у них в гостях? Уш бо́льно пригляну́лись они друг другу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "поглянулось тебе у них в гостях? уш больно приглянулись они друг другу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

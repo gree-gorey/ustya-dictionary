@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "чупаный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́паный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чупаный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "зачу́паный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "зачупаный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "грязный, измазанный.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "мало-худо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мало́-худо́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мало-худо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "о маленьком, худеньком, неказистом человеке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мало́-худо́, не видно. Сам мало́́́-худо́́́, а отру́́́гиваться дак как большо́́́й.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мало-худо, не видно. сам мало-худо, а отругиваться дак как большой."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мало́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мало"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

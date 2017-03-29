@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "клевить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Клеви́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "клевить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кливи́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кливить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "беспокоить, обижать, доводить до слез (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "расклеви́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "расклевить"
+        }, 
+        {
+          "content": "Хватит ребёнка клеви́ть. Росклеви́ли у меня девку всю!", 
+          "translation": "довели до слез, напомнив о родителях (жила у бабушки, но хотела домой).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит ребенка клевить. росклевили у меня девку всю!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

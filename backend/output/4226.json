@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "модеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моде́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "модеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "портиться, киснуть, тухнуть (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "измоде́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "измодеть"
+        }, 
+        {
+          "content": "Рано тёпло-то началосе, дак мясо измоде́ло в кладовке.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рано тепло-то началосе, дак мясо измодело в кладовке."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "медленно гореть огню, шаять, тлеть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дрова-то сырые в печке, только моде́ют, доўго сево́дни трубку не закрыть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дрова-то сырые в печке, только модеют, доуго севодни трубку не закрыть."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "долго вариться, не кипеть, а преть вареву.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Печка ху́до то́питсе, и суп на плите моде́ёт, всё не кипи́т добр́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "печка худо топитсе, и суп на плите модеет, все не кипит добрм."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

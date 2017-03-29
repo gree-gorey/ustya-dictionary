@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "лытать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лыта́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лытать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бегать, проводить время без дела или безрезультатно, слоняться, шляться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ли́сту бы корове побруси́ли! Вам бы только лыта́ть весь динь!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "листу бы корове побрусили! вам бы только лытать весь динь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

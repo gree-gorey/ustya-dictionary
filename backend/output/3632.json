@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "крещеной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крещё́ной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крещеной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "человек, житель.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ни одной крещё́ной души нет в той деревне ноне.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ни одной крещеной души нет в той деревне ноне."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

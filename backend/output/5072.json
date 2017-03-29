@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "околонуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Околону́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "околонуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обстукать, стряхивая снег, грязь с обуви, одежды и чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Околони́ чунки от снега.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "околони чунки от снега."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "колону́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "колонуть"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

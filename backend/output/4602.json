@@ -1,0 +1,61 @@
+{
+  "field_for_sorting": "насопстись", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насопсти́сь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насопстись"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "насопти́сь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "насоптись"
+      }
+    ], 
+    "style": [
+      "груб."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "черезмерно наесться или напиться (вина).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уш так насопла́́́се на мини́́́нах-то", 
+          "translation": "(именинах)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уш так насопласе на мининах-то"
+        }, 
+        {
+          "content": ", дак фсю спу́́́цило аш. Насопла́сь севодни, что еле дошла.", 
+          "tag": "quote", 
+          "normalized_content": ", дак фсю спуцило аш. насоплась севодни, что еле дошла."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "сопти́", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "сопти"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

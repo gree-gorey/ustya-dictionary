@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "шамкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́мкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шамкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "есть, жевать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наша́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нашамкать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поша́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "пошамкать"
+        }, 
+        {
+          "content": "Ни е́́́дново зу́́́ба в ро́́́те-то не́́́ту, дак поша́мкала немно́́́жко, ко́́́ё-то-как ша́́́мкаю. Я хлеба-то с сахарко́м наша́мкала немно́жко, завернула в трепи́цу и дала ребёнку вместо со́ски.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ни едново зуба в роте-то нету, дак пошамкала немножко, кое-то-как шамкаю. я хлеба-то с сахарком нашамкала немножко, завернула в трепицу и дала ребенку вместо соски."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "говорить беззубым ртом (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заша́мкать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашамкать"
+        }, 
+        {
+          "content": "Що ты там заша́мкала?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты там зашамкала?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

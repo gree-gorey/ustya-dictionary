@@ -1,0 +1,65 @@
+{
+  "field_for_sorting": "бороть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Боро́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "бороть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "оказываться сильнее, побеждать в борьбе", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заборо́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "забороть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "оборо́́́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "обороть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поборо́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "побороть"
+        }, 
+        {
+          "content": "Не надо ево боро́ть, он тебя моло́же. Гришка Ваньку заборо́л. Тебе никак ево не оборо́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не надо ево бороть, он тебя моложе. гришка ваньку заборол. тебе никак ево не обороть."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

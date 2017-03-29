@@ -1,0 +1,63 @@
+{
+  "field_for_sorting": "устить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "У́стить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "устить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "натравливать собаку на кого-либо (от команды: «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ус!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ус!"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нау́стить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наустить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нау́ськать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "науськать"
+        }, 
+        {
+          "content": "Що ты на нево собаку у́стишь? А как на тебя бы так!?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты на нево собаку устишь? а как на тебя бы так!?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

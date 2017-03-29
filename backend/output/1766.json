@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "дозволить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дозво́лить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дозволить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "позволить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ему только дозво́ль!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ему только дозволь!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

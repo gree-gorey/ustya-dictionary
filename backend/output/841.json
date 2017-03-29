@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "во", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Во", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "во"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не хочу дочку свою отдавать, во чужую землю, во далёкую сторону", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "Бабья гора. М.И. Шалаурова.", 
+          "normalized_content": "не хочу дочку свою отдавать, во чужую землю, во далекую сторону"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

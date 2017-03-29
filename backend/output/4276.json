@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "мотовило", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Мотови́ло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "мотовило"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "домашнее приспособление для наматывания ниток, пряжи вручную.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мотови́́́ло-то никуды́́́ не вы́́́кинули, мо́́́жот, пригоди́́́тьце и но́́́не.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мотовило-то никуды не выкинули, можот, пригодитьце и ноне."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "гладиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гла́диться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "гладиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "приводить в порядок свою одежду путем разглаживания утюгом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сперва надо гла́диться, а уж после идти на танцы.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сперва надо гладиться, а уж после идти на танцы."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

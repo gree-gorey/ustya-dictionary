@@ -1,0 +1,33 @@
+{
+  "field_for_sorting": "потока", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Потока", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "потока"
+      }
+    ], 
+    "style": [
+      "спец."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "направляющие длинные и тонкие бревна, используемые для закатывания или затаскивания бревен на сруб.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

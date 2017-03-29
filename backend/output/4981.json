@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "обход", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Обхо́д", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "обход"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "закрепленный за работником или должностным лицом участок территории: участок леса у лесного сторожа, лесника, вздымщика и т. п.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

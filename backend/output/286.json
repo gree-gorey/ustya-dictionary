@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "битьсяиз-закускахлеба", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Би́ться из-за куска хлеба", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "биться из-за куска хлеба"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "бедствовать, терпеть крайнюю нужду.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю жизнь би́лась из-за куска хлеба.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю жизнь билась из-за куска хлеба."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

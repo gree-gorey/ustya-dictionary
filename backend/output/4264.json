@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "морочить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Моро́чить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "морочить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "заморо́чить", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "заморочить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слово, по-видимому, произошло от древних слов: кудесничать, колдовать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "мрачи́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "мрачить"
+        }, 
+        {
+          "content": "Не ходи к нему, он так тибе голову заморо́чит.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не ходи к нему, он так тибе голову заморочит."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "говорить нелогично, неправду, глупость; обманывать хитростью, лукавством, лживыми рассуждениями.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну, ты мне совсем голову заморо́чил своей ерундо́й, ничево не пойму.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, ты мне совсем голову заморочил своей ерундой, ничево не пойму."
+        }, 
+        {
+          "content": "Ля́сы то́чит, да люде́й моро́чит", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лясы точит, да людей морочит"
+        }, 
+        {
+          "content": "(поговорка).", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

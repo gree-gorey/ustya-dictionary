@@ -1,0 +1,83 @@
+{
+  "field_for_sorting": "лишка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ли́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лишка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ли́шку", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лишку"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "слишком много, излишне, лишнее (сверх дозволенного).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ли́шка уж! Бу́дёт!", 
+          "translation": "много уже, хватит!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лишка уж! будет!"
+        }, 
+        {
+          "content": "А дров-то уж не ли́шка!", 
+          "translation": "осталось не так уж много.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "а дров-то уж не лишка!"
+        }, 
+        {
+          "content": "Ты ли́шка-то там не бай!", 
+          "translation": "не говори лишнего.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты лишка-то там не бай!"
+        }, 
+        {
+          "content": "Ну, мо́́́й-то дак уш весь роски́́́с – хвати́́́ў, ви́́́дно, ли́́́шку или с голоду́́́хи? Ну, ты ли́́́шку-ту на себя́́́ не нагова́́́ривай, по́́́няў?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну, мой-то дак уш весь роскис – хватиу, видно, лишку или с голодухи? ну, ты лишку-ту на себя не наговаривай, поняу?"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "лишь, чуть-чуть (в сочетании с не).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ли́́́шка не заде́́́л бро́́́вку-ту", 
+          "translation": "чуть-чуть не зацепил колесом обочину, край дороги.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лишка не задел бровку-ту"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

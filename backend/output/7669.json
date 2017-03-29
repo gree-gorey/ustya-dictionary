@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "торчок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Торчо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "торчок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "стебелек с ягодой.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Торчки́ землянки и морошки заваривают кипятком, их настой полезён для здоровья.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "торчки землянки и морошки заваривают кипятком, их настой полезен для здоровья."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

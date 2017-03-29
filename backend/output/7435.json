@@ -1,0 +1,42 @@
+{
+  "field_for_sorting": "суседи", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́седи", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суседи"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "соседи. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "И всех красных девушек одари́л, да и сусе́дей угоще́ньем не забыл", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "и всех красных девушек одарил, да и суседей угощеньем не забыл"
+        }, 
+        {
+          "content": "Бабья гора. М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

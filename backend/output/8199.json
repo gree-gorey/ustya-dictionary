@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "хребтина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Хребти́на", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "хребтина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "спина.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "За тако́е ты бы огре́ла ёво лопатой по хребти́не.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "за такое ты бы огрела ево лопатой по хребтине."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

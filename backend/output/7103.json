@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "снабегу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "С набе́гу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "с набегу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "на расстоянии, не под рукой, в отдалении.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Много ли с набе́гу сделаёшь?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "много ли с набегу сделаешь?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

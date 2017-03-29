@@ -1,0 +1,45 @@
+{
+  "field_for_sorting": "чейной", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Че́йной", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чейной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "чей.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Че́́́йной топе́́́рь сеноко́́́с-от бу́́́дёт? Че́йной парничо́к-от?", 
+          "translation": "из какой семьи, чьих родителей?", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чейной топерь сенокос-от будет? чейной парничок-от?"
+        }, 
+        {
+          "content": "Че́йный ты будёшь-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чейный ты будешь-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

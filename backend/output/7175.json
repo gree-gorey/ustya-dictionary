@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "сослепу", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Со́слепу", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сослепу"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плохо видя, спросонья, по причине близорукости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я со́слепу Га́врю-ту и не узна́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я сослепу гаврю-ту и не узнала."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

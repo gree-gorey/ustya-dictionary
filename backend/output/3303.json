@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "коеводни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коево́дни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коеводни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коё́водни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коеводни"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́едни", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "коедни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не так давно, в один из недавних дней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коево́дни в клу́бе собра́ньё бы́ло. Ко́едни много снегу напа́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коеводни в клубе собранье было. коедни много снегу напало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

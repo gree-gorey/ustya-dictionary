@@ -1,0 +1,54 @@
+{
+  "field_for_sorting": "окрайка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Окра́йка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "окрайка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "окра́ёк", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "окраек"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "окра́юшок", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "окраюшок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "край, краешек чего-либо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Давай передохнём на окрайке леса. Сла́́́ва Бо́́́гу, вы́́́шли на окра́́́ёк по́́́ля, си́́́льно бы́́́ло окружа́́́лисе в лесу́́́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "давай передохнем на окрайке леса. слава богу, вышли на окраек поля, сильно было окружалисе в лесу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

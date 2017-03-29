@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "велено", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ве́лено", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "велено"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сказано, приказано.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Кому ве́лено?", 
+          "translation": "грозный риторический вопрос родителя ребенку о необходимости выполнить указание.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кому велено?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "дневка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дне́вка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дневка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "днё́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дневка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "место отдыха скота на пастбище.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Коровы от гну́су пре́чутце на дне́вку в самую лесную чащу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "коровы от гнусу пречутце на дневку в самую лесную чащу."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

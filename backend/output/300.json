@@ -1,0 +1,109 @@
+{
+  "field_for_sorting": "блудить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Блуди́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "блудить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "блу́дничеть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "блудничеть"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "поблуди́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поблудить"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "поблу́дничеть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "поблудничеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "блуждать, сбиваться с пути (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "заблу́дничеть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "заблудничеть"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проблуди́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проблудить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проблу́дничеть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проблудничеть"
+        }, 
+        {
+          "content": "Що ты там блу́дничаёшь в темноте, зажги́ свет. Ну уж мы севодня и поблуди́ли по лесу! Нуко включи свет, кошка опеть заблу́дницала по столу.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты там блудничаешь в темноте, зажги свет. ну уж мы севодня и поблудили по лесу! нуко включи свет, кошка опеть заблудницала по столу."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") вести легкомысленный образ жизни.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ванька о семье не думает, опеть пошёл блуди́ть. Любительница поблуди́ть (поблу́дничать).", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ванька о семье не думает, опеть пошел блудить. любительница поблудить (поблудничать)."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,80 @@
+{
+  "field_for_sorting": "причапать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Прича́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "причапать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "прибрести.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "придти по неудобной дороге.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ча́пать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "чапать"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "придти, прибрести, пристать.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "притолка́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "притолкаться"
+        }, 
+        {
+          "content": "Все давно розошлись по домам, а он на собрание прича́пал. К на́шим овца́м чужой бора́н притоўка́ўсе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "все давно розошлись по домам, а он на собрание причапал. к нашим овцам чужой боран притоукаусе."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "прибатла́ться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "прибатлаться"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

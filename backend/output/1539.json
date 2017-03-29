@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "груда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Гру́да", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "груда"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "скирда, зарод, в которые складывали колосьями вовнутрь снопы из суслонов. В грудах хлебная масса хранилась до обмолота.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

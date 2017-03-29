@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "несколь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Неско́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "несколь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не очень.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Неско́ль давно это было.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "несколь давно это было."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 8
+}

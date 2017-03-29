@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "ляма", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́ма", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляма"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ля́мка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лямка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "большой, высокий (о человеке, предмете).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Экой ля́мка!", 
+          "translation": "какой высокий!", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "экой лямка!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

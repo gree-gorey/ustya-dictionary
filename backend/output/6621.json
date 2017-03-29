@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "робенок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Робё́нок", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "робенок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ребенок, дитя.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Робё́́́нок-то, сла́́́ва Бо́́́гу, споко́́́ён ростё́́́т. Сла́ду нету с этим робё́нком, везде ли́зёт.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "робенок-то, слава богу, спокоен ростет. сладу нету с этим робенком, везде лизет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

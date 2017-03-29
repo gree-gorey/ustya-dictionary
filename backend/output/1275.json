@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "вышина", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вышина́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вышина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "высота.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не поле́зу я копну́ топта́ть, бою́сь вышины́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не полезу я копну топтать, боюсь вышины."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

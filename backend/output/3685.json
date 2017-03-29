@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "кружки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кру́жки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кружки"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кружки́́́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кружки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "хороводы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ра́́́не, быва́́́ло, мы кружки́́́-те то́́́жо води́́́ли.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ране, бывало, мы кружки-те тожо водили."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

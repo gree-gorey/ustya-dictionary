@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "золезо", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Золе́зо", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "золезо"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "золи́зо", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "золизо"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "железо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Но́не-то всё золе́зо в металло́м сда́но.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ноне-то все золезо в металлом сдано."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

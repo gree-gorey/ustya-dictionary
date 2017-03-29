@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "этойда", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Э́тойда", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "этойда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́тойды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "этойды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́туда", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "этуда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́туйда", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "этуйда"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "э́туйды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "этуйды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поэ́туйды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "поэтуйды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́тойды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "етойды"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "е́туды", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "етуды"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "здесь, этим путем, этой стороной (идти); вот туда, в это место.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Иди э́тойды. Пойдём э́тойды, дак ближе. Э́́́туда не ходи́́́, заблу́́́диссе! Э́́́туйда бли́́́же, кажи́́́сь, бу́́́дёт идти́́́. Вот э́́́тойда и пойдё́́́м! Е́туды поди не попа́сь, ричка розлилась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иди этойды. пойдем этойды, дак ближе. этуда не ходи, заблудиссе! этуйда ближе, кажись, будет идти. вот этойда и пойдем! етуды поди не попась, ричка розлилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "блеять", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Блея́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "блеять"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "издавать звуки, характерные для овец и коз.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́зы блею́т, на во́лю про́сятце.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "козы блеют, на волю просятце."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

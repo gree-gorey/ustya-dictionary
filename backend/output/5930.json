@@ -1,0 +1,81 @@
+{
+  "field_for_sorting": "пологий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Поло́гий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пологий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поло́гой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "пологой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "не крутой (о подъеме или спуске).", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тут уго́́́р-то поло́́́гой, – не то, шщо у Роди́х.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "тут угор-то пологой, – не то, шщо у родих."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прозвище", 
+          "tag": "pos"
+        }, 
+        {
+          "content": ", тот, кто говорит", 
+          "tag": "def"
+        }, 
+        {
+          "content": "поло́го", 
+          "tag": "quote", 
+          "normalized_content": "полого"
+        }, 
+        {
+          "content": ", т. е. не спеша и окает.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "прозвище", 
+          "tag": "pos"
+        }, 
+        {
+          "content": ", тот, кто нетороплив (или даже ленив) в своих действиях.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

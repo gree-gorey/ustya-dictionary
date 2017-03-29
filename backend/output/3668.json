@@ -1,0 +1,49 @@
+{
+  "field_for_sorting": "курдашка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Курда́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "курдашка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "курда́шик", 
+        "place": [
+          "Вежа"
+        ], 
+        "type": "variant", 
+        "normalized_content": "курдашик"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яма с водой, лужа.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "круга́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круган"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

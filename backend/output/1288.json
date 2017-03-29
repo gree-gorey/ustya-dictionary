@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "вякать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вя́кать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вякать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ругаться, наговаривать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "завя́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "завякать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "навя́кать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "навякать"
+        }, 
+        {
+          "content": "Ты давай не вя́кай, а то хуже тибе будёт! Ты опеть навя́кала!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ты давай не вякай, а то хуже тибе будет! ты опеть навякала!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

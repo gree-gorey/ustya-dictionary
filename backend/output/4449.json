@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "наживыеножки", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "На живы́е но́жки", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "на живые ножки"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "так говорят при появлении первых явных признаков беременности у женщины.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

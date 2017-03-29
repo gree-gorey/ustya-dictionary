@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "блазнить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бла́знить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "блазнить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "блазни́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "блазнить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "казаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Шчо-то мне блазни́т!", 
+          "translation": "видится, кажется (то, чего нет).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шчо-то мне блазнит!"
+        }, 
+        {
+          "content": "Опе́ть бла́знилось", 
+          "translation": "опять показалось.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "опеть блазнилось"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "соблазнять, искушать, смущать, наводить на грех. «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Боялись этим местом ходить. Блазни́ло, тут похоронилась чудь некрещёная", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "боялись этим местом ходить. блазнило, тут похоронилась чудь некрещеная"
+        }, 
+        {
+          "content": "Устьянские легенды. М.И. Шалаурова.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") навязчиво крутиться вокруг, попадаться на глаза.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ну-ко не бла́зни мне тут, надоел! Ходят тут, бла́знят!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ну-ко не блазни мне тут, надоел! ходят тут, блазнят!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

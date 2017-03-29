@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "белый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Бе́лый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "белый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "2", 
+        "place": [
+          "Прокопцевская"
+        ], 
+        "type": "variant", 
+        "normalized_content": "2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легко поддающийся сглазу человек.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бе́лого человека могут обуро́чить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "белого человека могут обурочить."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

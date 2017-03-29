@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "подшевелить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подшевели́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подшевелить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "подшелеви́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "подшелевить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поторопить, расшевелить, побудить к действию.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Подшевели́-ко ево, а то веть опоздаёт на роботу-ту.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подшевели-ко ево, а то веть опоздает на роботу-ту."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

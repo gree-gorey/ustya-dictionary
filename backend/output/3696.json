@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "кручиниться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кручи́ниться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кручиниться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тосковать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "закручи́ниться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "закручиниться"
+        }, 
+        {
+          "content": "Хва́́́тит, дава́́́й, кручи́́́ницце-то – жи́́́сь-то веть да́́́льше идё́́́т.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "хватит, давай, кручиницце-то – жись-то веть дальше идет."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

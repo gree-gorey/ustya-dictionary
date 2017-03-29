@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "пендрить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пе́ндрить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пендрить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "знать, понимать, разбираться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Мой", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "мой"
+        }, 
+        {
+          "content": "м", 
+          "tag": "def"
+        }, 
+        {
+          "content": "ужи́к в электри́честве не пе́ндрит.", 
+          "tag": "quote", 
+          "normalized_content": "ужик в электричестве не пендрит."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

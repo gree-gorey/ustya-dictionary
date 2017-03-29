@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "дик", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ди́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дик"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дико́й", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дикой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дикий.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "неуемный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сколь ни ди́к-от! Да шчо больно ди́ки-то эки?", 
+          "translation": "почему такие неуемные? (о детях).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сколь ни дик-от! да шчо больно дики-то эки?"
+        }, 
+        {
+          "content": "Не рад, що дик!", 
+          "translation": "и знает ведь, что дурачится, а перестать не может.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не рад, що дик!"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

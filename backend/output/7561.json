@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "темнить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Темни́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "темнить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "плутовать, не говорить правду, делать по-своему, втихаря (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "затемни́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "затемнить"
+        }, 
+        {
+          "content": "Сознава́йсе как было дело, не темни́! Я не люблю людей, которые темня́т. Затемни́л ты що-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сознавайсе как было дело, не темни! я не люблю людей, которые темнят. затемнил ты що-то?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

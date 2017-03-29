@@ -1,0 +1,78 @@
+{
+  "field_for_sorting": "зачуркать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачу́́́ркать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачуркать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "найти при игре в прятки.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "занять что-нибудь раньше других и объявить об этом или оставить какой-то знак (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "чу́ркнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "чуркнуть"
+        }, 
+        {
+          "content": "и однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я э́тово коня́ зачу́ркаў, пое́ду на ём. Я первая чу́ркнула!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я этово коня зачуркау, поеду на ем. я первая чуркнула!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "обезопасить себя от нечистой силы при гадании, говоря «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "чур", 
+          "tag": "quote", 
+          "normalized_content": "чур"
+        }, 
+        {
+          "content": "Чадрома", 
+          "tag": "place"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

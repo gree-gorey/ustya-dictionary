@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "сбелеть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сбеле́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сбелеть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "побледнеть.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "показаться, мелькнуть чему-либо белому.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево-то там сбеле́ло?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево-то там сбелело?"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

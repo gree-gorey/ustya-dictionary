@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "висить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ви́сить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "висить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "помещать в висячее положение, вешать, навешивать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зави́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зависить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "нави́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "нависить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "пови́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "повисить"
+        }, 
+        {
+          "content": "Сырое сено в остро́ви ви́сили. Всю избу рясками зави́сила.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сырое сено в острови висили. всю избу рясками зависила."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "взвешивать, определять вес (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "сви́сить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "свисить"
+        }, 
+        {
+          "content": "Сви́сь канфеток поўкила́. Завтра телят будём ви́сить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "свись канфеток поукила. завтра телят будем висить."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

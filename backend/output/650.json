@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "вередиться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Вереди́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "вередиться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "получить травму.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Не бросайте доски с гвоздями где попало, сами-жо можите вереди́ться.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "не бросайте доски с гвоздями где попало, сами-жо можите вередиться."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "вереди́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вередить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 1
+}

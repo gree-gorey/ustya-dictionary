@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "суживать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Су́живать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "суживать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "снимать, отделять отстоявшийся сверху устой, сливки, сметану с молока, пену с варева и т. п. (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "су́дить", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "судить"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "выу́живать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "выуживать"
+        }, 
+        {
+          "content": "Що ты усто́й один су́живаёшь, хлебай всё молоко.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "що ты устой один суживаешь, хлебай все молоко."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

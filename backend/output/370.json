@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "борода2", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Борода́ 2", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "борода 2"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "нижняя часть кудели.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бороду́ всю испря́ла, пора перевяза́ть куде́лю.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бороду всю испряла, пора перевязать куделю."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "куде́ль", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "кудель"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "мох на стволах и ветвях деревьев.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сухая борода с ёлки – лучшая расто́пка для костра.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сухая борода с елки – лучшая растопка для костра."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "остаток нескошенной травы в прокосе, непрокос.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Борода́ в проко́се – брак в работе.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "борода в прокосе – брак в работе."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "ближний конец острия у топора.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Бородо́й топора́ выбира́ют паз в бревне.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "бородой топора выбирают паз в бревне."
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

@@ -1,0 +1,91 @@
+{
+  "field_for_sorting": "греметь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Греме́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "греметь"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "загреме́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "загреметь"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "взгреме́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "взгреметь"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "згреме́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "згреметь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "раздаться внезапному раскату грома.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") оказаться в тюрьме.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В военное время за опоздание на работу можно было загреме́ть в тюрьму.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в военное время за опоздание на работу можно было загреметь в тюрьму."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "послышаться резкому грохоту.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Что это там на мосту взгреме́ло, поди́ посмотри́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "что это там на мосту взгремело, поди посмотри!"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

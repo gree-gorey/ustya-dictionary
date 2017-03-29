@@ -1,0 +1,93 @@
+{
+  "field_for_sorting": "запетаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запе́таться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запетаться"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "запе́хтаться", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "запехтаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно устать от выполнения тяжелой работы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чисто вся запе́талась, пока снег разгребала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чисто вся запеталась, пока снег разгребала."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "залезть, заехать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пощо ты на пець-ту в ка́танцах запе́таўсе?", 
+          "translation": "забрался на печку, не сняв мокрые от снега валенки.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пощо ты на пець-ту в катанцах запетаусе?"
+        }, 
+        {
+          "content": "Как ты сумел туда запе́таться, не видишь что ли!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "как ты сумел туда запетаться, не видишь что ли!"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "застрять.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Там в ручье Ванька с возом запе́талсе, надо выта́скивать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "там в ручье ванька с возом запеталсе, надо вытаскивать."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пе́таться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "петаться"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

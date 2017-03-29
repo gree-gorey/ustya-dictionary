@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "угомониться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Угомони́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "угомониться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "успокоиться, утихомириться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пора́ уж угомони́тьце, не пора́то мо́лод топе́ре.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пора уж угомонитьце, не порато молод топере."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

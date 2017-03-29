@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "доморощенный", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Доморо́щенный", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "доморощенный"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "выращенный или сделанный в домашних условиях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Угощу я вас пивом доморо́щенным.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "угощу я вас пивом доморощенным."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

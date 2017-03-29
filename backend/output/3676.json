@@ -1,0 +1,50 @@
+{
+  "field_for_sorting": "кружалка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Кружа́лка", 
+        "place": [
+          "Лихачево"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "кружалка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "круже́вина", 
+        "place": [
+          "Сабуровская"
+        ], 
+        "type": "variant", 
+        "normalized_content": "кружевина"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "водоворот в реке.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Попадёшь в кружа́лку – дна не смеряёшь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "попадешь в кружалку – дна не смеряешь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

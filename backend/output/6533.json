@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "рассадить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Рассади́́́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "рассадить"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "россади́́́ть", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "россадить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "поранить, приобрести ссадину.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Палец во золи́зину россади́ла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "палец во золизину россадила."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

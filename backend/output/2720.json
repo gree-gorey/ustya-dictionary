@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зачухать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зачу́хать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зачухать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сильно запачкать, истрепать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты эдак рубаху зачу́хал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты эдак рубаху зачухал?"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

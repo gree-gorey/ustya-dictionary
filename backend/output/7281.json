@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "сряженье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сря́женье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сряженье"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "сряжа́ние", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "сряжание"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сборы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сря́женья-то у вас що уш и много, не дождёшьсе! Сряжа́ниё тако́ё до́ўгоё, как на большо́й пра́зник!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сряженья-то у вас що уш и много, не дождешьсе! сряжание такое доугое, как на большой празник!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

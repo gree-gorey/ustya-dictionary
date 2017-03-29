@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "сулить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Сули́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "сулить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "обещать, обнадеживать (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "насули́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "насулить"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "посули́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "посулить"
+        }, 
+        {
+          "content": "Не́́́цево и сули́́́ть, ко́́́ли не собира́́́ласе оддава́́́ть. Насули́́́л-то он тибе много, да недождё́шься от нево ничево. Она мне посули́́ла рассады", 
+          "translation": "пообещала дать.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "нецево и сулить, коли не собираласе оддавать. насулил-то он тибе много, да недождешься от нево ничево. она мне посулила рассады"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

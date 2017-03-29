@@ -1,0 +1,75 @@
+{
+  "field_for_sorting": "чушка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чу́шка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "чушка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "свинья, поросенок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Уже пора итти чу́шку кормить.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "уже пора итти чушку кормить."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "поросю́шка", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "поросюшка"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "крупный, объемный предмет.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") неряха, грязнуля.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зама́заўсе как чу́шка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "замазаусе как чушка."
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

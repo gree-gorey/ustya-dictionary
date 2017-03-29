@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "теплый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Тё́плый", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "теплый"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "тё́пленький", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тепленький"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ленивый, беззаботный, равнодушный, неактивный.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "тепля́к", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "тепляк"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

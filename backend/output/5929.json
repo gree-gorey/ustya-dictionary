@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "полог", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "По́́́лог", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "полог"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "поло́г", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "полог"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "занавес у окна, дверей, кровати или заместо разгородки, реденькое покрывало, иногда шатром над ложем от мух и комаров.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Открой поло́г у дверей. Где отец с матерью спят? – Да у двере́́́й, за по́́́логом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "открой полог у дверей. где отец с матерью спят? – да у дверей, за пологом."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

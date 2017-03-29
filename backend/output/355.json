@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "большущий", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Большу́щий", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "большущий"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "больше́нный", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "большенный"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "большуха́нский", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "большуханский"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "очень большой, здоровенный, огромный.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пощо взяў экую большу́щую чурку, тяжоло ведь! Нае́́хаў колёсо́м на больше́нной камень и чуть воз не опру́жиўсе. Мидви́дица – большуха́нская по́жня.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пощо взяу экую большущую чурку, тяжоло ведь! наехау колесом на большенной камень и чуть воз не опружиусе. мидвидица – большуханская пожня."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "матё́рой", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "матерой"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 0
+}

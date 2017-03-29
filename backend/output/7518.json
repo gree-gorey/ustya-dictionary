@@ -1,0 +1,51 @@
+{
+  "field_for_sorting": "тамошний", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Та́мошний", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "тамошний"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "та́́́мошной", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "тамошной"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "из той местности, не здешний.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он та́́́мошной, бу́́́дринской", 
+          "translation": "(из д. Будрино)", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он тамошной, будринской"
+        }, 
+        {
+          "content": ", у нас не жыва́́́ў.", 
+          "tag": "quote", 
+          "normalized_content": ", у нас не жывау."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 12
+}

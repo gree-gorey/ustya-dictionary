@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "руга", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ру́га", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "руга"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "натуральная плата с крестьян за свою службу в церкви, собираемая священнослужителями.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

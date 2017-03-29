@@ -1,0 +1,39 @@
+{
+  "field_for_sorting": "коско", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́ско", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "коско"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "легко косить траву.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ко́ская (трава́)", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "коская (трава)"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

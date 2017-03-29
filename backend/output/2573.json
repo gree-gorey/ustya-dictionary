@@ -1,0 +1,94 @@
+{
+  "field_for_sorting": "запучкать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Запу́чкать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "запучкать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "начать громко ударять, щелкать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дождь-то как запу́чкал в окошка.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дождь-то как запучкал в окошка."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "начать бить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "У нево токо рожа запу́чкала.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "у нево токо рожа запучкала."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "завалить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Всю дорогу снегом запу́чкало.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "всю дорогу снегом запучкало."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "сильно запачкать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Где ты так всю рубаху запу́чкал?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "где ты так всю рубаху запучкал?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "пу́чкать", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "пучкать"
+        }
+      ], 
+      "n": "4"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

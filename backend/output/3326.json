@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "кой–какой", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ко́й–како́й", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кой–какой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "какой-нибудь, который.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На лето ко́й-како́во лому насбира́ём – всё дрова, не на́до в лес е́хать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на лето кой-каково лому насбираем – все дрова, не надо в лес ехать."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

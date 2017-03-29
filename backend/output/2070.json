@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "жаланномое", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Жала́нно моё", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "жаланно мое"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жала́нной мой", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жаланной мой"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ласковое обращение матери к ребенку.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Жаланно моё, так и не мог поправиться", 
+          "translation": "(выздороветь).", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "жаланно мое, так и не мог поправиться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

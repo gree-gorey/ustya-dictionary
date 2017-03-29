@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "круганистый", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Круга́нистый", 
+        "place": [
+          "Бритвино"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "круганистый"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "сырой, топкий.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "На берегу место круга́нистое, родники бьют.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "на берегу место круганистое, родники бьют."
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "корда́нистый", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "корданистый"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "круга́н", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "круган"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

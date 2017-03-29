@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "насуропить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Насуро́пить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "насуропить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "напортить, навредить, напакостить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ох, уш он, мазу́́́рик, и насуро́́́пиў фся́́́коськи мне́́́!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ох, уш он, мазурик, и насуропиу фсякоськи мне!"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "суро́пить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "суропить"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "пырнуть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пы́рнуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пырнуть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ткнуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Смотри, а то он тибя ещё пы́рнёт чем-нибудь.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "смотри, а то он тибя еще пырнет чем-нибудь."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 11
+}

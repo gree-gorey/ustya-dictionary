@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "колесница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коле́сница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "колесница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "колея от конных колес на грунтовой летней дороге.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лето сырое, дак коле́сница глубока на дороге.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лето сырое, дак колесница глубока на дороге."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 5
+}

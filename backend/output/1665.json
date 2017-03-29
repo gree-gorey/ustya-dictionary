@@ -1,0 +1,79 @@
+{
+  "field_for_sorting": "дежня", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Дежня́", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "дежня"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "деже́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дежень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дежё́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дежень"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "дежо́нь", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "дежонь"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "блюдо из толокна, замешанного на чуть подсоленной воде (или молоке) и сверху политого «", 
+          "tag": "def"
+        }, 
+        {
+          "content": "поле́вой", 
+          "tag": "quote", 
+          "normalized_content": "полевой"
+        }, 
+        {
+          "content": "». Может быть со сметаной или сливками, ягодами (брусникой). Когда кушают такое блюдо, ложкой аккуратно забирают слой дежони и слой полевы.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дежо́нь-то бо́льно скусна́ у тебя́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дежонь-то больно скусна у тебя."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "поле́ва", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "полева"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

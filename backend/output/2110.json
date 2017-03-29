@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "желтуница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Желтуни́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "желтуница"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "жоўтуни́ца", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "жоутуница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "болезнь желтуха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Я ищо в молодости жоўтуни́цей переболела.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "я ищо в молодости жоутуницей переболела."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

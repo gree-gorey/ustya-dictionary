@@ -1,0 +1,74 @@
+{
+  "field_for_sorting": "заладить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зала́дить", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "заладить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заделать.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зала́дь дырку в трубке?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заладь дырку в трубке?"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ла́дить", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ладить"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "2", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "2"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "перен.", 
+          "tag": "style"
+        }, 
+        {
+          "content": ") выговаривать одно и то же.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Зала́дил, да зала́дил, купи новые ботинки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "заладил, да заладил, купи новые ботинки."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

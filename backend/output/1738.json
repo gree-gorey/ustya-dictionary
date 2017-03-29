@@ -1,0 +1,62 @@
+{
+  "field_for_sorting": "добывать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Добыва́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "добывать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "добы́ть", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "добыть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "зажечь огонь, включить освещение.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Тёмна́итце, пора́ уш ого́нь добыва́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "темнаитце, пора уш огонь добывать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "раскупорить, распечатать, раскусить сделать готовым к употреблению.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Люблю бы такие орехи, да добы́ть не могу, зубы не берут.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "люблю бы такие орехи, да добыть не могу, зубы не берут."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

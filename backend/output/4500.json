@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "намедни", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наме́дни", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "намедни"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "недавно, на днях.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ковды́́́, ковды́́́ – да наме́́́дни бы́́́ло, на то́́́й ниди́́́ле!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ковды, ковды – да намедни было, на той нидиле!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

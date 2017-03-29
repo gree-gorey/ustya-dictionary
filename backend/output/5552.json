@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "переходница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Переходни́ца", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "переходница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "яловая, нестельная в том году корова, у которой в этом году не будет отёла.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сево́годы коро́ва переходни́ца, дак ма́ло даё́́т молока́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "севогоды корова переходница, дак мало дает молока."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

@@ -1,0 +1,56 @@
+{
+  "field_for_sorting": "глинь", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Глинь", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "глинь"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "глиньё́", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "глинье"
+      }
+    ], 
+    "style": [
+      "собир."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "гниль.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В засе́ке с карто́вью що-то гли́ни много. В той скирде́ сено-то одно глиньё́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в засеке с картовью що-то глини много. в той скирде сено-то одно глинье."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "глинти́на", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "глинтина"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

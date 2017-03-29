@@ -1,0 +1,71 @@
+{
+  "field_for_sorting": "уморить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Умори́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "уморить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "утомить болтовней.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Она своими разговорами всех умори́ла", 
+          "translation": "до того надоела.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "она своими разговорами всех уморила"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "рассмешить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Он своими шутками всех умори́л.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "он своими шутками всех уморил."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "утомить работой впроголодь.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мори́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "морить"
+        }
+      ], 
+      "n": "3"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

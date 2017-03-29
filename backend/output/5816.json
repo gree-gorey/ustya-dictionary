@@ -1,0 +1,64 @@
+{
+  "field_for_sorting": "подрубить", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подруби́ть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подрубить"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "заменить нижние венцы стен постройки (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "подруба́ть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "подрубать"
+        }, 
+        {
+          "content": "Подруби́ть избу. Подруби́́́ли ба́́́ньку-ту, дак тепе́́́ре тепло́́́ по́́́ полу-ту ста́́́ло. Надо хлев подруба́ть.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "подрубить избу. подрубили баньку-ту, дак тепере тепло по полу-ту стало. надо хлев подрубать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подогнуть и прошить, сделать подгиб, рубец на швейном изделии.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "обруби́ть", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "обрубить"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

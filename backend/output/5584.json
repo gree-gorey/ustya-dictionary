@@ -1,0 +1,90 @@
+{
+  "field_for_sorting": "пехаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пеха́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "пехаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "толкаться.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Чево пеха́ёшься? Хва́́́тит пеха́́́тьце-то, – стоўкнё́́́те друк дру́́́жку с пеци́́́-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "чево пехаешься? хватит пехатьце-то, – стоукнете друк дружку с пеци-то!"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "подняться в лодке вверх против течения с помощью весла, шеста или багра (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "выпи́хаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпихаться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "выпе́хиваться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "выпехиваться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запё́хиваться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запехиваться"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "запи́хиваться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "запихиваться"
+        }, 
+        {
+          "content": "Рыба ловитце выше деревни, дак часто приходитце выпе́хиватце туды. Чтобы порыба́чить, надо запи́хиватце выше деревни.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "рыба ловитце выше деревни, дак часто приходитце выпехиватце туды. чтобы порыбачить, надо запихиватце выше деревни."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 9
+}

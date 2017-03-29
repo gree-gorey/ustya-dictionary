@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "маковаяросинка", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ма́ковая роси́нка", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "маковая росинка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крошка хлеба, частичка пищи.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Весь день во рту ма́ковой роси́нки не быва́ло.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "весь день во рту маковой росинки не бывало."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

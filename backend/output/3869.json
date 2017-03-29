@@ -1,0 +1,48 @@
+{
+  "field_for_sorting": "лахудра", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Лаху́дра", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "лахудра"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "лаху́ндра", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "лахундра"
+      }
+    ], 
+    "style": [
+      "бран."
+    ], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непричесанная девушка, неряха.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ко́смы-то роспустила, как лаху́дра! Ро́́́же-то не сты́́́дно? Хо́́́дишь как лаху́́́дра!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "космы-то роспустила, как лахудра! роже-то не стыдно? ходишь как лахудра!"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

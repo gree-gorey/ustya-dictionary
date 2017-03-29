@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "зашиваться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Зашива́ться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "зашиваться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "замерзать, затягиваться водоему льдом.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Река около ночи заши́лась.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "река около ночи зашилась."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 4
+}

@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "поточница", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Пото́чница", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "поточница"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "дождевая вода с потока.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Наноси в баню пото́чницы-то.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "наноси в баню поточницы-то."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}

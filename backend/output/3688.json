@@ -1,0 +1,46 @@
+{
+  "field_for_sorting": "крупняе", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Крупня́е", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "крупняе"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "крупнее.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Голубица крупня́е черницы. Сево́годы картовь крупня́е выросла.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "голубица крупняе черницы. севогоды картовь крупняе выросла."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "хру́ще", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "хруще"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

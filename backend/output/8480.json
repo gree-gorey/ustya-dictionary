@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "шануть", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ша́нуть", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шануть"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подвинуть, сдвинуть.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Лёд ша́нуло на реке. Вот лентяй – он уж не шанё́тсе", 
+          "translation": "с места не сдвинется.", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "лед шануло на реке. вот лентяй – он уж не шанетсе"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

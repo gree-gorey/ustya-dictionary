@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "торочок", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Торочо́к", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "торочок"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "тонкая струйка жидкости.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В лодку вода бежит торочко́м, надо конопа́тить и смолить её.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в лодку вода бежит торочком, надо конопатить и смолить ее."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 13
+}

@@ -1,0 +1,120 @@
+{
+  "field_for_sorting": "ляпать", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ля́пать", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ляпать"
+      }, 
+      {
+        "style": [], 
+        "ana": "сов.", 
+        "content": "сля́пать", 
+        "place": [], 
+        "type": "inflected", 
+        "normalized_content": "сляпать"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "печь, готовить.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Пойду шаньги ля́пать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "пойду шаньги ляпать."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "болтать вздор, говорить то, что не надо (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "наля́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "наляпать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "поля́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "поляпать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "проля́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "проляпать"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "разля́пать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разляпать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "разля́пывать", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "разляпывать"
+        }, 
+        {
+          "style": [], 
+          "ana": "несов.", 
+          "content": "ля́пнуть", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "ляпнуть"
+        }, 
+        {
+          "content": ", однокр.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Вот веть какие, опеть про ие наля́пали! Сля́пала языком, не поду́мав.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "вот веть какие, опеть про ие наляпали! сляпала языком, не подумав."
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

@@ -1,0 +1,55 @@
+{
+  "field_for_sorting": "шошкаться", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Шо́шкаться", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "шошкаться"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "суетливо выполнять какую-то работу и мешать при этом другому (", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "сов.", 
+          "content": "зашо́шкаться", 
+          "tag": "form", 
+          "place": [], 
+          "type": "inflected", 
+          "normalized_content": "зашошкаться"
+        }, 
+        {
+          "content": "Шшо ты шо́шкаёшьсе! Бесь тебя со стола соберу́. Що ты шо́шкиссе-то!", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "шшо ты шошкаешьсе! бесь тебя со стола соберу. що ты шошкиссе-то!"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "во́шкаться", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "вошкаться"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

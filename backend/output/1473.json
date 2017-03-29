@@ -1,0 +1,86 @@
+{
+  "field_for_sorting": "горло", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Го́рло", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "горло"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "верхний открытый конец мешка.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Ведро не входит в го́рло у мешка, неловко зерно зата́ривать.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "ведро не входит в горло у мешка, неловко зерно затаривать."
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "у́стьё", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "устье"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "у́сьё", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "усье"
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "воронкообразная вставка в широкий конец рыболовной морды.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Для приманки рыбы го́рло морды обмазывали тестом.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "для приманки рыбы горло морды обмазывали тестом."
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "мо́рда", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "морда"
+        }, 
+        {
+          "style": [], 
+          "ana": "См.", 
+          "content": "ва́нда", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "ванда"
+        }
+      ], 
+      "n": "2"
+    }
+  ], 
+  "type": "word", 
+  "class": 2
+}

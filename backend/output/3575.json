@@ -1,0 +1,150 @@
+{
+  "field_for_sorting": "кошель", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Коше́ль", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "кошель"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "ко́шель", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошель"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "кошё́лка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошелка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коша́лка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошалка"
+      }, 
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "коша́вка", 
+        "place": [], 
+        "type": "variant", 
+        "normalized_content": "кошавка"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "в старину полотняная сумка с лямкой через плечо.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "В школу ходили с холщо́вым кошелё́м.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "в школу ходили с холщовым кошелем."
+        }, 
+        {
+          "content": "Сейчас просто сумка (хозяйственная).", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Также –", 
+          "content": "подшали́м", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "подшалим"
+        }, 
+        {
+          "content": "Иду – в руках кошели́.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "иду – в руках кошели."
+        }
+      ], 
+      "n": "1"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "наполннный меньше чем наполовину мешок.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Смололи на мельнице коша́лку гороховой муки.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "смололи на мельнице кошалку гороховой муки."
+        }
+      ], 
+      "n": "2"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "плетеный кузов, пестерь", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Едьма", 
+          "tag": "place"
+        }, 
+        {
+          "content": "Кошель харьюзья нау́диў.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "кошель харьюзья наудиу."
+        }
+      ], 
+      "n": "3"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "кошелек, портмоне.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Дедко, в мага́зин пошёл, дак проверь, есть что в кошеле́-то?", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "дедко, в магазин пошел, дак проверь, есть что в кошеле-то?"
+        }
+      ], 
+      "n": "4"
+    }, 
+    {
+      "elements": [
+        {
+          "content": "емкость в сети, похожая на плетеный мешок, куда собирается рыба.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "5"
+    }
+  ], 
+  "type": "word", 
+  "class": 6
+}

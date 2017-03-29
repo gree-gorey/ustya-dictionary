@@ -1,0 +1,38 @@
+{
+  "field_for_sorting": "ежеден", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Ежедё́н", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "ежеден"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "ежедневно", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сын-то у Симы уж еждедё́н к матере зайдёт, попрове́дат.", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сын-то у симы уж еждеден к матере зайдет, попроведат."
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 3
+}

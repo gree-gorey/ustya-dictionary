@@ -1,0 +1,44 @@
+{
+  "field_for_sorting": "чичковатоетесто", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Чичкова́тое те́сто", 
+        "place": [
+          "Синики"
+        ], 
+        "type": "lemma", 
+        "normalized_content": "чичковатое тесто"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "непропеченное тесто.", 
+          "tag": "def"
+        }, 
+        {
+          "content": "Сырое, непропечённое, комочками", 
+          "translation": "", 
+          "tag": "example", 
+          "bibl": "", 
+          "normalized_content": "сырое, непропеченное, комочками"
+        }, 
+        {
+          "content": "говорят о непропёкшемся продукте из теста.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 14
+}

@@ -1,0 +1,31 @@
+{
+  "field_for_sorting": "наспинник", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Наспи́нник", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "наспинник"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "средний продольный ремень у конской шлеи, идущий от хомута вдоль спины.", 
+          "tag": "def"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 7
+}

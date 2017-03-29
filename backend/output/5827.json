@@ -1,0 +1,47 @@
+{
+  "field_for_sorting": "подстожье", 
+  "header": {
+    "forms": [
+      {
+        "style": [], 
+        "ana": "", 
+        "content": "Подсто́жье", 
+        "place": [], 
+        "type": "lemma", 
+        "normalized_content": "подстожье"
+      }
+    ], 
+    "style": [], 
+    "place": [], 
+    "pos": ""
+  }, 
+  "senses": [
+    {
+      "elements": [
+        {
+          "content": "подстилка из сучьев и веток с листьями деревьев и кустарника на земле остожья для укладки на нее сена.", 
+          "tag": "def"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "осто́жье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "остожье"
+        }, 
+        {
+          "style": [], 
+          "ana": "Ср.", 
+          "content": "нала́живать осто́жье", 
+          "tag": "ref", 
+          "place": [], 
+          "normalized_content": "налаживать остожье"
+        }
+      ], 
+      "n": "1"
+    }
+  ], 
+  "type": "word", 
+  "class": 10
+}
