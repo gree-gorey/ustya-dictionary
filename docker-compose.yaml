@@ -15,7 +15,7 @@ services:
     volumes:
       - /home/gree-gorey/esdata:/usr/share/elasticsearch/data
     ports:
-      - 127.0.0.1:9200:9200
+      - 9200
     restart: always
     healthcheck:
       test: ["CMD", "curl", "-f", "http://${ES_USER}:${ES_PASS}@127.0.0.1:9200"]
@@ -32,7 +32,7 @@ services:
     environment:
       - elastic.entrypoint=elastic:9200
     ports:
-      - 127.0.0.1:8080:80
+      - 8080:80
     volumes:
       - ./app:/app
       - ./data:/data
