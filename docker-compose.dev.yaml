@@ -15,7 +15,7 @@ services:
     volumes:
       - /esdata:/usr/share/elasticsearch/data
     ports:
-      - 127.0.0.1:9200:9200
+      - 9200
     restart: always
     healthcheck:
       test: ["CMD", "curl", "-f", "http://${ES_USER}:${ES_PASS}@127.0.0.1:9200"]
@@ -28,10 +28,15 @@ services:
     depends_on:
       elastic:
         condition: service_healthy
+    command: python /app/app.py
     environment:
       - elastic.entrypoint=elastic:9200
     ports:
       - 8080:80
+    volumes:
+      - ./app:/app
+      - ./data:/data
+      - ./map:/map
     restart: always
 
 volumes:
